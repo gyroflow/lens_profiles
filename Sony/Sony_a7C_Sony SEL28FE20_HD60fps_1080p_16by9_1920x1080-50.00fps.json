@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_Sony SEL28FE20_HD60fps_1080p_16by9_1920x1080-50.00fps",
+  "note": "20mm 2.8",
+  "calibrated_by": "Christian Möller",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "Sony SEL28FE20",
+  "camera_setting": "HD60fps",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4193796626429626,
+    "camera_matrix": [
+      [
+        1519.0101463550834,
+        0.0,
+        960.8202160023116
+      ],
+      [
+        0.0,
+        1518.9076138034466,
+        543.4827456980611
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32414302112153115,
+      0.08853212018783442,
+      0.2687341720368664,
+      -0.23994543984380928
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-8c5eb1e4-1920x1080@50000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-31",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_RX0M2_fe7c9ea9__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Terry",
+  "camera_brand": "Sony",
+  "camera_model": "RX0M2",
+  "lens_model": "fe7c9ea9",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9440283930326332,
+    "camera_matrix": [
+      [
+        2813.173444346424,
+        0.0,
+        1928.9898474884917
+      ],
+      [
+        0.0,
+        2809.0575541165667,
+        1058.5085466940698
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31303349100959427,
+      0.6160015627450849,
+      -2.0610965339218885,
+      2.5180037003703934
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-dsc-rx0m2-fe7c9ea9-3840x2160@25000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

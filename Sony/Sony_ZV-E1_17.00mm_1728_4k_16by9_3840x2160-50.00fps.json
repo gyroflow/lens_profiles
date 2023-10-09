@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E1_17.00mm_腾龙1728_4k_16by9_3840x2160-50.00fps",
+  "note": "腾龙1728",
+  "calibrated_by": "An Hu",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E1",
+  "lens_model": "17.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": -9.56,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 30,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.46245783245877586,
+    "camera_matrix": [
+      [
+        1861.267648672728,
+        0.0,
+        1917.8920634243457
+      ],
+      [
+        0.0,
+        1860.2025016507916,
+        1071.1403022837458
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31320146773255214,
+      0.14303438165293422,
+      0.06240123379959987,
+      0.03694769664587547
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 17.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

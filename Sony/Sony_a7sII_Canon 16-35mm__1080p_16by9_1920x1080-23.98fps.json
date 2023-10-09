@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7sII_Canon 16-35mm__1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Helena Mckenzie",
+  "camera_brand": "Sony",
+  "camera_model": "a7sII",
+  "lens_model": "Canon 16-35mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 25.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.334057768609788,
+    "camera_matrix": [
+      [
+        905.6632780147762,
+        0.0,
+        951.8175502959336
+      ],
+      [
+        0.0,
+        905.7363196564904,
+        543.6352327935614
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.21288757165304564,
+      0.2869838955770123,
+      -0.1582389123055001,
+      0.1393378949413013
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

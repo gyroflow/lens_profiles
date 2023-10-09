@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7III_Vivitar 28mm f2.8_shot in slog 2_4k_16by9_3840x2160-25.00fps",
+  "note": "shot in slog 2",
+  "calibrated_by": "Berno Smit",
+  "camera_brand": "Sony",
+  "camera_model": "a7III",
+  "lens_model": "Vivitar 28mm f2.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7106006207999364,
+    "camera_matrix": [
+      [
+        3090.3190986864715,
+        0.0,
+        1906.719967988759
+      ],
+      [
+        0.0,
+        3088.4114690817023,
+        1063.2537488860817
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20765379374121545,
+      0.2612780960932322,
+      -0.62284686062994,
+      1.6378106738935911
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

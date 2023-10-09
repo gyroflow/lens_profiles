@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_GH5_sigma 16mm_.mov_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Ponchollman hollman",
+  "camera_brand": "Panasonic",
+  "camera_model": "GH5",
+  "lens_model": "sigma 16mm",
+  "camera_setting": ".mov",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4560082341471966,
+    "camera_matrix": [
+      [
+        1835.466680861576,
+        0.0,
+        950.2811725787176
+      ],
+      [
+        0.0,
+        1834.129351822711,
+        528.1784101440626
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.36412043063311655,
+      -0.03107962107615864,
+      0.07637518555934532,
+      0.4987899567218261
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

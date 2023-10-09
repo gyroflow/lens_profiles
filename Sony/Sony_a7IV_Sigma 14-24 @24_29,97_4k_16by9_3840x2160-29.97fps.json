@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_Sigma 14-24 @24_29,97_4k_16by9_3840x2160-29.97fps",
+  "note": "No IBIS",
+  "calibrated_by": "TheBalzer",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "Sigma 14-24 @24",
+  "camera_setting": "29,97",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8162223699323212,
+    "camera_matrix": [
+      [
+        2456.132545818174,
+        0.0,
+        1909.9768474837977
+      ],
+      [
+        0.0,
+        2451.2937174923863,
+        1094.4530097690472
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.341465521143529,
+      0.2709572378942925,
+      -0.3798523106122514,
+      0.5694989849688686
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

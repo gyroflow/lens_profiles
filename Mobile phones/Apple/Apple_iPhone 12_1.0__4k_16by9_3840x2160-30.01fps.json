@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone 12_1.0__4k_16by9_3840x2160-30.01fps",
+  "note": "",
+  "calibrated_by": "Sean Louie Letigio",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 12",
+  "lens_model": "1.0",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.007214,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1297350945153175,
+    "camera_matrix": [
+      [
+        3122.70185609518,
+        0.0,
+        1927.0621014186104
+      ],
+      [
+        0.0,
+        3116.7255316904243,
+        1069.5425319568003
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.380113605189454,
+      1.4204339185530683,
+      -10.934689639793373,
+      25.83851338724452
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

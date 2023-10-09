@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_SIRUI 1.33x 24mm_Clear Zoom 1.4_1080p_16by9_1920x1080-25.00fps",
+  "note": "Clear Zoom 1.4",
+  "calibrated_by": "Sanei",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "SIRUI 1.33x 24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5037861496580556,
+    "camera_matrix": [
+      [
+        1321.1133318046373,
+        0.0,
+        863.2021823359759
+      ],
+      [
+        0.0,
+        1698.0234895063863,
+        492.4534929895032
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.24003760362632695,
+      -0.08084764937898334,
+      0.716220224579212,
+      -0.4356170116440519
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

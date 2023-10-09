@@ -1,0 +1,69 @@
+{
+  "name": "Canon_Eos 70d_13-55_m_1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "Joparei",
+  "camera_brand": "Canon",
+  "camera_model": "Eos 70d",
+  "lens_model": "13-55",
+  "camera_setting": "m",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 20,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7259090330936231,
+    "camera_matrix": [
+      [
+        1534.300702275273,
+        0.0,
+        937.3953301225636
+      ],
+      [
+        0.0,
+        1530.3106832204342,
+        547.5989155830596
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1816710658168187,
+      0.173269651269799,
+      -0.1266347951794002,
+      0.706268050060952
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

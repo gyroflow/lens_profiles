@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS M_7 artisans 25mm__720p_3by2_1736x1158-23.98fps",
+  "note": "",
+  "calibrated_by": "Abdul Mateen",
+  "camera_brand": "Canon",
+  "camera_model": "EOS M",
+  "lens_model": "7 artisans 25mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1736,
+    "h": 1158
+  },
+  "orig_dimension": {
+    "w": 1736,
+    "h": 1158
+  },
+  "output_dimension": {
+    "w": 1736,
+    "h": 1158
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 16,
+  "fps": 23.98,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.42565227215225104,
+    "camera_matrix": [
+      [
+        2047.6397262922756,
+        0.0,
+        869.5465178620034
+      ],
+      [
+        0.0,
+        2047.568599347905,
+        591.2512318154514
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20631364320995335,
+      -1.171866752223797,
+      14.676779091565828,
+      -53.86531367783443
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

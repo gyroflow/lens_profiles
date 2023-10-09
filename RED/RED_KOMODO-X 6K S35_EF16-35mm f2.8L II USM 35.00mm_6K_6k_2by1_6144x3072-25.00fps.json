@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO-X 6K S35_EF16-35mm f/2.8L II USM 35.00mm_6K_6k_2by1_6144x3072-25.00fps",
+  "note": "",
+  "calibrated_by": "FASTFOKUS",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "lens_model": "EF16-35mm f/2.8L II USM 35.00mm",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3072
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3072
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3072
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0129141817135454,
+    "camera_matrix": [
+      [
+        7497.016730497576,
+        0.0,
+        3102.951988615442
+      ],
+      [
+        0.0,
+        7497.555010165165,
+        1499.2482902899812
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2977114015526182,
+      0.7957905989178576,
+      -5.220097220265767,
+      19.47312166755197
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-komodo-x6ks35-ef16-35mmf/2.8liiusm-34.00mm-6144x3072@0",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 34.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

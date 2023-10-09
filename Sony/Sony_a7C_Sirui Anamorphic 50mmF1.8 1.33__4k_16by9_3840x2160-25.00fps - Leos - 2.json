@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_Sirui Anamorphic 50mmF1.8 1.33__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Leos",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "Sirui Anamorphic 50mmF1.8 1.33",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9175970964269364,
+    "camera_matrix": [
+      [
+        9839.12571531656,
+        0.0,
+        815.1807375310827
+      ],
+      [
+        0.0,
+        12952.18722730247,
+        1081.6702579674884
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32173335168740763,
+      -5.272706418734881,
+      38.99725731460133,
+      -119.2418985267756
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_galaxy M20___1080p_16by9_1920x1080-30.03fps",
+  "note": "",
+  "calibrated_by": "Admin",
+  "camera_brand": "Samsung",
+  "camera_model": "galaxy M20",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 30.026209,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.40854750533760326,
+    "camera_matrix": [
+      [
+        1529.3089507383409,
+        0.0,
+        997.1289059979224
+      ],
+      [
+        0.0,
+        1529.5195509008215,
+        526.0763066638783
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.7235967449409737,
+      -2.049775576950333,
+      5.0126457374198,
+      -3.219023666688544
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

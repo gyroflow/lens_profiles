@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z5_AF-S NIKKOR 5MM 1:1.4G_HD 6O fps_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Junior Pabon",
+  "camera_brand": "Nikon",
+  "camera_model": "Z5",
+  "lens_model": "AF-S NIKKOR 5MM 1:1.4G",
+  "camera_setting": "HD 6O fps",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.35051426202329083,
+    "camera_matrix": [
+      [
+        2853.7102415888075,
+        0.0,
+        952.6917650123822
+      ],
+      [
+        0.0,
+        2854.327509194834,
+        516.6546687961328
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.09672952340139834,
+      2.9019251924515057,
+      -47.829584519653935,
+      250.95634109626457
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

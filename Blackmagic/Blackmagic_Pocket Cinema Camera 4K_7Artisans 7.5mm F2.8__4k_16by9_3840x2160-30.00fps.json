@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 4K_7Artisans 7.5mm F2.8__4k_16by9_3840x2160-30.00fps",
+  "note": "",
+  "calibrated_by": "HuangYi",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K",
+  "lens_model": "7Artisans 7.5mm F2.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7913685049022817,
+    "camera_matrix": [
+      [
+        1795.5824096204592,
+        0.0,
+        1909.8553592984565
+      ],
+      [
+        0.0,
+        1795.469991216827,
+        1017.4766067003447
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.051168653152230986,
+      -0.01328157476149503,
+      0.012726946942672412,
+      -0.0033137528121369776
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-21",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_Galaxy A52_Ultrawide_MotionCam RAW 4:3_2k_4by3_2016x1504-15.00fps",
+  "note": "MotionCam RAW 4:3",
+  "calibrated_by": "Leo",
+  "camera_brand": "Samsung",
+  "camera_model": "Galaxy A52",
+  "lens_model": "Ultrawide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2016,
+    "h": 1504
+  },
+  "orig_dimension": {
+    "w": 2016,
+    "h": 1504
+  },
+  "output_dimension": {
+    "w": 2016,
+    "h": 1504
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 15.002076,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5339237509309898,
+    "camera_matrix": [
+      [
+        801.9288795207327,
+        0.0,
+        1001.1390832352783
+      ],
+      [
+        0.0,
+        801.5062841448276,
+        748.3597241454672
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33251657813788943,
+      0.11079713127259395,
+      0.12286051102015232,
+      -0.10845811048945649
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

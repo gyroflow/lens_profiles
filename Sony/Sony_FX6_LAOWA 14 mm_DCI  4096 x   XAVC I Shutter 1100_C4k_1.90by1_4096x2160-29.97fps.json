@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_LAOWA 14 mm_DCI  4096 x   XAVC I Shutter 1/100_C4k_1.90by1_4096x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Manuel Diaz Ruiz",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "LAOWA 14 mm",
+  "camera_setting": "DCI  4096 x   XAVC I Shutter 1/100",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6301840121387043,
+    "camera_matrix": [
+      [
+        1700.401287967998,
+        0.0,
+        2057.0933554232392
+      ],
+      [
+        0.0,
+        1700.836642446346,
+        1087.957905691527
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3177060749477505,
+      0.15005192292185562,
+      -0.0475158626197241,
+      0.09515945518266232
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.1",
+  "date": "2023-09-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

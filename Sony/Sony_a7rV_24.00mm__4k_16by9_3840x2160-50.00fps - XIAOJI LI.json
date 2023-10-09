@@ -1,0 +1,66 @@
+{
+  "name": "Sony_a7rV_24.00mm__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "XIAOJI LI",
+  "camera_brand": "Sony",
+  "camera_model": "a7rV",
+  "lens_model": "24.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6082076806009772,
+    "camera_matrix": [
+      [
+        1975.5899783778827,
+        0.0,
+        2152.3005640603774
+      ],
+      [
+        0.0,
+        1973.003483468038,
+        889.7639540145952
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31382691705033566,
+      0.1934687195051656,
+      -0.1954135568900088,
+      0.33806377545051475
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.3.0",
+  "date": "2023-08-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null
+}

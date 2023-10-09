@@ -1,0 +1,69 @@
+{
+  "name": "RunCam_ThumbPW_wide__720p_3by4_1440x1920-60.00fps",
+  "note": "",
+  "calibrated_by": "Максим Александров",
+  "camera_brand": "RunCam",
+  "camera_model": "ThumbPW",
+  "lens_model": "wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1440,
+    "h": 1920
+  },
+  "orig_dimension": {
+    "w": 1440,
+    "h": 1920
+  },
+  "output_dimension": {
+    "w": 1440,
+    "h": 1920
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.48108182236343366,
+    "camera_matrix": [
+      [
+        917.625726392898,
+        0.0,
+        753.3936523430376
+      ],
+      [
+        0.0,
+        920.3835077994238,
+        979.431535288765
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.01344625795474218,
+      -0.0001898696084749106,
+      0.006229843160943451,
+      -0.0037514691692031098
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K_Venus Laowa 100mm f/2.8 2X Ultra Macro APO 100mm_ff_6k_16by9_6144x3456-50.00fps",
+  "note": "cc",
+  "calibrated_by": "Jack Lee",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K",
+  "lens_model": "Venus Laowa 100mm f/2.8 2X Ultra Macro APO 100mm",
+  "camera_setting": "ff",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "frame_readout_time": 20.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.424986112156912,
+    "camera_matrix": [
+      [
+        26746.686359691354,
+        0.0,
+        2947.656933260223
+      ],
+      [
+        0.0,
+        26778.2150953049,
+        1511.776532467534
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.2846840080256555,
+      158.56130966038,
+      -11127.590922560414,
+      316724.0209966565
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera6k-venuslaowa100mmf/2.82xultramacroapo-100mm-6144x3456@50000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 100.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

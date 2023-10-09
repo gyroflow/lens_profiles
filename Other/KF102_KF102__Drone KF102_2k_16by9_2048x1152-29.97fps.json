@@ -1,0 +1,69 @@
+{
+  "name": "KF102_KF102__Drone KF102_2k_16by9_2048x1152-29.97fps",
+  "note": "Drone KF102",
+  "calibrated_by": "Adalto Calixto",
+  "camera_brand": "KF102",
+  "camera_model": "KF102",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2048,
+    "h": 1152
+  },
+  "orig_dimension": {
+    "w": 2048,
+    "h": 1152
+  },
+  "output_dimension": {
+    "w": 2048,
+    "h": 1152
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 29.970692,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9945207252658724,
+    "camera_matrix": [
+      [
+        1397.2690082630445,
+        0.0,
+        1031.8806559642082
+      ],
+      [
+        0.0,
+        1402.5073500078092,
+        608.1418514894577
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.07353495628378105,
+      -0.03934661890414529,
+      0.2658362269628838,
+      -0.3671254038436038
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6000_SONY 50M_16.9_1080p_16by9_1920x1080-50.00fps",
+  "note": "50FPS",
+  "calibrated_by": "Massimo Bravetti",
+  "camera_brand": "Sony",
+  "camera_model": "a6000",
+  "lens_model": "SONY 50M",
+  "camera_setting": "16.9",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 7,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8341968445789116,
+    "camera_matrix": [
+      [
+        4512.580639284805,
+        0.0,
+        1319.1435773073945
+      ],
+      [
+        0.0,
+        4505.0691998028,
+        536.9334626286718
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.7257170805567137,
+      -3.837830299031788,
+      11.381886852815972,
+      192.92397757661715
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

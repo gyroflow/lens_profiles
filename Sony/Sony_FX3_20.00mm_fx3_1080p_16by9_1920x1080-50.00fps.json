@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_20.00mm_fx3_1080p_16by9_1920x1080-50.00fps",
+  "note": "20-70",
+  "calibrated_by": "mac",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "20.00mm",
+  "camera_setting": "fx3",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.36020487254368017,
+    "camera_matrix": [
+      [
+        1124.7404768027272,
+        0.0,
+        962.798733584022
+      ],
+      [
+        0.0,
+        1124.5744755833682,
+        539.763479588128
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2900283336524847,
+      0.07771223477854906,
+      0.28908902286553834,
+      -0.21188569635616844
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.1",
+  "date": "2023-08-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 20.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

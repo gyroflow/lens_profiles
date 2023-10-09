@@ -1,0 +1,69 @@
+{
+  "name": "Canon_r5c_Canon_16mm_C4k_1.90by1_4096x2160-23.98fps",
+  "note": "23.98 8.1k 180",
+  "calibrated_by": "Ethan Fortney",
+  "camera_brand": "Canon",
+  "camera_model": "r5c",
+  "lens_model": "Canon",
+  "camera_setting": "16mm",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0680271006719984,
+    "camera_matrix": [
+      [
+        1910.9509668143403,
+        0.0,
+        2049.0740121960725
+      ],
+      [
+        0.0,
+        1909.1862776205423,
+        1083.873934238702
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.36849490335453006,
+      -0.12021933547655413,
+      0.7614312177461214,
+      -0.6147610119561855
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

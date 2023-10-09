@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_NIKON Z5_40mm f2__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Nikon",
+  "camera_model": "NIKON Z5",
+  "lens_model": "40mm f2",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7433224449192718,
+    "camera_matrix": [
+      [
+        2112.664537208562,
+        0.0,
+        964.6573822974808
+      ],
+      [
+        0.0,
+        2114.2023716428207,
+        601.4773367817633
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2941288454261661,
+      0.7146135284789495,
+      0.4648587175669124,
+      -17.38447975432149
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-21",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

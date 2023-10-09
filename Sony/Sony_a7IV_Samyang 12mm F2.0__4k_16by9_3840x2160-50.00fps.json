@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_Samyang 12mm F2.0__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Pav Kung",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "Samyang 12mm F2.0",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 2160,
+    "h": 3840
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5217280307837286,
+    "camera_matrix": [
+      [
+        2053.405252168851,
+        0.0,
+        1926.3656468539475
+      ],
+      [
+        0.0,
+        2053.529331369899,
+        1058.0882649384307
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.29256185778719146,
+      0.2481631287541782,
+      -0.5726507498160844,
+      0.8504670059047749
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 12.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

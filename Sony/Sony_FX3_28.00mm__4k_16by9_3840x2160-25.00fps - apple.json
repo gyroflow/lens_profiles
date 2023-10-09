@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_28.00mm__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "apple",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "28.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6056872825579822,
+    "camera_matrix": [
+      [
+        3452.182232132847,
+        0.0,
+        1934.229227323892
+      ],
+      [
+        0.0,
+        3449.953406423635,
+        1052.2615332426988
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30968305119319534,
+      0.1957531753492704,
+      -0.2034404502410621,
+      0.26629028170658137
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 28.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

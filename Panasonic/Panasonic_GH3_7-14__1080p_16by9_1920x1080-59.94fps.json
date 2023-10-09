@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_GH3_7-14__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Jose Luis Ocejo",
+  "camera_brand": "Panasonic",
+  "camera_model": "GH3",
+  "lens_model": "7-14",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 96,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.452865186229917,
+    "camera_matrix": [
+      [
+        767.6495646917507,
+        0.0,
+        974.4463567626742
+      ],
+      [
+        0.0,
+        772.7574291617037,
+        561.0709625045283
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.29934881998919294,
+      0.11309685070831876,
+      0.06673702191945055,
+      -0.020688292927074563
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

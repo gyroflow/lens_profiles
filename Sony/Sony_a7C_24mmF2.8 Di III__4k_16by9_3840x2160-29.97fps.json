@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_腾龙24mmF2.8 Di III__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "东哥吉祥",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "腾龙24mmF2.8 Di III",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8873807911088331,
+    "camera_matrix": [
+      [
+        2981.615220235832,
+        0.0,
+        1913.6826774638428
+      ],
+      [
+        0.0,
+        2977.919707190504,
+        1079.2667177751057
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33040280745717054,
+      -0.29271509372818555,
+      2.026792695299892,
+      -2.5549972381673496
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-77fd0e14-3840x2160@29970",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

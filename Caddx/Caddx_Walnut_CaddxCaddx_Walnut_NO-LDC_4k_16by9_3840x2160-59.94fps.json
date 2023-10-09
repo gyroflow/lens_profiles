@@ -1,0 +1,69 @@
+{
+  "name": "Caddx_Walnut_Caddx/Caddx_Walnut_NO-LDC_4k60_4k_16by9_3840x2160-59.94fps wide_e 0, s auto, iso auto awb cloudy, scene scenery, sharpness med, image q high, filter normal_4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Sharon Gould",
+  "camera_brand": "Caddx",
+  "camera_model": "Walnut",
+  "lens_model": "Caddx/Caddx_Walnut_NO-LDC_4k60_4k_16by9_3840x2160-59.94fps wide",
+  "camera_setting": "e 0, s auto, iso auto awb cloudy, scene scenery, sharpness med, image q high, filter normal",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9046503257169612,
+    "camera_matrix": [
+      [
+        1756.4862782425623,
+        0.0,
+        1973.1333042765457
+      ],
+      [
+        0.0,
+        1756.9552476252884,
+        1199.4712091504418
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.04882501360833866,
+      0.01047522904328134,
+      0.01505226454485349,
+      -0.014203569822856407
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

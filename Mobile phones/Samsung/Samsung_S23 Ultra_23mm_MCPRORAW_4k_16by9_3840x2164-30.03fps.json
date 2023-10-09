@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_S23 Ultra_23mm_MCPRORAW_4k_16by9_3840x2164-30.03fps",
+  "note": "",
+  "calibrated_by": "LENKOV MEDIA",
+  "camera_brand": "Samsung",
+  "camera_model": "S23 Ultra",
+  "lens_model": "23mm",
+  "camera_setting": "MCPRORAW",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2164
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2164
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2164
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 30.028381,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2706475425717203,
+    "camera_matrix": [
+      [
+        2461.368707374845,
+        0.0,
+        1933.956595151614
+      ],
+      [
+        0.0,
+        2469.9539442321807,
+        1089.2643058481565
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4720755353140785,
+      -0.3203760019822121,
+      0.915368704145137,
+      -0.6676205781107418
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

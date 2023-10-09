@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6500_Viltrox 13mm f.14__1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "Jhon Paul",
+  "camera_brand": "Sony",
+  "camera_model": "a6500",
+  "lens_model": "Viltrox 13mm f.14",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.41237454889379616,
+    "camera_matrix": [
+      [
+        1102.2939259508394,
+        0.0,
+        964.4780317107568
+      ],
+      [
+        0.0,
+        1102.1389187789946,
+        539.2769157544857
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.25792786253630773,
+      0.2799487746389852,
+      -0.36479128888777,
+      0.4726700633084664
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.1",
+  "date": "2023-08-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_DULEN431 6114x3240 30P_6K 17:9_6k_1.90by1_6144x3240-30.00fps",
+  "note": "DULEN431 6114x3240 30P",
+  "calibrated_by": "LIAN",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "DULEN431 6114x3240 30P",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6634014507661622,
+    "camera_matrix": [
+      [
+        10664.455223963963,
+        0.0,
+        3059.2484526922885
+      ],
+      [
+        0.0,
+        10666.647084203956,
+        1600.858418595708
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19957039445134245,
+      2.2641574206949624,
+      -37.55644943227144,
+      268.2048805102262
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

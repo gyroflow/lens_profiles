@@ -1,0 +1,69 @@
+{
+  "name": "Google_Pixel 7 Pro_Anamorphic 1.55x_MotionCam  4080x2296_6k_2.75by1_6324x2296-30.06fps",
+  "note": "",
+  "calibrated_by": "604037928",
+  "camera_brand": "Google",
+  "camera_model": "Pixel 7 Pro",
+  "lens_model": "Anamorphic 1.55x",
+  "camera_setting": "MotionCam  4080x2296",
+  "calib_dimension": {
+    "w": 6324,
+    "h": 2296
+  },
+  "orig_dimension": {
+    "w": 6324,
+    "h": 2296
+  },
+  "output_dimension": {
+    "w": 6324,
+    "h": 2296
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.55,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.057451,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.2313823875526797,
+    "camera_matrix": [
+      [
+        5298.856758727636,
+        0.0,
+        3715.385193421997
+      ],
+      [
+        0.0,
+        5308.004517112596,
+        870.8522462240128
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.21057183502836857,
+      0.11620079117687544,
+      -3.0056111399948344,
+      8.707102950836674
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

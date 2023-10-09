@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS M_35mm F1.2 7Artisans_4._C4k_2.35by1_4416x1878-23.98fps",
+  "note": "Magic Lantern Crop Mood",
+  "calibrated_by": "Salam",
+  "camera_brand": "Canon",
+  "camera_model": "EOS M",
+  "lens_model": "35mm F1.2 7Artisans",
+  "camera_setting": "4.",
+  "calib_dimension": {
+    "w": 4416,
+    "h": 1878
+  },
+  "orig_dimension": {
+    "w": 4416,
+    "h": 1878
+  },
+  "output_dimension": {
+    "w": 4416,
+    "h": 1878
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 23.983,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9221382180465476,
+    "camera_matrix": [
+      [
+        9348.21996119529,
+        0.0,
+        2186.182489042074
+      ],
+      [
+        0.0,
+        9422.8810438741,
+        693.4371011895504
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4081307452048573,
+      -0.6541111774034947,
+      30.043268772665808,
+      -606.9646432464344
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

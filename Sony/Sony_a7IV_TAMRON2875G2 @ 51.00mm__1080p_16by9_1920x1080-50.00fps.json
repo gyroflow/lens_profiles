@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_TAMRON2875G2 @ 51.00mm__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "平落咖啡",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "TAMRON2875G2 @ 51.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.367550789093578,
+    "camera_matrix": [
+      [
+        2789.575299091941,
+        0.0,
+        952.4498025533492
+      ],
+      [
+        0.0,
+        2790.043022524306,
+        513.4299352361205
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5535681075881196,
+      1.0182542228630898,
+      -5.624705560131844,
+      42.25080247160307
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7m4-51.00mm-1920x1080@50000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 51.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

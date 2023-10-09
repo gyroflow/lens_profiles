@@ -1,0 +1,69 @@
+{
+  "name": "Canon_1DX_24-35__C4k_1.90by1_4096x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Андрей",
+  "camera_brand": "Canon",
+  "camera_model": "1DX",
+  "lens_model": "24-35",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.3647068090396997,
+    "camera_matrix": [
+      [
+        2624.5890155748443,
+        0.0,
+        1873.193432855244
+      ],
+      [
+        0.0,
+        2621.8650026325854,
+        1119.1855365335614
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3055223502365962,
+      -0.015165826622228106,
+      0.3438592997993456,
+      -0.28605128174432565
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K_Sigma 18-35mm f/1.8 DC 18mm__6k_16by9_6144x3456-25.00fps",
+  "note": "",
+  "calibrated_by": "Andrea Marcon",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K",
+  "lens_model": "Sigma 18-35mm f/1.8 DC 18mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.3102970112517112,
+    "camera_matrix": [
+      [
+        4913.653551966773,
+        0.0,
+        3104.8669007901676
+      ],
+      [
+        0.0,
+        4910.121292384371,
+        1753.766386835786
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1763164812552921,
+      0.6020248732004357,
+      -1.9146443446530177,
+      3.085208948455268
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera6k-sigma18-35mmf/1.8dc-18mm-6144x3456@25000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 18.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

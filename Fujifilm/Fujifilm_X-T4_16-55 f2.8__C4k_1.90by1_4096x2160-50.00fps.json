@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-T4_16-55 f2.8__C4k_1.90by1_4096x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "klspn",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-T4",
+  "lens_model": "16-55 f2.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9740306409182158,
+    "camera_matrix": [
+      [
+        3275.8376138618264,
+        0.0,
+        1991.9985040989109
+      ],
+      [
+        0.0,
+        3285.679595798342,
+        995.9047043783286
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.27048585984464285,
+      0.7717601752678139,
+      -3.5482351214592613,
+      6.950450077608547
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 16.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

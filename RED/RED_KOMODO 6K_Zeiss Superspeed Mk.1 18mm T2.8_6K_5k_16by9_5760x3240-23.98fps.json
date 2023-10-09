@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Zeiss Superspeed Mk.1 18mm T2.8_6K_5k_16by9_5760x3240-23.98fps",
+  "note": "",
+  "calibrated_by": "Yosuke Suga",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Zeiss Superspeed Mk.1 18mm T2.8",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6426720795159818,
+    "camera_matrix": [
+      [
+        4173.702494245222,
+        0.0,
+        2907.5620788243064
+      ],
+      [
+        0.0,
+        4168.892711845978,
+        1601.2154126305295
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1973879581464096,
+      0.26265328930219184,
+      -0.2239553995021955,
+      0.6269942081643205
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

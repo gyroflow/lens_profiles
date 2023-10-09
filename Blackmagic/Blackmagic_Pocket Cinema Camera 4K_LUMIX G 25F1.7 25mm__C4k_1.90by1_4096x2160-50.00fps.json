@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 4K_LUMIX G 25/F1.7 25mm__C4k_1.90by1_4096x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Tally",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K",
+  "lens_model": "LUMIX G 25/F1.7 25mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2058741943070093,
+    "camera_matrix": [
+      [
+        5375.52751343751,
+        0.0,
+        2035.8289578948647
+      ],
+      [
+        0.0,
+        5371.39747732522,
+        1122.26882460104
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1828425071207629,
+      0.8786833106257231,
+      -13.664808902666683,
+      40.97774589796243
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera4k-lumixg25/f1.7-25mm-4096x2160@50000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 25.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

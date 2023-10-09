@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera Original_sigma 18-35_18 mm_1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "calibrated_by": "Lucas Pannatier",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera Original",
+  "lens_model": "sigma 18-35",
+  "camera_setting": "18 mm",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.27558148413784966,
+    "camera_matrix": [
+      [
+        1651.2080822313346,
+        0.0,
+        939.6545000161854
+      ],
+      [
+        0.0,
+        1650.7472841528213,
+        508.17732744736105
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.18844428588884649,
+      0.16334855036470958,
+      0.12052273502790392,
+      -0.10591861510907025
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

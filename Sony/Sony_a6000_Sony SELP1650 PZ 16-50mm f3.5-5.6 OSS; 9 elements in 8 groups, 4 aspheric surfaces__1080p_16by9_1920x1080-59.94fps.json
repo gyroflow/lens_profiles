@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6000_Sony SELP1650 PZ 16-50mm f/3.5-5.6 OSS; 9 elements in 8 groups, 4 aspheric surfaces__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Lastinvec",
+  "camera_brand": "Sony",
+  "camera_model": "a6000",
+  "lens_model": "Sony SELP1650 PZ 16-50mm f/3.5-5.6 OSS; 9 elements in 8 groups, 4 aspheric surfaces",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": -16.683322183313006,
+  "gyro_lpf": 60.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5065258723778573,
+    "camera_matrix": [
+      [
+        1300.3107470278117,
+        0.0,
+        947.2205654308244
+      ],
+      [
+        0.0,
+        1298.2588295380654,
+        546.312741441501
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2946207582177657,
+      0.05949630041804939,
+      0.5793555213816597,
+      -0.7534377179170384
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

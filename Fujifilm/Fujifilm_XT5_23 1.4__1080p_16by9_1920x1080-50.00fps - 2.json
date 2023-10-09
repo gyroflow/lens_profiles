@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_XT5_23 1.4__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "tùng Đặng",
+  "camera_brand": "Fujifilm",
+  "camera_model": "XT5",
+  "lens_model": "23 1.4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3671031438396077,
+    "camera_matrix": [
+      [
+        2189.692842175465,
+        0.0,
+        971.0618656383076
+      ],
+      [
+        0.0,
+        2190.349612147963,
+        518.0669428666234
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.34227064059065065,
+      0.3971873269115773,
+      -2.0472663029587403,
+      6.9861136688172065
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

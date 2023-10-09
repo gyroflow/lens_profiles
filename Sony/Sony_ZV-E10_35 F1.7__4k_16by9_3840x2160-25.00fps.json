@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_35 F1.7__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "彭镜锋",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "35 F1.7",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2731551818357263,
+    "camera_matrix": [
+      [
+        6155.157369662863,
+        0.0,
+        1943.7448886636596
+      ],
+      [
+        0.0,
+        6162.850269279397,
+        1031.458670493578
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5293326026062783,
+      -13.16673776365931,
+      243.4205006491624,
+      -1446.4740094267274
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

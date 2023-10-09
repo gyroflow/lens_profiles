@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R5_Canon R5C_59.9fps_8k_1.90by1_8192x4320-59.94fps",
+  "note": "",
+  "calibrated_by": "Harry Staab",
+  "camera_brand": "Canon",
+  "camera_model": "R5",
+  "lens_model": "Canon R5C",
+  "camera_setting": "59.9fps",
+  "calib_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0150577110935823,
+    "camera_matrix": [
+      [
+        3792.955811969142,
+        0.0,
+        4092.734437793374
+      ],
+      [
+        0.0,
+        3795.281254988099,
+        2092.11378725197
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.16363631321316613,
+      0.0739037613970353,
+      -0.05242944168270599,
+      0.09669431072924332
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

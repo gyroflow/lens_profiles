@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPad Pro 11-inch (2020)_Wide__1440p_4by3_1920x1440-60.00fps",
+  "note": "",
+  "calibrated_by": "D3Z",
+  "camera_brand": "Apple",
+  "camera_model": "iPad Pro 11-inch (2020)",
+  "lens_model": "Wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 30,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4380730150767052,
+    "camera_matrix": [
+      [
+        1581.6204160348398,
+        0.0,
+        952.71026375947
+      ],
+      [
+        0.0,
+        1581.0424623579509,
+        720.4927048898406
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3451724190130828,
+      1.762818407972765,
+      -9.978250212165396,
+      16.337378281587725
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6500_Sony 50mm_Full HD_1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "Baris Keskin",
+  "camera_brand": "Sony",
+  "camera_model": "a6500",
+  "lens_model": "Sony 50mm",
+  "camera_setting": "Full HD",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.17702029385961793,
+    "camera_matrix": [
+      [
+        4156.829213297926,
+        0.0,
+        1000.814658695026
+      ],
+      [
+        0.0,
+        4150.227201109454,
+        507.6388373384201
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3580003310448723,
+      -2.0759208889271163,
+      40.715562616516785,
+      -313.5472100386851
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

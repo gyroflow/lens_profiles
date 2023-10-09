@@ -1,0 +1,69 @@
+{
+  "name": "GoPro_HERO7 Black_Superview_HS EIS_1080p_16by9_1920x1080-59.94fps",
+  "note": "HS EIS",
+  "calibrated_by": "Franek Pojmann",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO7 Black",
+  "lens_model": "Superview",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.135537895303224,
+    "camera_matrix": [
+      [
+        680.261699869889,
+        0.0,
+        941.079145221946
+      ],
+      [
+        0.0,
+        689.6178313106315,
+        549.1714390917402
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.028479698567443697,
+      0.13847775542597876,
+      -0.04573994980220654,
+      -0.013933574689427318
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "gopro-hero7black-super-1920x1080@59940-hseis",
+  "calibrator_version": "1.5.1",
+  "date": "2023-08-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": "gopro_superview",
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

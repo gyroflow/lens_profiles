@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K Pro_Canon 24-105mm_BRaw 8:1_1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "calibrated_by": "Nuno Meneses",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K Pro",
+  "lens_model": "Canon 24-105mm",
+  "camera_setting": "BRaw 8:1",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5380891615543666,
+    "camera_matrix": [
+      [
+        4419.609554645453,
+        0.0,
+        1000.3325198712384
+      ],
+      [
+        0.0,
+        4432.325730842579,
+        488.9652324299746
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.29070546211243864,
+      7.945652992157539,
+      -310.77747398365295,
+      3934.5748912937825
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

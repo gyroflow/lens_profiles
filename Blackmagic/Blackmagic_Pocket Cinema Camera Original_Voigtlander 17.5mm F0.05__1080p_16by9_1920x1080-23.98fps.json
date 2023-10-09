@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera Original_Voigtlander 17.5mm F0.05__1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "cinebird",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera Original",
+  "lens_model": "Voigtlander 17.5mm F0.05",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.43022194005439696,
+    "camera_matrix": [
+      [
+        2898.4582999874947,
+        0.0,
+        959.5315446389566
+      ],
+      [
+        0.0,
+        2910.005528920033,
+        493.8860554931828
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20751425793853245,
+      1.6288987111127848,
+      -25.126168474060343,
+      141.41522734780497
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

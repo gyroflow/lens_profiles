@@ -1,0 +1,69 @@
+{
+  "name": "Canon_80D_24mm f2.8_1/125_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Rubén Moreno Molinero",
+  "camera_brand": "Canon",
+  "camera_model": "80D",
+  "lens_model": "24mm f2.8",
+  "camera_setting": "1/125",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5000869580888876,
+    "camera_matrix": [
+      [
+        2174.3899250536306,
+        0.0,
+        940.9600418284472
+      ],
+      [
+        0.0,
+        2171.999293390164,
+        554.3042030597447
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.17028875730521326,
+      1.3209193940712125,
+      -11.129057429464853,
+      33.83104607959248
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_D7500_Sigma 18-35 F1.8 @ 18mm__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "joshua turton",
+  "camera_brand": "Nikon",
+  "camera_model": "D7500",
+  "lens_model": "Sigma 18-35 F1.8 @ 18mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6866829508154033,
+    "camera_matrix": [
+      [
+        4367.669995720497,
+        0.0,
+        1934.926098660597
+      ],
+      [
+        0.0,
+        4370.5594797359445,
+        1075.3549050646568
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.25846963933848366,
+      -0.6936891378497158,
+      8.282944780778095,
+      -23.636945275661695
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_HX200V_Carl Zeiss Vario-Tessar 2,8-5,64,8-144 T__720p_4by3_1440x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "Pranay Raorane",
+  "camera_brand": "Sony",
+  "camera_model": "HX200V",
+  "lens_model": "Carl Zeiss Vario-Tessar 2,8-5,64,8-144 T",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1440,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1440,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1440,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6848361506477881,
+    "camera_matrix": [
+      [
+        3737.858319662661,
+        0.0,
+        785.8116958616264
+      ],
+      [
+        0.0,
+        4958.753362677432,
+        1656.1983006692778
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5230922092807291,
+      -14.55055764435643,
+      177.58310040194723,
+      -708.3985147838185
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.1",
+  "date": "2023-08-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

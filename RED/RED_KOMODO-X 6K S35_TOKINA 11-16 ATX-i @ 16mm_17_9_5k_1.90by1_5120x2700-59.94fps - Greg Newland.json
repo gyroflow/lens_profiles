@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO-X 6K S35_TOKINA 11-16 ATX-i @ 16mm_17:9_5k_1.90by1_5120x2700-59.94fps",
+  "note": "",
+  "calibrated_by": "Greg Newland",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "lens_model": "TOKINA 11-16 ATX-i @ 16mm",
+  "camera_setting": "17:9",
+  "calib_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "orig_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "output_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7125905848966252,
+    "camera_matrix": [
+      [
+        3635.9636250459785,
+        0.0,
+        2562.288839639199
+      ],
+      [
+        0.0,
+        3634.088838491884,
+        1357.5085646035395
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3542802974648541,
+      0.0013257065150142128,
+      0.3162152019264722,
+      -0.2656023881449767
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-komodo-x6ks35-ef-s17-55mmf/2.8isusm-16.00mm-5120x2700@0",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 16.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

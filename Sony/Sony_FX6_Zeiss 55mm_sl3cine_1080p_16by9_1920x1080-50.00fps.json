@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_Zeiss 55mm_sl3cine_1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Webb Zhou",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "Zeiss 55mm",
+  "camera_setting": "sl3cine",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4868750061015456,
+    "camera_matrix": [
+      [
+        3525.1558042555985,
+        0.0,
+        1009.2138015784288
+      ],
+      [
+        0.0,
+        3490.629618738322,
+        45.10811885728346
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.18939692583992385,
+      -0.6948763815581112,
+      33.751444783995545,
+      -196.91808248278895
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx6v-55.00mm-1920x1080@50000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 55.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

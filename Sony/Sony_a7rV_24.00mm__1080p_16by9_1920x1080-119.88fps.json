@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7rV_24.00mm__1080p_16by9_1920x1080-119.88fps",
+  "note": "",
+  "calibrated_by": "administration",
+  "camera_brand": "Sony",
+  "camera_model": "a7rV",
+  "lens_model": "24.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 119.880119,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9366613523117386,
+    "camera_matrix": [
+      [
+        1676.0377585806489,
+        0.0,
+        1046.2954517287787
+      ],
+      [
+        0.0,
+        1664.1445158057563,
+        452.04308870447625
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31691584015423613,
+      0.3564310986134295,
+      -1.250171813820442,
+      2.4505213016234526
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7rm5-24.00mm-1920x1080@119880",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

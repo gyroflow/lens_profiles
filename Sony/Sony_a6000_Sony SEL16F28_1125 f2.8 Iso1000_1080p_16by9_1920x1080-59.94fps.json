@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6000_Sony SEL16F28_1/125 f2.8 Iso1000_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Fred",
+  "camera_brand": "Sony",
+  "camera_model": "a6000",
+  "lens_model": "Sony SEL16F28",
+  "camera_setting": "1/125 f2.8 Iso1000",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5522560637298817,
+    "camera_matrix": [
+      [
+        1308.6918161699805,
+        0.0,
+        974.2440604684148
+      ],
+      [
+        0.0,
+        1308.067178523804,
+        531.9926719921085
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.21026001679598616,
+      0.45346239395201865,
+      -0.8370155603791134,
+      1.5832808524152675
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

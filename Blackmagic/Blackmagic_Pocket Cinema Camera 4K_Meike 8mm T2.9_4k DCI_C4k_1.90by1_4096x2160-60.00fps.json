@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 4K_Meike 8mm T2.9_4k DCI_C4k_1.90by1_4096x2160-60.00fps",
+  "note": "T22 Shutter 180º 3200 ISO",
+  "calibrated_by": "Ryan Shahrestany",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K",
+  "lens_model": "Meike 8mm T2.9",
+  "camera_setting": "4k DCI",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7984050746488753,
+    "camera_matrix": [
+      [
+        1818.6048630039984,
+        0.0,
+        2065.6374929994477
+      ],
+      [
+        0.0,
+        1818.7071900918768,
+        1079.9108976393286
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.25040564189013936,
+      0.15558596473236103,
+      0.035478509745601655,
+      0.0713999723863512
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

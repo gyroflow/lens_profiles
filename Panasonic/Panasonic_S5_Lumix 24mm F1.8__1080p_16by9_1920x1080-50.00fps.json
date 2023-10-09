@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_S5_Lumix 24mm F1.8__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "10162",
+  "camera_brand": "Panasonic",
+  "camera_model": "S5",
+  "lens_model": "Lumix 24mm F1.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5023752317781297,
+    "camera_matrix": [
+      [
+        1314.4365134659272,
+        0.0,
+        952.9713779749856
+      ],
+      [
+        0.0,
+        1317.4702582013754,
+        541.8300326474382
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3051108508310508,
+      0.2616599788783375,
+      -0.30330869729994026,
+      0.3856698064750933
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

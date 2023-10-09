@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_25MM VESPID PRIME_6K 17:9_6k_1.90by1_6144x3240-25.00fps",
+  "note": "S35",
+  "calibrated_by": "Alan Grey",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "25MM VESPID PRIME",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 37,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8653160262305584,
+    "camera_matrix": [
+      [
+        5788.278057136403,
+        0.0,
+        3107.3780201173963
+      ],
+      [
+        0.0,
+        5789.600391540559,
+        1599.6943984792138
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.11123341299351514,
+      1.7149717625879006,
+      -14.994575519482954,
+      48.98769775880969
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

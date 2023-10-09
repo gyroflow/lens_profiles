@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS Rebel T6i_Canon EFS 18-55mm_Auto_720p_16by9_1280x720-59.94fps",
+  "note": "",
+  "calibrated_by": "Mo Jamila",
+  "camera_brand": "Canon",
+  "camera_model": "EOS Rebel T6i",
+  "lens_model": "Canon EFS 18-55mm",
+  "camera_setting": "Auto",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.22469105006969547,
+    "camera_matrix": [
+      [
+        1064.1751987650102,
+        0.0,
+        639.8652620511252
+      ],
+      [
+        0.0,
+        1064.187352437027,
+        366.8973400399475
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.17719123244122958,
+      0.05343835151551686,
+      0.4321619987670447,
+      -0.16424621867168948
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

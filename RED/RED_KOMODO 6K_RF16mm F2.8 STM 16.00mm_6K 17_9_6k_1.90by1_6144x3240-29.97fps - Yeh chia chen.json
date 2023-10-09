@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_RF16mm F2.8 STM 16.00mm_6K 17:9_6k_1.90by1_6144x3240-29.97fps",
+  "note": "dji rs3mini",
+  "calibrated_by": "Yeh chia chen",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "RF16mm F2.8 STM 16.00mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.779142038677917,
+    "camera_matrix": [
+      [
+        3807.559204059734,
+        0.0,
+        3098.8357424271417
+      ],
+      [
+        0.0,
+        3809.0389122543384,
+        1619.8719661476357
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.17011496701268772,
+      0.022016109771565408,
+      0.07409007248918105,
+      -0.012999007079275078
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 16.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

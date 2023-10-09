@@ -1,0 +1,69 @@
+{
+  "name": "Sigma_fp_cock 50 f2__1080p_16by9_1920x1080-24.00fps",
+  "note": "",
+  "calibrated_by": "MAX CAPTAIN",
+  "camera_brand": "Sigma",
+  "camera_model": "fp",
+  "lens_model": "cock 50 f2",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.427283732041328,
+    "camera_matrix": [
+      [
+        2476.6623759399627,
+        0.0,
+        996.4160796566536
+      ],
+      [
+        0.0,
+        2484.3750583666424,
+        422.4813520760731
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.27140936821577566,
+      0.949803910161686,
+      -8.751549557295132,
+      31.5712899623336
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

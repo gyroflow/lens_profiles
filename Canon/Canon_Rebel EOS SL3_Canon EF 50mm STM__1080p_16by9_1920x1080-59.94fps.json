@@ -1,0 +1,69 @@
+{
+  "name": "Canon_Rebel EOS SL3_Canon EF 50mm STM__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "fernandobocutti",
+  "camera_brand": "Canon",
+  "camera_model": "Rebel EOS SL3",
+  "lens_model": "Canon EF 50mm STM",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3868866845968122,
+    "camera_matrix": [
+      [
+        5109.388994185519,
+        0.0,
+        976.8658319115724
+      ],
+      [
+        0.0,
+        5122.057738286482,
+        543.0394697650036
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.27238062869611773,
+      -2.8075822847757967,
+      -11.261729789922976,
+      1703.7039212001175
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

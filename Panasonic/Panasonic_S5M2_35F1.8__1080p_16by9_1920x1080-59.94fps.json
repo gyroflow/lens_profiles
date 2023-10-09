@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_S5M2_35F1.8__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "win10",
+  "camera_brand": "Panasonic",
+  "camera_model": "S5M2",
+  "lens_model": "35F1.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 7,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3669607340459298,
+    "camera_matrix": [
+      [
+        2588.358774122483,
+        0.0,
+        997.245099379894
+      ],
+      [
+        0.0,
+        2592.4989185509553,
+        495.5362089238562
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32945846263620787,
+      0.030062835298483144,
+      -0.6081879615931616,
+      6.353509524353918
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

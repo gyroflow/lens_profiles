@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z30_SIGMA 18-35__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "linda CJ",
+  "camera_brand": "Nikon",
+  "camera_model": "Z30",
+  "lens_model": "SIGMA 18-35",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9806371648983228,
+    "camera_matrix": [
+      [
+        2952.598421086737,
+        0.0,
+        1881.9265913146755
+      ],
+      [
+        0.0,
+        2956.521773137952,
+        1064.9779346152377
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.22660262076210597,
+      0.31476855204789456,
+      -0.7579197071273576,
+      1.55526429731032
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

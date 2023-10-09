@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 4k_Tamron SP 17 - 50 mm F/2.8 (Nikon F)_, ISO: 1250, Shutter: 45°_C4k_1.90by1_4096x2160-60.00fps",
+  "note": "Zoom: 17mm;  Viltrox Speedbooster 0.71x",
+  "calibrated_by": "exploREDer",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4k",
+  "lens_model": "Tamron SP 17 - 50 mm F/2.8 (Nikon F)",
+  "camera_setting": ", ISO: 1250, Shutter: 45°",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6699513319395118,
+    "camera_matrix": [
+      [
+        2628.747133092752,
+        0.0,
+        2032.5958788965063
+      ],
+      [
+        0.0,
+        2631.230437455566,
+        1102.6493966928424
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1737854406669038,
+      0.1904242275862423,
+      -0.2758509372719612,
+      0.6328979323233528
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

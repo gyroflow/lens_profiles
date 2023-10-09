@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_NX-30_16-50 IOS__1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "Mert Bülbüloğlu",
+  "camera_brand": "Samsung",
+  "camera_model": "NX-30",
+  "lens_model": "16-50 IOS",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5767593251538541,
+    "camera_matrix": [
+      [
+        1343.6544957648705,
+        0.0,
+        982.3986662589176
+      ],
+      [
+        0.0,
+        1348.0091022568115,
+        566.2418867451725
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20682399574854077,
+      0.7309445770828711,
+      -2.6940674554383497,
+      4.581815751486783
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

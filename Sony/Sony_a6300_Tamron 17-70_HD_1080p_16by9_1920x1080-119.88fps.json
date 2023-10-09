@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6300_Tamron 17-70_HD_1080p_16by9_1920x1080-119.88fps",
+  "note": "17mm",
+  "calibrated_by": "Stalone Ker",
+  "camera_brand": "Sony",
+  "camera_model": "a6300",
+  "lens_model": "Tamron 17-70",
+  "camera_setting": "HD",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 119.880119,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4699785943982659,
+    "camera_matrix": [
+      [
+        1702.6752126354718,
+        0.0,
+        966.6589052690044
+      ],
+      [
+        0.0,
+        1700.165158802379,
+        542.2060675029079
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.17224204707588273,
+      0.393323597671514,
+      -0.9231274977129664,
+      1.6293432670772756
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

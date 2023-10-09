@@ -1,0 +1,69 @@
+{
+  "name": "Canon_200 d2_EF-S 18-55mm__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "招办外事学院",
+  "camera_brand": "Canon",
+  "camera_model": "200 d2",
+  "lens_model": "EF-S 18-55mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8990042250489773,
+    "camera_matrix": [
+      [
+        1722.7561888969492,
+        0.0,
+        971.0926650847914
+      ],
+      [
+        0.0,
+        1723.9346288586764,
+        533.2608889325431
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.13186743652116523,
+      0.5362209700403895,
+      -5.030495480088696,
+      17.128575537663522
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

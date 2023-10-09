@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_Laowa 9mm_XAVC S_4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Isidoros Chatzakis",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "Laowa 9mm",
+  "camera_setting": "XAVC S",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9060892447765148,
+    "camera_matrix": [
+      [
+        1721.1299451171624,
+        0.0,
+        1929.431792369085
+      ],
+      [
+        0.0,
+        1720.4185880788418,
+        1054.4214332800564
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33730423811763754,
+      0.14853283716792842,
+      -0.07535489200919847,
+      0.14152742381443784
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

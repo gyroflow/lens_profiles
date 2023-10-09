@@ -1,0 +1,66 @@
+{
+  "name": "Sigma_FPL_20-60MM__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "罗彬",
+  "camera_brand": "Sigma",
+  "camera_model": "FPL",
+  "lens_model": "20-60MM",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "num_images": 9,
+  "fps": 29.97003,
+  "official": false,
+  "use_opencv_fisheye": true,
+  "fisheye_params": {
+    "RMS_error": 0.721239261370035,
+    "camera_matrix": [
+      [
+        2629.009122766661,
+        0.0,
+        1942.0860357937825
+      ],
+      [
+        0.0,
+        2639.364907756566,
+        966.8798565096916
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2755976422077876,
+      0.22430558287209829,
+      -1.1411153159528564,
+      4.872653620063633
+    ],
+    "radial_distortion_limit": null
+  },
+  "use_opencv_standard": false,
+  "calib_params": {
+    "RMS_error": 0.0,
+    "camera_matrix": [],
+    "distortion_coeffs": [],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.0.0-rc5",
+  "date": "2023-10-05",
+  "compatible_settings": []
+}

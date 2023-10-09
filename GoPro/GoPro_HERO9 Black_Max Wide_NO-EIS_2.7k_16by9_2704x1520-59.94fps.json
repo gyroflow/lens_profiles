@@ -1,0 +1,69 @@
+{
+  "name": "GoPro_HERO9 Black_Max Wide_NO-EIS_2.7k_16by9_2704x1520-59.94fps",
+  "note": "NO-EIS",
+  "calibrated_by": "Raul Blasco",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO9 Black",
+  "lens_model": "Max Wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "orig_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "output_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": 50.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6412870161164803,
+    "camera_matrix": [
+      [
+        1129.7243832417637,
+        0.0,
+        1364.0860759964028
+      ],
+      [
+        0.0,
+        1129.141535943094,
+        741.3731887019391
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.21462923927731145,
+      -0.10441992700523756,
+      0.08499946914833377,
+      0.02338568254501756
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "gopro-hero9black-maxwide-2704x1520@59940-no-eis",
+  "calibrator_version": "1.5.1",
+  "date": "2023-09-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

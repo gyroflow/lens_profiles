@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Meike Mini 50mm_6K_5k_16by9_5760x3240-24.00fps",
+  "note": "",
+  "calibrated_by": "EMO DECHEV",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Meike Mini 50mm",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8205561896796795,
+    "camera_matrix": [
+      [
+        9951.885347095676,
+        0.0,
+        2704.5339937484796
+      ],
+      [
+        0.0,
+        9938.658571426276,
+        1563.577806505325
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20811383326628455,
+      -1.490226643034624,
+      13.89427164860146,
+      -75.0721804033301
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Canon_600D_18mm__1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "Joss Busa",
+  "camera_brand": "Canon",
+  "camera_model": "600D",
+  "lens_model": "18mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": -1.3913043478260876,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4290856158209817,
+    "camera_matrix": [
+      [
+        1657.1758366208774,
+        0.0,
+        970.1069967845716
+      ],
+      [
+        0.0,
+        1651.522038794683,
+        489.4992438305771
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.11330287407390802,
+      0.5436372114122048,
+      -2.432359818196776,
+      5.026446101868605
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

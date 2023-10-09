@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_XT-30_sigma 56mm f1.4__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "李循",
+  "camera_brand": "Fujifilm",
+  "camera_model": "XT-30",
+  "lens_model": "sigma 56mm f1.4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5076167440281718,
+    "camera_matrix": [
+      [
+        3211.410603244977,
+        0.0,
+        1016.7198775993164
+      ],
+      [
+        0.0,
+        3224.4606147384934,
+        594.0489924887455
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.28186104643048976,
+      -5.068964645370599,
+      174.3054082307793,
+      -1455.658900173899
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.1",
+  "date": "2023-07-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

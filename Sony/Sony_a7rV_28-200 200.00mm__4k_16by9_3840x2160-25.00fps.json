@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7rV_腾龙28-200 200.00mm__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "李冠黎",
+  "camera_brand": "Sony",
+  "camera_model": "a7rV",
+  "lens_model": "腾龙28-200 200.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7292428190840468,
+    "camera_matrix": [
+      [
+        25335.755152124453,
+        0.0,
+        1972.6995385658036
+      ],
+      [
+        0.0,
+        25505.22592737,
+        1010.3496824960588
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      3.722072040242555,
+      353.2120205421695,
+      -113264.62938916466,
+      10595856.178141223
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 200.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_Rokinon 14.00mm 2.8__C4k_1.90by1_4096x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Vyasa",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "Rokinon 14.00mm 2.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0713441364332386,
+    "camera_matrix": [
+      [
+        1711.0974267817296,
+        0.0,
+        2042.1665121031683
+      ],
+      [
+        0.0,
+        1711.168835872338,
+        1064.1125474015614
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.29149972734322127,
+      0.3167780168558959,
+      -0.23458639647535373,
+      0.17613700120326653
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.1",
+  "date": "2023-07-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 14.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Zeiss SuperSpeed Mk.1 T4_6K_5k_16by9_5760x3240-23.98fps",
+  "note": "23.98fps angle144",
+  "calibrated_by": "Yosuke Suga",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Zeiss SuperSpeed Mk.1 T4",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7782477024221744,
+    "camera_matrix": [
+      [
+        4194.622768524875,
+        0.0,
+        2895.191327551353
+      ],
+      [
+        0.0,
+        4193.268191533132,
+        1589.2119056077238
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19735096068987015,
+      0.28732972607588825,
+      -0.3557295781652566,
+      0.8054175670874043
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_GH5S_Canon_50 mm_C4k_1.90by1_4096x2160-50.00fps",
+  "note": "Viltrox speedbooster",
+  "calibrated_by": "Tom van Wolde",
+  "camera_brand": "Panasonic",
+  "camera_model": "GH5S",
+  "lens_model": "Canon",
+  "camera_setting": "50 mm",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7799967764351291,
+    "camera_matrix": [
+      [
+        7957.877451831694,
+        0.0,
+        2049.2608058253095
+      ],
+      [
+        0.0,
+        7959.686424509143,
+        1065.2992207594923
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.13566577924751977,
+      0.5118225918487241,
+      -18.916538282026604,
+      321.1491438214924
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_D5200__qawad_1080p_16by9_1920x1080-29.97fps",
+  "note": "qawad",
+  "calibrated_by": "User",
+  "camera_brand": "Nikon",
+  "camera_model": "D5200",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3800420953209028,
+    "camera_matrix": [
+      [
+        1464.4614396423794,
+        0.0,
+        968.9215239949314
+      ],
+      [
+        0.0,
+        1465.3594554055576,
+        554.1043269651522
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2555382047613398,
+      -0.2730905236658428,
+      1.7853994432392468,
+      -2.8323232063045407
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6700_SONY 15.00mm F1.4_无机内防抖_4k_16by9_3840x2160-50.00fps",
+  "note": "无机内防抖",
+  "calibrated_by": "彭禹铭",
+  "camera_brand": "Sony",
+  "camera_model": "a6700",
+  "lens_model": "SONY 15.00mm F1.4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7936076917123305,
+    "camera_matrix": [
+      [
+        2570.6523812485752,
+        0.0,
+        1928.018665202196
+      ],
+      [
+        0.0,
+        2569.489820281603,
+        1057.7564178441023
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3410209958306587,
+      0.07884204775375639,
+      0.16061222314711265,
+      -0.09449023270210236
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-6700-15.00mm-3840x2160@50000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 15.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

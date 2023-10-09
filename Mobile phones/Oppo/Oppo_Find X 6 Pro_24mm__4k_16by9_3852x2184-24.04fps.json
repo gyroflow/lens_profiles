@@ -1,0 +1,69 @@
+{
+  "name": "Oppo_Find X 6 Pro_24mm__4k_16by9_3852x2184-24.04fps",
+  "note": "",
+  "calibrated_by": "OG",
+  "camera_brand": "Oppo",
+  "camera_model": "Find X 6 Pro",
+  "lens_model": "24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3852,
+    "h": 2184
+  },
+  "orig_dimension": {
+    "w": 3852,
+    "h": 2184
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": 50.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 24.03886,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.896675931102115,
+    "camera_matrix": [
+      [
+        2801.210384623819,
+        0.0,
+        1919.7093713940108
+      ],
+      [
+        0.0,
+        2802.0011141434693,
+        1102.8767624559302
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6794549008488279,
+      -3.0552753063904525,
+      10.256655442219907,
+      -11.280370654909586
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_11.00mm_Sony 11mm 1.8_4k_16by9_3840x2160-29.97fps",
+  "note": "Sony 11mm 1.8",
+  "calibrated_by": "_smileヾ淡莣·",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "11.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 26.73,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8879553337323103,
+    "camera_matrix": [
+      [
+        1378.4824241109975,
+        0.0,
+        1925.3416642454408
+      ],
+      [
+        0.0,
+        1375.5872877526365,
+        1082.2489419328438
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.25534147061637835,
+      0.344955847031196,
+      -0.412307318192446,
+      0.4186684475970824
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 11.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

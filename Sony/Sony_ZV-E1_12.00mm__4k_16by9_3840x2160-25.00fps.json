@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E1_12.00mm__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "MASON的初号机",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E1",
+  "lens_model": "12.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6764025950448919,
+    "camera_matrix": [
+      [
+        1726.1031604579307,
+        0.0,
+        1893.9433421885624
+      ],
+      [
+        0.0,
+        1725.0644324784118,
+        1087.9618198563503
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3050710519547666,
+      0.10126008242520906,
+      0.08071852506631298,
+      -0.018750100086948374
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 12.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

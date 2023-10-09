@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_24.00mm_P_1080p_16by9_1920x1080-25.00fps",
+  "note": "16-35F4PZ24mm",
+  "calibrated_by": "张鹏",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "24.00mm",
+  "camera_setting": "P",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.35631366131059794,
+    "camera_matrix": [
+      [
+        1364.1741630751617,
+        0.0,
+        955.504913420572
+      ],
+      [
+        0.0,
+        1332.4327488334277,
+        538.1289403458793
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3152883540179865,
+      0.22589799049128984,
+      -0.19890515517842913,
+      0.3221587630683531
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx3-24.00mm-1920x1080@25000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

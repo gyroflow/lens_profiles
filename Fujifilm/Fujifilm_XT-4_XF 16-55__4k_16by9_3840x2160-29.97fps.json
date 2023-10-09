@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_XT-4_XF 16-55__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "yunus emre pala",
+  "camera_brand": "Fujifilm",
+  "camera_model": "XT-4",
+  "lens_model": "XF 16-55",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8188122782434987,
+    "camera_matrix": [
+      [
+        2734.622195178293,
+        0.0,
+        1967.2443734901117
+      ],
+      [
+        0.0,
+        2737.1979817932374,
+        1103.4339981216851
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.304280003437048,
+      0.5016643369585343,
+      -2.246922071378534,
+      4.212886471013273
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX30_Carl Zeiss Sonnar T* E 24mm f1.8 ZA__4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Moore",
+  "camera_brand": "Sony",
+  "camera_model": "FX30",
+  "lens_model": "Carl Zeiss Sonnar T* E 24mm f1.8 ZA",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.746611061027428,
+    "camera_matrix": [
+      [
+        4065.216779548565,
+        0.0,
+        1931.2940413390104
+      ],
+      [
+        0.0,
+        4062.3476811053656,
+        1102.7556006435502
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3302356292288824,
+      0.27626501450882845,
+      -2.012185188388619,
+      6.258899589420016
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

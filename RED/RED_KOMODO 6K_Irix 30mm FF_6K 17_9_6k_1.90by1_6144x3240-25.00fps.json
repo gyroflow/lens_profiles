@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Irix 30mm FF_6K 17:9_6k_1.90by1_6144x3240-25.00fps",
+  "note": "Canon focal Reducer 0.71x",
+  "calibrated_by": "Shikijo",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Irix 30mm FF",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5787046970652242,
+    "camera_matrix": [
+      [
+        4934.811607959042,
+        0.0,
+        3081.992238812137
+      ],
+      [
+        0.0,
+        4935.280858946761,
+        1612.107534885077
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.25223441959799897,
+      0.15239742855732866,
+      0.3968030262940994,
+      -0.019628943951430455
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

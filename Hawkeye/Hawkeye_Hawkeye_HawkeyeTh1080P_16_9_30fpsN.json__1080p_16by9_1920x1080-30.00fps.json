@@ -1,0 +1,69 @@
+{
+  "name": "Hawkeye_Hawkeye_HawkeyeTh1080P_16_9_30fpsN.json__1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "calibrated_by": "WS",
+  "camera_brand": "Hawkeye",
+  "camera_model": "Hawkeye",
+  "lens_model": "HawkeyeTh1080P_16_9_30fpsN.json",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": 0.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.39405843467028895,
+    "camera_matrix": [
+      [
+        987.1744824608936,
+        0.0,
+        951.0817443448784
+      ],
+      [
+        0.0,
+        986.6992679201568,
+        535.0940554156512
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.07669898253585314,
+      0.011586014460262663,
+      -0.018717190573317565,
+      0.008809826498723979
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.1",
+  "date": "2023-08-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

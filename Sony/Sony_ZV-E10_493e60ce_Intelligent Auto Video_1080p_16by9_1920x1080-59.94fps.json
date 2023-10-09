@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_493e60ce_Intelligent Auto Video_1080p_16by9_1920x1080-59.94fps",
+  "note": "On 3 axis gimble",
+  "calibrated_by": "Charlie Sardelli",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "493e60ce",
+  "camera_setting": "Intelligent Auto Video",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4652268072912455,
+    "camera_matrix": [
+      [
+        1299.7603030713758,
+        0.0,
+        951.9552157360132
+      ],
+      [
+        0.0,
+        1298.0175425898783,
+        538.2408686899043
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.29780452468485463,
+      -0.0599589934027298,
+      0.811724993560072,
+      -0.8933799730309627
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-e10-493e60ce-1920x1080@59940",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

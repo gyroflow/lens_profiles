@@ -1,0 +1,69 @@
+{
+  "name": "Canon_1300D_EF 50mm_50mm_1080p_16by9_1920x1080-29.97fps",
+  "note": "50mm",
+  "calibrated_by": "Zoe Real",
+  "camera_brand": "Canon",
+  "camera_model": "1300D",
+  "lens_model": "EF 50mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4230792919466251,
+    "camera_matrix": [
+      [
+        19558.31145604779,
+        0.0,
+        314.6597058923211
+      ],
+      [
+        0.0,
+        19801.563502610064,
+        559.9135664906864
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      6.209406748460853,
+      -4293.7294942872295,
+      1298374.4409141,
+      -135736333.9032838
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.1",
+  "date": "2023-07-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7sIII_SLR magic 35mm f1.2 CINE_50bps_1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "YOLY",
+  "camera_brand": "Sony",
+  "camera_model": "a7sIII",
+  "lens_model": "SLR magic 35mm f1.2 CINE",
+  "camera_setting": "50bps",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2930776068677415,
+    "camera_matrix": [
+      [
+        2105.587152964639,
+        0.0,
+        945.0915148457742
+      ],
+      [
+        0.0,
+        2105.2132310271822,
+        542.347119059209
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.22853316929881717,
+      0.17195630000541462,
+      0.10104386376850012,
+      1.2639326313677886
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

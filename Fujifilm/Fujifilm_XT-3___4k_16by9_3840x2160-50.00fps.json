@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_XT-3___4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Giuseppe Velardi",
+  "camera_brand": "Fujifilm",
+  "camera_model": "XT-3",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9232856103898992,
+    "camera_matrix": [
+      [
+        4793.3977552455235,
+        0.0,
+        1927.4665420482504
+      ],
+      [
+        0.0,
+        4787.515595488447,
+        1197.039028790779
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.11647815531099572,
+      2.863013867277317,
+      -8.767593005397543,
+      -37.13528222205744
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.1",
+  "date": "2023-07-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

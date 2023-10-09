@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E1_laowa 9mm aps-c__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Gavrbognazemle",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E1",
+  "lens_model": "laowa 9mm aps-c",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.23458313990986948,
+    "camera_matrix": [
+      [
+        766.2851647331988,
+        0.0,
+        954.5673057200024
+      ],
+      [
+        0.0,
+        766.0242348813412,
+        541.1638624307452
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.34432103547446175,
+      0.1258751187795547,
+      -0.030237159965395943,
+      0.12275610824568908
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-21",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

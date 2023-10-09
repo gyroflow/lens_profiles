@@ -1,0 +1,69 @@
+{
+  "name": "Canon_M50 Mark II___1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Ronald Wong",
+  "camera_brand": "Canon",
+  "camera_model": "M50 Mark II",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.6494845418211292,
+    "camera_matrix": [
+      [
+        2051.675560336761,
+        0.0,
+        951.0235612357258
+      ],
+      [
+        0.0,
+        2001.5052483968873,
+        916.572146892209
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.18779023916009405,
+      0.6285341051465985,
+      -3.684058554243921,
+      8.00870828106848
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO-X 6K S35_EF16-35mm f/4L IS USM 16.00mm_6K 17:9_6k_1.90by1_6144x3240-24.00fps",
+  "note": "",
+  "calibrated_by": "Leon Barnard",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "lens_model": "EF16-35mm f/4L IS USM 16.00mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 20,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.96424067930879,
+    "camera_matrix": [
+      [
+        3688.078489380944,
+        0.0,
+        3132.225563712901
+      ],
+      [
+        0.0,
+        3689.149888196699,
+        1611.1379859833546
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.28860214322075833,
+      0.16974567688931777,
+      -0.24788364367968788,
+      0.33320433304728436
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-komodo-x6ks35-ef16-35mmf/4lisusm-16.00mm-6144x3240@0",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 16.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

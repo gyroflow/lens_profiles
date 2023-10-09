@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 4K_Contax Distagon 2,8/28_Speed Booster Viltrox EF-M2 II 0.71x_C4k_1.90by1_4096x2160-50.00fps",
+  "note": "Speed Booster Viltrox EF-M2 II 0.71x",
+  "calibrated_by": "Dante Villa",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K",
+  "lens_model": "Contax Distagon 2,8/28",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8172109299437659,
+    "camera_matrix": [
+      [
+        4397.4674268761855,
+        0.0,
+        2011.0078655705183
+      ],
+      [
+        0.0,
+        4399.904539825547,
+        1040.0049524080878
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19725255175739304,
+      0.3834364782651049,
+      -1.2777666798391436,
+      2.962957995070232
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera4k-37,5mm-4096x2160@50000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

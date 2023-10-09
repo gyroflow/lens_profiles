@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_Tamron 28-75-28.00mm_A7M4_1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "KITAJIMA",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "Tamron 28-75-28.00mm",
+  "camera_setting": "A7M4",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4110554747442361,
+    "camera_matrix": [
+      [
+        1152.1561568659165,
+        0.0,
+        937.2431026469264
+      ],
+      [
+        0.0,
+        1154.3180088776764,
+        510.3874795855611
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3090071200068834,
+      0.2349722806077583,
+      -0.298356828072272,
+      0.40804357788784734
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7m4-28.00mm-1920x1080@50000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 28.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

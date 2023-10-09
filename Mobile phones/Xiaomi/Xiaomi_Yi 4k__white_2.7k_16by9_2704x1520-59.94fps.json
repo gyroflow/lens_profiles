@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_Yi 4k__white_2.7k_16by9_2704x1520-59.94fps",
+  "note": "white",
+  "calibrated_by": "Dimaka",
+  "camera_brand": "Xiaomi",
+  "camera_model": "Yi 4k",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "orig_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "output_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5722401112520697,
+    "camera_matrix": [
+      [
+        1204.5437672793273,
+        0.0,
+        1352.6272815214693
+      ],
+      [
+        0.0,
+        1202.34780524668,
+        758.4490456114519
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1007814982465269,
+      -0.02335003541230393,
+      0.008011347521600284,
+      -0.002611411323835297
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.0",
+  "date": "2023-07-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

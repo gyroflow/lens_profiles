@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7sIII_7Artisans 35mm T2.0_23.98p_4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Ben Meyers",
+  "camera_brand": "Sony",
+  "camera_model": "a7sIII",
+  "lens_model": "7Artisans 35mm T2.0",
+  "camera_setting": "23.98p",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2128161259561867,
+    "camera_matrix": [
+      [
+        3746.8353164543014,
+        0.0,
+        1902.414119890966
+      ],
+      [
+        0.0,
+        3743.522167502499,
+        1081.103775448688
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2664377684068345,
+      0.6615958823319399,
+      -3.5130845350916315,
+      9.899334742442065
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

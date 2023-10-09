@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 4K_EF100-400mm f/4.5-5.6L IS II USM 70mm_100mm_C4k_1.90by1_4096x2160-60.00fps",
+  "note": "Viltrox EF-M2 Speedbooster .71x",
+  "calibrated_by": "Ryan Shahrestany",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K",
+  "lens_model": "EF100-400mm f/4.5-5.6L IS II USM 70mm",
+  "camera_setting": "100mm",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.46202382805902986,
+    "camera_matrix": [
+      [
+        18843.42685500514,
+        0.0,
+        2300.8399053548974
+      ],
+      [
+        0.0,
+        19051.515731688185,
+        945.1926859965018
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -1.1040478996335386,
+      87.84664273008343,
+      -5483.600883345883,
+      116525.61204127072
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera4k-ef100-400mmf/4.5-5.6lisiiusm-70mm-4096x2160@60000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 100.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

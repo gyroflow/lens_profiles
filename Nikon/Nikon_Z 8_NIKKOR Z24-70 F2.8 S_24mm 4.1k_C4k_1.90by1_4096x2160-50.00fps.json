@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z 8_NIKKOR Z24-70 F2.8 S_24mm 4.1k_C4k_1.90by1_4096x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "YEHAOZE",
+  "camera_brand": "Nikon",
+  "camera_model": "Z 8",
+  "lens_model": "NIKKOR Z24-70 F2.8 S",
+  "camera_setting": "24mm 4.1k",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 4.89,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5020082766647436,
+    "camera_matrix": [
+      [
+        2794.5907278350887,
+        0.0,
+        2038.718293703464
+      ],
+      [
+        0.0,
+        2796.0302409193205,
+        1088.6484416999504
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.17443253322004532,
+      0.18334034488465975,
+      -0.1622954639036913,
+      0.49304088251734635
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_SIRUI 50mm MFT_Clear zoom x1.2_1080p_16by9_1920x1080-25.00fps",
+  "note": "Clear zoom x1.2",
+  "calibrated_by": "Sanei",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "SIRUI 50mm MFT",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4619984041095725,
+    "camera_matrix": [
+      [
+        2688.922665465645,
+        0.0,
+        978.56732322844
+      ],
+      [
+        0.0,
+        3471.947372867144,
+        529.840870956643
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.004982199500000684,
+      -1.992865464149268,
+      15.334434446989505,
+      -25.063332519073334
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

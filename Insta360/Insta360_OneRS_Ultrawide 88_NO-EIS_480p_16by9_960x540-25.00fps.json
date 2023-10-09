@@ -1,0 +1,69 @@
+{
+  "name": "Insta360_OneRS_Ultrawide 88_NO-EIS_480p_16by9_960x540-25.00fps",
+  "note": "NO-EIS",
+  "calibrated_by": "Matias Reyes",
+  "camera_brand": "Insta360",
+  "camera_model": "OneRS",
+  "lens_model": "Ultrawide 88",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 960,
+    "h": 540
+  },
+  "orig_dimension": {
+    "w": 960,
+    "h": 540
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.23350993366644685,
+    "camera_matrix": [
+      [
+        460.9796485556868,
+        0.0,
+        478.1832658932623
+      ],
+      [
+        0.0,
+        459.993657819777,
+        266.07084778208423
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.08923218428355852,
+      -0.07919203293133725,
+      0.13954877323577622,
+      -0.15534292130103794
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "insta360-oners-ultrawide88-960x540@25000-no-eis",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

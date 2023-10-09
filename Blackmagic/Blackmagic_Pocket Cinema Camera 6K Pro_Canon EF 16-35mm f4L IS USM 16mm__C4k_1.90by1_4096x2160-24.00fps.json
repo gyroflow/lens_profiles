@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K Pro_Canon EF 16-35mm f/4L IS USM 16mm__C4k_1.90by1_4096x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "rico naessens",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K Pro",
+  "lens_model": "Canon EF 16-35mm f/4L IS USM 16mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2195882358575627,
+    "camera_matrix": [
+      [
+        4295.862550052129,
+        0.0,
+        2048.5880443164124
+      ],
+      [
+        0.0,
+        4294.756680531807,
+        1177.6332554735038
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.24389815611417287,
+      0.9453281415585606,
+      -4.981900703563755,
+      9.84714359745586
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera6kpro-canonef16-35mmf/4lisusm-16mm-4096x2160@24000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 16.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

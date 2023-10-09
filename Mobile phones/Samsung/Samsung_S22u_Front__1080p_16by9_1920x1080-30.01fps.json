@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_S22u_Front__1080p_16by9_1920x1080-30.01fps",
+  "note": "",
+  "calibrated_by": "U0 A469",
+  "camera_brand": "Samsung",
+  "camera_model": "S22u",
+  "lens_model": "Front",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.012451,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.38384815284518903,
+    "camera_matrix": [
+      [
+        1436.9009964093595,
+        0.0,
+        961.3808696690746
+      ],
+      [
+        0.0,
+        1436.204969789021,
+        536.9728475430362
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4839916605788177,
+      -0.014311395851683995,
+      -1.771024527622968,
+      3.807334260813078
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

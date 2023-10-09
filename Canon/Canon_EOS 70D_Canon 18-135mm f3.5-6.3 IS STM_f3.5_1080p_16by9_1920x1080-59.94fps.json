@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS 70D_Canon 18-135mm f3.5-6.3 IS STM_f3.5_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Jan Schwebel",
+  "camera_brand": "Canon",
+  "camera_model": "EOS 70D",
+  "lens_model": "Canon 18-135mm f3.5-6.3 IS STM",
+  "camera_setting": "f3.5",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2886706262453733,
+    "camera_matrix": [
+      [
+        1560.679837470948,
+        0.0,
+        961.7804708996234
+      ],
+      [
+        0.0,
+        1567.844889435056,
+        552.2409892146436
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.13617155311391588,
+      0.1152371277816822,
+      0.05565795614224504,
+      0.5320545554340079
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

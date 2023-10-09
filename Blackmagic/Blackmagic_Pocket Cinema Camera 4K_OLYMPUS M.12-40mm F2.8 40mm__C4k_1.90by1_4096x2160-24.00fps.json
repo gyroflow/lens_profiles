@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 4K_OLYMPUS M.12-40mm F2.8 40mm__C4k_1.90by1_4096x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "Vlad Ush",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K",
+  "lens_model": "OLYMPUS M.12-40mm F2.8 40mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 19,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9616769488774288,
+    "camera_matrix": [
+      [
+        8486.936032505231,
+        0.0,
+        2238.880052694205
+      ],
+      [
+        0.0,
+        8467.347292575148,
+        1084.1624524045394
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5496131533039217,
+      0.03698999394306602,
+      11.577891282938122,
+      -93.35163251449686
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 40.0,
+  "crop_factor": 2.02,
+  "global_shutter": false
+}

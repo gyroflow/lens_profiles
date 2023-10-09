@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7sIII_Tamron 28-75 G2 RAW@35mm__C4k_16by9_4264x2408-23.98fps",
+  "note": "",
+  "calibrated_by": "god",
+  "camera_brand": "Sony",
+  "camera_model": "a7sIII",
+  "lens_model": "Tamron 28-75 G2 RAW@35mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4264,
+    "h": 2408
+  },
+  "orig_dimension": {
+    "w": 4264,
+    "h": 2408
+  },
+  "output_dimension": {
+    "w": 4264,
+    "h": 2408
+  },
+  "frame_readout_time": 8.86,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.730606858401332,
+    "camera_matrix": [
+      [
+        4104.852994606256,
+        0.0,
+        2133.023953861473
+      ],
+      [
+        0.0,
+        4100.664338234964,
+        1200.3404930692934
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33590250882306977,
+      -0.14012740823567205,
+      1.3712606728812895,
+      0.27259160659670245
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

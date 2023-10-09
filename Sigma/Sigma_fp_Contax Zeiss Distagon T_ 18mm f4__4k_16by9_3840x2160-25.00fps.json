@@ -1,0 +1,69 @@
+{
+  "name": "Sigma_fp_Contax Zeiss Distagon T* 18mm f/4__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Andy Yeung",
+  "camera_brand": "Sigma",
+  "camera_model": "fp",
+  "lens_model": "Contax Zeiss Distagon T* 18mm f/4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8726806104000241,
+    "camera_matrix": [
+      [
+        2051.0915935243484,
+        0.0,
+        1945.7499977718633
+      ],
+      [
+        0.0,
+        2051.606694939517,
+        1088.793318090608
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30142204724723287,
+      0.1843604733764008,
+      0.052564389239793896,
+      0.1970667887978736
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-21",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

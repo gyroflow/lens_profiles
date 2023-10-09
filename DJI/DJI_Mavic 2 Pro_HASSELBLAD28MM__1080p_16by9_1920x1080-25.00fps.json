@@ -1,0 +1,69 @@
+{
+  "name": "DJI_Mavic 2 Pro_HASSELBLAD28MM__1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "DJI",
+  "camera_model": "Mavic 2 Pro",
+  "lens_model": "HASSELBLAD28MM",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.32815796870272146,
+    "camera_matrix": [
+      [
+        1505.2300706910228,
+        0.0,
+        948.03312737717
+      ],
+      [
+        0.0,
+        1503.9598557129823,
+        518.7727027105792
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1514936250206168,
+      0.1863852306258001,
+      -1.2230807610474508,
+      1.8061576056233384
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

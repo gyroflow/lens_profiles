@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6300_Sony 3,5-5,6/16-50_25p_4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Florian Korber-Perner",
+  "camera_brand": "Sony",
+  "camera_model": "a6300",
+  "lens_model": "Sony 3,5-5,6/16-50",
+  "camera_setting": "25p",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9340133972235912,
+    "camera_matrix": [
+      [
+        2409.4550592183296,
+        0.0,
+        1899.816472369119
+      ],
+      [
+        0.0,
+        2417.3937256009235,
+        989.8141686680452
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32854311685874293,
+      -0.15882497964719364,
+      0.9485910775563288,
+      -0.7680876662466817
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

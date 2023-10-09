@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_URSA Mini Pro 12K_Rokinon xeen 24mm 1.5__C4k_1.90by1_4096x2160-30.00fps",
+  "note": "",
+  "calibrated_by": "Jorge Flores",
+  "camera_brand": "Blackmagic",
+  "camera_model": "URSA Mini Pro 12K",
+  "lens_model": "Rokinon xeen 24mm 1.5",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 30,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6945074051723503,
+    "camera_matrix": [
+      [
+        3909.4298721283153,
+        0.0,
+        2078.709484849426
+      ],
+      [
+        0.0,
+        3907.8022866308634,
+        1093.670493067477
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.27971368771328353,
+      -1.1021447619627796,
+      12.20402252218684,
+      -38.875277226790864
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

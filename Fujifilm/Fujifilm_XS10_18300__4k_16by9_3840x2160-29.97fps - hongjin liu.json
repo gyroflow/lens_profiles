@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_XS10_腾龙18300__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "hongjin liu",
+  "camera_brand": "Fujifilm",
+  "camera_model": "XS10",
+  "lens_model": "腾龙18300",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.711337110488212,
+    "camera_matrix": [
+      [
+        4874.3838332029545,
+        0.0,
+        1959.230611759864
+      ],
+      [
+        0.0,
+        4876.359019710702,
+        1013.1552267815632
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3220680336960866,
+      2.073405257722485,
+      -15.216271076270584,
+      46.60914690579212
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_CANON FD 24MM__C4k_1.90by1_4096x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Joey Killeen",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "CANON FD 24MM",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 30,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7831882368803467,
+    "camera_matrix": [
+      [
+        2930.493720023502,
+        0.0,
+        2033.1721757787204
+      ],
+      [
+        0.0,
+        2927.3259606428733,
+        1060.874305089205
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.21992115869549533,
+      0.3311760818496445,
+      -0.8184805352626265,
+      1.4992782000293512
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

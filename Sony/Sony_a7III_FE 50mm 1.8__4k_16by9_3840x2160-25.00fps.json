@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7III_FE 50mm 1.8__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Aamir Khan",
+  "camera_brand": "Sony",
+  "camera_model": "a7III",
+  "lens_model": "FE 50mm 1.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2331511984956605,
+    "camera_matrix": [
+      [
+        41313.61185146567,
+        0.0,
+        1798.9898247688843
+      ],
+      [
+        0.0,
+        76246.42143581173,
+        2165.6546041903366
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      2.747275756796242,
+      8946.795595437892,
+      -3018507.7959466134,
+      411060743.1835448
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

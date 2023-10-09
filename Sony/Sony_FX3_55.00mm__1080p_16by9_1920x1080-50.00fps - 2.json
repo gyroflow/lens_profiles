@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_55.00mm__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "符建民",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "55.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3122688148701815,
+    "camera_matrix": [
+      [
+        3674.3993885927425,
+        0.0,
+        934.3693964952016
+      ],
+      [
+        0.0,
+        3638.109613095019,
+        244.5222063383259
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3924454804421652,
+      -4.447430920457573,
+      123.780578270642,
+      -1141.0013890054267
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 55.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

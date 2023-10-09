@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6700_23.00mm__1080p_16by9_1920x1080-119.88fps",
+  "note": "",
+  "calibrated_by": "五月的阿信",
+  "camera_brand": "Sony",
+  "camera_model": "a6700",
+  "lens_model": "23.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 119.880119,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5661392329027076,
+    "camera_matrix": [
+      [
+        2395.4903430392474,
+        0.0,
+        976.342655538468
+      ],
+      [
+        0.0,
+        2398.86832626837,
+        527.8707857337849
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19433738467123016,
+      -0.8262697395665612,
+      12.98385279353854,
+      -43.65291366778596
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 23.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

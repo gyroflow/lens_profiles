@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_Samyang 35-150_SLOG3_4k_16by9_3840x2160-23.98fps",
+  "note": "150mm",
+  "calibrated_by": "Ro Diaz",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "Samyang 35-150",
+  "camera_setting": "SLOG3",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5461805817416966,
+    "camera_matrix": [
+      [
+        17976.772999728168,
+        0.0,
+        3079.625075254256
+      ],
+      [
+        0.0,
+        18421.988734074912,
+        1142.076658045476
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.15123424306370928,
+      -11.475618608809375,
+      383.386663562743,
+      -3228.3330453988456
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7m4-150.00mm-3840x2160@23976",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 150.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

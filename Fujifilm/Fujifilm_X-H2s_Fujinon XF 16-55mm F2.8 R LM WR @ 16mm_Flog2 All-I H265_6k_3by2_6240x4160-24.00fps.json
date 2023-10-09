@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-H2s_Fujinon XF 16-55mm F2.8 R LM WR @ 16mm_Flog2 All-I H265_6k_3by2_6240x4160-24.00fps",
+  "note": "16mm",
+  "calibrated_by": "David Reß",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-H2s",
+  "lens_model": "Fujinon XF 16-55mm F2.8 R LM WR @ 16mm",
+  "camera_setting": "Flog2 All-I H265",
+  "calib_dimension": {
+    "w": 6240,
+    "h": 4160
+  },
+  "orig_dimension": {
+    "w": 6240,
+    "h": 4160
+  },
+  "output_dimension": {
+    "w": 6240,
+    "h": 4160
+  },
+  "frame_readout_time": 11.5,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8648523455827654,
+    "camera_matrix": [
+      [
+        4233.945896131842,
+        0.0,
+        3058.639778908342
+      ],
+      [
+        0.0,
+        4234.36302103478,
+        2056.2584281560435
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2892798808024992,
+      0.2961148904788445,
+      -0.6321606317638262,
+      1.072543739292347
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.0",
+  "date": "2023-07-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

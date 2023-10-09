@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Sigma 24-70 DG_6k Capture >  Output_4k_16by9_3840x2160-23.98fps",
+  "note": "28 MM",
+  "calibrated_by": "Nate Mirizio",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Sigma 24-70 DG",
+  "camera_setting": "6k Capture >  Output",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.80266917334709,
+    "camera_matrix": [
+      [
+        2918.3011270495695,
+        0.0,
+        1923.0155348745916
+      ],
+      [
+        0.0,
+        2917.901934757241,
+        1062.4571014601618
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20577975866219853,
+      0.3873579043371098,
+      -0.8314823986182633,
+      1.6302648779686704
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

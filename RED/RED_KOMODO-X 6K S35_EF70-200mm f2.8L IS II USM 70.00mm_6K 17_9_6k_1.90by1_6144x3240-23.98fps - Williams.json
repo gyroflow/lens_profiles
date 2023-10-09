@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO-X 6K S35_EF70-200mm f/2.8L IS II USM 70.00mm_6K 17:9_6k_1.90by1_6144x3240-23.98fps",
+  "note": "",
+  "calibrated_by": "Williams",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "lens_model": "EF70-200mm f/2.8L IS II USM 70.00mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2341669079265545,
+    "camera_matrix": [
+      [
+        30184.503608118703,
+        0.0,
+        3551.7882739890492
+      ],
+      [
+        0.0,
+        30076.651594833875,
+        -162.00256950738168
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.09820595556817044,
+      70.27253548732295,
+      -4893.9866650536715,
+      121646.15257897052
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

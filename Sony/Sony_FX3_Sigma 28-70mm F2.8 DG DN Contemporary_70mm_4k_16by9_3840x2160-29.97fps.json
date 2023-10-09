@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_Sigma 28-70mm F2.8 DG DN Contemporary_70mm_4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Tim Jörns",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "Sigma 28-70mm F2.8 DG DN Contemporary",
+  "camera_setting": "70mm",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8060425359584176,
+    "camera_matrix": [
+      [
+        7490.687510438773,
+        0.0,
+        1887.1163936212524
+      ],
+      [
+        0.0,
+        7320.778891401283,
+        1102.4703650497163
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6312029370900282,
+      6.455685039549608,
+      -78.20242217525313,
+      563.9721016676748
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx3-70.00mm-3840x2160@29970",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 70.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

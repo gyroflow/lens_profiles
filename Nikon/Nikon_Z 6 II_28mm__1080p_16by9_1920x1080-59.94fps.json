@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z 6 II_28mm__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "mariusDobre",
+  "camera_brand": "Nikon",
+  "camera_model": "Z 6 II",
+  "lens_model": "28mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1746571553119587,
+    "camera_matrix": [
+      [
+        656.2950436308229,
+        0.0,
+        991.652190228348
+      ],
+      [
+        0.0,
+        664.9024714569181,
+        222.9605169665555
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.34006548936013853,
+      0.13914572124684174,
+      0.0049395851443197,
+      0.07689820381000008
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

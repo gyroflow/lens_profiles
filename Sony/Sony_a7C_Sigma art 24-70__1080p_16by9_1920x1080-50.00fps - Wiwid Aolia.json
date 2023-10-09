@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_Sigma art 24-70__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Wiwid Aolia",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "Sigma art 24-70",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3371052653406687,
+    "camera_matrix": [
+      [
+        1357.2938014443496,
+        0.0,
+        956.5432331261208
+      ],
+      [
+        0.0,
+        1357.4341643894334,
+        527.111914487357
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.12933430378696112,
+      0.2948962526871628,
+      -0.500568331255895,
+      0.954187068642476
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-6c6e39f8-1920x1080@50000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

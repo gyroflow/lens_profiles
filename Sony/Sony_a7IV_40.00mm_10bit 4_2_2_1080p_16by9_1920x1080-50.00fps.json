@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_40.00mm_10bit 4:2:2_1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "超哥",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "40.00mm",
+  "camera_setting": "10bit 4:2:2",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3781863542475065,
+    "camera_matrix": [
+      [
+        2138.694407392859,
+        0.0,
+        959.3034258946208
+      ],
+      [
+        0.0,
+        2141.7018109043943,
+        507.7496034943506
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.29946632752814484,
+      0.20420873784048552,
+      1.0837837857273371,
+      -3.3148918629497435
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7m4-40.00mm-1920x1080@50000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 40.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E1_35.00mm__4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Ralph Liao",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E1",
+  "lens_model": "35.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7098790934121183,
+    "camera_matrix": [
+      [
+        3646.870616092371,
+        0.0,
+        1916.4740405418695
+      ],
+      [
+        0.0,
+        3647.9117583149905,
+        1052.5567988882606
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32864756254148364,
+      -0.099419413428554,
+      2.468118169559418,
+      -6.587970826102352
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-21",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

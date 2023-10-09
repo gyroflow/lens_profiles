@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K Pro_Canon EF 40mm f/2.8 STM 40mm_40mm_6k_16by9_6144x3456-30.00fps",
+  "note": "",
+  "calibrated_by": "manuel",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K Pro",
+  "lens_model": "Canon EF 40mm f/2.8 STM 40mm",
+  "camera_setting": "40mm",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.7378708099514126,
+    "camera_matrix": [
+      [
+        9660.273727956695,
+        0.0,
+        2752.204346952251
+      ],
+      [
+        0.0,
+        9637.928148428162,
+        1637.4104063433576
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.25936772814744113,
+      -0.9614033060408752,
+      15.628767352384951,
+      -59.88908704446131
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera6kpro-canonef40mmf/2.8stm-40mm-6144x3456@30000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 40.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

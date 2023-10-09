@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Leica R 90 with FF Adapter_6K_5k_16by9_5760x3240-24.00fps",
+  "note": "",
+  "calibrated_by": "Mark Helsel",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Leica R 90 with FF Adapter",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.4152578939397424,
+    "camera_matrix": [
+      [
+        15784.271058139277,
+        0.0,
+        2822.8464301338845
+      ],
+      [
+        0.0,
+        15725.145149530445,
+        1400.9000006246276
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4238104385110552,
+      -3.401260720024281,
+      345.64719723776665,
+      -4901.056130329631
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

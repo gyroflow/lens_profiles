@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_a50c0bc4__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Andrey Devetyarov",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "a50c0bc4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 24.68,
+  "gyro_lpf": 0.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8672924196799787,
+    "camera_matrix": [
+      [
+        3342.8257496418287,
+        0.0,
+        1933.1431742638877
+      ],
+      [
+        0.0,
+        3344.374431005612,
+        1089.356675238982
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.380616056853992,
+      -0.1449196032076445,
+      5.420546864439925,
+      -18.81711194614325
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-a50c0bc4-3840x2160@25000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

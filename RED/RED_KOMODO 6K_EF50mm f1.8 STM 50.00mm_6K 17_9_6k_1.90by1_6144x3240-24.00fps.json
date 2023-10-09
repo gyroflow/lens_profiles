@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_EF50mm f/1.8 STM 50.00mm_6K 17:9_6k_1.90by1_6144x3240-24.00fps",
+  "note": "Canon Mount Adapter EF-EOS R 0.71x",
+  "calibrated_by": "Visent Media",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "EF50mm f/1.8 STM 50.00mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9942251194774884,
+    "camera_matrix": [
+      [
+        8737.08156120351,
+        0.0,
+        3065.389861837933
+      ],
+      [
+        0.0,
+        8735.205274309388,
+        1620.9662107104052
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.08297792941797007,
+      2.3119303964357867,
+      -19.021274862358975,
+      84.62088135822555
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-komodo6k-ef50mmf/1.8stm-50.00mm-6144x3240@0",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 50.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

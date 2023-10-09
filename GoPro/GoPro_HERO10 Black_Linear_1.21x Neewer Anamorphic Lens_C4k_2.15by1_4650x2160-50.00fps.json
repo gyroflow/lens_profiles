@@ -1,0 +1,69 @@
+{
+  "name": "GoPro_HERO10 Black_Linear_1.21x Neewer Anamorphic Lens_C4k_2.15by1_4650x2160-50.00fps",
+  "note": "NO-EIS",
+  "calibrated_by": "Mylez Molo",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO10 Black",
+  "lens_model": "Linear",
+  "camera_setting": "1.21x Neewer Anamorphic Lens",
+  "calib_dimension": {
+    "w": 4650,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4650,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4650,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": 0.0,
+  "input_horizontal_stretch": 1.211,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.511801593537757,
+    "camera_matrix": [
+      [
+        1896.0693946897647,
+        0.0,
+        2390.9533641423895
+      ],
+      [
+        0.0,
+        1811.5526840287928,
+        1124.18279730002
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2591051090457669,
+      -0.013833214342009494,
+      0.13743030662077202,
+      -0.08546081153711846
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

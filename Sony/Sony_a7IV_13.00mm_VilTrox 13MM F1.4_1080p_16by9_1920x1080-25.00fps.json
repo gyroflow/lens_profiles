@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_13.00mm_VilTrox 13MM F1.4_1080p_16by9_1920x1080-25.00fps",
+  "note": "VilTrox 13MM F1.4",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "13.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2425236901059805,
+    "camera_matrix": [
+      [
+        1073.53151872002,
+        0.0,
+        970.0382449743156
+      ],
+      [
+        0.0,
+        1076.503466993813,
+        527.7366805553313
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.283136802729432,
+      0.17360689622298345,
+      -0.015472948936820543,
+      0.14319986490598344
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7m4-13.00mm-1920x1080@25000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 13.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 4K_LUMIX G VARIO 12-35/F2.8II 34mm__4k_16by9_3840x2160-60.00fps",
+  "note": "",
+  "calibrated_by": "伍展",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K",
+  "lens_model": "LUMIX G VARIO 12-35/F2.8II 34mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6297395217986004,
+    "camera_matrix": [
+      [
+        7326.699868840932,
+        0.0,
+        1885.2823324087544
+      ],
+      [
+        0.0,
+        7340.316141188176,
+        1050.1225420084115
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4330904281313853,
+      7.22322383420397,
+      -183.9786501973307,
+      1743.2840090711272
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera4k-lumixgvario12-35/f2.8ii-34mm-3840x2160@60000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 34.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

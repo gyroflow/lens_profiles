@@ -1,0 +1,69 @@
+{
+  "name": "Canon_5D Mark IV_24-105 f4_lens @ 35mm_480p_9by16_1080x1920-23.98fps",
+  "note": "lens @ 35mm",
+  "calibrated_by": "Miss Lola",
+  "camera_brand": "Canon",
+  "camera_model": "5D Mark IV",
+  "lens_model": "24-105 f4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1080,
+    "h": 1920
+  },
+  "orig_dimension": {
+    "w": 1080,
+    "h": 1920
+  },
+  "output_dimension": {
+    "w": 1080,
+    "h": 1920
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4957946718551185,
+    "camera_matrix": [
+      [
+        1733.7481621172342,
+        0.0,
+        516.4264010415537
+      ],
+      [
+        0.0,
+        1738.1921541440297,
+        991.438130625165
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3707408260610899,
+      -0.09991406001779816,
+      1.664036634240302,
+      -2.436072918155727
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

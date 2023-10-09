@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_G7_14mm_avchd_1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Ponchollman hollman",
+  "camera_brand": "Panasonic",
+  "camera_model": "G7",
+  "lens_model": "14mm",
+  "camera_setting": "avchd",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4185447177858268,
+    "camera_matrix": [
+      [
+        1623.4585276066216,
+        0.0,
+        973.7893237008155
+      ],
+      [
+        0.0,
+        1622.3888860280554,
+        533.7435420217989
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.24133862945596143,
+      0.7087840164872817,
+      -2.9885717888223104,
+      4.8627675878069105
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

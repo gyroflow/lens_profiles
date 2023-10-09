@@ -1,0 +1,69 @@
+{
+  "name": "Sigma_fp_Sigma 28 -70mm 2.8 DG DN_28mm_4k_16by9_3840x2160-23.98fps",
+  "note": "28mm",
+  "calibrated_by": "Enzo California DP",
+  "camera_brand": "Sigma",
+  "camera_model": "fp",
+  "lens_model": "Sigma 28 -70mm 2.8 DG DN",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8048308613970816,
+    "camera_matrix": [
+      [
+        3031.4222601346,
+        0.0,
+        1934.2236977533669
+      ],
+      [
+        0.0,
+        3032.210299175797,
+        1055.283007198577
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.0945616041671843,
+      0.5060615649901126,
+      -1.3872952798249674,
+      2.561921004890116
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

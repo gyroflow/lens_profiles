@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K Pro_Rokinon cine ds 35mm_35mm_6k_16by9_6144x3456-30.00fps",
+  "note": "",
+  "calibrated_by": "manuel",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K Pro",
+  "lens_model": "Rokinon cine ds 35mm",
+  "camera_setting": "35mm",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.6607698587002515,
+    "camera_matrix": [
+      [
+        8497.33971784604,
+        0.0,
+        2913.8020242580687
+      ],
+      [
+        0.0,
+        8507.127054978408,
+        1595.6093867854674
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.18950974389318975,
+      1.0110570919022095,
+      -8.229569860760307,
+      29.0884137415439
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera6kpro-rokinoncineds-35mm-6144x3456@30000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "RED_V-RAPTOR 8K VV_EF16-35mm f/4L IS USM_8K 17:9_8k_1.90by1_8192x4320-25.00fps",
+  "note": "",
+  "calibrated_by": "Leo",
+  "camera_brand": "RED",
+  "camera_model": "V-RAPTOR 8K VV",
+  "lens_model": "EF16-35mm f/4L IS USM",
+  "camera_setting": "8K 17:9",
+  "calib_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8178276302168859,
+    "camera_matrix": [
+      [
+        10386.772808066691,
+        0.0,
+        4292.913935194795
+      ],
+      [
+        0.0,
+        10393.889651093246,
+        2238.99843198116
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3262866342340912,
+      4.836195532175075,
+      -89.88523511740456,
+      617.713312170826
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

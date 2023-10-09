@@ -1,0 +1,69 @@
+{
+  "name": "Canon_6D_14-70__1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "zjt",
+  "camera_brand": "Canon",
+  "camera_model": "6D",
+  "lens_model": "14-70",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6301839456714708,
+    "camera_matrix": [
+      [
+        986.5482365205016,
+        0.0,
+        967.82553694204
+      ],
+      [
+        0.0,
+        986.701572743348,
+        543.4368218725339
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2254611930336331,
+      0.1744236024225951,
+      -0.09746564583301894,
+      0.1870217617888569
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

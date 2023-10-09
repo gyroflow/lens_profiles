@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_BGH1_Laowa 7.5mm - F2_-_4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Benjamin Dour",
+  "camera_brand": "Panasonic",
+  "camera_model": "BGH1",
+  "lens_model": "Laowa 7.5mm - F2",
+  "camera_setting": "-",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4246169946411535,
+    "camera_matrix": [
+      [
+        1594.1283365684576,
+        0.0,
+        1944.0785330362512
+      ],
+      [
+        0.0,
+        1591.7053079197556,
+        1061.392074898059
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3367142634591905,
+      0.05988795672234344,
+      0.10312680395560583,
+      -0.03161730848505447
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

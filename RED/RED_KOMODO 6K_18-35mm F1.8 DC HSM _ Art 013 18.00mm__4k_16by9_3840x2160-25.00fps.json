@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_18-35mm F1.8 DC HSM | Art 013 18.00mm__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "TAW4",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "18-35mm F1.8 DC HSM | Art 013 18.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6870196526055751,
+    "camera_matrix": [
+      [
+        4300.5337814730565,
+        0.0,
+        1964.8207067350763
+      ],
+      [
+        0.0,
+        4296.342463988904,
+        1074.6874030441472
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1992182185637564,
+      0.7263579499260526,
+      -3.812982916522692,
+      10.321696539074225
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-komodo6k-18-35mmf1.8dchsm|art013-18.00mm-3840x2160@0",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 18.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

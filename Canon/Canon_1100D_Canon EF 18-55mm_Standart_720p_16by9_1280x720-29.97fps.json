@@ -1,0 +1,69 @@
+{
+  "name": "Canon_1100D_Canon EF 18-55mm_Standart_720p_16by9_1280x720-29.97fps",
+  "note": "",
+  "calibrated_by": "Egehan ERTAN",
+  "camera_brand": "Canon",
+  "camera_model": "1100D",
+  "lens_model": "Canon EF 18-55mm",
+  "camera_setting": "Standart",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.37649638471094665,
+    "camera_matrix": [
+      [
+        1263.051261805002,
+        0.0,
+        626.7811948260659
+      ],
+      [
+        0.0,
+        1260.0420247557142,
+        323.06900876231686
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.14746371887508816,
+      -0.3687617330313503,
+      3.0801516272939287,
+      -4.367182046204133
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Canon_6D Mark II_canon 50 mm 1.4_50 mm_1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "Алексей Ямшанов",
+  "camera_brand": "Canon",
+  "camera_model": "6D Mark II",
+  "lens_model": "canon 50 mm 1.4",
+  "camera_setting": "50 mm",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3696450169509981,
+    "camera_matrix": [
+      [
+        2788.078830452748,
+        0.0,
+        976.0217485283316
+      ],
+      [
+        0.0,
+        2783.78093182054,
+        533.3118888345804
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19845471747720364,
+      -1.4598759208902634,
+      16.693882103863327,
+      -55.35713017065383
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

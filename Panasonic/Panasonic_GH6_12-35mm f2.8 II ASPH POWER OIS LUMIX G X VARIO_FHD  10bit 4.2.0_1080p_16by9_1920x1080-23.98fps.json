@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_GH6_12-35mm f/2.8 II ASPH POWER OIS LUMIX G X VARIO_FHD  10bit 4.2.0_1080p_16by9_1920x1080-23.98fps",
+  "note": "Calibrated at 12mm",
+  "calibrated_by": "Evanie Berio",
+  "camera_brand": "Panasonic",
+  "camera_model": "GH6",
+  "lens_model": "12-35mm f/2.8 II ASPH POWER OIS LUMIX G X VARIO",
+  "camera_setting": "FHD  10bit 4.2.0",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.36158100596005505,
+    "camera_matrix": [
+      [
+        1436.3034972985004,
+        0.0,
+        942.2209980133832
+      ],
+      [
+        0.0,
+        1438.3800485435738,
+        530.8431242259733
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.27829882470810824,
+      0.2776982007223214,
+      -0.6755820964979838,
+      0.9753541299023232
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

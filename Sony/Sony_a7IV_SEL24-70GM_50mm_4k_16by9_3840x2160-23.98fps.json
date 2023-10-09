@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_SEL24-70GM_50mm_4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Liu Ean Ray",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "SEL24-70GM",
+  "camera_setting": "50mm",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2545026892646205,
+    "camera_matrix": [
+      [
+        5018.032509756482,
+        0.0,
+        1935.481067591614
+      ],
+      [
+        0.0,
+        5591.247632253855,
+        1103.6833988519347
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.42180575896278094,
+      -1.9361870427325865,
+      22.040156826470472,
+      -94.86273316583002
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7m4-51.00mm-3840x2160@23976",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 51.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

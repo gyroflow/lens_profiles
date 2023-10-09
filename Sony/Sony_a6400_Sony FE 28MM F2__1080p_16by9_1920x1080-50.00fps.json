@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_Sony FE 28MM F2__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "渺渺兮予怀",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "Sony FE 28MM F2",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4218170277328782,
+    "camera_matrix": [
+      [
+        2378.1936471985337,
+        0.0,
+        939.1459025496612
+      ],
+      [
+        0.0,
+        2378.2204180504987,
+        590.8533916406398
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.28130982387458514,
+      1.547066367877426,
+      -16.99160390113897,
+      60.57548710684194
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

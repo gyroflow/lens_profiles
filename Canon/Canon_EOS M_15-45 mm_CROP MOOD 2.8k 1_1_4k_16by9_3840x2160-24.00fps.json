@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS M_15-45 mm_CROP MOOD 2.8k 1:1_4k_16by9_3840x2160-24.00fps",
+  "note": "15mm",
+  "calibrated_by": "Jameel Mohamed",
+  "camera_brand": "Canon",
+  "camera_model": "EOS M",
+  "lens_model": "15-45 mm",
+  "camera_setting": "CROP MOOD 2.8k 1:1",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 3.0923471151343658,
+    "camera_matrix": [
+      [
+        6867.499465339376,
+        0.0,
+        2237.99242034007
+      ],
+      [
+        0.0,
+        6928.346714342144,
+        1779.3106254462302
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.2831792082150012,
+      14.00736867645777,
+      -190.915386536972,
+      848.5073902142719
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.1",
+  "date": "2023-07-31",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

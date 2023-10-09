@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_28.00mm__4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "rui liang",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "28.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.011501502078808,
+    "camera_matrix": [
+      [
+        6295.673463673246,
+        0.0,
+        1996.2562613100872
+      ],
+      [
+        0.0,
+        6293.5224878921,
+        1141.9154672748364
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5751624595437902,
+      -11.928550380174734,
+      192.96909363851637,
+      -1034.1313184041142
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 28.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

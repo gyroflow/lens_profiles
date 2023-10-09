@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Minolta 58F1.2withNero1.5x_6K  1.5x_5k_16by9_5760x3240-25.00fps",
+  "note": "Nero1.5x",
+  "calibrated_by": "Hu Yande",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Minolta 58F1.2withNero1.5x",
+  "camera_setting": "6K  1.5x",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 4.142927343211075,
+    "camera_matrix": [
+      [
+        10725.10482123206,
+        0.0,
+        4827.84100588463
+      ],
+      [
+        0.0,
+        15954.223500394542,
+        1488.4594327318775
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.7486593240940265,
+      -6.380522674670521,
+      20.34930798052931,
+      -36.45675131405082
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

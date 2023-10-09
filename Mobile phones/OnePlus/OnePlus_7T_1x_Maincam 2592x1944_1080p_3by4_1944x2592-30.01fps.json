@@ -1,0 +1,69 @@
+{
+  "name": "OnePlus_7T_1x_Maincam 2592x1944_1080p_3by4_1944x2592-30.01fps",
+  "note": "",
+  "calibrated_by": "Stefano Probst",
+  "camera_brand": "OnePlus",
+  "camera_model": "7T",
+  "lens_model": "1x",
+  "camera_setting": "Maincam 2592x1944",
+  "calib_dimension": {
+    "w": 1944,
+    "h": 2592
+  },
+  "orig_dimension": {
+    "w": 1944,
+    "h": 2592
+  },
+  "output_dimension": {
+    "w": 1944,
+    "h": 2592
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 28,
+  "fps": 30.010336,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9376156341440496,
+    "camera_matrix": [
+      [
+        2010.978429062483,
+        0.0,
+        985.0946642163816
+      ],
+      [
+        0.0,
+        2010.8335908533936,
+        1281.8149268200675
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3883297282120721,
+      -0.36793642023290624,
+      3.2092390871717176,
+      -5.607361504237807
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

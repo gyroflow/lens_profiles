@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_SONY 20-70 F4G 20mm__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "W",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "SONY 20-70 F4G 20mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.504243990790806,
+    "camera_matrix": [
+      [
+        2262.9991424477084,
+        0.0,
+        1917.2755695547123
+      ],
+      [
+        0.0,
+        2252.929669301991,
+        1020.2608357355624
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.29097850136729525,
+      0.18006129563601184,
+      -0.03440204449003036,
+      0.18058542631387864
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-8796ed12-3840x2160@25000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

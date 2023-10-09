@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_GH6_Sigma 16mm f/1.4 DC DN Contemporary Lens (MFT)_FHD  10bit 4.2.0_1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Evanie Berio",
+  "camera_brand": "Panasonic",
+  "camera_model": "GH6",
+  "lens_model": "Sigma 16mm f/1.4 DC DN Contemporary Lens (MFT)",
+  "camera_setting": "FHD  10bit 4.2.0",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.25795405857331366,
+    "camera_matrix": [
+      [
+        1864.0043034025691,
+        0.0,
+        979.3499086308476
+      ],
+      [
+        0.0,
+        1865.911612711534,
+        529.987449883786
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3302318619796275,
+      0.3800639216592335,
+      -1.8856256159808225,
+      3.735660895173309
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_TAMRON 28-75.00mm_75mm_1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Mehmet Düz",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "TAMRON 28-75.00mm",
+  "camera_setting": "75mm",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6240692876728617,
+    "camera_matrix": [
+      [
+        4595.64276821932,
+        0.0,
+        867.9618812078488
+      ],
+      [
+        0.0,
+        4563.080227227239,
+        763.5859442696138
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1734530310135451,
+      9.008460772494695,
+      -136.5209919059747,
+      739.5733341856183
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 75.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

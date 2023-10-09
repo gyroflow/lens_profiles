@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Zeiss Cp.2 21mm_6K 17:9_6k_1.90by1_6144x3240-23.98fps",
+  "note": "",
+  "calibrated_by": "Choi Sung Rock",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Zeiss Cp.2 21mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8102532472295227,
+    "camera_matrix": [
+      [
+        4960.804222712752,
+        0.0,
+        3095.1340467847317
+      ],
+      [
+        0.0,
+        4960.355776990363,
+        1559.0915835064534
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2238620963798263,
+      0.21714014828114053,
+      -0.11710216901976551,
+      0.39311940527304745
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

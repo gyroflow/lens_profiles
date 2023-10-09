@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO-X 6K S35_Zeiss B-Speed 25mm_6K 17:9_6k_1.90by1_6144x3240-25.00fps",
+  "note": "T2.8",
+  "calibrated_by": "Patrick Tresch",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "lens_model": "Zeiss B-Speed 25mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 21,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.5762473923886149,
+    "camera_matrix": [
+      [
+        5263.303080410367,
+        0.0,
+        3039.403341378662
+      ],
+      [
+        0.0,
+        5272.872311626765,
+        1818.0823846212631
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1411537413805843,
+      1.0224338173765637,
+      -8.101500612289117,
+      24.013647291114395
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

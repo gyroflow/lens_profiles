@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_XS-10_XC15-45_29.97_C4k_1.90by1_4096x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Linus",
+  "camera_brand": "Fujifilm",
+  "camera_model": "XS-10",
+  "lens_model": "XC15-45",
+  "camera_setting": "29.97",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.3509267059091623,
+    "camera_matrix": [
+      [
+        2593.2909762808167,
+        0.0,
+        2048.7716257381194
+      ],
+      [
+        0.0,
+        2594.341058301301,
+        1068.1964511553244
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3197235742466821,
+      0.18444871836270124,
+      0.03352160562882153,
+      0.014698716298079012
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

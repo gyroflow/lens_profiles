@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Sirui Nigfhtwalker 55mmT1.5_6K_6k_16by9_6480x3645-23.98fps",
+  "note": "",
+  "calibrated_by": "Bo",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Sirui Nigfhtwalker 55mmT1.5",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 6480,
+    "h": 3645
+  },
+  "orig_dimension": {
+    "w": 6480,
+    "h": 3645
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.4235903230442477,
+    "camera_matrix": [
+      [
+        17565.53742895368,
+        0.0,
+        3331.8213017698654
+      ],
+      [
+        0.0,
+        17553.56701573179,
+        1806.5612484030412
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.41623029376220994,
+      35.92099078346812,
+      -912.245452469239,
+      8863.346361756847
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.0",
+  "date": "2023-09-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

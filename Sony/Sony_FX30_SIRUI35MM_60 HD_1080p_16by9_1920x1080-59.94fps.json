@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX30_SIRUI35MM_60 HD_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Lucho Melara",
+  "camera_brand": "Sony",
+  "camera_model": "FX30",
+  "lens_model": "SIRUI35MM",
+  "camera_setting": "60 HD",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.674879475989029,
+    "camera_matrix": [
+      [
+        2871.5502875303077,
+        0.0,
+        1056.8275038351137
+      ],
+      [
+        0.0,
+        3674.3888456650575,
+        518.8929147593195
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.08800388434304336,
+      -0.6590143870198669,
+      17.638298088851922,
+      -106.07583970921662
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

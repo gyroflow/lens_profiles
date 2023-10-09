@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Sigma 35mm f/1.4 DG HSM Art Lens for Canon EF_6K 17:9_6k_1.90by1_6144x3240-60.00fps",
+  "note": "",
+  "calibrated_by": "Binyam Hamilton",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Sigma 35mm f/1.4 DG HSM Art Lens for Canon EF",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 6,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0711419157158022,
+    "camera_matrix": [
+      [
+        7862.556090840494,
+        0.0,
+        3132.812195563539
+      ],
+      [
+        0.0,
+        7861.003967580472,
+        1582.2225075897188
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.18988731639857592,
+      1.7925538434902275,
+      -12.82151894267968,
+      38.28429126606515
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

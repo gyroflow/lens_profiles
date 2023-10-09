@@ -1,0 +1,69 @@
+{
+  "name": "Sony_Nex 5N_7artisans 7.5mm__1080p_16by9_1920x1080-50.02fps",
+  "note": "",
+  "calibrated_by": "K 78",
+  "camera_brand": "Sony",
+  "camera_model": "Nex 5N",
+  "lens_model": "7artisans 7.5mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 50.016567,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5097882814007854,
+    "camera_matrix": [
+      [
+        700.8527894726064,
+        0.0,
+        946.0062846023206
+      ],
+      [
+        0.0,
+        699.3418883380419,
+        515.4969219331863
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.0114480431933655,
+      0.03190538914312535,
+      -0.021782515279984815,
+      0.005375072705042407
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

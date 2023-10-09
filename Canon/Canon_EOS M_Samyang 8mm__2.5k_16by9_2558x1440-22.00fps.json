@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS M_Samyang 8mm__2.5k_16by9_2558x1440-22.00fps",
+  "note": "",
+  "calibrated_by": "mine",
+  "camera_brand": "Canon",
+  "camera_model": "EOS M",
+  "lens_model": "Samyang 8mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2558,
+    "h": 1440
+  },
+  "orig_dimension": {
+    "w": 2558,
+    "h": 1440
+  },
+  "output_dimension": {
+    "w": 2558,
+    "h": 1440
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 22.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.4852233734199871,
+    "camera_matrix": [
+      [
+        793.5959159746833,
+        0.0,
+        1278.3606772239318
+      ],
+      [
+        0.0,
+        795.1270257394789,
+        730.5417624705262
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.035331986930731016,
+      0.014193955891099702,
+      -0.009409972346162232,
+      0.004300001538873064
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_28-75mm__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Jungle J",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "28-75mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.28934939781924857,
+    "camera_matrix": [
+      [
+        1745.5864815972443,
+        0.0,
+        960.28693041796
+      ],
+      [
+        0.0,
+        1745.6803490772534,
+        528.179611874752
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33296066295724414,
+      -0.13311432962032188,
+      1.5668921609718858,
+      -2.999523493692743
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 28.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

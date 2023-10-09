@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_D3400_Nikkor 18-55mm 1:3.5-5.6G_25 fps_1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Dylan Fontenot",
+  "camera_brand": "Nikon",
+  "camera_model": "D3400",
+  "lens_model": "Nikkor 18-55mm 1:3.5-5.6G",
+  "camera_setting": "25 fps",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5772941422328671,
+    "camera_matrix": [
+      [
+        1456.1301792225647,
+        0.0,
+        936.6336937113358
+      ],
+      [
+        0.0,
+        1458.9834790449374,
+        525.9814867529975
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.27337360699384006,
+      -0.1956497466159428,
+      0.7464326484323527,
+      -0.6495412129917822
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.1",
+  "date": "2023-08-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_Sigma 16-28mm 1:2.8 DG DN_@24mm_1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "stz",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "Sigma 16-28mm 1:2.8 DG DN",
+  "camera_setting": "@24mm",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 19,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.48249421945992327,
+    "camera_matrix": [
+      [
+        1353.7319306465968,
+        0.0,
+        943.1559279597212
+      ],
+      [
+        0.0,
+        1352.2296611953232,
+        527.5600490296547
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2933866257137997,
+      0.37075027123706966,
+      -0.579761566264225,
+      0.6113769458874028
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

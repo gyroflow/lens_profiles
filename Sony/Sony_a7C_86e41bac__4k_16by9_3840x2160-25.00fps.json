@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_86e41bac__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "可乐",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "86e41bac",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.3247795467748515,
+    "camera_matrix": [
+      [
+        7617.088859752213,
+        0.0,
+        1954.587088661564
+      ],
+      [
+        0.0,
+        7607.46660140697,
+        1004.9595210673637
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.28682799668379644,
+      3.5940231427454656,
+      -99.63234513815,
+      1015.950055947435
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-86e41bac-3840x2160@25000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K_12 24mm__6k_16by9_6144x3456-50.00fps",
+  "note": "",
+  "calibrated_by": "Dharanidaran",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K",
+  "lens_model": "12 24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "frame_readout_time": 19.73,
+  "gyro_lpf": 50.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.351831846631094,
+    "camera_matrix": [
+      [
+        3708.8401788789142,
+        0.0,
+        2784.8082423494952
+      ],
+      [
+        0.0,
+        3794.739304737869,
+        1659.9767739348738
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.47222371785719497,
+      -0.45309932750110343,
+      1.4613498112308931,
+      -1.154547104289139
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera6k-12-24mm-6144x3456@50000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

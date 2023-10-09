@@ -1,0 +1,69 @@
+{
+  "name": "Canon_5D Mark IV_ef 24-70 f4.0__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Alun",
+  "camera_brand": "Canon",
+  "camera_model": "5D Mark IV",
+  "lens_model": "ef 24-70 f4.0",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": -4.89,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3139543823610104,
+    "camera_matrix": [
+      [
+        1804.6725305079292,
+        0.0,
+        960.3260867903616
+      ],
+      [
+        0.0,
+        1806.0574233602272,
+        561.5465673968165
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2929644154146675,
+      -0.0998489028236668,
+      1.7177491441555206,
+      -2.6035268818024973
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 4K_Meike 12mm__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Krisjanis Pleiko",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K",
+  "lens_model": "Meike 12mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7541282278731796,
+    "camera_matrix": [
+      [
+        2593.771485170767,
+        0.0,
+        1922.6221447373568
+      ],
+      [
+        0.0,
+        2594.1029599790527,
+        1067.2813974850678
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.21961321797482403,
+      0.12987505221824466,
+      0.25991856821510556,
+      -0.1368040686752947
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera4k-meike-12mm-3840x2160@25000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 12.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

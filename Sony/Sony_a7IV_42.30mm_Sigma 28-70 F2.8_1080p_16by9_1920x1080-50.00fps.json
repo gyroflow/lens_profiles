@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_42.30mm_Sigma 28-70 F2.8_1080p_16by9_1920x1080-50.00fps",
+  "note": "Sigma 28-70 F2.8",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "42.30mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4060261844014815,
+    "camera_matrix": [
+      [
+        3242.1367857821187,
+        0.0,
+        927.1973199429052
+      ],
+      [
+        0.0,
+        3252.4610131024656,
+        471.398432660197
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33746782458017666,
+      0.09844467956479797,
+      -13.765842602370006,
+      127.84478965579854
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7m4-42.30mm-1920x1080@50000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 42.3,
+  "crop_factor": null,
+  "global_shutter": false
+}

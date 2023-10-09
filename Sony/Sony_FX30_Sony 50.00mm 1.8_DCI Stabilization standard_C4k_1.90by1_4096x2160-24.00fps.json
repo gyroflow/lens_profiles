@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX30_Sony 50.00mm 1.8_DCI Stabilization standard_C4k_1.90by1_4096x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "@samiebuka",
+  "camera_brand": "Sony",
+  "camera_model": "FX30",
+  "lens_model": "Sony 50.00mm 1.8",
+  "camera_setting": "DCI Stabilization standard",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0871748297659118,
+    "camera_matrix": [
+      [
+        23685.70623541715,
+        0.0,
+        4101.422026382182
+      ],
+      [
+        0.0,
+        23779.71489040276,
+        2376.667134718553
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4103356855191798,
+      12.948800522589115,
+      -575.290841079479,
+      9820.4472662744
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx30-50.00mm-4096x2160@24000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 50.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a1_70.00mm__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "葛颖",
+  "camera_brand": "Sony",
+  "camera_model": "a1",
+  "lens_model": "70.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3120353354002975,
+    "camera_matrix": [
+      [
+        3455.490033904512,
+        0.0,
+        940.9109029082975
+      ],
+      [
+        0.0,
+        3457.730677576205,
+        488.8177730275232
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31574964600775285,
+      2.7709638320049756,
+      -57.48380001070849,
+      367.3345050799556
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-1-70.00mm-1920x1080@50000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 70.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

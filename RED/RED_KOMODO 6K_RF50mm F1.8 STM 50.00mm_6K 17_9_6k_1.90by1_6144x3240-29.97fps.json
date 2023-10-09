@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_RF50mm F1.8 STM 50.00mm_6K 17:9_6k_1.90by1_6144x3240-29.97fps",
+  "note": "",
+  "calibrated_by": "Yeh chia chen",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "RF50mm F1.8 STM 50.00mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5832314269288412,
+    "camera_matrix": [
+      [
+        11442.402189466984,
+        0.0,
+        3107.1565458682007
+      ],
+      [
+        0.0,
+        11444.874289818565,
+        1614.8698171900612
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4497967174279219,
+      -0.4998831049505578,
+      -36.034183074220095,
+      614.3189288959477
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-komodo6k-rf50mmf1.8stm-50.00mm-6144x3240@0",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 50.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

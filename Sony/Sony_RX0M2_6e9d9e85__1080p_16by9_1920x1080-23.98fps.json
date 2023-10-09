@@ -1,0 +1,69 @@
+{
+  "name": "Sony_RX0M2_6e9d9e85__1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Евгений Карманов",
+  "camera_brand": "Sony",
+  "camera_model": "RX0M2",
+  "lens_model": "6e9d9e85",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.39983083445686,
+    "camera_matrix": [
+      [
+        1345.2221423746566,
+        0.0,
+        952.738742625722
+      ],
+      [
+        0.0,
+        1348.4996431812733,
+        535.4241740628325
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2546380059776816,
+      1.3100372128096394,
+      -4.982049478349356,
+      6.520292462669967
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

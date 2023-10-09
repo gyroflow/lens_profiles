@@ -1,0 +1,69 @@
+{
+  "name": "GoPro_HERO4 Silver___2.7k_16by9_2704x1520-25.00fps",
+  "note": "",
+  "calibrated_by": "张金来",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO4 Silver",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "orig_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "output_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.635882871720608,
+    "camera_matrix": [
+      [
+        1256.2135234376706,
+        0.0,
+        1304.5733864025535
+      ],
+      [
+        0.0,
+        1226.2353252280636,
+        797.0569611419743
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.03750990362435649,
+      0.03850980968152824,
+      -0.040094069047575925,
+      0.01627283666332493
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

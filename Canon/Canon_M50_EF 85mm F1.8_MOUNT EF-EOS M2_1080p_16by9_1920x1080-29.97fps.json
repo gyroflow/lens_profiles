@@ -1,0 +1,69 @@
+{
+  "name": "Canon_M50_EF 85mm F1.8_MOUNT EF-EOS M2_1080p_16by9_1920x1080-29.97fps",
+  "note": "MOUNT EF-EOS M2",
+  "calibrated_by": "Peerapon Ngamkana",
+  "camera_brand": "Canon",
+  "camera_model": "M50",
+  "lens_model": "EF 85mm F1.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4980007131992734,
+    "camera_matrix": [
+      [
+        35102.34561847734,
+        0.0,
+        854.651168852772
+      ],
+      [
+        0.0,
+        35503.25214862428,
+        475.2184832663417
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -11.64802555699615,
+      52679.50236443372,
+      -121081524.64364152,
+      93171968798.52013
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

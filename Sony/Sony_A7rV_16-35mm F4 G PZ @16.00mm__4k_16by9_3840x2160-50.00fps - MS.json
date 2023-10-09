@@ -1,0 +1,69 @@
+{
+  "name": "Sony_A7rV_16-35mm F4 G PZ @16.00mm__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "MS",
+  "camera_brand": "Sony",
+  "camera_model": "A7rV",
+  "lens_model": "16-35mm F4 G PZ @16.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6706104034776313,
+    "camera_matrix": [
+      [
+        2119.3619925650787,
+        0.0,
+        1929.44140294163
+      ],
+      [
+        0.0,
+        2117.339615041109,
+        1080.0984922760254
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3226988967943842,
+      0.2084501204636928,
+      -0.17753602984706343,
+      0.2364534334220313
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7rm5-16.00mm-3840x2160@50000",
+  "calibrator_version": "1.5.1",
+  "date": "2023-07-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 16.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

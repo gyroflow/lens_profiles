@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS M_Pergear 10mm f5.6 fisheye_4.8k 1x3 anamorphic_1080p_2.35by1_1920x816-23.98fps",
+  "note": "",
+  "calibrated_by": "Tolan Blundell",
+  "camera_brand": "Canon",
+  "camera_model": "EOS M",
+  "lens_model": "Pergear 10mm f5.6 fisheye",
+  "camera_setting": "4.8k 1x3 anamorphic",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 816
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 816
+  },
+  "output_dimension": {
+    "w": 4800,
+    "h": 2040
+  },
+  "frame_readout_time": 32.64,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 23.983,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6498671203017348,
+    "camera_matrix": [
+      [
+        933.6426674506744,
+        0.0,
+        938.6746749238466
+      ],
+      [
+        0.0,
+        932.4708253321631,
+        401.27550263298576
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.017195942548387712,
+      -0.035985871793037034,
+      0.03148775828400588,
+      -0.013880130376399978
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

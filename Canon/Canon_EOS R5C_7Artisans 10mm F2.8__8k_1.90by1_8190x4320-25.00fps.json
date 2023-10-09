@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS R5C_7Artisans 10mm F2.8__8k_1.90by1_8190x4320-25.00fps",
+  "note": "",
+  "calibrated_by": "Hao",
+  "camera_brand": "Canon",
+  "camera_model": "EOS R5C",
+  "lens_model": "7Artisans 10mm F2.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 8190,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 8190,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.5291092123694496,
+    "camera_matrix": [
+      [
+        2945.446199488322,
+        0.0,
+        4113.218614750688
+      ],
+      [
+        0.0,
+        2946.68775301169,
+        2145.48858638119
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.056032947983435735,
+      0.004825602265391974,
+      0.0016659660968862198,
+      -0.0015563495673716246
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.0",
+  "date": "2023-09-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

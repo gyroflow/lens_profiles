@@ -1,0 +1,69 @@
+{
+  "name": "SJCAM_C300__2k_2.5k_16by9_2560x1440-60.00fps",
+  "note": "Gyro stabilisation off",
+  "calibrated_by": "RH Yap",
+  "camera_brand": "SJCAM",
+  "camera_model": "C300",
+  "lens_model": "",
+  "camera_setting": "2k",
+  "calib_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "orig_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "output_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.47076441542711867,
+    "camera_matrix": [
+      [
+        1260.6925696738642,
+        0.0,
+        1258.8614482561472
+      ],
+      [
+        0.0,
+        1258.2208044438055,
+        722.8257176734893
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.14979615022551435,
+      -0.018693634884439547,
+      -0.18723952188911389,
+      0.28812573510740697
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

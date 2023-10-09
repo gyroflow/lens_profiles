@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_NIKKOR 18MM VINTAGE_6K 17:9_6k_1.90by1_6144x3240-23.98fps",
+  "note": "",
+  "calibrated_by": "Joey Killeen",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "NIKKOR 18MM VINTAGE",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 25,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.161624784627493,
+    "camera_matrix": [
+      [
+        4269.678636141894,
+        0.0,
+        3094.3552214742476
+      ],
+      [
+        0.0,
+        4267.0309286697175,
+        1617.919816439883
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.26270406492317616,
+      -0.18197349257492765,
+      1.0984706380271314,
+      -1.007291040782796
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

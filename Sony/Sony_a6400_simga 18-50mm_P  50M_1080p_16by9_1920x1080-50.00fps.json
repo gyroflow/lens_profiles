@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_simga 18-50mm_P  50M_1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "小河",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "simga 18-50mm",
+  "camera_setting": "P  50M",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3470827708868936,
+    "camera_matrix": [
+      [
+        423.91898386650183,
+        0.0,
+        958.3143124767644
+      ],
+      [
+        0.0,
+        425.1192240949097,
+        652.2249757628423
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3173272833535096,
+      0.19815342215559945,
+      -0.06834312023954543,
+      0.10440876748622982
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

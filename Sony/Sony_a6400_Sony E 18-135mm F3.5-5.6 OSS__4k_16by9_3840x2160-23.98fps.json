@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_Sony E 18-135mm F3.5-5.6 OSS__4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Ement CZ",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "Sony E 18-135mm F3.5-5.6 OSS",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1247099370335378,
+    "camera_matrix": [
+      [
+        2925.6107612461506,
+        0.0,
+        1916.5005102619743
+      ],
+      [
+        0.0,
+        2876.160100479871,
+        1046.5680119638305
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.34149091587087865,
+      -0.35328789365083646,
+      2.887583915637394,
+      -5.094542202632833
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-31",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

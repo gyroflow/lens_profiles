@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_EF-S24mm f/2.8 STM 24.00mm_6K_5k_16by9_5760x3240-23.98fps",
+  "note": "EF-S24mm f/2.8 Pancake Lens",
+  "calibrated_by": "Ben",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "EF-S24mm f/2.8 STM 24.00mm",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 6,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.4157717503666247,
+    "camera_matrix": [
+      [
+        5545.404595509596,
+        0.0,
+        2935.960967266755
+      ],
+      [
+        0.0,
+        5548.831763722593,
+        1605.3667532388367
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.17588015463805584,
+      0.7899835371937431,
+      -4.50435123440459,
+      11.06751986029826
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-komodo6k-ef-s24mmf/2.8stm-24.00mm-5760x3240@0",
+  "calibrator_version": "1.5.1",
+  "date": "2023-07-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

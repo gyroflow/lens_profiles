@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7rIV_Sony 85F14GM_30_4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Jeffery Chuang",
+  "camera_brand": "Sony",
+  "camera_model": "a7rIV",
+  "lens_model": "Sony 85F14GM",
+  "camera_setting": "30",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.815273953138635,
+    "camera_matrix": [
+      [
+        15171.812124295058,
+        0.0,
+        2993.1574757503013
+      ],
+      [
+        0.0,
+        15294.064833847777,
+        486.2132606138153
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20370786311390393,
+      16.9228157055477,
+      -842.5682888379981,
+      14307.761876086584
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

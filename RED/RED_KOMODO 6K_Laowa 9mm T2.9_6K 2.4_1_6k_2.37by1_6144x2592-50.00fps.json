@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Laowa 9mm T2.9_6K 2.4:1_6k_2.37by1_6144x2592-50.00fps",
+  "note": "50fps",
+  "calibrated_by": "Victor Wan Yi",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Laowa 9mm T2.9",
+  "camera_setting": "6K 2.4:1",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.992309553309276,
+    "camera_matrix": [
+      [
+        2126.0319172565555,
+        0.0,
+        3068.5170635066575
+      ],
+      [
+        0.0,
+        2123.6128394469456,
+        1296.4709269598422
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33071210320386846,
+      0.15878206656181498,
+      -0.09885290757575416,
+      0.14987272727698273
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

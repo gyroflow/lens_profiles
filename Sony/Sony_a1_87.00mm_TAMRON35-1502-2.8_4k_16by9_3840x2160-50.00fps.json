@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a1_87.00mm_TAMRON35-150/2-2.8_4k_16by9_3840x2160-50.00fps",
+  "note": "TAMRON35-150/2-2.8",
+  "calibrated_by": "李墨",
+  "camera_brand": "Sony",
+  "camera_model": "a1",
+  "lens_model": "87.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7084672772509562,
+    "camera_matrix": [
+      [
+        20095.67312080513,
+        0.0,
+        1900.7842916192412
+      ],
+      [
+        0.0,
+        20313.43577185556,
+        1082.3210873331138
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      3.7962507880600858,
+      158.05580259259932,
+      -10507.777964419118,
+      697313.3861679775
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-1-87.00mm-3840x2160@50000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 87.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

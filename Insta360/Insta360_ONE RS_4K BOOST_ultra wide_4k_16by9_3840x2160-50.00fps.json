@@ -1,0 +1,69 @@
+{
+  "name": "Insta360_ONE RS_4K BOOST_ultra wide_4k_16by9_3840x2160-50.00fps",
+  "note": "20 mm",
+  "calibrated_by": "Matias Reyes",
+  "camera_brand": "Insta360",
+  "camera_model": "ONE RS",
+  "lens_model": "4K BOOST",
+  "camera_setting": "ultra wide",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.816081449592767,
+    "camera_matrix": [
+      [
+        2127.47786054723,
+        0.0,
+        1905.27721774766
+      ],
+      [
+        0.0,
+        2123.611353013733,
+        1080.7093152839714
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.06700197230674403,
+      0.02922312864901511,
+      -0.043104782657454245,
+      0.027637708518345516
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 4K_LEICA DG 12-60/F2.8-4.0 12mm__4k_16by9_3840x2160-30.00fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K",
+  "lens_model": "LEICA DG 12-60/F2.8-4.0 12mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.436814770895074,
+    "camera_matrix": [
+      [
+        2954.385711059841,
+        0.0,
+        1903.6974185933568
+      ],
+      [
+        0.0,
+        2950.573144179488,
+        1123.6231725635848
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.04875575280963621,
+      0.2910274316607575,
+      -0.57139228040134,
+      0.8974515553852773
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera4k-leicadg12-60/f2.8-4.0-12mm-3840x2160@30000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 12.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

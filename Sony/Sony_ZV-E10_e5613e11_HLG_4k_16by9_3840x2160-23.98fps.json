@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_e5613e11_HLG_4k_16by9_3840x2160-23.98fps",
+  "note": "16-50mm (35mm)",
+  "calibrated_by": "David Escandon",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "e5613e11",
+  "camera_setting": "HLG",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9143213171426452,
+    "camera_matrix": [
+      [
+        14436.399958937209,
+        0.0,
+        2231.85454687041
+      ],
+      [
+        0.0,
+        14171.672458636804,
+        2570.6799883521567
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5354901951200969,
+      -0.09624473241834536,
+      94.81113704810257,
+      -1971.1310845029495
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-e10-e5613e11-3840x2160@23976",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

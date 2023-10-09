@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R5_EF-L 16-35_17mm_4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Jack K",
+  "camera_brand": "Canon",
+  "camera_model": "R5",
+  "lens_model": "EF-L 16-35",
+  "camera_setting": "17mm",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3820,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7548629714054157,
+    "camera_matrix": [
+      [
+        2469.4324866675843,
+        0.0,
+        1905.9351297996193
+      ],
+      [
+        0.0,
+        2469.2642228829964,
+        1081.3957286696427
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2176106205288061,
+      0.2663746449486051,
+      -0.2145863990331349,
+      0.36170476971739773
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

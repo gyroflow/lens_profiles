@@ -1,0 +1,69 @@
+{
+  "name": "Arri_35_Laowa 12mm_4.6k_C4k_16by9_4096x2304-25.00fps",
+  "note": "recording res 4096 x 2034",
+  "calibrated_by": "Terrence Wilkins",
+  "camera_brand": "Arri",
+  "camera_model": "35",
+  "lens_model": "Laowa 12mm",
+  "camera_setting": "4.6k",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2304
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2304
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2304
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5269963087628121,
+    "camera_matrix": [
+      [
+        1861.7778341171415,
+        0.0,
+        2028.7572539279645
+      ],
+      [
+        0.0,
+        1862.8234026651708,
+        1171.429759395314
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3116714408430576,
+      0.16843668422734992,
+      0.03991079296242208,
+      0.001553801753125965
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

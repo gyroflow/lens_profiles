@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_canon usm 28mm 1.8_6K_5k_16by9_5760x3240-23.98fps",
+  "note": "",
+  "calibrated_by": "Pedro Gusman",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "canon usm 28mm 1.8",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2168206761092997,
+    "camera_matrix": [
+      [
+        7823.8379846891185,
+        0.0,
+        2935.2818122176704
+      ],
+      [
+        0.0,
+        7760.462382435234,
+        1700.24469115038
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.29062658718041195,
+      0.5324242796904384,
+      -6.900708685375698,
+      39.851185857314775
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-komodo6k-unknown-28.00mm-5760x3240@0",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 28.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

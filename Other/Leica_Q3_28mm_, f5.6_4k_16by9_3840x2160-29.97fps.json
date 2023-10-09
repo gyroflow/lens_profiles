@@ -1,0 +1,69 @@
+{
+  "name": "Leica_Q3_28mm_, f/5.6_4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Steve",
+  "camera_brand": "Leica",
+  "camera_model": "Q3",
+  "lens_model": "28mm",
+  "camera_setting": ", f/5.6",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0586464969393723,
+    "camera_matrix": [
+      [
+        3482.793588083295,
+        0.0,
+        1896.8095137404132
+      ],
+      [
+        0.0,
+        3479.215009821953,
+        1083.4989280389434
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3623338416373359,
+      0.2110556307621659,
+      -2.537702099946737,
+      6.709680520506965
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

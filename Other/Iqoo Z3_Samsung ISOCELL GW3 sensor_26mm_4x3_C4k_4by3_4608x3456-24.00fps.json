@@ -1,0 +1,69 @@
+{
+  "name": "Iqoo Z3_Samsung ISOCELL GW3 sensor_26mm_4x3_C4k_4by3_4608x3456-24.00fps",
+  "note": "",
+  "calibrated_by": "Kishon Mahanty",
+  "camera_brand": "Iqoo Z3",
+  "camera_model": "Samsung ISOCELL GW3 sensor",
+  "lens_model": "26mm",
+  "camera_setting": "4x3",
+  "calib_dimension": {
+    "w": 4608,
+    "h": 3456
+  },
+  "orig_dimension": {
+    "w": 4608,
+    "h": 3456
+  },
+  "output_dimension": {
+    "w": 4608,
+    "h": 3456
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.415086822487799,
+    "camera_matrix": [
+      [
+        2958.796983031618,
+        0.0,
+        2472.747877998257
+      ],
+      [
+        0.0,
+        2953.0505325693343,
+        1720.4574891529628
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4255778533124335,
+      0.03649450068544528,
+      -0.26943966426470756,
+      0.5642726355008466
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

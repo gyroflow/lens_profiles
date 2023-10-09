@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_p950___1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Windows 10",
+  "camera_brand": "Nikon",
+  "camera_model": "p950",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 4.593958282361553,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.931592748617739,
+    "camera_matrix": [
+      [
+        1630.093528756963,
+        0.0,
+        962.1320773172288
+      ],
+      [
+        0.0,
+        1631.0120690936849,
+        531.1918755344337
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2995777091759553,
+      0.530415166160335,
+      -2.1861296002182553,
+      4.682612259695614
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

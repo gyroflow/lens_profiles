@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone 14 Pro_Main 24mm_24mm 24fps_4k_16by9_3840x2160-24.00fps",
+  "note": "24mm 24fps",
+  "calibrated_by": "Ben Jumper",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 14 Pro",
+  "lens_model": "Main 24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 2160,
+    "h": 3840
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 23.997477,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7948994353552868,
+    "camera_matrix": [
+      [
+        3155.0933611986115,
+        0.0,
+        1918.0458210046152
+      ],
+      [
+        0.0,
+        3154.3047253265872,
+        1066.5722808989103
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32301779356698723,
+      3.457348192765895,
+      -23.520424901444464,
+      50.19406142627793
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

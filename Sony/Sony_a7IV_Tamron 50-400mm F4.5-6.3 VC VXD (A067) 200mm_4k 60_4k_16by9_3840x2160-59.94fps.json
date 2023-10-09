@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_Tamron 50-400mm F4.5-6.3 VC VXD (A067) 200mm_4k 60_4k_16by9_3840x2160-59.94fps",
+  "note": "4k 60",
+  "calibrated_by": "Roger Wu",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "Tamron 50-400mm F4.5-6.3 VC VXD (A067) 200mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7462115624310063,
+    "camera_matrix": [
+      [
+        37529.039547316526,
+        0.0,
+        2353.0440465130932
+      ],
+      [
+        0.0,
+        37408.23669164711,
+        1026.998761916621
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -1.5531201469416038,
+      1133.86029221976,
+      -347491.2239900544,
+      37572986.54397325
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7m4-204.00mm-3840x2160@59940",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 204.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Samyang 35mm T1.5 UMC II__C4k_1.90by1_4096x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "Volkan S.",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Samyang 35mm T1.5 UMC II",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8908153079580169,
+    "camera_matrix": [
+      [
+        5192.040847909477,
+        0.0,
+        2005.672769802742
+      ],
+      [
+        0.0,
+        5189.000627911,
+        1085.0954781036623
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1309452147886656,
+      2.141094845902677,
+      -22.8396454592005,
+      87.06521071404698
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

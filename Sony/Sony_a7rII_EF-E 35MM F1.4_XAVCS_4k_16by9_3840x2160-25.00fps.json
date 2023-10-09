@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7rII_EF-E 35MM F1.4_XAVCS_4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "",
+  "camera_brand": "Sony",
+  "camera_model": "a7rII",
+  "lens_model": "EF-E 35MM F1.4",
+  "camera_setting": "XAVCS",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.838951534646047,
+    "camera_matrix": [
+      [
+        4089.896728594266,
+        0.0,
+        1928.924104789732
+      ],
+      [
+        0.0,
+        4083.69401418759,
+        1025.531965376518
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.029308177126460905,
+      3.4397565399451593,
+      -19.87850063158574,
+      42.76029102081903
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-21",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

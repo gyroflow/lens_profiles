@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_x-S10_15-45__1080p_16by9_1920x1080-24.00fps",
+  "note": "",
+  "calibrated_by": "Yang",
+  "camera_brand": "Fujifilm",
+  "camera_model": "x-S10",
+  "lens_model": "15-45",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3659183413651326,
+    "camera_matrix": [
+      [
+        1187.357484183098,
+        0.0,
+        967.1121801510808
+      ],
+      [
+        0.0,
+        1187.6665139914187,
+        536.2972794574239
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2860666582141903,
+      0.3680822073651456,
+      -0.5766956799856725,
+      0.6088230199376392
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

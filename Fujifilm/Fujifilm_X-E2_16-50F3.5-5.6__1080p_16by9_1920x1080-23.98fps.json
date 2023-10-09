@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-E2_16-50F3.5-5.6__1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Ignat",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-E2",
+  "lens_model": "16-50F3.5-5.6",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6124145212201839,
+    "camera_matrix": [
+      [
+        1469.3815742783647,
+        0.0,
+        921.2411842534792
+      ],
+      [
+        0.0,
+        1467.057035324343,
+        562.7018709815238
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.16698590247627915,
+      0.5924590211442632,
+      -1.2867280663631249,
+      1.6009490823125747
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

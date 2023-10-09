@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-1_61a4ed64__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "彭勇",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-1",
+  "lens_model": "61a4ed64",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8734227626574326,
+    "camera_matrix": [
+      [
+        2646.0645655738576,
+        0.0,
+        1991.3402027944735
+      ],
+      [
+        0.0,
+        2642.377937727925,
+        1091.5528204332484
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.315824604992582,
+      0.14512284953233606,
+      0.10123932836811324,
+      -0.11323072578115306
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-1-61a4ed64-3840x2160@29970",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

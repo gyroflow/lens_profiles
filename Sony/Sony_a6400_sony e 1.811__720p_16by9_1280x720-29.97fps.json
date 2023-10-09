@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_sony e 1.8/11__720p_16by9_1280x720-29.97fps",
+  "note": "",
+  "calibrated_by": "neo kian ek",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "sony e 1.8/11",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4075244475340411,
+    "camera_matrix": [
+      [
+        616.3906809026446,
+        0.0,
+        642.3767993126394
+      ],
+      [
+        0.0,
+        615.4140878374973,
+        356.44115236448425
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4054015472057272,
+      -0.38195415711274183,
+      1.1941169803241805,
+      -0.8643301226336517
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_s5m2_s-s85__5k_3by2_5952x3968-29.97fps",
+  "note": "",
+  "calibrated_by": "hairong tong",
+  "camera_brand": "Panasonic",
+  "camera_model": "s5m2",
+  "lens_model": "s-s85",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 5952,
+    "h": 3968
+  },
+  "orig_dimension": {
+    "w": 5952,
+    "h": 3968
+  },
+  "output_dimension": {
+    "w": 5952,
+    "h": 3968
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2017918460021844,
+    "camera_matrix": [
+      [
+        15267.720353580802,
+        0.0,
+        3459.283881000993
+      ],
+      [
+        0.0,
+        15174.671431770465,
+        2051.6249544192183
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4414475061658793,
+      -5.1837117241310064,
+      -115.7225561083207,
+      5802.477739154624
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 85.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

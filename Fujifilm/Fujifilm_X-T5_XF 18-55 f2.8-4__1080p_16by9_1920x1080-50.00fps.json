@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-T5_XF 18-55 f2.8-4__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "PC",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-T5",
+  "lens_model": "XF 18-55 f2.8-4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3918148131693534,
+    "camera_matrix": [
+      [
+        1625.6790864725288,
+        0.0,
+        984.2168645953208
+      ],
+      [
+        0.0,
+        1624.569015916892,
+        534.9317925506533
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.24407339116866417,
+      0.6927788774699494,
+      -2.6425591161274107,
+      4.444608574002947
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

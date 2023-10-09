@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-H2S_Viltrox 13mm 1.4_OpenGate_6k_3by2_6240x4160-23.98fps",
+  "note": "",
+  "calibrated_by": "FuzzFace",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-H2S",
+  "lens_model": "Viltrox 13mm 1.4",
+  "camera_setting": "OpenGate",
+  "calib_dimension": {
+    "w": 6240,
+    "h": 4160
+  },
+  "orig_dimension": {
+    "w": 6240,
+    "h": 4160
+  },
+  "output_dimension": {
+    "w": 6240,
+    "h": 4160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8831571168747704,
+    "camera_matrix": [
+      [
+        3531.8499560156206,
+        0.0,
+        3165.8337000218366
+      ],
+      [
+        0.0,
+        3529.8901870689733,
+        2059.6673038369504
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2705995549563983,
+      0.2666977831740366,
+      -0.2764765539061087,
+      0.3856642605243176
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Sony_a7sIII_39.00mm__4k_16by9_3840x2160-100.00fps",
+  "note": "",
+  "calibrated_by": "ye",
+  "camera_brand": "Sony",
+  "camera_model": "a7sIII",
+  "lens_model": "39.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "num_images": 15,
+  "fps": 100.0,
+  "official": false,
+  "use_opencv_fisheye": true,
+  "fisheye_params": {
+    "RMS_error": 1.0662238389706182,
+    "camera_matrix": [
+      [
+        3690.677980592649,
+        0.0,
+        1865.744101888809
+      ],
+      [
+        0.0,
+        3692.86748093741,
+        1071.913534473435
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31653028172465075,
+      0.11360958744100634,
+      0.09406303261799732,
+      1.141063236889213
+    ],
+    "radial_distortion_limit": null
+  },
+  "use_opencv_standard": false,
+  "calib_params": {
+    "RMS_error": 0.0,
+    "camera_matrix": [],
+    "distortion_coeffs": [],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7sm3-39.00mm-3840x2160@100000",
+  "calibrator_version": "1.0.0-rc4",
+  "date": "2023-09-15",
+  "compatible_settings": []
+}

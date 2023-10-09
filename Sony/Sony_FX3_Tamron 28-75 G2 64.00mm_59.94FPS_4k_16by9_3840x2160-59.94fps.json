@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_Tamron 28-75 G2 64.00mm_59.94FPS_4k_16by9_3840x2160-59.94fps",
+  "note": "59.94FPS",
+  "calibrated_by": "阿原Ryuan",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "Tamron 28-75 G2 64.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9573191857407296,
+    "camera_matrix": [
+      [
+        15795.443041847482,
+        0.0,
+        1934.742686795033
+      ],
+      [
+        0.0,
+        15613.120772944189,
+        1128.5475519514398
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      3.358414675426598,
+      -128.13890295271457,
+      21036.553792422044,
+      -897986.8706523423
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx3-64.00mm-3840x2160@59940",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 64.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

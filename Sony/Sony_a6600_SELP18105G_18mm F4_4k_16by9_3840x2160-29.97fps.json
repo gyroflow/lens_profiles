@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6600_SELP18105G_18mm F4_4k_16by9_3840x2160-29.97fps",
+  "note": "Lens Compensation: Auto",
+  "calibrated_by": "Davide Projetto",
+  "camera_brand": "Sony",
+  "camera_model": "a6600",
+  "lens_model": "SELP18105G",
+  "camera_setting": "18mm F4",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9999875946872896,
+    "camera_matrix": [
+      [
+        3646.107925383713,
+        0.0,
+        1920.5097939130237
+      ],
+      [
+        0.0,
+        3639.551499420621,
+        1064.402177531548
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3358475518596387,
+      0.025492308159706815,
+      -0.0735095986778496,
+      1.3525708182490093
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

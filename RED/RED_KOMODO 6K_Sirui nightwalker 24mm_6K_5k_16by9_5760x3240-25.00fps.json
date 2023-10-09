@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Sirui nightwalker 24mm_6K_5k_16by9_5760x3240-25.00fps",
+  "note": "",
+  "calibrated_by": "Teemu Villikka",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Sirui nightwalker 24mm",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.759113552428939,
+    "camera_matrix": [
+      [
+        5283.155967664556,
+        0.0,
+        2892.8613848910595
+      ],
+      [
+        0.0,
+        5283.068319987747,
+        1597.8107669130482
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.16916123660883484,
+      0.026563862750004615,
+      0.5382430232096909,
+      0.2271713731107547
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

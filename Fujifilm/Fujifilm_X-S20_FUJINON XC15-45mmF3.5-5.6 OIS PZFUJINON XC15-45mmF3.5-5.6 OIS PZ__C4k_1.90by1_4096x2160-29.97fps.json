@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-S20_FUJINON XC15-45mmF3.5-5.6 OIS PZFUJINON XC15-45mmF3.5-5.6 OIS PZ__C4k_1.90by1_4096x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Владимир Ким",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-S20",
+  "lens_model": "FUJINON XC15-45mmF3.5-5.6 OIS PZFUJINON XC15-45mmF3.5-5.6 OIS PZ",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 3.0114731362275804,
+    "camera_matrix": [
+      [
+        3768.8766411364063,
+        0.0,
+        2078.5561576948617
+      ],
+      [
+        0.0,
+        3722.419477301449,
+        1508.139302559036
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3549846708060335,
+      -0.26808063431591794,
+      2.2932398522119675,
+      -3.6073608614445463
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

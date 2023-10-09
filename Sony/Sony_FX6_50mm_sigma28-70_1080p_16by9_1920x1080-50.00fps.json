@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_50mm_sigma28-70_1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Webb Zhou",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "50mm",
+  "camera_setting": "sigma28-70",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6289100054004246,
+    "camera_matrix": [
+      [
+        2675.629364251777,
+        0.0,
+        981.4308446001884
+      ],
+      [
+        0.0,
+        2710.3612921963218,
+        568.2674992220792
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.29963304973316435,
+      2.5827634114808826,
+      -36.59554155562229,
+      162.5363578980909
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx6v-49.50mm-1920x1080@50000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 49.5,
+  "crop_factor": null,
+  "global_shutter": false
+}

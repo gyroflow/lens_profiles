@@ -1,0 +1,69 @@
+{
+  "name": "RunCam_ThumbPro_xv__2k_9by16_2160x3840-30.00fps",
+  "note": "",
+  "calibrated_by": "Jacklyn",
+  "camera_brand": "RunCam",
+  "camera_model": "ThumbPro",
+  "lens_model": "xv",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2160,
+    "h": 3840
+  },
+  "orig_dimension": {
+    "w": 2160,
+    "h": 3840
+  },
+  "output_dimension": {
+    "w": 2160,
+    "h": 3840
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0794057282197642,
+    "camera_matrix": [
+      [
+        1477.1692309066368,
+        0.0,
+        1138.2823734181434
+      ],
+      [
+        0.0,
+        1977.6800958262495,
+        1896.0462026674152
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.03186627894232116,
+      -0.13339730426782315,
+      0.09507104819208308,
+      -0.028204245552667748
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "runcam-thumbpro-xv-2160x3840@30000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Irix 45mm FF_17:9_C4k_1.90by1_4096x2160-25.00fps",
+  "note": "Canon Focal Reducer 0.71x",
+  "calibrated_by": "Shikijo",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Irix 45mm FF",
+  "camera_setting": "17:9",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9012219880087,
+    "camera_matrix": [
+      [
+        7648.91596611158,
+        0.0,
+        2081.6894012024713
+      ],
+      [
+        0.0,
+        7649.499474365169,
+        1063.2603587269682
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3297830242655807,
+      -1.9031161336651423,
+      46.81580207024577,
+      -282.36087290382085
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

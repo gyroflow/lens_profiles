@@ -1,0 +1,69 @@
+{
+  "name": "GoPro_HERO3_wide_Auto_1080p_16by9_1920x1080-29.97fps",
+  "note": "4Sep2023",
+  "calibrated_by": "Andrew",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO3",
+  "lens_model": "wide",
+  "camera_setting": "Auto",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 5.544997493467704,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.769905501143818,
+    "camera_matrix": [
+      [
+        871.2463121658338,
+        0.0,
+        952.065028800516
+      ],
+      [
+        0.0,
+        886.1186893723869,
+        557.917216402088
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.03375394171476983,
+      0.09569472040133128,
+      -0.0037648806206820097,
+      -0.020605837895751832
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

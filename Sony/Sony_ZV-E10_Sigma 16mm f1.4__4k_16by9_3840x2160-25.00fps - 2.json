@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_Sigma 16mm f1.4__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Jiří Soukup",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "Sigma 16mm f1.4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8142435859273129,
+    "camera_matrix": [
+      [
+        2651.2069734993197,
+        0.0,
+        1946.1529252895016
+      ],
+      [
+        0.0,
+        2653.5365268709834,
+        1077.8096299065812
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30427093512098824,
+      0.30778998188853557,
+      -0.386312342380483,
+      0.39069534701708447
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

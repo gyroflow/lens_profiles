@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7rV_SIGMA 28-70mm F2.8 DG DN | Contemporary @70mm_70mm_6k_16by9_7680x4320-23.98fps",
+  "note": "IBIS OFF",
+  "calibrated_by": "Son Gallery",
+  "camera_brand": "Sony",
+  "camera_model": "a7rV",
+  "lens_model": "SIGMA 28-70mm F2.8 DG DN | Contemporary @70mm",
+  "camera_setting": "70mm",
+  "calib_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.502546667114911,
+    "camera_matrix": [
+      [
+        40766.49682210736,
+        0.0,
+        3854.350142078635
+      ],
+      [
+        0.0,
+        42656.57668471153,
+        2088.7890295724237
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.646404210297,
+      818.8195771102293,
+      -100009.49549640193,
+      4473537.177079309
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7rm5-70.00mm-7680x4320@23976",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 70.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Canon_r5c_rf 24-70mm__C4k_1.90by1_4096x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "Lev",
+  "camera_brand": "Canon",
+  "camera_model": "r5c",
+  "lens_model": "rf 24-70mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 0,
+    "h": 0
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8649033557532831,
+    "camera_matrix": [
+      [
+        3969.379056706788,
+        0.0,
+        2002.7220902841136
+      ],
+      [
+        0.0,
+        3969.0754963137288,
+        1050.4323942915653
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2266057288835711,
+      -0.1634721565913155,
+      1.7798970786339787,
+      -2.5370891325720573
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

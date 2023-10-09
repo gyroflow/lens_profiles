@@ -1,0 +1,69 @@
+{
+  "name": "GoPro_HERO7 Black_Linear_PAL_2.7k_4by3_2704x2028-25.00fps",
+  "note": "NO-EIS",
+  "calibrated_by": "Andrii Slobodianiuk",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO7 Black",
+  "lens_model": "Linear",
+  "camera_setting": "PAL",
+  "calib_dimension": {
+    "w": 2704,
+    "h": 2028
+  },
+  "orig_dimension": {
+    "w": 2704,
+    "h": 2028
+  },
+  "output_dimension": {
+    "w": 2704,
+    "h": 2028
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5868572445703146,
+    "camera_matrix": [
+      [
+        1478.3340898702982,
+        0.0,
+        1352.3884926572916
+      ],
+      [
+        0.0,
+        1472.2752661707236,
+        1017.9995035192604
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3390077042813022,
+      0.1234034304856204,
+      0.11847064041007022,
+      -0.005065272063146074
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "gopro-hero7black-linear-2704x2028@25000-no-eis",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

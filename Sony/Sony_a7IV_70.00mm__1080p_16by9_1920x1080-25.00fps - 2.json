@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_70.00mm__1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "王晨宇",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "70.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.43545153546695936,
+    "camera_matrix": [
+      [
+        3846.598199644765,
+        0.0,
+        970.4386316678276
+      ],
+      [
+        0.0,
+        3854.6199559581814,
+        465.496865811788
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.10802151637344956,
+      15.223998484234226,
+      -262.92088705835147,
+      1738.0249530725516
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 70.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a1_Voigtlander 75mm Nokton_8k_6k_16by9_7680x4320-23.98fps",
+  "note": "",
+  "calibrated_by": "Matt MacKenzie",
+  "camera_brand": "Sony",
+  "camera_model": "a1",
+  "lens_model": "Voigtlander 75mm Nokton",
+  "camera_setting": "8k",
+  "calib_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.269623981256828,
+    "camera_matrix": [
+      [
+        16217.972354360572,
+        0.0,
+        3930.926822137495
+      ],
+      [
+        0.0,
+        16238.2863915573,
+        2050.386907359627
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4415165618864406,
+      2.263915215446254,
+      -84.08444563964292,
+      813.2183061982278
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

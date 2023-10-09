@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_RF28mm F2.8 STM 28.00mm_6K 2.4:1_6k_2.37by1_6144x2592-50.00fps",
+  "note": "",
+  "calibrated_by": "Mixer",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "RF28mm F2.8 STM 28.00mm",
+  "camera_setting": "6K 2.4:1",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1236812926192288,
+    "camera_matrix": [
+      [
+        6661.567637755213,
+        0.0,
+        3095.1868134862416
+      ],
+      [
+        0.0,
+        6657.4744288189695,
+        1315.819554727849
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.22326664874815969,
+      -0.37002774723108256,
+      1.6655408205050974,
+      -2.6377286517369782
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-komodo6k-rf28mmf2.8stm-28.00mm-6144x2592@0",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 28.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

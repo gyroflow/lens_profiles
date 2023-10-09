@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_24-70mm F2.8 DG OS HSM | Art 017 24.00mm_17:9_5k_1.90by1_5120x2700-23.98fps",
+  "note": "",
+  "calibrated_by": "Bryan Wan",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "24-70mm F2.8 DG OS HSM | Art 017 24.00mm",
+  "camera_setting": "17:9",
+  "calib_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "orig_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "output_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6416188479493034,
+    "camera_matrix": [
+      [
+        5536.345008562094,
+        0.0,
+        2546.6659833321596
+      ],
+      [
+        0.0,
+        5536.89494848188,
+        1399.1328809522645
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.16481278297254454,
+      0.7175211684609831,
+      -3.713916819630397,
+      9.022228691352014
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.1",
+  "date": "2023-07-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7rII_7.5mm f2_apsc 25_4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "SUMGLE",
+  "camera_brand": "Sony",
+  "camera_model": "a7rII",
+  "lens_model": "7.5mm f2",
+  "camera_setting": "apsc 25",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 28.996282527881043,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.6948460256523965,
+    "camera_matrix": [
+      [
+        1596.1245914004803,
+        0.0,
+        1898.256691273427
+      ],
+      [
+        0.0,
+        1593.5169736506944,
+        1086.345398143258
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.01507429189860003,
+      0.016550916850450254,
+      -0.020909061462062145,
+      0.006301308083028479
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

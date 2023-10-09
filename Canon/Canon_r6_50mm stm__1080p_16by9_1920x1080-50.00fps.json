@@ -1,0 +1,69 @@
+{
+  "name": "Canon_r6_50mm stm__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Mu'izz Zahari",
+  "camera_brand": "Canon",
+  "camera_model": "r6",
+  "lens_model": "50mm stm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3480067246224322,
+    "camera_matrix": [
+      [
+        3031.324275258463,
+        0.0,
+        975.3242850522172
+      ],
+      [
+        0.0,
+        3029.94794677486,
+        523.380015857203
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2344008477332785,
+      -1.1639344786857773,
+      37.444414048510055,
+      -323.6519097861798
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

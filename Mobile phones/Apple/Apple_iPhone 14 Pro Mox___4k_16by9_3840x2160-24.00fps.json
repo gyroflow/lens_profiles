@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone 14 Pro Mox___4k_16by9_3840x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "Chris Hall",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 14 Pro Mox",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 23.997595,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.827783322325292,
+    "camera_matrix": [
+      [
+        3093.591954542505,
+        0.0,
+        1937.3596982861604
+      ],
+      [
+        0.0,
+        3091.7828456026327,
+        1078.1446585780154
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3867799098733299,
+      2.301596370210761,
+      -16.082410879605316,
+      32.91047922741993
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

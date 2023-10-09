@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_S5iix_Sigma 24-70 DG DN_4k ProRes Full Frame_C4k_1.90by1_4096x2160-23.98fps",
+  "note": "24 fps",
+  "calibrated_by": "Jonas Jezreel Cena",
+  "camera_brand": "Panasonic",
+  "camera_model": "S5iix",
+  "lens_model": "Sigma 24-70 DG DN",
+  "camera_setting": "4k ProRes Full Frame",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8648022756125334,
+    "camera_matrix": [
+      [
+        2814.488983891351,
+        0.0,
+        2050.0123183518367
+      ],
+      [
+        0.0,
+        2814.1448449976147,
+        1098.9751441588764
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3372720303037493,
+      0.3175131578146373,
+      -0.49783271106251664,
+      0.2803094378954352
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

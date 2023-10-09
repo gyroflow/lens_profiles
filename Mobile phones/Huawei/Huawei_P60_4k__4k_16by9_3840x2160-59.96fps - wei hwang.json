@@ -1,0 +1,69 @@
+{
+  "name": "Huawei_P60_4k__4k_16by9_3840x2160-59.96fps",
+  "note": "",
+  "calibrated_by": "wei hwang",
+  "camera_brand": "Huawei",
+  "camera_model": "P60",
+  "lens_model": "4k",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.963631,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5718130653538415,
+    "camera_matrix": [
+      [
+        3032.0318874943746,
+        0.0,
+        1938.853154529668
+      ],
+      [
+        0.0,
+        3031.0823310980177,
+        1067.1028993762238
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3050006551731539,
+      0.2883225319261364,
+      -0.17001954590187532,
+      -0.305325970456493
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Z CAM_E2-M4_Sigma 10-20mm f/4-5.6 Vilrox Speed Booster 0.71x @ 12mm_4096x_C4k_1.90by1_4096x2160-24.00fps",
+  "note": "C4K",
+  "calibrated_by": "Newpz Creative",
+  "camera_brand": "Z CAM",
+  "camera_model": "E2-M4",
+  "lens_model": "Sigma 10-20mm f/4-5.6 Vilrox Speed Booster 0.71x @ 12mm",
+  "camera_setting": "4096x",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8502625666217953,
+    "camera_matrix": [
+      [
+        1790.9213261620916,
+        0.0,
+        2058.6425832789946
+      ],
+      [
+        0.0,
+        1791.9825468859642,
+        1106.3960812684295
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2899087432324807,
+      0.27311060938087334,
+      -0.028164675733888263,
+      -0.03682673981031436
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

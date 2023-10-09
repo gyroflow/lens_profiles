@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO-X 6K S35_DZO Film 25mm Vespid Prime_17:9_5k_1.90by1_5120x2700-59.94fps",
+  "note": "",
+  "calibrated_by": "Greg Newland",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "lens_model": "DZO Film 25mm Vespid Prime",
+  "camera_setting": "17:9",
+  "calib_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "orig_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "output_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7435272171068059,
+    "camera_matrix": [
+      [
+        5989.776057162363,
+        0.0,
+        2558.2178433792865
+      ],
+      [
+        0.0,
+        5985.819739593192,
+        1345.682538888825
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1902546151091094,
+      0.1437604595435059,
+      -0.1660929475052806,
+      1.821377397028256
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

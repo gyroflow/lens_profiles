@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K Pro_Canon EF-S 10-18mm f/4.5-5.6 IS STM 18mm_18mm_6k_16by9_6144x3456-30.00fps",
+  "note": "",
+  "calibrated_by": "manuel",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K Pro",
+  "lens_model": "Canon EF-S 10-18mm f/4.5-5.6 IS STM 18mm",
+  "camera_setting": "18mm",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.942602404065603,
+    "camera_matrix": [
+      [
+        4473.863181069527,
+        0.0,
+        2994.1477658647873
+      ],
+      [
+        0.0,
+        4486.291502184261,
+        1701.7571241309322
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33428266164179693,
+      0.264858874549597,
+      -0.13138940325264398,
+      -0.12793324608395093
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera6kpro-canonef-s10-18mmf/4.5-5.6isstm-18mm-6144x3456@30000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 18.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

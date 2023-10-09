@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K G2_Canon EF-S 18-135mm f/3.5-5.6 IS 18mm_18mm_C4k_1.90by1_4096x2160-24.00fps",
+  "note": "18mm",
+  "calibrated_by": "Anton Jacobsson",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K G2",
+  "lens_model": "Canon EF-S 18-135mm f/3.5-5.6 IS 18mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9603468241093346,
+    "camera_matrix": [
+      [
+        4879.247805427656,
+        0.0,
+        2086.326686569237
+      ],
+      [
+        0.0,
+        4885.340636583763,
+        1131.4150742079653
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.17107304289208608,
+      -0.40847712202204384,
+      3.912050341129631,
+      -8.939349755985283
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera6kg2-canonef-s18-135mmf/3.5-5.6is-18mm-4096x2160@24000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 18.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

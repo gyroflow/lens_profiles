@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX30_Mike 12mm f2.8__C4k_1.90by1_4096x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "Eugene Akiwumi",
+  "camera_brand": "Sony",
+  "camera_model": "FX30",
+  "lens_model": "Mike 12mm f2.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9836287619658636,
+    "camera_matrix": [
+      [
+        2554.023168430964,
+        0.0,
+        2052.5237426497274
+      ],
+      [
+        0.0,
+        2554.0476661549283,
+        1084.0264594751193
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2550588986624152,
+      0.1663623533122617,
+      -0.07363022229676608,
+      0.2656641514049833
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

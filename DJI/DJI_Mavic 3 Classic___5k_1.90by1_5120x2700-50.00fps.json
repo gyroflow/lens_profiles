@@ -1,0 +1,69 @@
+{
+  "name": "DJI_Mavic 3 Classic___5k_1.90by1_5120x2700-50.00fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "DJI",
+  "camera_model": "Mavic 3 Classic",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "orig_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "output_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.294388626686232,
+    "camera_matrix": [
+      [
+        3373.7794390210497,
+        0.0,
+        2648.6524749292344
+      ],
+      [
+        0.0,
+        3374.931655014356,
+        1448.4416983718263
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3462444101966955,
+      0.21160911983812225,
+      -0.5086869787814975,
+      1.0386279154917613
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

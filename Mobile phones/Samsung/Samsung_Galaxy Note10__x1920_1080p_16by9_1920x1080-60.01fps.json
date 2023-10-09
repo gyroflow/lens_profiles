@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_Galaxy Note10__x1920_1080p_16by9_1920x1080-60.01fps",
+  "note": "",
+  "calibrated_by": "biroldesktoppc",
+  "camera_brand": "Samsung",
+  "camera_model": "Galaxy Note10",
+  "lens_model": "",
+  "camera_setting": "x1920",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1080,
+    "h": 1920
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.014156,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5583844758960664,
+    "camera_matrix": [
+      [
+        1864.5575270049997,
+        0.0,
+        917.85525269388
+      ],
+      [
+        0.0,
+        1865.7623904905463,
+        548.7239425663033
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5809144179410506,
+      -1.952399316443197,
+      10.871370726313092,
+      -22.109736499207273
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

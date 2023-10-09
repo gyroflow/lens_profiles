@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-1M2_78e7e48d__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Mairui Zhang",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-1M2",
+  "lens_model": "78e7e48d",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.908590192567288,
+    "camera_matrix": [
+      [
+        2225.771896184089,
+        0.0,
+        1937.88214295304
+      ],
+      [
+        0.0,
+        2220.5308538181957,
+        1048.9494409188685
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.34671778980379053,
+      0.019454005393679377,
+      0.5790109187415291,
+      -0.773540242106561
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-1m2-78e7e48d-3840x2160@29970",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_RX0M2_57ce99c9__1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Евгений Карманов",
+  "camera_brand": "Sony",
+  "camera_model": "RX0M2",
+  "lens_model": "57ce99c9",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.29959447896153635,
+    "camera_matrix": [
+      [
+        1322.2124552546209,
+        0.0,
+        958.9300380097142
+      ],
+      [
+        0.0,
+        1324.1858006171146,
+        529.6222035526846
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2386732373738092,
+      1.3801546126882878,
+      -5.073074452843477,
+      6.369886242976481
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-dsc-rx0m2-57ce99c9-1920x1080@23976",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

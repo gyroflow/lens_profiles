@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_SONY 20-70 F4__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "weitao mai",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "SONY 20-70 F4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8619675338055978,
+    "camera_matrix": [
+      [
+        1888.5685919995344,
+        0.0,
+        1903.8615845314716
+      ],
+      [
+        0.0,
+        1889.8655577065392,
+        1042.05571929781
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.29317414659982793,
+      0.14713409366700875,
+      0.04491077030582083,
+      0.04503565249363691
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 20.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

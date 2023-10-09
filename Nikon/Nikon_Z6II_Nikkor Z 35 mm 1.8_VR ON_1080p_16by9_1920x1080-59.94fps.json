@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z6II_Nikkor Z 35 mm 1.8_VR ON_1080p_16by9_1920x1080-59.94fps",
+  "note": "ELECTRONIC VR OFF",
+  "calibrated_by": "Syam Krishna",
+  "camera_brand": "Nikon",
+  "camera_model": "Z6II",
+  "lens_model": "Nikkor Z 35 mm 1.8",
+  "camera_setting": "VR ON",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4997384636325984,
+    "camera_matrix": [
+      [
+        1812.4042408105447,
+        0.0,
+        959.4815931544108
+      ],
+      [
+        0.0,
+        1814.2782169426523,
+        536.2045467640173
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31231005541442247,
+      0.4173604419218731,
+      -0.966814835952726,
+      1.5975341089942297
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

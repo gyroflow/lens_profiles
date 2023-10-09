@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS R_RF 24-105__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "pc",
+  "camera_brand": "Canon",
+  "camera_model": "EOS R",
+  "lens_model": "RF 24-105",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8771989095736785,
+    "camera_matrix": [
+      [
+        1710.5597710460668,
+        0.0,
+        771.5301167978841
+      ],
+      [
+        0.0,
+        1714.7515066084554,
+        561.7420836518429
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.39933004855854065,
+      -0.05123689043994209,
+      1.0033763341271271,
+      -1.1728059726416311
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-21",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

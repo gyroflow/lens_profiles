@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_D810_70-300mm f4__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "10975",
+  "camera_brand": "Nikon",
+  "camera_model": "D810",
+  "lens_model": "70-300mm f4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.39700113140422666,
+    "camera_matrix": [
+      [
+        4681.911376357097,
+        0.0,
+        1025.2536228683716
+      ],
+      [
+        0.0,
+        4688.928669028771,
+        497.9244580646967
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1362862798206091,
+      3.244614129372497,
+      -132.70496156082766,
+      1959.464579863585
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

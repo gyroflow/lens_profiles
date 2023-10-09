@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7rV_28.00mm__4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Masa iPhone",
+  "camera_brand": "Sony",
+  "camera_model": "a7rV",
+  "lens_model": "28.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.859366155407882,
+    "camera_matrix": [
+      [
+        3017.2885102778255,
+        0.0,
+        1882.688579220484
+      ],
+      [
+        0.0,
+        3017.8459248031304,
+        1075.1893401822674
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3219379531567295,
+      0.2505794629956281,
+      -0.0191505618268833,
+      0.7476872828433749
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7rm5-28.00mm-3840x2160@23976",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 28.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

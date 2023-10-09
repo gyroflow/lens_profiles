@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS R10_RF-S 18-45mm F4.5-6.3 is STM__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "",
+  "camera_brand": "Canon",
+  "camera_model": "EOS R10",
+  "lens_model": "RF-S 18-45mm F4.5-6.3 is STM",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.8522179399459864,
+    "camera_matrix": [
+      [
+        6787.662640726983,
+        0.0,
+        1778.1617247709785
+      ],
+      [
+        0.0,
+        6780.762159916821,
+        561.5096025081707
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.587278815801565,
+      -7.4764549721299165,
+      130.35885285179398,
+      -715.0461401178503
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

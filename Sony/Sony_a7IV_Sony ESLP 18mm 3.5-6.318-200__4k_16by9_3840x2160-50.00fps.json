@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_Sony ESLP 18mm 3.5-6.3/18-200__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Alexandr Kuznetsov",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "Sony ESLP 18mm 3.5-6.3/18-200",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 20,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.110140502395636,
+    "camera_matrix": [
+      [
+        3230.308693100638,
+        0.0,
+        1885.8531162946808
+      ],
+      [
+        0.0,
+        3230.366621494077,
+        1068.345453713098
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.35083219019364087,
+      -0.5812055680281139,
+      4.441656516460988,
+      -8.190822821160895
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7m4-18.00mm-3840x2160@50000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 18.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "纽曼_LF0779-4663__48000000_4k_16by9_3840x2160-60.00fps",
+  "note": "48000000",
+  "calibrated_by": "李鑫",
+  "camera_brand": "纽曼",
+  "camera_model": "LF0779-4663",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1328272474138754,
+    "camera_matrix": [
+      [
+        2166.410280991292,
+        0.0,
+        1890.363859811287
+      ],
+      [
+        0.0,
+        2167.834335360638,
+        1045.533510014967
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1689716229634554,
+      -0.16323046640126176,
+      -0.027862630926451217,
+      0.03258234729815937
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_D3100_Nikkonor AF 85mm__1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Eva Watis",
+  "camera_brand": "Nikon",
+  "camera_model": "D3100",
+  "lens_model": "Nikkonor AF 85mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.40243914233702555,
+    "camera_matrix": [
+      [
+        7028.276344516042,
+        0.0,
+        805.5518859585287
+      ],
+      [
+        0.0,
+        6960.725403435955,
+        646.3006130515372
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3773701796278252,
+      -15.679531627336516,
+      858.2095958401577,
+      -16749.392575829883
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

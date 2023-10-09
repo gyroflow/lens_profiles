@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_LAOWA 15_6K 17:9_6k_1.90by1_6144x3240-25.00fps",
+  "note": "Zero-D",
+  "calibrated_by": "Andre Larsen",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "LAOWA 15",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6525826323595115,
+    "camera_matrix": [
+      [
+        3552.572735551508,
+        0.0,
+        3076.129265426421
+      ],
+      [
+        0.0,
+        3552.346053202472,
+        1609.5486895979495
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3126994216969394,
+      0.20449324832388424,
+      -0.2370688998377426,
+      0.3635798830629036
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

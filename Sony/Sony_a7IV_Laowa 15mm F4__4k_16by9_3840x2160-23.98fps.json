@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_Laowa 15mm F4__4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "刘洋",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "Laowa 15mm F4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": -26.8,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6378999177918865,
+    "camera_matrix": [
+      [
+        1708.0029170192536,
+        0.0,
+        1914.989987855308
+      ],
+      [
+        0.0,
+        1702.4830459174434,
+        1115.125151390838
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.26682815228146023,
+      -0.0613204907762728,
+      0.1772796547335912,
+      0.04889420088548617
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_ZEISS SUPERSPEED 25mm T2.8_6K_5k_16by9_5760x3240-23.98fps",
+  "note": "",
+  "calibrated_by": "Yosuke Suga",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "ZEISS SUPERSPEED 25mm T2.8",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.20010088463555,
+    "camera_matrix": [
+      [
+        5885.059348793634,
+        0.0,
+        2908.5259814715837
+      ],
+      [
+        0.0,
+        5880.820392331559,
+        1578.423105656275
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.171921604045921,
+      0.5342088457788492,
+      -2.232061463330499,
+      5.0378493927412205
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

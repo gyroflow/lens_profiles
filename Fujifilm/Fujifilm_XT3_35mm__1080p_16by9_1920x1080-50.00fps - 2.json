@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_XT3_35mm__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Olcay Önkör",
+  "camera_brand": "Fujifilm",
+  "camera_model": "XT3",
+  "lens_model": "35mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.35902736751047737,
+    "camera_matrix": [
+      [
+        2992.574889542733,
+        0.0,
+        995.9476566791552
+      ],
+      [
+        0.0,
+        2993.090104509441,
+        529.444103685945
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3092042545130523,
+      -4.893128115581475,
+      135.53582711417926,
+      -1138.0662225401404
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

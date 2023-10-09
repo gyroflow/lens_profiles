@@ -1,0 +1,69 @@
+{
+  "name": "MI_K30PRO1X_1X__1080p_16by9_1920x1080-30.05fps",
+  "note": "",
+  "calibrated_by": "路西",
+  "camera_brand": "MI",
+  "camera_model": "K30PRO1X",
+  "lens_model": "1X",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.046705,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.39126947214909974,
+    "camera_matrix": [
+      [
+        1727.5689040809866,
+        0.0,
+        967.9961451839384
+      ],
+      [
+        0.0,
+        1728.4292828269834,
+        533.1290342425094
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3983431094704853,
+      -0.4077775372501149,
+      2.7484334568276707,
+      -4.395509813551413
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

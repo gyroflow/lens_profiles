@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K Pro_24mm T1.5 FF | 017 24mm__6k_16by9_6144x3456-24.00fps",
+  "note": "",
+  "calibrated_by": "Kevin Lankford",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K Pro",
+  "lens_model": "24mm T1.5 FF | 017 24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "frame_readout_time": 19.73,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.074510435967598,
+    "camera_matrix": [
+      [
+        6781.699124924537,
+        0.0,
+        3197.467507880397
+      ],
+      [
+        0.0,
+        6787.733424679516,
+        1605.1220798880438
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.14644436438955216,
+      1.8216096489844809,
+      -10.97272173698494,
+      28.278606205755143
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera6kpro-24mmt1.5ff|017-24mm-6144x3456@24000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Canon_C70_Tokina 11-20_raw_C4k_1.90by1_4096x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "SPictures",
+  "camera_brand": "Canon",
+  "camera_model": "C70",
+  "lens_model": "Tokina 11-20",
+  "camera_setting": "raw",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2657604925456518,
+    "camera_matrix": [
+      [
+        1758.9120286351026,
+        0.0,
+        2007.287774963986
+      ],
+      [
+        0.0,
+        1761.1756845626164,
+        1033.6149841769825
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.333704284656841,
+      0.10235835634106412,
+      -0.06481477274036083,
+      0.11247232365385627
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

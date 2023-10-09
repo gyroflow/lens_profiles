@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K Pro_Canon EF 24-105mm f/4L IS II USM 35mm_BRaw 8:1_C4k_1.90by1_4096x2160-30.00fps",
+  "note": "lens on 35mm",
+  "calibrated_by": "Nuno Meneses",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K Pro",
+  "lens_model": "Canon EF 24-105mm f/4L IS II USM 35mm",
+  "camera_setting": "BRaw 8:1",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.154582221976017,
+    "camera_matrix": [
+      [
+        9537.359782380408,
+        0.0,
+        2115.1390584096207
+      ],
+      [
+        0.0,
+        9533.8525300246,
+        1056.6003051107568
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2946987109293163,
+      7.440819827673689,
+      -300.3445495264063,
+      4000.2298739553135
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera6kpro-canonef24-105mmf/4lisiiusm-35mm-4096x2160@30000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7sIII_24mm_Sigma Art 24-70 2.8_4k_16by9_3840x2160-23.98fps",
+  "note": "Sigma Art 24-70 2.8",
+  "calibrated_by": "User",
+  "camera_brand": "Sony",
+  "camera_model": "a7sIII",
+  "lens_model": "24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": 0.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 81,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7164826161580241,
+    "camera_matrix": [
+      [
+        2851.7520404221705,
+        0.0,
+        1928.393751452281
+      ],
+      [
+        0.0,
+        2851.174891128803,
+        1070.4853508731928
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1515876830334239,
+      0.3472359515885328,
+      -0.720428887783417,
+      1.410282736609333
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7sm3-26.60mm-3840x2160@23976",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": 1.0,
+  "global_shutter": false
+}

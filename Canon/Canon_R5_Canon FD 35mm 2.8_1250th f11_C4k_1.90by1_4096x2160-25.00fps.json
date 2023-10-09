@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R5_Canon FD 35mm 2.8_1/250th f11_C4k_1.90by1_4096x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Jimmy Wacher",
+  "camera_brand": "Canon",
+  "camera_model": "R5",
+  "lens_model": "Canon FD 35mm 2.8",
+  "camera_setting": "1/250th f11",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8106308304708393,
+    "camera_matrix": [
+      [
+        4261.57191179565,
+        0.0,
+        2021.5011410580687
+      ],
+      [
+        0.0,
+        4266.62532634412,
+        1068.0592086648714
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19819926022628676,
+      0.6774644046165279,
+      -3.2319964130833947,
+      8.012189073249422
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_Canon FD 28mm f/2.8_CineEI,_C4k_1.90by1_4096x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Karl Frederick Mattson",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "Canon FD 28mm f/2.8",
+  "camera_setting": "CineEI,",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.3617634303108688,
+    "camera_matrix": [
+      [
+        3685.7235307481537,
+        0.0,
+        2031.922417053665
+      ],
+      [
+        0.0,
+        3685.009298239113,
+        1087.738218569992
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.18220948217670932,
+      0.473435801330904,
+      -0.9726720944432352,
+      2.0913152695372683
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_GH4_Sigma 18-35mm Aputure Lens Regain_96/_1080p_16by9_1920x1080-25.00fps",
+  "note": "@35mm",
+  "calibrated_by": "Jasper Bleeker",
+  "camera_brand": "Panasonic",
+  "camera_model": "GH4",
+  "lens_model": "Sigma 18-35mm Aputure Lens Regain",
+  "camera_setting": "96/",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3077440712042566,
+    "camera_matrix": [
+      [
+        3033.367158254178,
+        0.0,
+        939.9409609711764
+      ],
+      [
+        0.0,
+        3029.5249119340765,
+        584.2678847103749
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3620279479930856,
+      0.5398592884050177,
+      1.6160450698719968,
+      -3.4325120777194003
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

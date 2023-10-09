@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-1_692d237e__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "wyh",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-1",
+  "lens_model": "692d237e",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4468295178184932,
+    "camera_matrix": [
+      [
+        1373.2294615241392,
+        0.0,
+        938.8741076911364
+      ],
+      [
+        0.0,
+        1368.6818159681682,
+        545.689558728123
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3603780659988178,
+      -0.026945580192228234,
+      0.6065274129317929,
+      -0.7716547804655224
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-1-692d237e-1920x1080@50000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

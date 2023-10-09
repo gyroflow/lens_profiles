@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone 13 Pro Max_x0.5_x0.5_720p_16by9_1280x720-30.00fps",
+  "note": "Apple",
+  "calibrated_by": "Xeros",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 13 Pro Max",
+  "lens_model": "x0.5",
+  "camera_setting": "x0.5",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.23241185145055857,
+    "camera_matrix": [
+      [
+        583.6028684751791,
+        0.0,
+        639.268732048227
+      ],
+      [
+        0.0,
+        583.0041901490356,
+        363.1382249513228
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3445060430870825,
+      0.06072684549953441,
+      0.14811702712108846,
+      0.006165389373905698
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

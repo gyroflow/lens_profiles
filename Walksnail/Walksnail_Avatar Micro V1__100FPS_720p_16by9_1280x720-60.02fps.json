@@ -1,0 +1,69 @@
+{
+  "name": "Walksnail_Avatar Micro V1__100FPS_720p_16by9_1280x720-60.02fps",
+  "note": "",
+  "calibrated_by": "Amos Wong",
+  "camera_brand": "Walksnail",
+  "camera_model": "Avatar Micro V1",
+  "lens_model": "",
+  "camera_setting": "100FPS",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 34,
+  "fps": 60.017502,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4264468788140509,
+    "camera_matrix": [
+      [
+        490.5641735816184,
+        0.0,
+        638.8715474912284
+      ],
+      [
+        0.0,
+        490.8532665615459,
+        386.7981668601813
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.028201589673536386,
+      -0.007717300690959949,
+      0.02790941539653361,
+      -0.022561363777035395
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

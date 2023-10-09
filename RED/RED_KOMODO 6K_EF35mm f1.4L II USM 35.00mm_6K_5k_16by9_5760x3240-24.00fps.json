@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_EF35mm f/1.4L II USM 35.00mm_6K_5k_16by9_5760x3240-24.00fps",
+  "note": "",
+  "calibrated_by": "Studio B",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "EF35mm f/1.4L II USM 35.00mm",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8869093876500983,
+    "camera_matrix": [
+      [
+        5658.265107144242,
+        0.0,
+        3379.3932898208136
+      ],
+      [
+        0.0,
+        5653.983271548889,
+        1353.3884566363913
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3101770981649627,
+      0.17895452984120813,
+      -0.2636692897382918,
+      1.1811395344322313
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-komodo6k-ef35mmf/1.4liiusm-35.00mm-5760x3240@0",
+  "calibrator_version": "1.5.1",
+  "date": "2023-09-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

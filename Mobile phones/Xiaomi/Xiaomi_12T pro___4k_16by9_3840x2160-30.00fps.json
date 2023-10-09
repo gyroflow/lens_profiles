@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_12T pro___4k_16by9_3840x2160-30.00fps",
+  "note": "",
+  "calibrated_by": "Чесноков Антон Юрьевич",
+  "camera_brand": "Xiaomi",
+  "camera_model": "12T pro",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.997358,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0397407515103652,
+    "camera_matrix": [
+      [
+        3333.240387334253,
+        0.0,
+        1882.100972937343
+      ],
+      [
+        0.0,
+        3335.653790881703,
+        1092.9929145121212
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5682971069848216,
+      -0.7223373980669727,
+      1.8261334075704945,
+      -4.51019954764427
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E1_10mm f4.0 apsc cookie_24_4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Luke Bredar",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E1",
+  "lens_model": "10mm f4.0 apsc cookie",
+  "camera_setting": "24",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7395884875670464,
+    "camera_matrix": [
+      [
+        1100.7047597852927,
+        0.0,
+        1927.767910426589
+      ],
+      [
+        0.0,
+        1100.5945797308725,
+        1083.6797091375422
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2959816552885771,
+      0.08307203077780408,
+      0.057243437656397465,
+      0.052226409235347306
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

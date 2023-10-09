@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_yongnuo50__1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "杨丕展",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "yongnuo50",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.42343825061471535,
+    "camera_matrix": [
+      [
+        2813.1505829765674,
+        0.0,
+        957.5565828763008
+      ],
+      [
+        0.0,
+        2812.154638694562,
+        528.52509100247
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5762156037184069,
+      -0.268414287505476,
+      0.3677018537145708,
+      5.6615128907173
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-747952c4-1920x1080@25000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 50.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

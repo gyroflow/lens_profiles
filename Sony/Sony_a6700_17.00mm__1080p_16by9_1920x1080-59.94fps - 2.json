@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6700_17.00mm__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "張哲修",
+  "camera_brand": "Sony",
+  "camera_model": "a6700",
+  "lens_model": "17.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.6806847057312937,
+    "camera_matrix": [
+      [
+        1806.634314457725,
+        0.0,
+        968.2778101429092
+      ],
+      [
+        0.0,
+        1819.8710461284109,
+        488.85431810807256
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.7609031512309569,
+      -1.119430477223045,
+      12.057600067535883,
+      -20.361285523684284
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 17.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

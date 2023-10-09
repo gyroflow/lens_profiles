@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E1_20-70f4-70.00mm__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "star bumpkin",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E1",
+  "lens_model": "20-70f4-70.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9442835341849036,
+    "camera_matrix": [
+      [
+        10639.54419758808,
+        0.0,
+        2004.617842136597
+      ],
+      [
+        0.0,
+        10642.120602057024,
+        1258.3845001249542
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2834254223208564,
+      40.33401236080393,
+      -2380.8550214514225,
+      42100.388052189795
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-e1-70.00mm-3840x2160@50000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 70.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

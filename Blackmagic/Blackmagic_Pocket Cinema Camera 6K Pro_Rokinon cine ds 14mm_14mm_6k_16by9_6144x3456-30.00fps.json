@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K Pro_Rokinon cine ds 14mm_14mm_6k_16by9_6144x3456-30.00fps",
+  "note": "",
+  "calibrated_by": "manuel",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K Pro",
+  "lens_model": "Rokinon cine ds 14mm",
+  "camera_setting": "14mm",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.4138828138567563,
+    "camera_matrix": [
+      [
+        3886.812239288695,
+        0.0,
+        3106.117656937395
+      ],
+      [
+        0.0,
+        3885.268271879741,
+        1702.789196255409
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.16806734899033168,
+      0.2554459776281994,
+      -0.4226337951730542,
+      0.5366362249820551
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera6kpro-rokinoncineds-14mm-6144x3456@30000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 14.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

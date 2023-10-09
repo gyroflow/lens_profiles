@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_CN-E24mm T1.5 L F 24.00mm_6K 17:9_6k_1.90by1_6144x3240-23.98fps",
+  "note": "",
+  "calibrated_by": "Bryan Redding",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "CN-E24mm T1.5 L F 24.00mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6924655132775243,
+    "camera_matrix": [
+      [
+        3959.1154577866178,
+        0.0,
+        3040.2673516452187
+      ],
+      [
+        0.0,
+        3965.876489106976,
+        1642.5482975944533
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2684198158186662,
+      -0.03177831111579541,
+      0.8409661734040077,
+      -0.6084140531510527
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-31",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

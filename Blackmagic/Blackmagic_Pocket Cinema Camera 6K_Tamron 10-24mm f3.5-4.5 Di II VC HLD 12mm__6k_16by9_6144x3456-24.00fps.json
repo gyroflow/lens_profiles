@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K_Tamron 10-24mm f/3.5-4.5 Di II VC HLD 12mm__6k_16by9_6144x3456-24.00fps",
+  "note": "",
+  "calibrated_by": "Geovanny",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K",
+  "lens_model": "Tamron 10-24mm f/3.5-4.5 Di II VC HLD 12mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "frame_readout_time": 19.73,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.229326673599434,
+    "camera_matrix": [
+      [
+        3133.881234947246,
+        0.0,
+        3042.805497999204
+      ],
+      [
+        0.0,
+        3135.1790492248306,
+        1719.5779461079871
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3499983643265039,
+      0.18128415849488227,
+      -0.3399724276848838,
+      0.4014916696601828
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera6k-tamron10-24mmf/3.5-4.5diiivchld-12mm-6144x3456@24000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 12.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Sigma 24-70 f2.8 DG_6K_5k_16by9_5760x3240-23.98fps",
+  "note": "",
+  "calibrated_by": "Spencer Brown",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Sigma 24-70 f2.8 DG",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9801865473154868,
+    "camera_matrix": [
+      [
+        3907.1478403088577,
+        0.0,
+        2879.187038781932
+      ],
+      [
+        0.0,
+        3906.235979798572,
+        1629.5347957358606
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.15902361985105418,
+      0.1496645834100958,
+      -0.12318177746822566,
+      0.4100039164799314
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

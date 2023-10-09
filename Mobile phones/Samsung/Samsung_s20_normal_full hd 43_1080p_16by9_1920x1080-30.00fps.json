@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_s20_normal_full hd 4/3_1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "calibrated_by": "zo",
+  "camera_brand": "Samsung",
+  "camera_model": "s20",
+  "lens_model": "normal",
+  "camera_setting": "full hd 4/3",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 30.000185,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5022592271375639,
+    "camera_matrix": [
+      [
+        1644.306559732216,
+        0.0,
+        930.2341349254776
+      ],
+      [
+        0.0,
+        1357.659646864722,
+        512.0902112746945
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.7093522631030525,
+      -4.001465477220606,
+      22.228540565401616,
+      -37.60876102750404
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_70.00mm_Shutter Angle 90_C4k_1.90by1_4096x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Ben Reiss",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "70.00mm",
+  "camera_setting": "Shutter Angle 90",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6829170313994268,
+    "camera_matrix": [
+      [
+        8312.265260772429,
+        0.0,
+        2090.9708645862174
+      ],
+      [
+        0.0,
+        8305.49832847606,
+        1108.0441697045871
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.16695840661038883,
+      9.504238888839756,
+      -227.09092304018313,
+      1954.235941046478
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx6v-70.00mm-4096x2160@25000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 70.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

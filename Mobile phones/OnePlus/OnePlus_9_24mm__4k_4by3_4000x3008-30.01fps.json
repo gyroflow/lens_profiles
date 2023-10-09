@@ -1,0 +1,69 @@
+{
+  "name": "OnePlus_9_24mm__4k_4by3_4000x3008-30.01fps",
+  "note": "",
+  "calibrated_by": "U0 A281",
+  "camera_brand": "OnePlus",
+  "camera_model": "9",
+  "lens_model": "24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4000,
+    "h": 3008
+  },
+  "orig_dimension": {
+    "w": 4000,
+    "h": 3008
+  },
+  "output_dimension": {
+    "w": 4000,
+    "h": 3008
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 30.009575,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.224288623572606,
+    "camera_matrix": [
+      [
+        2816.674390352368,
+        0.0,
+        1983.8603042811783
+      ],
+      [
+        0.0,
+        2804.7443209937737,
+        1487.3329205431162
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33892549090600327,
+      0.20251264901491048,
+      0.2692035645211352,
+      -0.9071277651912192
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

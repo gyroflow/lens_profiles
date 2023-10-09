@@ -1,0 +1,69 @@
+{
+  "name": "Canon_6D_ef24-105__1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "大果果粒",
+  "camera_brand": "Canon",
+  "camera_model": "6D",
+  "lens_model": "ef24-105",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.692705038945081,
+    "camera_matrix": [
+      [
+        1262.5596758531974,
+        0.0,
+        1113.9607429248151
+      ],
+      [
+        0.0,
+        1259.050952093687,
+        563.6550614917472
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3462617330869208,
+      0.08599621584011495,
+      0.08262241071556177,
+      0.13192908643952436
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

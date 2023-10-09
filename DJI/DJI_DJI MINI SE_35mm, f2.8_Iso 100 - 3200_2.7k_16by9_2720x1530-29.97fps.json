@@ -1,0 +1,69 @@
+{
+  "name": "DJI_DJI MINI SE_35mm, f2.8_Iso 100 - 3200_2.7k_16by9_2720x1530-29.97fps",
+  "note": "",
+  "calibrated_by": "Simon Sommer",
+  "camera_brand": "DJI",
+  "camera_model": "DJI MINI SE",
+  "lens_model": "35mm, f2.8",
+  "camera_setting": "Iso 100 - 3200",
+  "calib_dimension": {
+    "w": 2720,
+    "h": 1530
+  },
+  "orig_dimension": {
+    "w": 2720,
+    "h": 1530
+  },
+  "output_dimension": {
+    "w": 2720,
+    "h": 1530
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5432127038601239,
+    "camera_matrix": [
+      [
+        2179.5741298843877,
+        0.0,
+        1376.5632032791127
+      ],
+      [
+        0.0,
+        2177.944837280685,
+        761.161062591389
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3562314043025256,
+      0.2146106927216178,
+      -1.404880952165889,
+      4.130152273439358
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

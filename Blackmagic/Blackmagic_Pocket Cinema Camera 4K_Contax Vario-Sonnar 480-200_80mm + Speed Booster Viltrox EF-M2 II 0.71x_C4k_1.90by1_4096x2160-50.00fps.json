@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 4K_Contax Vario-Sonnar 4/80-200_80mm + Speed Booster Viltrox EF-M2 II 0.71x_C4k_1.90by1_4096x2160-50.00fps",
+  "note": "80mm + Speed Booster Viltrox EF-M2 II 0.71x",
+  "calibrated_by": "Dante Villa",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K",
+  "lens_model": "Contax Vario-Sonnar 4/80-200",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.5605433155734414,
+    "camera_matrix": [
+      [
+        15381.86884659656,
+        0.0,
+        -660.1815140507288
+      ],
+      [
+        0.0,
+        15098.030625055271,
+        2183.5581935670516
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -1.120511235784184,
+      16.329812631652334,
+      -124.71205854324349,
+      363.9055784833711
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

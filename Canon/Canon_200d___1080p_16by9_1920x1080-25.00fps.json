@@ -1,0 +1,69 @@
+{
+  "name": "Canon_200d___1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "vishnu prahalathan",
+  "camera_brand": "Canon",
+  "camera_model": "200d",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.43818512509435104,
+    "camera_matrix": [
+      [
+        4929.454755652794,
+        0.0,
+        964.2443036218384
+      ],
+      [
+        0.0,
+        4915.4630305758565,
+        582.1128885704923
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3488762873992343,
+      -4.640664690369318,
+      3.822835895703979,
+      1615.862108125361
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.1",
+  "date": "2023-07-21",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

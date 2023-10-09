@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_Galaxy A52___1080p_16by9_1920x1080-59.50fps",
+  "note": "",
+  "calibrated_by": "Farhan Anwar Shah",
+  "camera_brand": "Samsung",
+  "camera_model": "Galaxy A52",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 59.501152,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5707616697758698,
+    "camera_matrix": [
+      [
+        1635.3862455796843,
+        0.0,
+        988.3798730449766
+      ],
+      [
+        0.0,
+        1635.1917097710502,
+        544.5922937213467
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.7056004513945904,
+      -2.831524893534891,
+      11.895535277302669,
+      -17.028512129300672
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

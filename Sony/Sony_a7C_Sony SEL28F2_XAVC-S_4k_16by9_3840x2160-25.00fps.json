@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_Sony SEL28F2_XAVC-S_4k_16by9_3840x2160-25.00fps",
+  "note": "28mm Fullframe",
+  "calibrated_by": "Jörg Niggli | niggli.com",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "Sony SEL28F2",
+  "camera_setting": "XAVC-S",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0419282479380865,
+    "camera_matrix": [
+      [
+        2856.425387862823,
+        0.0,
+        1916.0714920946848
+      ],
+      [
+        0.0,
+        2857.938682275691,
+        1089.0721822010155
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33200523124452064,
+      0.11894074543473455,
+      0.04749966621187679,
+      0.2173666390449963
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-4a3bda60-3840x2160@25000",
+  "calibrator_version": "1.5.1",
+  "date": "2023-07-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

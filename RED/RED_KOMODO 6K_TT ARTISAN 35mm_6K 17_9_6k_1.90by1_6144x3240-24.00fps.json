@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_TT ARTISAN 35mm_6K 17:9_6k_1.90by1_6144x3240-24.00fps",
+  "note": "",
+  "calibrated_by": "Andreas Varsakopoulos",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "TT ARTISAN 35mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.230963044490502,
+    "camera_matrix": [
+      [
+        8229.255550223741,
+        0.0,
+        3066.027358703033
+      ],
+      [
+        0.0,
+        8231.728432245049,
+        1598.434527766291
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.09448529511294192,
+      1.543684143860263,
+      -12.752015785019813,
+      51.99921477489738
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.1",
+  "date": "2023-07-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

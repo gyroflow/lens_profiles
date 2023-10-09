@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_SIRUI 135mm Anamorphic_XAVC S   1/125_4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Keita Hagiwara",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "SIRUI 135mm Anamorphic",
+  "camera_setting": "XAVC S   1/125",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5500638763878284,
+    "camera_matrix": [
+      [
+        16139.888809825568,
+        0.0,
+        2075.0901808823787
+      ],
+      [
+        0.0,
+        27877.836764354473,
+        -1844.2005580378172
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      1.6226130623564556,
+      -147.9168365045991,
+      6693.498196438036,
+      -99080.45958102238
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

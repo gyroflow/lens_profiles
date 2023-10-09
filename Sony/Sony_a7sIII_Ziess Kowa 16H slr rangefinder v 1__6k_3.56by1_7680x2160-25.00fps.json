@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7sIII_Ziess Kowa 16H slr rangefinder v 1__6k_3.56by1_7680x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "iSmartBook",
+  "camera_brand": "Sony",
+  "camera_model": "a7sIII",
+  "lens_model": "Ziess Kowa 16H slr rangefinder v 1",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 7680,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 7680,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 7680,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 2.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5211509095672994,
+    "camera_matrix": [
+      [
+        32011.12072521344,
+        0.0,
+        3684.307507663528
+      ],
+      [
+        0.0,
+        87356.4829372925,
+        1113.5848029267895
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -17.300828243744245,
+      4727.17247899451,
+      -84661634.91423647,
+      111301437338.412
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

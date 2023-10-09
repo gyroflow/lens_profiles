@@ -1,0 +1,69 @@
+{
+  "name": "XTU_MAX2 CAM_Wide__4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "李昺森",
+  "camera_brand": "XTU",
+  "camera_model": "MAX2 CAM",
+  "lens_model": "Wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 3.018445169691156,
+    "camera_matrix": [
+      [
+        2370.5895333539615,
+        0.0,
+        2104.776694016252
+      ],
+      [
+        0.0,
+        2364.7855506513765,
+        1089.9517086541416
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.05022917277662519,
+      0.15348966572567468,
+      -0.5599961479872114,
+      0.5430333220264268
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "xtu-max2cam-xtu/xtu_max2_no-ldc_4k60_4k_16by9_3840x2160-59.94fps-wide-3840x2160@59940",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

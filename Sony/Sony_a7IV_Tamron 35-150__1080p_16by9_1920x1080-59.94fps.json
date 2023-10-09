@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_Tamron 35-150__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "党宏斌",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "Tamron 35-150",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4062137799495869,
+    "camera_matrix": [
+      [
+        2141.217909659076,
+        0.0,
+        980.9466383519796
+      ],
+      [
+        0.0,
+        2139.0688222725635,
+        525.5739488687875
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.22086395930229347,
+      0.09837039927536412,
+      3.823583275835352,
+      -16.73537201202994
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7m4-35.00mm-1920x1080@59940",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

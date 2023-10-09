@@ -1,0 +1,69 @@
+{
+  "name": "Oppo_Find X5 pro___1080p_16by9_1920x1080-60.01fps",
+  "note": "",
+  "calibrated_by": "Bambang Raharjo",
+  "camera_brand": "Oppo",
+  "camera_model": "Find X5 pro",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.00967,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.30367597371142346,
+    "camera_matrix": [
+      [
+        1031.5295469039356,
+        0.0,
+        954.8361256372154
+      ],
+      [
+        0.0,
+        1030.5408030069725,
+        548.2908036333723
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.40059636928591574,
+      0.052068117302565366,
+      0.040825860973843435,
+      0.0442681327786528
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

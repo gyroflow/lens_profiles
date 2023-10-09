@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_Mi 9_Wide (1x)__1080p_16by9_1920x1080-60.03fps",
+  "note": "",
+  "calibrated_by": "Speeter",
+  "camera_brand": "Xiaomi",
+  "camera_model": "Mi 9",
+  "lens_model": "Wide (1x)",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.032166,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.657668826248439,
+    "camera_matrix": [
+      [
+        1428.113637913793,
+        0.0,
+        968.353778683578
+      ],
+      [
+        0.0,
+        1429.1072565563886,
+        530.1010107013177
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.45411498706856906,
+      -0.5842446579297793,
+      3.830739892130825,
+      -7.370257290406327
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7sIII_33.00mm__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "YT",
+  "camera_brand": "Sony",
+  "camera_model": "a7sIII",
+  "lens_model": "33.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.41754707041077416,
+    "camera_matrix": [
+      [
+        1858.098736203608,
+        0.0,
+        961.1308397608324
+      ],
+      [
+        0.0,
+        1856.4936203776624,
+        525.7845308846623
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3015895885785093,
+      -0.03008785215878386,
+      2.308375657391184,
+      -4.607642496714207
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.1",
+  "date": "2023-07-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 33.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

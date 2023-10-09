@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX30_Brightin Star 10mm__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Олег Яковенко",
+  "camera_brand": "Sony",
+  "camera_model": "FX30",
+  "lens_model": "Brightin Star 10mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.769794332887635,
+    "camera_matrix": [
+      [
+        1799.7300737011094,
+        0.0,
+        1883.3746374056136
+      ],
+      [
+        0.0,
+        1795.8828053744028,
+        1061.4465412815016
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.0026852200371082426,
+      0.002658764416742949,
+      -0.019208579707679217,
+      0.009386555505414082
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 10.0,
+  "crop_factor": 1.5,
+  "global_shutter": false
+}

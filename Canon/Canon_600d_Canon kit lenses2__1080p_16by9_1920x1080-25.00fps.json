@@ -1,0 +1,69 @@
+{
+  "name": "Canon_600d_Canon kit lenses2__1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "BigBlack",
+  "camera_brand": "Canon",
+  "camera_model": "600d",
+  "lens_model": "Canon kit lenses2",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.027912295536218,
+    "camera_matrix": [
+      [
+        1740.2293803267046,
+        0.0,
+        1048.7048603685294
+      ],
+      [
+        0.0,
+        1736.9030448385554,
+        520.2770417307391
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.11451900224941149,
+      0.7010694836395595,
+      -2.5317655137155293,
+      4.270815990008053
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

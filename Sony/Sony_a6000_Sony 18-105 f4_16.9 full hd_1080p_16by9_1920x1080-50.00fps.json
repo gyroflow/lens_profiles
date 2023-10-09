@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6000_Sony 18-105 f4_16.9 full hd_1080p_16by9_1920x1080-50.00fps",
+  "note": "50fps",
+  "calibrated_by": "Massimo Bravetti",
+  "camera_brand": "Sony",
+  "camera_model": "a6000",
+  "lens_model": "Sony 18-105 f4",
+  "camera_setting": "16.9 full hd",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.45195972557474806,
+    "camera_matrix": [
+      [
+        1535.752506239709,
+        0.0,
+        959.6395957758348
+      ],
+      [
+        0.0,
+        1534.1204783332057,
+        547.4463468624366
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3964451830658878,
+      -0.7240603147926908,
+      3.1494786030214197,
+      -3.6696529986940742
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

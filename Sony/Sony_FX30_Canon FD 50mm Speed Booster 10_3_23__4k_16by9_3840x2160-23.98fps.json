@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX30_Canon FD 50mm Speed Booster 10_3_23__4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "carl bonifacio",
+  "camera_brand": "Sony",
+  "camera_model": "FX30",
+  "lens_model": "Canon FD 50mm Speed Booster 10_3_23",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5731747090214999,
+    "camera_matrix": [
+      [
+        9858.573883040006,
+        0.0,
+        1901.11581824862
+      ],
+      [
+        0.0,
+        9865.034245802211,
+        1314.3341036468132
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.14273119657230132,
+      0.9781831914163942,
+      -8.878350944767321,
+      -55.08185811127504
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R5_Laowa Zero-D 9mm T2.9__C4k_1.90by1_4096x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Jimmy Wacher",
+  "camera_brand": "Canon",
+  "camera_model": "R5",
+  "lens_model": "Laowa Zero-D 9mm T2.9",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9167053755617875,
+    "camera_matrix": [
+      [
+        992.9095049242748,
+        0.0,
+        2046.96297435299
+      ],
+      [
+        0.0,
+        992.8603715869212,
+        1038.460438920337
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3339635674482583,
+      0.1750294387957416,
+      -0.07850099758975349,
+      0.1342614246673518
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

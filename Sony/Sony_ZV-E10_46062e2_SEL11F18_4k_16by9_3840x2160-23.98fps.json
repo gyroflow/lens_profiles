@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_46062e2_SEL11F18_4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "46062e2",
+  "camera_setting": "SEL11F18",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 40.75,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0690695198635591,
+    "camera_matrix": [
+      [
+        1771.790126817154,
+        0.0,
+        1933.5503636663595
+      ],
+      [
+        0.0,
+        1773.8712559386508,
+        1060.1250790665056
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.333366638284082,
+      -0.03880694248196604,
+      0.4923972394436222,
+      -0.3073194123258951
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-21",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

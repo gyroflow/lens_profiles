@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_s5m2_s-s35__C4k_1.90by1_4096x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "hairong tong",
+  "camera_brand": "Panasonic",
+  "camera_model": "s5m2",
+  "lens_model": "s-s35",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9233775497875883,
+    "camera_matrix": [
+      [
+        5233.187088583565,
+        0.0,
+        2112.1258781055485
+      ],
+      [
+        0.0,
+        5238.078674471574,
+        1205.963440037733
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3693289627577177,
+      -1.8515799824186736,
+      23.12225352695671,
+      -86.49844258385242
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

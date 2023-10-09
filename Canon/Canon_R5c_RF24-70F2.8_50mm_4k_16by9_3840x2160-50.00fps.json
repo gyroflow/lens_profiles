@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R5c_RF24-70F2.8_50mm_4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "wangyang",
+  "camera_brand": "Canon",
+  "camera_model": "R5c",
+  "lens_model": "RF24-70F2.8",
+  "camera_setting": "50mm",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.4845291388907773,
+    "camera_matrix": [
+      [
+        29328.05264301548,
+        0.0,
+        1145.4566906332448
+      ],
+      [
+        0.0,
+        28640.703020417583,
+        1167.398881707904
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      8.911382764019299,
+      -2070.313880773504,
+      358408.79376357433,
+      -18816244.852235258
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

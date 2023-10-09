@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO-X 6K S35_EF24-70mm f/2.8L II USM 70.00mm_6K 2.4:1_6k_2.37by1_6144x2592-25.00fps",
+  "note": "",
+  "calibrated_by": "FASTFOKUS",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "lens_model": "EF24-70mm f/2.8L II USM 70.00mm",
+  "camera_setting": "6K 2.4:1",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.420961666177434,
+    "camera_matrix": [
+      [
+        15730.648010329194,
+        0.0,
+        3103.922862241175
+      ],
+      [
+        0.0,
+        15724.756868015857,
+        1349.6477780713165
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5355008057268669,
+      2.2732660904700337,
+      -112.22582893130142,
+      2077.819786728861
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-komodo-x6ks35-ef24-70mmf/2.8liiusm-70.00mm-6144x2592@0",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 70.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

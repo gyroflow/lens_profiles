@@ -1,0 +1,69 @@
+{
+  "name": "Sony_A99 II_vario-sonnar 2,8/24-70 ZA__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "ASUS",
+  "camera_brand": "Sony",
+  "camera_model": "A99 II",
+  "lens_model": "vario-sonnar 2,8/24-70 ZA",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4041605981008391,
+    "camera_matrix": [
+      [
+        1337.818985140735,
+        0.0,
+        945.9318336715648
+      ],
+      [
+        0.0,
+        1337.7967013454647,
+        541.9218999539117
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2194503034131335,
+      0.213267973453656,
+      -0.24460165394202613,
+      0.646066953876539
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-31",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

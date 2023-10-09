@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_TTartisan 50mm F0.95__4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Live用户",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "TTartisan 50mm F0.95",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 33.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.908780120164791,
+    "camera_matrix": [
+      [
+        8452.163740744018,
+        0.0,
+        2052.284409823091
+      ],
+      [
+        0.0,
+        8444.88940873961,
+        1057.1284044626325
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1473723829953499,
+      -0.5655193208996513,
+      26.22159056306041,
+      -437.9348567548571
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

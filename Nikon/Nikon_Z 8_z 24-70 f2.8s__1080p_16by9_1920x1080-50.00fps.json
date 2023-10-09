@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z 8_z 24-70 f2.8s__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Duguanze",
+  "camera_brand": "Nikon",
+  "camera_model": "Z 8",
+  "lens_model": "z 24-70 f2.8s",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": -4.89,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.23636374192552473,
+    "camera_matrix": [
+      [
+        1309.8826228253156,
+        0.0,
+        963.6832482527454
+      ],
+      [
+        0.0,
+        1309.1218903756303,
+        542.7129873725236
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3206402189291346,
+      0.17219706456599407,
+      0.14343507759817684,
+      -0.2079000252861566
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

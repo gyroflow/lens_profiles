@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_Note 10H_标准__720p_16by9_1280x720-29.90fps",
+  "note": "",
+  "calibrated_by": "sun",
+  "camera_brand": "Samsung",
+  "camera_model": "Note 10H",
+  "lens_model": "标准",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 29.895128,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.35424826636377915,
+    "camera_matrix": [
+      [
+        1266.199959210119,
+        0.0,
+        644.7421335789542
+      ],
+      [
+        0.0,
+        1265.1759354958667,
+        351.9174560871771
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.7155079767532744,
+      -2.2043501333979045,
+      2.744413501049874,
+      7.386322458274312
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-21",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

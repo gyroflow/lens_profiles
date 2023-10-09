@@ -1,0 +1,69 @@
+{
+  "name": "AKASO_Brave 6 Plus___1080p_16by9_1920x1080-60.06fps",
+  "note": "",
+  "calibrated_by": "thebigbigboss",
+  "camera_brand": "AKASO",
+  "camera_model": "Brave 6 Plus",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.061028,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7664533386745619,
+    "camera_matrix": [
+      [
+        873.7486496115839,
+        0.0,
+        999.5732020737504
+      ],
+      [
+        0.0,
+        959.767009804606,
+        538.2737513464042
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2219748759528286,
+      0.08472141372854794,
+      -0.15079065798361468,
+      0.17056027710352584
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

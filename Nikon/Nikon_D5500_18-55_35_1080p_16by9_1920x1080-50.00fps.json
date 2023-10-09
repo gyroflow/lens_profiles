@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_D5500_18-55_35_1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Jhony Wirawan",
+  "camera_brand": "Nikon",
+  "camera_model": "D5500",
+  "lens_model": "18-55",
+  "camera_setting": "35",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4459273381079253,
+    "camera_matrix": [
+      [
+        2722.6702308028903,
+        0.0,
+        955.895983888376
+      ],
+      [
+        0.0,
+        2741.6273283391633,
+        549.1135729193566
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20918206067007655,
+      7.752822469976618,
+      -154.00749857293863,
+      1023.3453452498358
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

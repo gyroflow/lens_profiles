@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6300_Sigma 16mm 1.4__1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Suresh",
+  "camera_brand": "Sony",
+  "camera_model": "a6300",
+  "lens_model": "Sigma 16mm 1.4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 34.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.307773673875687,
+    "camera_matrix": [
+      [
+        1413.826892678503,
+        0.0,
+        955.0854270433208
+      ],
+      [
+        0.0,
+        1413.518605749807,
+        531.7311972426797
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20601262369727735,
+      0.21877277515875737,
+      -0.2846827420813842,
+      0.6405404813456963
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

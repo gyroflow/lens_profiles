@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R5_24-70mm_59.9fps_C4k_1.90by1_4096x2160-59.94fps",
+  "note": "镜头防抖70mm",
+  "calibrated_by": "Finley",
+  "camera_brand": "Canon",
+  "camera_model": "R5",
+  "lens_model": "24-70mm",
+  "camera_setting": "59.9fps",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6354008312537364,
+    "camera_matrix": [
+      [
+        7873.010805693951,
+        0.0,
+        2033.2013523297944
+      ],
+      [
+        0.0,
+        7884.59584450764,
+        1110.2343740794672
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6235905984727705,
+      -4.486628759310264,
+      105.70868905748208,
+      -723.4082142189443
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a1_Sigma 28-70 f2.8_8K  180°_6k_16by9_7680x4320-25.00fps",
+  "note": "@70mm",
+  "calibrated_by": "Martin Hirmer",
+  "camera_brand": "Sony",
+  "camera_model": "a1",
+  "lens_model": "Sigma 28-70 f2.8",
+  "camera_setting": "8K  180°",
+  "calib_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.5433192252413828,
+    "camera_matrix": [
+      [
+        67700.69996290644,
+        0.0,
+        3972.392429241509
+      ],
+      [
+        0.0,
+        74777.01115387221,
+        2546.3600290584654
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      16.34376571348659,
+      -541.745108175222,
+      385779.1364903542,
+      -11922170.481538724
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-1-70.00mm-7680x4320@25000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 70.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

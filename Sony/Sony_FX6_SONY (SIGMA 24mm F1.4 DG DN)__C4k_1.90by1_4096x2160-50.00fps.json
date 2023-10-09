@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_SONY (SIGMA 24mm F1.4 DG DN)__C4k_1.90by1_4096x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Vyasa",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "SONY (SIGMA 24mm F1.4 DG DN)",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8285095822214538,
+    "camera_matrix": [
+      [
+        2886.333295276104,
+        0.0,
+        2058.1212071595996
+      ],
+      [
+        0.0,
+        2886.526433810219,
+        1048.5833149996704
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2959744736583852,
+      0.4681954594728097,
+      -1.4589379541733716,
+      2.2657029260053636
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx6v-24.00mm-4096x2160@50000",
+  "calibrator_version": "1.5.1",
+  "date": "2023-07-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

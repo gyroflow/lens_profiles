@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_55.00mm__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "ManMan",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "55.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.3346327326878116,
+    "camera_matrix": [
+      [
+        12642.064403142262,
+        0.0,
+        1971.1471880074987
+      ],
+      [
+        0.0,
+        12537.618009837688,
+        660.4499086137449
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.0376013107083409,
+      125.545926449212,
+      -10613.801721815336,
+      269387.04001067515
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 55.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

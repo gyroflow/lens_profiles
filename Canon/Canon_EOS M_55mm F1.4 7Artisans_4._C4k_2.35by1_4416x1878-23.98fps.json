@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS M_55mm F1.4 7Artisans_4._C4k_2.35by1_4416x1878-23.98fps",
+  "note": "Magic Lantern Crop Mood",
+  "calibrated_by": "Salam",
+  "camera_brand": "Canon",
+  "camera_model": "EOS M",
+  "lens_model": "55mm F1.4 7Artisans",
+  "camera_setting": "4.",
+  "calib_dimension": {
+    "w": 4416,
+    "h": 1878
+  },
+  "orig_dimension": {
+    "w": 4416,
+    "h": 1878
+  },
+  "output_dimension": {
+    "w": 4416,
+    "h": 1878
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 23.983,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5777488136477502,
+    "camera_matrix": [
+      [
+        15272.928199848142,
+        0.0,
+        2064.448671050946
+      ],
+      [
+        0.0,
+        15294.580069274203,
+        954.6413838669316
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4473983617087325,
+      9.617807680348356,
+      -172.88173046296333,
+      -3607.825021226043
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

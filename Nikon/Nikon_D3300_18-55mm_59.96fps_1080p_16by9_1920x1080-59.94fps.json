@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_D3300_18-55mm_59.96fps_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Richie Antony",
+  "camera_brand": "Nikon",
+  "camera_model": "D3300",
+  "lens_model": "18-55mm",
+  "camera_setting": "59.96fps",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 31,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6324161830382958,
+    "camera_matrix": [
+      [
+        2381.8847505247068,
+        0.0,
+        975.7544848482698
+      ],
+      [
+        0.0,
+        2402.197660177581,
+        542.6469573994826
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30837601777730705,
+      -0.6793926431366911,
+      5.27578061193501,
+      -10.25058810493092
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

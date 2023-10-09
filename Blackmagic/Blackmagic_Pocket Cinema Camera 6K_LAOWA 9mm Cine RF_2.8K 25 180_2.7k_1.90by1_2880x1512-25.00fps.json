@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K_LAOWA 9mm Cine RF_2.8K 25 180˚_2.7k_1.90by1_2880x1512-25.00fps",
+  "note": "",
+  "calibrated_by": "Carmine Arrichiello",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K",
+  "lens_model": "LAOWA 9mm Cine RF",
+  "camera_setting": "2.8K 25 180˚",
+  "calib_dimension": {
+    "w": 2880,
+    "h": 1512
+  },
+  "orig_dimension": {
+    "w": 2880,
+    "h": 1512
+  },
+  "output_dimension": {
+    "w": 2880,
+    "h": 1512
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": 0.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8806564220205565,
+    "camera_matrix": [
+      [
+        2542.784870952778,
+        0.0,
+        1439.6681720971976
+      ],
+      [
+        0.0,
+        2543.236135566032,
+        715.930712837283
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3450303046408482,
+      0.24586839140205216,
+      -0.4438247760296435,
+      0.8767509012190279
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

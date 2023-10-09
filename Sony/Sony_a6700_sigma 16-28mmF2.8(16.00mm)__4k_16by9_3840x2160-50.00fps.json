@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6700_sigma 16-28mmF2.8(16.00mm)__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "朱浩轩",
+  "camera_brand": "Sony",
+  "camera_model": "a6700",
+  "lens_model": "sigma 16-28mmF2.8(16.00mm)",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5465879036781462,
+    "camera_matrix": [
+      [
+        2866.215324242845,
+        0.0,
+        1891.2090102554937
+      ],
+      [
+        0.0,
+        2862.0392793581145,
+        1103.8865231024513
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.17485332150425548,
+      0.5245193531485669,
+      -1.5661844003702643,
+      2.580653236425939
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 16.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

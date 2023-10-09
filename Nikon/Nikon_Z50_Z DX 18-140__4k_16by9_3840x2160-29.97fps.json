@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z50_Z DX 18-140__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "- GUASR",
+  "camera_brand": "Nikon",
+  "camera_model": "Z50",
+  "lens_model": "Z DX 18-140",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.3788327049889717,
+    "camera_matrix": [
+      [
+        4047.1248928743785,
+        0.0,
+        1911.280689877174
+      ],
+      [
+        0.0,
+        4050.837112135084,
+        1061.6101519400966
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3183751034360663,
+      0.1448040269049979,
+      2.8275312432635187,
+      -10.589013469311576
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

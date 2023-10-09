@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 4K_LUMIX G VARIO 12-60/F3.5-5.6 12mm__C4k_1.90by1_4096x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Josh M",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K",
+  "lens_model": "LUMIX G VARIO 12-60/F3.5-5.6 12mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.970032,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.72275882109647,
+    "camera_matrix": [
+      [
+        2723.214902296107,
+        0.0,
+        2080.3730438367006
+      ],
+      [
+        0.0,
+        2721.081705880235,
+        1109.7715544171556
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.11650520733653028,
+      0.07865352782648302,
+      0.040254287657003125,
+      0.15000032854313256
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera4k-lumixgvario12-60/f3.5-5.6-12mm-4096x2160@29970",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 12.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

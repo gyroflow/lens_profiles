@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX30_Sirui Saturn 35 mm T2.9_FX30_C4k_1.90by1_4096x2160-25.00fps",
+  "note": "35mm anamorphic",
+  "calibrated_by": "Damian Abreu",
+  "camera_brand": "Sony",
+  "camera_model": "FX30",
+  "lens_model": "Sirui Saturn 35 mm T2.9",
+  "camera_setting": "FX30",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.955163399855687,
+    "camera_matrix": [
+      [
+        4021.7567126395247,
+        0.0,
+        2191.28788883078
+      ],
+      [
+        0.0,
+        6315.656027549155,
+        880.571132071394
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2182468784007082,
+      1.0936483553563938,
+      -9.593271808346794,
+      24.603089837746857
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

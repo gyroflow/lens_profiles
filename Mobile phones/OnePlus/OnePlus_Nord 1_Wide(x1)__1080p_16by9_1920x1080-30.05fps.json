@@ -1,0 +1,69 @@
+{
+  "name": "OnePlus_Nord 1_Wide(x1)__1080p_16by9_1920x1080-30.05fps",
+  "note": "",
+  "calibrated_by": "NoUntermensch",
+  "camera_brand": "OnePlus",
+  "camera_model": "Nord 1",
+  "lens_model": "Wide(x1)",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 1.6077335843970098,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 30.048004,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5738519872257355,
+    "camera_matrix": [
+      [
+        1657.6438745479306,
+        0.0,
+        949.3485105177452
+      ],
+      [
+        0.0,
+        1658.1691654901056,
+        519.2554768250304
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.588916993977585,
+      -1.6698062053464795,
+      4.078905887668265,
+      -2.140551784519246
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

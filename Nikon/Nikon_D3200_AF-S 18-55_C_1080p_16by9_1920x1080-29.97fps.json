@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_D3200_AF-S 18-55_C_1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "luis lobao",
+  "camera_brand": "Nikon",
+  "camera_model": "D3200",
+  "lens_model": "AF-S 18-55",
+  "camera_setting": "C",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5742047763103616,
+    "camera_matrix": [
+      [
+        1688.6938918490569,
+        0.0,
+        936.7393979179434
+      ],
+      [
+        0.0,
+        1696.4518598922882,
+        626.318428006291
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.26326111218945025,
+      0.7125571493988099,
+      -3.746259364669585,
+      7.433141682601993
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.1",
+  "date": "2023-07-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

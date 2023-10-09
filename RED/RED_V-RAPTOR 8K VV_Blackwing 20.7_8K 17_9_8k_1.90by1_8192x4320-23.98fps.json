@@ -1,0 +1,69 @@
+{
+  "name": "RED_V-RAPTOR 8K VV_Blackwing 20.7_8K 17:9_8k_1.90by1_8192x4320-23.98fps",
+  "note": "",
+  "calibrated_by": "Parker Gorecki",
+  "camera_brand": "RED",
+  "camera_model": "V-RAPTOR 8K VV",
+  "lens_model": "Blackwing 20.7",
+  "camera_setting": "8K 17:9",
+  "calib_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 47,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.6128826371384808,
+    "camera_matrix": [
+      [
+        4184.428339041874,
+        0.0,
+        4106.239591799694
+      ],
+      [
+        0.0,
+        4185.852621307273,
+        2109.1210891280653
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.213721571844361,
+      0.16731764289781195,
+      -0.15304978068472708,
+      0.3355826381791066
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

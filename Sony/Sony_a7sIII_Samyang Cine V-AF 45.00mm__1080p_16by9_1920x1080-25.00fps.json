@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7sIII_Samyang Cine V-AF 45.00mm__1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "Shashank @rockstardhiman",
+  "camera_brand": "Sony",
+  "camera_model": "a7sIII",
+  "lens_model": "Samyang Cine V-AF 45.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4505111350311781,
+    "camera_matrix": [
+      [
+        2398.7035676317423,
+        0.0,
+        958.3532358161932
+      ],
+      [
+        0.0,
+        2400.044101843777,
+        555.586956764132
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3195025354193359,
+      0.13431128588269345,
+      0.170142811487406,
+      -1.5207643594751206
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7sm3-45.00mm-1920x1080@25000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 45.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

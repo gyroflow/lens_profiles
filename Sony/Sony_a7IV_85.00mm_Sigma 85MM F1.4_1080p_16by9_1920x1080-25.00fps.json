@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_85.00mm_Sigma 85MM F1.4_1080p_16by9_1920x1080-25.00fps",
+  "note": "Sigma 85MM F1.4",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "85.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6989259332206904,
+    "camera_matrix": [
+      [
+        7575.880153729528,
+        0.0,
+        79.19841721363916
+      ],
+      [
+        0.0,
+        7867.222345800155,
+        93.17492706579068
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.7679927606799899,
+      -20.528567244390647,
+      394.3890893509081,
+      -2555.729522143334
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7m4-85.00mm-1920x1080@25000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-07-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 85.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

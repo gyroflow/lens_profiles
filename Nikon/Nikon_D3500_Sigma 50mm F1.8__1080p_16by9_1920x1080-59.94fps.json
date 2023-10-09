@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_D3500_Sigma 50mm F1.8__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "nicholas dafter",
+  "camera_brand": "Nikon",
+  "camera_model": "D3500",
+  "lens_model": "Sigma 50mm F1.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.427749439812449,
+    "camera_matrix": [
+      [
+        3998.806219348442,
+        0.0,
+        979.7554550910572
+      ],
+      [
+        0.0,
+        4037.589055398564,
+        394.5616854403743
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.18400020300996828,
+      0.41834911089278487,
+      -11.644264313681065,
+      104.7560324459746
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

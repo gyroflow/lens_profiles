@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_DZO 25mm_6K 2.4:1_6k_2.37by1_6144x2592-25.00fps",
+  "note": "",
+  "calibrated_by": "Arthur Bazin",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "DZO 25mm",
+  "camera_setting": "6K 2.4:1",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9055403218473372,
+    "camera_matrix": [
+      [
+        5841.966739335462,
+        0.0,
+        3056.4017479150457
+      ],
+      [
+        0.0,
+        5839.317962444124,
+        1302.3060344991825
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19444098616201444,
+      0.22090804971245728,
+      -0.5036064650125589,
+      1.4424987194439542
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

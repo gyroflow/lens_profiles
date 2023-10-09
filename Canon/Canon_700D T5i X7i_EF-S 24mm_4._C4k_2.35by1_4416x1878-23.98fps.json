@@ -1,0 +1,69 @@
+{
+  "name": "Canon_700D T5i X7i_EF-S 24mm_4._C4k_2.35by1_4416x1878-23.98fps",
+  "note": "Magic Lantern Crop Mood",
+  "calibrated_by": "Salam",
+  "camera_brand": "Canon",
+  "camera_model": "700D T5i X7i",
+  "lens_model": "EF-S 24mm",
+  "camera_setting": "4.",
+  "calib_dimension": {
+    "w": 4416,
+    "h": 1878
+  },
+  "orig_dimension": {
+    "w": 4416,
+    "h": 1878
+  },
+  "output_dimension": {
+    "w": 4416,
+    "h": 1878
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.982,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9162118056923328,
+    "camera_matrix": [
+      [
+        5823.547926735963,
+        0.0,
+        2297.924171031585
+      ],
+      [
+        0.0,
+        5856.403159912115,
+        664.4452158877106
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.15988186543961386,
+      1.8076884640072,
+      -14.00718884509604,
+      42.2139137720826
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

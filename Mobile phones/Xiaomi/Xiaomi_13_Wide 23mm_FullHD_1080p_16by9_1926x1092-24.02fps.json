@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_13_Wide 23mm_FullHD_1080p_16by9_1926x1092-24.02fps",
+  "note": "",
+  "calibrated_by": "Todor Andonov",
+  "camera_brand": "Xiaomi",
+  "camera_model": "13",
+  "lens_model": "Wide 23mm",
+  "camera_setting": "FullHD",
+  "calib_dimension": {
+    "w": 1926,
+    "h": 1092
+  },
+  "orig_dimension": {
+    "w": 1926,
+    "h": 1092
+  },
+  "output_dimension": {
+    "w": 1926,
+    "h": 1092
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 24.016737,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2802951100043657,
+    "camera_matrix": [
+      [
+        1421.2834568859616,
+        0.0,
+        945.1701696288462
+      ],
+      [
+        0.0,
+        1419.8941846878522,
+        557.6989190642604
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1890122279718632,
+      1.7505342704431126,
+      -5.329421466477862,
+      6.025559542978518
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 23.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone 14 Pro Max__0,5 Wide_1080p_16by9_1920x1080-29.99fps",
+  "note": "",
+  "calibrated_by": "Önsel Ceylan",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 14 Pro Max",
+  "lens_model": "",
+  "camera_setting": "0,5 Wide",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 29.98876,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.44509339494944816,
+    "camera_matrix": [
+      [
+        869.079045696088,
+        0.0,
+        959.6318459067336
+      ],
+      [
+        0.0,
+        868.9707176164522,
+        539.9601665830694
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.36674160864516914,
+      -0.21788005437711763,
+      1.1000529148718536,
+      -0.949903925429968
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

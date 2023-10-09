@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_24e23644_lente Sony FE 16-35 F/4 G PZ a 16-35_4k_16by9_3840x2160-25.00fps",
+  "note": "lente Sony FE 16-35 F/4 G PZ a 16-35",
+  "calibrated_by": "Stefano Bertolone",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "24e23644",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.6981200364142466,
+    "camera_matrix": [
+      [
+        1736.816569650767,
+        0.0,
+        1964.702854468018
+      ],
+      [
+        0.0,
+        1743.0733417271197,
+        1082.7435313961698
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3151203702174103,
+      0.1588487552668251,
+      -0.01098974533851802,
+      0.12977858633744885
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-24e23644-3840x2160@25000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

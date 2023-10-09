@@ -1,0 +1,69 @@
+{
+  "name": "OnePlus_9 Pro_24mm_MotionCam App_4k_4by3_4000x3000-60.03fps",
+  "note": "MotionCam App",
+  "calibrated_by": "maga.fpv",
+  "camera_brand": "OnePlus",
+  "camera_model": "9 Pro",
+  "lens_model": "24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "orig_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "output_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 27,
+  "fps": 60.034828,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.5234814992626042,
+    "camera_matrix": [
+      [
+        2808.852901134326,
+        0.0,
+        2001.275334411726
+      ],
+      [
+        0.0,
+        2811.7120797962266,
+        1475.1034569142198
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.27333929400914736,
+      0.462237370128826,
+      -0.27604669330901516,
+      -0.27579265296075417
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-09-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

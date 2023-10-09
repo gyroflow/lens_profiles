@@ -1,0 +1,69 @@
+{
+  "name": "Caddx_Walnut_Caddx/Caddx_Walnut_NO-LDC_1080P60_1080p_16by9_1920x1080-59.94fps wide__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Spark",
+  "camera_brand": "Caddx",
+  "camera_model": "Walnut",
+  "lens_model": "Caddx/Caddx_Walnut_NO-LDC_1080P60_1080p_16by9_1920x1080-59.94fps wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.615766969598733,
+    "camera_matrix": [
+      [
+        892.1553724942979,
+        0.0,
+        927.9973188371996
+      ],
+      [
+        0.0,
+        892.5053738932958,
+        600.5808369767364
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.0470324729104857,
+      0.023684747598030624,
+      0.013019091413522149,
+      -0.01928553295420111
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "caddx-walnutcam-caddx/caddx_walnut_no-ldc_1080p60_1080p_16by9_1920x1080-59.94fps-wide-1920x1080@59940",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

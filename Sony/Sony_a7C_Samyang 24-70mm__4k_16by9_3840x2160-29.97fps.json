@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_Samyang 24-70mm__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Oscar Paredes",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "Samyang 24-70mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 6,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8225260450261931,
+    "camera_matrix": [
+      [
+        3277.93472850693,
+        0.0,
+        1973.803851551818
+      ],
+      [
+        0.0,
+        3270.4982392906095,
+        1083.2855461587085
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.17790829251974133,
+      0.4266936567467381,
+      -1.7911312572107516,
+      3.482921035079264
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-f8b46196-3840x2160@29970",
+  "calibrator_version": "1.5.1",
+  "date": "2023-07-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

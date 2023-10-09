@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7rV_sigma 1424_8k 24_6k_16by9_7680x4320-23.98fps",
+  "note": "",
+  "calibrated_by": "user",
+  "camera_brand": "Sony",
+  "camera_model": "a7rV",
+  "lens_model": "sigma 1424",
+  "camera_setting": "8k 24",
+  "calib_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.6217787999585804,
+    "camera_matrix": [
+      [
+        3863.473820446709,
+        0.0,
+        3858.751483352102
+      ],
+      [
+        0.0,
+        3855.669062822856,
+        2120.7804656043563
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32717812050927136,
+      -0.058351870635001184,
+      0.4123553723261223,
+      -0.28193213541862655
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7rm5-14.00mm-7680x4320@23976",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 14.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

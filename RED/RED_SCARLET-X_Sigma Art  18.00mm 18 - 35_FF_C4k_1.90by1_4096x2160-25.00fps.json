@@ -1,0 +1,69 @@
+{
+  "name": "RED_SCARLET-X_Sigma Art  18.00mm 18 - 35_FF_C4k_1.90by1_4096x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Benjamin DUPLAIX",
+  "camera_brand": "RED",
+  "camera_model": "SCARLET-X",
+  "lens_model": "Sigma Art  18.00mm 18 - 35",
+  "camera_setting": "FF",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7155307135399155,
+    "camera_matrix": [
+      [
+        3455.4006203766307,
+        0.0,
+        2048.6732956084415
+      ],
+      [
+        0.0,
+        3446.6442372291704,
+        1075.5255445320604
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20574474937164783,
+      0.27083956005551446,
+      -0.5035931055247027,
+      1.089315852141688
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-scarlet-x-unknown-18.00mm-4096x2160@0",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 18.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

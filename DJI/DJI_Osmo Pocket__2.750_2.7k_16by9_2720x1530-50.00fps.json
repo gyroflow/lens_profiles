@@ -1,0 +1,69 @@
+{
+  "name": "DJI_Osmo Pocket__2.7/50_2.7k_16by9_2720x1530-50.00fps",
+  "note": "",
+  "calibrated_by": "Scott Shaffer",
+  "camera_brand": "DJI",
+  "camera_model": "Osmo Pocket",
+  "lens_model": "",
+  "camera_setting": "2.7/50",
+  "calib_dimension": {
+    "w": 2720,
+    "h": 1530
+  },
+  "orig_dimension": {
+    "w": 2720,
+    "h": 1530
+  },
+  "output_dimension": {
+    "w": 2720,
+    "h": 1530
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.40007396116523897,
+    "camera_matrix": [
+      [
+        2228.247755963111,
+        0.0,
+        1343.7084047739395
+      ],
+      [
+        0.0,
+        2229.853674553064,
+        763.8723692988958
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3983647742647403,
+      0.6052606026496571,
+      -3.798651613077825,
+      7.162466722636835
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E1_zeiss 25/2.8_zve1_4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "CLONSONG",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E1",
+  "lens_model": "zeiss 25/2.8",
+  "camera_setting": "zve1",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": 0.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.741851176369383,
+    "camera_matrix": [
+      [
+        2775.4920141138955,
+        0.0,
+        1899.1971845043383
+      ],
+      [
+        0.0,
+        2774.7887290901526,
+        1065.2070409457438
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2509711252527948,
+      0.1806839134946801,
+      -0.15526343540552628,
+      0.5869977224158353
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-08-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

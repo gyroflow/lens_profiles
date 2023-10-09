@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_Redmi note 9 pro maxr_26mm__1080p_16by9_1926x1096-24.05fps",
+  "note": "",
+  "calibrated_by": "Pablo Esc",
+  "camera_brand": "Xiaomi",
+  "camera_model": "Redmi note 9 pro maxr",
+  "lens_model": "26mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1926,
+    "h": 1096
+  },
+  "orig_dimension": {
+    "w": 1926,
+    "h": 1096
+  },
+  "output_dimension": {
+    "w": 1926,
+    "h": 1096
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.050274,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6779577911177401,
+    "camera_matrix": [
+      [
+        1610.986861623943,
+        0.0,
+        961.0073516776991
+      ],
+      [
+        0.0,
+        1609.8607490555396,
+        540.2502340990434
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.432303829295713,
+      -0.5674530976143393,
+      3.3981473138600258,
+      -5.6221275721568835
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Nikon_Z62_24-70f4__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Taylor",
+  "camera_brand": "Nikon",
+  "camera_model": "Z62",
+  "lens_model": "24-70f4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "num_images": 9,
+  "fps": 59.94006,
+  "official": false,
+  "use_opencv_fisheye": true,
+  "fisheye_params": {
+    "RMS_error": 0.32424655480144654,
+    "camera_matrix": [
+      [
+        1537.6002846936617,
+        0.0,
+        944.4718131798828
+      ],
+      [
+        0.0,
+        1535.0346241879488,
+        512.0893368446473
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.35503819979122714,
+      -0.06554457095097146,
+      0.7537831070570467,
+      -0.7975163210732639
+    ],
+    "radial_distortion_limit": null
+  },
+  "use_opencv_standard": false,
+  "calib_params": {
+    "RMS_error": 0.0,
+    "camera_matrix": [],
+    "distortion_coeffs": [],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.0.0-rc2",
+  "date": "2023-07-25",
+  "compatible_settings": []
+}

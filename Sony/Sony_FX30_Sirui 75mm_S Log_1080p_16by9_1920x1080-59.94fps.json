@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX30_Sirui 75mm_S Log_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Luis Avila",
+  "camera_brand": "Sony",
+  "camera_model": "FX30",
+  "lens_model": "Sirui 75mm",
+  "camera_setting": "S Log",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.42075045357593194,
+    "camera_matrix": [
+      [
+        6366.960806293904,
+        0.0,
+        818.5310507803091
+      ],
+      [
+        0.0,
+        8336.914567772728,
+        557.4577849687249
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      1.3229902712727268,
+      -149.4252372756782,
+      11326.903450865091,
+      -297495.7797678872
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

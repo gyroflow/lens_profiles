@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_z5_z 24-70 f4s__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "赵庆磊",
+  "camera_brand": "Nikon",
+  "camera_model": "z5",
+  "lens_model": "z 24-70 f4s",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 4.89,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.33482743774641516,
+    "camera_matrix": [
+      [
+        1811.0267835535408,
+        0.0,
+        957.101755676732
+      ],
+      [
+        0.0,
+        1811.7153128078835,
+        541.77364556028
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.29957193277083183,
+      0.3420089916208478,
+      -1.594071365025565,
+      3.796414201521157
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

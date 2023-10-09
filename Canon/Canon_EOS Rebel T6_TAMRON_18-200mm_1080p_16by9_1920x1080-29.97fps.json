@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS Rebel T6_TAMRON_18-200mm_1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "Oscar Samuel Castañeda Gonzalez",
+  "camera_brand": "Canon",
+  "camera_model": "EOS Rebel T6",
+  "lens_model": "TAMRON",
+  "camera_setting": "18-200mm",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9550303966389452,
+    "camera_matrix": [
+      [
+        1637.796915314092,
+        0.0,
+        891.8198453131296
+      ],
+      [
+        0.0,
+        1633.6316116854443,
+        553.6638132638118
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.15196234493791133,
+      0.1149350010128488,
+      0.11827437409478352,
+      -0.002318083892127519
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

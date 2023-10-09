@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7rII_e 18-200 f3.5__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "涂涂质",
+  "camera_brand": "Sony",
+  "camera_model": "a7rII",
+  "lens_model": "e 18-200 f3.5",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.40829839352706415,
+    "camera_matrix": [
+      [
+        1643.314897091058,
+        0.0,
+        974.226985137766
+      ],
+      [
+        0.0,
+        1643.4978385784752,
+        544.2318741992093
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1518519334786584,
+      -0.16572065181196297,
+      1.6283044295088145,
+      -2.9677510264799576
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}
