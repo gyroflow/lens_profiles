@@ -1,44 +1,44 @@
 {
-  "name": "Sony_a7C II_55.00mm__1080p_16by9_1920x1080-59.94fps",
+  "name": "Sony_FX30_17.00mm__4k_16by9_3840x2160-25.00fps",
   "note": "",
-  "calibrated_by": "Admin",
+  "calibrated_by": "Олег Яковенко",
   "camera_brand": "Sony",
-  "camera_model": "a7C II",
-  "lens_model": "55.00mm",
+  "camera_model": "FX30",
+  "lens_model": "17.00mm",
   "camera_setting": "",
   "calib_dimension": {
-    "w": 1920,
-    "h": 1080
+    "w": 3840,
+    "h": 2160
   },
   "orig_dimension": {
-    "w": 1920,
-    "h": 1080
+    "w": 3840,
+    "h": 2160
   },
   "output_dimension": {
-    "w": 1920,
-    "h": 1080
+    "w": 3840,
+    "h": 2160
   },
   "frame_readout_time": null,
   "gyro_lpf": null,
   "input_horizontal_stretch": 1.0,
   "input_vertical_stretch": 1.0,
   "num_images": 15,
-  "fps": 59.94006,
+  "fps": 25.0,
   "crop": null,
   "official": false,
   "asymmetrical": false,
   "fisheye_params": {
-    "RMS_error": 0.6611453512723154,
+    "RMS_error": 0.8567053356114979,
     "camera_matrix": [
       [
-        5910.163313195747,
+        2966.107001584998,
         0.0,
-        462.6422612572455
+        1924.934713480725
       ],
       [
         0.0,
-        5924.395095452031,
-        538.3984539826357
+        2967.6593084233996,
+        1075.4433760234826
       ],
       [
         0.0,
@@ -47,23 +47,23 @@
       ]
     ],
     "distortion_coeffs": [
-      0.05610705529183861,
-      10.121106319081289,
-      -138.9910102472201,
-      705.6421406533206
+      0.34270668518167213,
+      0.004837716250625798,
+      0.39841463304111063,
+      -0.2454520626896751
     ],
     "radial_distortion_limit": null
   },
   "identifier": "",
   "calibrator_version": "1.5.2",
-  "date": "2023-09-22",
+  "date": "2023-10-10",
   "compatible_settings": [],
   "sync_settings": null,
   "distortion_model": null,
   "digital_lens": null,
   "digital_lens_params": null,
   "interpolations": null,
-  "focal_length": 55.0,
-  "crop_factor": null,
+  "focal_length": 17.0,
+  "crop_factor": 1.5,
   "global_shutter": false
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Sony_a7C II_55.00mm__1080p_16by9_1920x1080-59.94fps",
+  "name": "Sony_a6000_16mm 1:1.4__1080p_16by9_1920x1080-50.00fps",
   "note": "",
-  "calibrated_by": "Admin",
+  "calibrated_by": "tomato",
   "camera_brand": "Sony",
-  "camera_model": "a7C II",
-  "lens_model": "55.00mm",
+  "camera_model": "a6000",
+  "lens_model": "16mm 1:1.4",
   "camera_setting": "",
   "calib_dimension": {
     "w": 1920,
@@ -18,27 +18,27 @@
     "w": 1920,
     "h": 1080
   },
-  "frame_readout_time": null,
+  "frame_readout_time": 0.0,
   "gyro_lpf": null,
   "input_horizontal_stretch": 1.0,
   "input_vertical_stretch": 1.0,
   "num_images": 15,
-  "fps": 59.94006,
+  "fps": 50.0,
   "crop": null,
   "official": false,
   "asymmetrical": false,
   "fisheye_params": {
-    "RMS_error": 0.6611453512723154,
+    "RMS_error": 0.4201479759613887,
     "camera_matrix": [
       [
-        5910.163313195747,
+        1347.0521351503091,
         0.0,
-        462.6422612572455
+        952.1716921221772
       ],
       [
         0.0,
-        5924.395095452031,
-        538.3984539826357
+        1347.839476762612,
+        532.1667858308393
       ],
       [
         0.0,
@@ -47,23 +47,23 @@
       ]
     ],
     "distortion_coeffs": [
-      0.05610705529183861,
-      10.121106319081289,
-      -138.9910102472201,
-      705.6421406533206
+      0.20373900479328144,
+      0.206101494532104,
+      -0.2757394914349674,
+      0.5021798588673755
     ],
     "radial_distortion_limit": null
   },
   "identifier": "",
   "calibrator_version": "1.5.2",
-  "date": "2023-09-22",
+  "date": "2023-10-10",
   "compatible_settings": [],
   "sync_settings": null,
   "distortion_model": null,
   "digital_lens": null,
   "digital_lens_params": null,
   "interpolations": null,
-  "focal_length": 55.0,
+  "focal_length": null,
   "crop_factor": null,
   "global_shutter": false
 }

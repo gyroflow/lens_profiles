@@ -1,44 +1,44 @@
 {
-  "name": "Sony_a7C II_55.00mm__1080p_16by9_1920x1080-59.94fps",
+  "name": "Sony_a6400_E 18-135mm F3.5-5.6 OSS_18F3.5_4k_16by9_3840x2160-25.00fps",
   "note": "",
-  "calibrated_by": "Admin",
+  "calibrated_by": "Nijika Ijichi",
   "camera_brand": "Sony",
-  "camera_model": "a7C II",
-  "lens_model": "55.00mm",
-  "camera_setting": "",
+  "camera_model": "a6400",
+  "lens_model": "E 18-135mm F3.5-5.6 OSS",
+  "camera_setting": "18F3.5",
   "calib_dimension": {
-    "w": 1920,
-    "h": 1080
+    "w": 3840,
+    "h": 2160
   },
   "orig_dimension": {
-    "w": 1920,
-    "h": 1080
+    "w": 3840,
+    "h": 2160
   },
   "output_dimension": {
-    "w": 1920,
-    "h": 1080
+    "w": 3840,
+    "h": 2160
   },
-  "frame_readout_time": null,
-  "gyro_lpf": null,
+  "frame_readout_time": -20.0,
+  "gyro_lpf": 0.0,
   "input_horizontal_stretch": 1.0,
   "input_vertical_stretch": 1.0,
-  "num_images": 15,
-  "fps": 59.94006,
+  "num_images": 30,
+  "fps": 25.0,
   "crop": null,
   "official": false,
   "asymmetrical": false,
   "fisheye_params": {
-    "RMS_error": 0.6611453512723154,
+    "RMS_error": 2.3198919400808173,
     "camera_matrix": [
       [
-        5910.163313195747,
+        1095.9177369002832,
         0.0,
-        462.6422612572455
+        1959.182975856504
       ],
       [
         0.0,
-        5924.395095452031,
-        538.3984539826357
+        1096.3664580215034,
+        927.8355695980804
       ],
       [
         0.0,
@@ -47,23 +47,23 @@
       ]
     ],
     "distortion_coeffs": [
-      0.05610705529183861,
-      10.121106319081289,
-      -138.9910102472201,
-      705.6421406533206
+      0.2990514044043264,
+      0.250682008137445,
+      -0.14848705206551233,
+      0.1412460646522276
     ],
     "radial_distortion_limit": null
   },
   "identifier": "",
   "calibrator_version": "1.5.2",
-  "date": "2023-09-22",
+  "date": "2023-10-10",
   "compatible_settings": [],
   "sync_settings": null,
   "distortion_model": null,
   "digital_lens": null,
   "digital_lens_params": null,
   "interpolations": null,
-  "focal_length": 55.0,
-  "crop_factor": null,
+  "focal_length": 18.0,
+  "crop_factor": 1.5,
   "global_shutter": false
 }

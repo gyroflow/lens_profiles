@@ -1,11 +1,11 @@
 {
-  "name": "Sony_a7C II_55.00mm__1080p_16by9_1920x1080-59.94fps",
-  "note": "",
-  "calibrated_by": "Admin",
-  "camera_brand": "Sony",
-  "camera_model": "a7C II",
-  "lens_model": "55.00mm",
-  "camera_setting": "",
+  "name": "Panasonic_S5M2_2060-20_M_1080p_16by9_1920x1080-50.00fps",
+  "note": "防抖关闭",
+  "calibrated_by": "龙伊健",
+  "camera_brand": "Panasonic",
+  "camera_model": "S5M2",
+  "lens_model": "2060-20",
+  "camera_setting": "M",
   "calib_dimension": {
     "w": 1920,
     "h": 1080
@@ -23,22 +23,22 @@
   "input_horizontal_stretch": 1.0,
   "input_vertical_stretch": 1.0,
   "num_images": 15,
-  "fps": 59.94006,
+  "fps": 50.0,
   "crop": null,
   "official": false,
   "asymmetrical": false,
   "fisheye_params": {
-    "RMS_error": 0.6611453512723154,
+    "RMS_error": 0.3762980396866561,
     "camera_matrix": [
       [
-        5910.163313195747,
+        1132.3472939083442,
         0.0,
-        462.6422612572455
+        962.169622085198
       ],
       [
         0.0,
-        5924.395095452031,
-        538.3984539826357
+        1132.476869395224,
+        534.7465570675806
       ],
       [
         0.0,
@@ -47,23 +47,23 @@
       ]
     ],
     "distortion_coeffs": [
-      0.05610705529183861,
-      10.121106319081289,
-      -138.9910102472201,
-      705.6421406533206
+      0.28265227277909766,
+      0.2011543441189241,
+      -0.036235565323298816,
+      0.06587084400404487
     ],
     "radial_distortion_limit": null
   },
   "identifier": "",
   "calibrator_version": "1.5.2",
-  "date": "2023-09-22",
+  "date": "2023-10-09",
   "compatible_settings": [],
   "sync_settings": null,
   "distortion_model": null,
   "digital_lens": null,
   "digital_lens_params": null,
   "interpolations": null,
-  "focal_length": 55.0,
+  "focal_length": null,
   "crop_factor": null,
   "global_shutter": false
 }

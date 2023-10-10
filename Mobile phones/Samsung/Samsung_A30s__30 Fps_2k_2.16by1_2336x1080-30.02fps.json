@@ -1,44 +1,44 @@
 {
-  "name": "Sony_a7C II_55.00mm__1080p_16by9_1920x1080-59.94fps",
+  "name": "Samsung_A30s__30 Fps_2k_2.16by1_2336x1080-30.02fps",
   "note": "",
-  "calibrated_by": "Admin",
-  "camera_brand": "Sony",
-  "camera_model": "a7C II",
-  "lens_model": "55.00mm",
-  "camera_setting": "",
+  "calibrated_by": "FAUZAN IQBAL",
+  "camera_brand": "Samsung",
+  "camera_model": "A30s",
+  "lens_model": "",
+  "camera_setting": "30 Fps",
   "calib_dimension": {
-    "w": 1920,
+    "w": 2336,
     "h": 1080
   },
   "orig_dimension": {
-    "w": 1920,
+    "w": 2336,
     "h": 1080
   },
   "output_dimension": {
-    "w": 1920,
+    "w": 2336,
     "h": 1080
   },
-  "frame_readout_time": null,
+  "frame_readout_time": 0.0,
   "gyro_lpf": null,
   "input_horizontal_stretch": 1.0,
   "input_vertical_stretch": 1.0,
   "num_images": 15,
-  "fps": 59.94006,
+  "fps": 30.018574,
   "crop": null,
   "official": false,
   "asymmetrical": false,
   "fisheye_params": {
-    "RMS_error": 0.6611453512723154,
+    "RMS_error": 0.41948045305474985,
     "camera_matrix": [
       [
-        5910.163313195747,
+        1724.1378688547122,
         0.0,
-        462.6422612572455
+        1175.526560329448
       ],
       [
         0.0,
-        5924.395095452031,
-        538.3984539826357
+        1721.9586363606606,
+        501.8934455546143
       ],
       [
         0.0,
@@ -47,23 +47,23 @@
       ]
     ],
     "distortion_coeffs": [
-      0.05610705529183861,
-      10.121106319081289,
-      -138.9910102472201,
-      705.6421406533206
+      0.6136509036102049,
+      -1.6211390034208275,
+      5.417668194638803,
+      -6.676417011718398
     ],
     "radial_distortion_limit": null
   },
   "identifier": "",
   "calibrator_version": "1.5.2",
-  "date": "2023-09-22",
+  "date": "2023-10-10",
   "compatible_settings": [],
   "sync_settings": null,
   "distortion_model": null,
   "digital_lens": null,
   "digital_lens_params": null,
   "interpolations": null,
-  "focal_length": 55.0,
+  "focal_length": null,
   "crop_factor": null,
   "global_shutter": false
 }

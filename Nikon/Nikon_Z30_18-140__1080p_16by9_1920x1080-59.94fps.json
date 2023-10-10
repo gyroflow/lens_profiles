@@ -1,10 +1,10 @@
 {
-  "name": "Sony_a7C II_55.00mm__1080p_16by9_1920x1080-59.94fps",
+  "name": "Nikon_Z30_18-140__1080p_16by9_1920x1080-59.94fps",
   "note": "",
   "calibrated_by": "Admin",
-  "camera_brand": "Sony",
-  "camera_model": "a7C II",
-  "lens_model": "55.00mm",
+  "camera_brand": "Nikon",
+  "camera_model": "Z30",
+  "lens_model": "18-140",
   "camera_setting": "",
   "calib_dimension": {
     "w": 1920,
@@ -22,23 +22,23 @@
   "gyro_lpf": null,
   "input_horizontal_stretch": 1.0,
   "input_vertical_stretch": 1.0,
-  "num_images": 15,
+  "num_images": 8,
   "fps": 59.94006,
   "crop": null,
   "official": false,
   "asymmetrical": false,
   "fisheye_params": {
-    "RMS_error": 0.6611453512723154,
+    "RMS_error": 0.3700805179723805,
     "camera_matrix": [
       [
-        5910.163313195747,
+        1532.0901095391189,
         0.0,
-        462.6422612572455
+        931.505514137418
       ],
       [
         0.0,
-        5924.395095452031,
-        538.3984539826357
+        1533.513524150467,
+        547.3741286652038
       ],
       [
         0.0,
@@ -47,23 +47,23 @@
       ]
     ],
     "distortion_coeffs": [
-      0.05610705529183861,
-      10.121106319081289,
-      -138.9910102472201,
-      705.6421406533206
+      0.270632462296871,
+      0.786958455470279,
+      -2.1781834173778005,
+      2.9551751318502557
     ],
     "radial_distortion_limit": null
   },
   "identifier": "",
   "calibrator_version": "1.5.2",
-  "date": "2023-09-22",
+  "date": "2023-10-10",
   "compatible_settings": [],
   "sync_settings": null,
   "distortion_model": null,
   "digital_lens": null,
   "digital_lens_params": null,
   "interpolations": null,
-  "focal_length": 55.0,
+  "focal_length": null,
   "crop_factor": null,
   "global_shutter": false
 }

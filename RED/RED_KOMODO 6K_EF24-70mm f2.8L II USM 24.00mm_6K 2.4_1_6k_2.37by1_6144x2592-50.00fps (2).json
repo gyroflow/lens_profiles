@@ -1,44 +1,44 @@
 {
-  "name": "RED_KOMODO 6K_Sigma 18-35 @35.00mm_6K 17:9_6k_1.90by1_6910x3645-25.00fps",
-  "note": "25fps",
-  "calibrated_by": "CloudSurfer",
+  "name": "RED_KOMODO 6K_EF24-70mm f/2.8L II USM 24.00mm_6K 2.4:1_6k_2.37by1_6144x2592-50.00fps",
+  "note": "",
+  "calibrated_by": "Ethan",
   "camera_brand": "RED",
   "camera_model": "KOMODO 6K",
-  "lens_model": "Sigma 18-35 @35.00mm",
-  "camera_setting": "6K 17:9",
+  "lens_model": "EF24-70mm f/2.8L II USM 24.00mm",
+  "camera_setting": "6K 2.4:1",
   "calib_dimension": {
-    "w": 6910,
-    "h": 3645
+    "w": 6144,
+    "h": 2592
   },
   "orig_dimension": {
-    "w": 6910,
-    "h": 3645
+    "w": 6144,
+    "h": 2592
   },
   "output_dimension": {
     "w": 6144,
-    "h": 3240
+    "h": 2592
   },
   "frame_readout_time": null,
   "gyro_lpf": null,
   "input_horizontal_stretch": 1.0,
   "input_vertical_stretch": 1.0,
   "num_images": 15,
-  "fps": 25.0,
+  "fps": 50.0,
   "crop": null,
   "official": false,
   "asymmetrical": false,
   "fisheye_params": {
-    "RMS_error": 0.833922054078994,
+    "RMS_error": 0.8031255424637417,
     "camera_matrix": [
       [
-        8785.83549129244,
+        5468.659527987423,
         0.0,
-        3451.5807246670465
+        3095.7738175164
       ],
       [
         0.0,
-        8785.726832326192,
-        1790.961359104565
+        5468.556661098245,
+        1273.838950635706
       ],
       [
         0.0,
@@ -47,23 +47,23 @@
       ]
     ],
     "distortion_coeffs": [
-      0.4230646395997909,
-      0.37897842639957346,
-      1.3254606609319055,
-      -1.5234221579176543
+      0.191763780487722,
+      0.35697752893002743,
+      -1.1982348594202878,
+      2.773816542247032
     ],
     "radial_distortion_limit": null
   },
-  "identifier": "red-komodo6k-unknown-35.00mm-6144x3240@0",
-  "calibrator_version": "1.5.0",
-  "date": "2023-04-10",
+  "identifier": "red-komodo6k-ef24-70mmf/2.8liiusm-24.00mm-6144x2592@",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-09",
   "compatible_settings": [],
   "sync_settings": null,
   "distortion_model": null,
   "digital_lens": null,
   "digital_lens_params": null,
   "interpolations": null,
-  "focal_length": null,
+  "focal_length": 24.0,
   "crop_factor": null,
   "global_shutter": true
 }

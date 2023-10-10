@@ -1,24 +1,24 @@
 {
-  "name": "Sony_a7C II_55.00mm__1080p_16by9_1920x1080-59.94fps",
+  "name": "Nikon_Z 8_Nikon AF-S Nikkor 14-24mm f/2.8G ED 14mm__4k_16by9_3840x2160-59.94fps",
   "note": "",
-  "calibrated_by": "Admin",
-  "camera_brand": "Sony",
-  "camera_model": "a7C II",
-  "lens_model": "55.00mm",
+  "calibrated_by": "2兔",
+  "camera_brand": "Nikon",
+  "camera_model": "Z 8",
+  "lens_model": "Nikon AF-S Nikkor 14-24mm f/2.8G ED 14mm",
   "camera_setting": "",
   "calib_dimension": {
-    "w": 1920,
-    "h": 1080
+    "w": 3840,
+    "h": 2160
   },
   "orig_dimension": {
-    "w": 1920,
-    "h": 1080
+    "w": 3840,
+    "h": 2160
   },
   "output_dimension": {
-    "w": 1920,
-    "h": 1080
+    "w": 3840,
+    "h": 2160
   },
-  "frame_readout_time": null,
+  "frame_readout_time": 0.0,
   "gyro_lpf": null,
   "input_horizontal_stretch": 1.0,
   "input_vertical_stretch": 1.0,
@@ -28,17 +28,17 @@
   "official": false,
   "asymmetrical": false,
   "fisheye_params": {
-    "RMS_error": 0.6611453512723154,
+    "RMS_error": 0.6500836828676179,
     "camera_matrix": [
       [
-        5910.163313195747,
+        1483.4619116980225,
         0.0,
-        462.6422612572455
+        1910.03925946204
       ],
       [
         0.0,
-        5924.395095452031,
-        538.3984539826357
+        1483.1922541403394,
+        1057.2544362165336
       ],
       [
         0.0,
@@ -47,23 +47,23 @@
       ]
     ],
     "distortion_coeffs": [
-      0.05610705529183861,
-      10.121106319081289,
-      -138.9910102472201,
-      705.6421406533206
+      0.31478367053834766,
+      0.10700263773387758,
+      0.011048877365951127,
+      0.022396431098885138
     ],
     "radial_distortion_limit": null
   },
   "identifier": "",
   "calibrator_version": "1.5.2",
-  "date": "2023-09-22",
+  "date": "2023-10-10",
   "compatible_settings": [],
   "sync_settings": null,
   "distortion_model": null,
   "digital_lens": null,
   "digital_lens_params": null,
   "interpolations": null,
-  "focal_length": 55.0,
+  "focal_length": null,
   "crop_factor": null,
   "global_shutter": false
 }

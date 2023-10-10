@@ -1,44 +1,44 @@
 {
-  "name": "Sony_a7C II_55.00mm__1080p_16by9_1920x1080-59.94fps",
-  "note": "",
-  "calibrated_by": "Admin",
+  "name": "Sony_FX30_Sirui Night Walker T1.2 35mm_Nightwalker primes_4k_16by9_3840x2160-23.98fps",
+  "note": "Nightwalker primes",
+  "calibrated_by": "Sam Shapson",
   "camera_brand": "Sony",
-  "camera_model": "a7C II",
-  "lens_model": "55.00mm",
+  "camera_model": "FX30",
+  "lens_model": "Sirui Night Walker T1.2 35mm",
   "camera_setting": "",
   "calib_dimension": {
-    "w": 1920,
-    "h": 1080
+    "w": 3840,
+    "h": 2160
   },
   "orig_dimension": {
-    "w": 1920,
-    "h": 1080
+    "w": 3840,
+    "h": 2160
   },
   "output_dimension": {
-    "w": 1920,
-    "h": 1080
+    "w": 3840,
+    "h": 2160
   },
   "frame_readout_time": null,
   "gyro_lpf": null,
   "input_horizontal_stretch": 1.0,
   "input_vertical_stretch": 1.0,
-  "num_images": 15,
-  "fps": 59.94006,
+  "num_images": 11,
+  "fps": 23.976025,
   "crop": null,
   "official": false,
   "asymmetrical": false,
   "fisheye_params": {
-    "RMS_error": 0.6611453512723154,
+    "RMS_error": 0.9219381446431894,
     "camera_matrix": [
       [
-        5910.163313195747,
+        5861.769469975241,
         0.0,
-        462.6422612572455
+        1938.240977185945
       ],
       [
         0.0,
-        5924.395095452031,
-        538.3984539826357
+        5872.590660622864,
+        1078.500615025992
       ],
       [
         0.0,
@@ -47,23 +47,23 @@
       ]
     ],
     "distortion_coeffs": [
-      0.05610705529183861,
-      10.121106319081289,
-      -138.9910102472201,
-      705.6421406533206
+      0.2205711333455341,
+      1.372461022406525,
+      -8.120163579665276,
+      37.686880895751415
     ],
     "radial_distortion_limit": null
   },
   "identifier": "",
   "calibrator_version": "1.5.2",
-  "date": "2023-09-22",
+  "date": "2023-10-09",
   "compatible_settings": [],
   "sync_settings": null,
   "distortion_model": null,
   "digital_lens": null,
   "digital_lens_params": null,
   "interpolations": null,
-  "focal_length": 55.0,
+  "focal_length": null,
   "crop_factor": null,
   "global_shutter": false
 }

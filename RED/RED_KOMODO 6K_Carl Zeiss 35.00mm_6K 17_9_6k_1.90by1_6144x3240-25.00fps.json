@@ -1,18 +1,18 @@
 {
-  "name": "RED_KOMODO 6K_Sigma 18-35 @35.00mm_6K 17:9_6k_1.90by1_6910x3645-25.00fps",
-  "note": "25fps",
-  "calibrated_by": "CloudSurfer",
+  "name": "RED_KOMODO 6K_Carl Zeiss 35.00mm_6K 17:9_6k_1.90by1_6144x3240-25.00fps",
+  "note": "",
+  "calibrated_by": "Ethan",
   "camera_brand": "RED",
   "camera_model": "KOMODO 6K",
-  "lens_model": "Sigma 18-35 @35.00mm",
+  "lens_model": "Carl Zeiss 35.00mm",
   "camera_setting": "6K 17:9",
   "calib_dimension": {
-    "w": 6910,
-    "h": 3645
+    "w": 6144,
+    "h": 3240
   },
   "orig_dimension": {
-    "w": 6910,
-    "h": 3645
+    "w": 6144,
+    "h": 3240
   },
   "output_dimension": {
     "w": 6144,
@@ -28,17 +28,17 @@
   "official": false,
   "asymmetrical": false,
   "fisheye_params": {
-    "RMS_error": 0.833922054078994,
+    "RMS_error": 0.6627015453978733,
     "camera_matrix": [
       [
-        8785.83549129244,
+        8264.90816428386,
         0.0,
-        3451.5807246670465
+        3069.321465222265
       ],
       [
         0.0,
-        8785.726832326192,
-        1790.961359104565
+        8264.910124104723,
+        1634.7904579596443
       ],
       [
         0.0,
@@ -47,23 +47,23 @@
       ]
     ],
     "distortion_coeffs": [
-      0.4230646395997909,
-      0.37897842639957346,
-      1.3254606609319055,
-      -1.5234221579176543
+      0.22890163503078068,
+      0.5716273758063048,
+      -5.925915492552955,
+      33.293311537617654
     ],
     "radial_distortion_limit": null
   },
-  "identifier": "red-komodo6k-unknown-35.00mm-6144x3240@0",
-  "calibrator_version": "1.5.0",
-  "date": "2023-04-10",
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-09",
   "compatible_settings": [],
   "sync_settings": null,
   "distortion_model": null,
   "digital_lens": null,
   "digital_lens_params": null,
   "interpolations": null,
-  "focal_length": null,
+  "focal_length": 35.0,
   "crop_factor": null,
   "global_shutter": true
 }

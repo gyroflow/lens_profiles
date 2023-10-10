@@ -1,44 +1,44 @@
 {
-  "name": "Sony_a7C II_55.00mm__1080p_16by9_1920x1080-59.94fps",
+  "name": "Panasonic_S5_lumix20-60f3.5-5.6_apsc  59.94_4k_16by9_3840x2160-59.94fps",
   "note": "",
-  "calibrated_by": "Admin",
-  "camera_brand": "Sony",
-  "camera_model": "a7C II",
-  "lens_model": "55.00mm",
-  "camera_setting": "",
+  "calibrated_by": "MyPC",
+  "camera_brand": "Panasonic",
+  "camera_model": "S5",
+  "lens_model": "lumix20-60f3.5-5.6",
+  "camera_setting": "apsc  59.94",
   "calib_dimension": {
-    "w": 1920,
-    "h": 1080
+    "w": 3840,
+    "h": 2160
   },
   "orig_dimension": {
-    "w": 1920,
-    "h": 1080
+    "w": 3840,
+    "h": 2160
   },
   "output_dimension": {
-    "w": 1920,
-    "h": 1080
+    "w": 3840,
+    "h": 2160
   },
-  "frame_readout_time": null,
+  "frame_readout_time": 4.89,
   "gyro_lpf": null,
   "input_horizontal_stretch": 1.0,
   "input_vertical_stretch": 1.0,
-  "num_images": 15,
+  "num_images": 14,
   "fps": 59.94006,
   "crop": null,
   "official": false,
   "asymmetrical": false,
   "fisheye_params": {
-    "RMS_error": 0.6611453512723154,
+    "RMS_error": 0.8161130727146721,
     "camera_matrix": [
       [
-        5910.163313195747,
+        22154.499814965635,
         0.0,
-        462.6422612572455
+        2308.396437925814
       ],
       [
         0.0,
-        5924.395095452031,
-        538.3984539826357
+        22247.216643205447,
+        1400.504298554661
       ],
       [
         0.0,
@@ -47,23 +47,23 @@
       ]
     ],
     "distortion_coeffs": [
-      0.05610705529183861,
-      10.121106319081289,
-      -138.9910102472201,
-      705.6421406533206
+      -0.7598522081089163,
+      344.9894365518035,
+      -40824.29455835584,
+      1638680.4987349573
     ],
     "radial_distortion_limit": null
   },
   "identifier": "",
   "calibrator_version": "1.5.2",
-  "date": "2023-09-22",
+  "date": "2023-10-10",
   "compatible_settings": [],
   "sync_settings": null,
   "distortion_model": null,
   "digital_lens": null,
   "digital_lens_params": null,
   "interpolations": null,
-  "focal_length": 55.0,
+  "focal_length": null,
   "crop_factor": null,
   "global_shutter": false
 }

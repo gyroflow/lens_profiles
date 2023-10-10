@@ -1,22 +1,22 @@
 {
-  "name": "Sony_a7C II_55.00mm__1080p_16by9_1920x1080-59.94fps",
+  "name": "Sony_ZV-E1_16.00mm__4k_16by9_3840x2160-59.94fps",
   "note": "",
-  "calibrated_by": "Admin",
+  "calibrated_by": "junyu fan",
   "camera_brand": "Sony",
-  "camera_model": "a7C II",
-  "lens_model": "55.00mm",
+  "camera_model": "ZV-E1",
+  "lens_model": "16.00mm",
   "camera_setting": "",
   "calib_dimension": {
-    "w": 1920,
-    "h": 1080
+    "w": 3840,
+    "h": 2160
   },
   "orig_dimension": {
-    "w": 1920,
-    "h": 1080
+    "w": 3840,
+    "h": 2160
   },
   "output_dimension": {
-    "w": 1920,
-    "h": 1080
+    "w": 3840,
+    "h": 2160
   },
   "frame_readout_time": null,
   "gyro_lpf": null,
@@ -28,17 +28,17 @@
   "official": false,
   "asymmetrical": false,
   "fisheye_params": {
-    "RMS_error": 0.6611453512723154,
+    "RMS_error": 0.5124546790096828,
     "camera_matrix": [
       [
-        5910.163313195747,
+        1692.7433895781094,
         0.0,
-        462.6422612572455
+        1920.507408477059
       ],
       [
         0.0,
-        5924.395095452031,
-        538.3984539826357
+        1691.7544527054097,
+        1085.123788326976
       ],
       [
         0.0,
@@ -47,23 +47,23 @@
       ]
     ],
     "distortion_coeffs": [
-      0.05610705529183861,
-      10.121106319081289,
-      -138.9910102472201,
-      705.6421406533206
+      0.30709162077998714,
+      0.304818967551845,
+      -0.3673733149981608,
+      0.40010043263055073
     ],
     "radial_distortion_limit": null
   },
   "identifier": "",
   "calibrator_version": "1.5.2",
-  "date": "2023-09-22",
+  "date": "2023-10-09",
   "compatible_settings": [],
   "sync_settings": null,
   "distortion_model": null,
   "digital_lens": null,
   "digital_lens_params": null,
   "interpolations": null,
-  "focal_length": 55.0,
+  "focal_length": 16.0,
   "crop_factor": null,
   "global_shutter": false
 }
