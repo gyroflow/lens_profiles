@@ -1,11 +1,11 @@
 {
-  "name": "Sony_a6700_18.00mm_60_4k_16by9_3840x2160-59.94fps",
-  "note": "14.5ms",
-  "calibrated_by": "Administrator",
+  "name": "Sony_ILME-FX3_35.00mm_XAVC HS 4K_4k_16by9_3840x2160-50.00fps",
+  "note": "f2.2 1/1000",
+  "calibrated_by": "Rayne",
   "camera_brand": "Sony",
-  "camera_model": "a6700",
-  "lens_model": "18.00mm",
-  "camera_setting": "60",
+  "camera_model": "ILME-FX3",
+  "lens_model": "35.00mm",
+  "camera_setting": "XAVC HS 4K",
   "calib_dimension": {
     "w": 3840,
     "h": 2160
@@ -22,23 +22,23 @@
   "gyro_lpf": null,
   "input_horizontal_stretch": 1.0,
   "input_vertical_stretch": 1.0,
-  "num_images": 14,
-  "fps": 59.94006,
+  "num_images": 15,
+  "fps": 50.0,
   "crop": null,
   "official": false,
   "asymmetrical": false,
   "fisheye_params": {
-    "RMS_error": 0.7849596156476358,
+    "RMS_error": 0.9969302917683155,
     "camera_matrix": [
       [
-        3321.2027085985187,
+        3928.7455909596406,
         0.0,
-        1937.133287702943
+        1932.5231330292531
       ],
       [
         0.0,
-        3326.314497805578,
-        1077.893801531299
+        3932.8086141065364,
+        1029.1108890960704
       ],
       [
         0.0,
@@ -47,23 +47,23 @@
       ]
     ],
     "distortion_coeffs": [
-      0.32198424609478093,
-      0.34334427651372934,
-      -0.908695391943618,
-      2.87184730768541
+      0.2870803839949375,
+      1.0949929937520766,
+      -6.213348485167996,
+      14.406568134894737
     ],
     "radial_distortion_limit": null
   },
-  "identifier": "sony-ilce-6700-18.00mm-3840x2160@59940",
+  "identifier": "sony-ilme-fx3-35.00mm-3840x2160@50000",
   "calibrator_version": "1.5.2",
-  "date": "2023-10-03",
+  "date": "",
   "compatible_settings": [],
   "sync_settings": null,
   "distortion_model": null,
   "digital_lens": null,
   "digital_lens_params": null,
   "interpolations": null,
-  "focal_length": 18.0,
+  "focal_length": 35.0,
   "crop_factor": null,
   "global_shutter": false
 }
