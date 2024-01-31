@@ -1,0 +1,69 @@
+{
+  "name": "Runcam_6_wide__2.7k_16by9_2704x1520-60.00fps",
+  "note": "",
+  "calibrated_by": "RUNCAM",
+  "camera_brand": "Runcam",
+  "camera_model": "6",
+  "lens_model": "wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "orig_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "output_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.0,
+  "crop": null,
+  "official": true,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.48347044080371193,
+    "camera_matrix": [
+      [
+        1319.5433119598235,
+        0.0,
+        1307.6175775081788
+      ],
+      [
+        0.0,
+        1334.7175867771311,
+        768.9413881455092
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.06289339656839368,
+      0.4031148837019934,
+      -1.054121945524833,
+      0.9716578984606187
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "runcam-6-wide-2704x1520@60000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}
