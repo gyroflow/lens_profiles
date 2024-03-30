@@ -1,0 +1,69 @@
+{
+  "name": "RED_V-RAPTOR 8K VV_RF70-200mm F2.8 L IS USM 70.00mm_8K_6k_16by9_7680x4320-23.98fps",
+  "note": "",
+  "calibrated_by": "Sean Stewart",
+  "camera_brand": "RED",
+  "camera_model": "V-RAPTOR 8K VV",
+  "lens_model": "RF70-200mm F2.8 L IS USM 70.00mm",
+  "camera_setting": "8K",
+  "calib_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.813040097983466,
+    "camera_matrix": [
+      [
+        14129.672909470148,
+        0.0,
+        3673.389929436487
+      ],
+      [
+        0.0,
+        14157.186934630605,
+        2267.3038315735453
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.056388054459892416,
+      0.5490828210030847,
+      -5.597451813028886,
+      45.84476721605163
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-v-raptor8kvv-rf70-200mmf2.8lisusm-70.00mm-7680x4320@0",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "Mehmet Kozal",
+  "calibrator_version": "1.5.3",
+  "camera_brand": "Sony",
+  "camera_model": "a6700",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.95785827699035,
+    "camera_matrix": [
+      [
+        16072.6474355481,
+        0.0,
+        1625.0103808535605
+      ],
+      [
+        0.0,
+        16063.690845734103,
+        354.90542982917117
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.06718242534178442,
+      -25.035428855940125,
+      8663.732121969038,
+      -360021.2416946525
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 35.0,
+  "fps": 23.976025,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilce-6700-35.00mm-3840x2160@23976",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Sigma 18-35 1.8 ART",
+  "name": "Sony_a6700_Sigma 18-35 1.8 ART_35mm Focal Length_4k_16by9_3840x2160-23.98fps",
+  "note": "35mm Focal Length",
+  "num_images": 5,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

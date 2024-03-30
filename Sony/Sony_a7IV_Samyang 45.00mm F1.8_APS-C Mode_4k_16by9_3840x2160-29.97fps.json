@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "TheBalzer",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "camera_setting": "APS-C Mode",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-02-26",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.6994360345972487,
+    "camera_matrix": [
+      [
+        8087.837778641289,
+        0.0,
+        1998.0246570715497
+      ],
+      [
+        0.0,
+        8092.544737421137,
+        1082.0664333100676
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2829170335026449,
+      10.296898085664886,
+      -241.52126611710557,
+      1840.3850360979472
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 45.0,
+  "fps": 29.97003,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilce-7m4-45.00mm-3840x2160@29970",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Samyang 45.00mm F1.8",
+  "name": "Sony_a7IV_Samyang 45.00mm F1.8_APS-C Mode_4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "num_images": 25,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

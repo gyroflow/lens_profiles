@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "Kaos",
+  "calibrator_version": "1.5.3",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2023-10-30",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.5955237075249535,
+    "camera_matrix": [
+      [
+        1918.7902949419515,
+        0.0,
+        1919.12515039236
+      ],
+      [
+        0.0,
+        1919.2916344758776,
+        1066.7428507449663
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.21233525695057043,
+      0.3416064036603684,
+      -0.31476530887504167,
+      0.2950848034529908
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 18.0,
+  "fps": 29.97003,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilce-7m4-18.00mm-3840x2160@29970",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Sigma 16-28 F2.8",
+  "name": "Sony_a7IV_Sigma 16-28 F2.8_18mm_4k_16by9_3840x2160-29.97fps",
+  "note": "18mm",
+  "num_images": 5,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

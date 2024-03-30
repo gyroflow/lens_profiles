@@ -1,0 +1,69 @@
+{
+  "name": "Sigma_fp_Pentax-A 645 45mm 2.8 + Kipon P645-L 0.7x_cgnd 12bit, uhd, 23,98 fps_4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Endymionas",
+  "camera_brand": "Sigma",
+  "camera_model": "fp",
+  "lens_model": "Pentax-A 645 45mm 2.8 + Kipon P645-L 0.7x",
+  "camera_setting": "cgnd 12bit, uhd, 23,98 fps",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 20.8,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7080574707230589,
+    "camera_matrix": [
+      [
+        3751.344767627668,
+        0.0,
+        1984.8239025098055
+      ],
+      [
+        0.0,
+        3745.491766358135,
+        1093.5856307350698
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.17769017500048062,
+      0.3779751922741418,
+      -1.6551797641785022,
+      3.845533700078627
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 3240,
+    "w": 6144
+  },
+  "calibrated_by": "Accelerator",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "camera_setting": "6K 17:9",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-02-09",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.9398556922448896,
+    "camera_matrix": [
+      [
+        6321.534467458932,
+        0.0,
+        3091.4772872105445
+      ],
+      [
+        0.0,
+        6254.824354500726,
+        1679.8590001929504
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.15630450792199838,
+      0.5960510213794956,
+      -2.2010642582011126,
+      7.518740561005501
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 28.0,
+  "fps": 25.0,
+  "frame_readout_time": 4.89,
+  "global_shutter": true,
+  "gyro_lpf": null,
+  "identifier": "---red-komodo6k-ef40mmf/2.8stm-28.00mm-6144x3240@0",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "EF40mm f/2.8 STM with Metabones Speedbooster 0.71x",
+  "name": "RED_KOMODO 6K_EF40mm f/2.8 STM with Metabones Speedbooster 0.71x_6K 17:9_6k_1.90by1_6144x3240-25.00fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 3240,
+    "w": 6144
+  },
+  "output_dimension": {
+    "h": 3240,
+    "w": 6144
+  },
+  "sync_settings": null
+}

@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "calvin Ng",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "a7rV",
+  "camera_setting": "60@150MM",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2023-11-11",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.4753189201946145,
+    "camera_matrix": [
+      [
+        24548.068500988487,
+        0.0,
+        1946.4685443745136
+      ],
+      [
+        0.0,
+        24684.84039543146,
+        1083.5931417198944
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      2.4687960698453275,
+      397.47371459735746,
+      -47230.948579281,
+      1357541.19985877
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 150.0,
+  "fps": 59.94006,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilce-7rm5-150.00mm-3840x2160@59940",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "tamron 35MM-150.00mm",
+  "name": "Sony_a7rV_tamron 35MM-150.00mm_60@150MM_4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "num_images": 5,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

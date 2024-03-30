@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "MAR",
+  "calibrator_version": "1.5.3",
+  "camera_brand": "Sony",
+  "camera_model": "FX30",
+  "camera_setting": "18MM",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2023-10-22",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.6202855495793674,
+    "camera_matrix": [
+      [
+        3300.902398094433,
+        0.0,
+        1883.1509287625736
+      ],
+      [
+        0.0,
+        3303.3449704696677,
+        1039.7107171739856
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3162969242157529,
+      0.027147215524787407,
+      1.366703885072592,
+      -2.3977747142162373
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 18.0,
+  "fps": 50.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "--------------sony-ilme-fx30-18.00mm-3840x2160@50000",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Sigma18-50F2.8",
+  "name": "Sony_FX30_Sigma18-50F2.8_18MM_4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "num_images": 5,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

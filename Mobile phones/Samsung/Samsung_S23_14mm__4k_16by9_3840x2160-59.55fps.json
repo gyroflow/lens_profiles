@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "Samuel",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Samsung",
+  "camera_model": "S23",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-01-02",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.6554330681590131,
+    "camera_matrix": [
+      [
+        1627.1860273545722,
+        0.0,
+        1911.5217709107835
+      ],
+      [
+        0.0,
+        1624.3746926946778,
+        1057.763088175449
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3016087851064742,
+      0.32891185485011076,
+      -0.3483023182634311,
+      0.30829655061678923
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 59.553577,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "14mm",
+  "name": "Samsung_S23_14mm__4k_16by9_3840x2160-59.55fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

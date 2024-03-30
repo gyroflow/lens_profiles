@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 4096
+  },
+  "calibrated_by": "马永哲",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "RED",
+  "camera_model": "komodo",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.6679564140893269,
+    "camera_matrix": [
+      [
+        1727.706311189945,
+        0.0,
+        2054.510544921421
+      ],
+      [
+        0.0,
+        1728.3619519988115,
+        1072.7191443541797
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33294989731103347,
+      0.07157390999349578,
+      0.10296406073206796,
+      -0.013592971324526398
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 25.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "11mm",
+  "name": "RED_komodo_11mm__C4k_1.90by1_4096x2160-25.00fps",
+  "note": "",
+  "num_images": 8,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 4096
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 4096
+  },
+  "sync_settings": null
+}

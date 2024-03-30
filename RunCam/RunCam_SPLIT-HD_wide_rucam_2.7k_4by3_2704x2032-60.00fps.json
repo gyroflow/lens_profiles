@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2032,
+    "w": 2704
+  },
+  "calibrated_by": "R L-runcam",
+  "calibrator_version": "1.5.2",
+  "camera_brand": "RunCam",
+  "camera_model": "SPLIT-HD",
+  "camera_setting": "rucam",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2023-11-27",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.6119763759588245,
+    "camera_matrix": [
+      [
+        1144.679435312704,
+        0.0,
+        1416.1762845854494
+      ],
+      [
+        0.0,
+        1145.5317805378404,
+        1048.4608351551208
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.12062695271338757,
+      0.13527970572991932,
+      -0.26648708983199737,
+      0.15872141178263105
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 60.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-runcam-split-hd-wide-2704x2032@60000",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "wide",
+  "name": "RunCam_SPLIT-HD_wide_rucam_2.7k_4by3_2704x2032-60.00fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2032,
+    "w": 2704
+  },
+  "output_dimension": {
+    "h": 2032,
+    "w": 2704
+  },
+  "sync_settings": null
+}

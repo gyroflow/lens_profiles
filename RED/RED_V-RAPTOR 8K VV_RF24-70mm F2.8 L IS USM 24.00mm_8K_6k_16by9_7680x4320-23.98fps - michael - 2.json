@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 4320,
+    "w": 7680
+  },
+  "calibrated_by": "michael",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "RED",
+  "camera_model": "V-RAPTOR 8K VV",
+  "camera_setting": "8K",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 2.036311880674416,
+    "camera_matrix": [
+      [
+        4919.147378453718,
+        0.0,
+        3843.9889241980536
+      ],
+      [
+        0.0,
+        4920.8755829842985,
+        2178.295541374168
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19474265997374104,
+      0.2253893488651857,
+      -0.15586326899000638,
+      0.4775694936694677
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 24.0,
+  "fps": 23.976025,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-red-v-raptor8kvv-rf24-70mmf2.8lisusm-24.00mm-7680x4320@0",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "RF24-70mm F2.8 L IS USM 24.00mm",
+  "name": "RED_V-RAPTOR 8K VV_RF24-70mm F2.8 L IS USM 24.00mm_8K_6k_16by9_7680x4320-23.98fps",
+  "note": "",
+  "num_images": 14,
+  "official": false,
+  "orig_dimension": {
+    "h": 4320,
+    "w": 7680
+  },
+  "output_dimension": {
+    "h": 4320,
+    "w": 7680
+  },
+  "sync_settings": null
+}

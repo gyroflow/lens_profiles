@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "calibrated_by": "刘畅",
+  "calibrator_version": "1.5.2",
+  "camera_brand": "Sony",
+  "camera_model": "a6700",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-02-06",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.7473558166856475,
+    "camera_matrix": [
+      [
+        912.0576434843769,
+        0.0,
+        959.6705711894684
+      ],
+      [
+        0.0,
+        922.5179046121996,
+        710.3038240445344
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.41155859931840255,
+      0.04114519006977595,
+      0.8391003991041237,
+      -0.9333415194022288
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 16.0,
+  "fps": 59.94006,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilce-6700-16.00mm-1920x1080@59940",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "16.00mm",
+  "name": "Sony_a6700_16.00mm__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "output_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "sync_settings": null
+}

@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "mac",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "a6700",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.8793194767844369,
+    "camera_matrix": [
+      [
+        4026.5110777653954,
+        0.0,
+        1972.0466325467012
+      ],
+      [
+        0.0,
+        4020.366697885181,
+        1129.215938945374
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3184557995084533,
+      0.14707311857127925,
+      1.771754508678809,
+      -8.011908095484
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 20.0,
+  "fps": 29.97003,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilce-6700-20.00mm-3840x2160@29970",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "20.00mm",
+  "name": "Sony_a6700_20.00mm__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "num_images": 30,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

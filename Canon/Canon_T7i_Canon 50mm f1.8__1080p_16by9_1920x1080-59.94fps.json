@@ -1,0 +1,69 @@
+{
+  "name": "Canon_T7i_Canon 50mm f1.8__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Ethan Holdredge",
+  "camera_brand": "Canon",
+  "camera_model": "T7i",
+  "lens_model": "Canon 50mm f1.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4888809839972944,
+    "camera_matrix": [
+      [
+        6392.451091688679,
+        0.0,
+        1074.9741664982923
+      ],
+      [
+        0.0,
+        6403.85260736428,
+        383.5327302731204
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.17754722175372684,
+      -7.790566344188366,
+      537.5358446712858,
+      -9339.961506450723
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

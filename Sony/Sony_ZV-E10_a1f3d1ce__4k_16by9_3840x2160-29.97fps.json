@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "瞿砚舟",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.5842108194957963,
+    "camera_matrix": [
+      [
+        5128.681197584242,
+        0.0,
+        2858.215826251872
+      ],
+      [
+        0.0,
+        5120.319825413337,
+        838.242092195489
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.08868593055058802,
+      3.9653227127126938,
+      -24.63675716905443,
+      59.84837029630234
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 29.97003,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-zv-e10-a1f3d1ce-3840x2160@29970",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "a1f3d1ce",
+  "name": "Sony_ZV-E10_a1f3d1ce__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "五道杠",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "camera_setting": "1.0x",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.8630966136029373,
+    "camera_matrix": [
+      [
+        3966.540906979709,
+        0.0,
+        1971.861447089321
+      ],
+      [
+        0.0,
+        3954.496067865227,
+        1128.774022083421
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2104483530834756,
+      0.03493983990053286,
+      1.3224221027439285,
+      -1.6252694546363693
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 23.976025,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-zv-e10-5884045-3840x2160@23976",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Tokina atx-m 23mm AF F1.4 E - 4k24p 1.0x",
+  "name": "Sony_ZV-E10_Tokina atx-m 23mm AF F1.4 E - 4k24p 1.0x_1.0x_4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "num_images": 14,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

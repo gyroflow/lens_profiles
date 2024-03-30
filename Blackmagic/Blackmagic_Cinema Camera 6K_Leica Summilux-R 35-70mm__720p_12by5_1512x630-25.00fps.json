@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Cinema Camera 6K_Leica Summilux-R 35-70mm__720p_12by5_1512x630-25.00fps",
+  "note": "",
+  "calibrated_by": "Boris Pruessmann",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Cinema Camera 6K",
+  "lens_model": "Leica Summilux-R 35-70mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1512,
+    "h": 630
+  },
+  "orig_dimension": {
+    "w": 1512,
+    "h": 630
+  },
+  "output_dimension": {
+    "w": 6048,
+    "h": 2520
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.21304875149988584,
+    "camera_matrix": [
+      [
+        2628.105447305886,
+        0.0,
+        1006.9797840111306
+      ],
+      [
+        0.0,
+        2512.9969030265793,
+        314.10172892200336
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4870667527447218,
+      -1.1847678610426229,
+      12.082483004936233,
+      -38.689916136402125
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-cinemacamera6k-leica-35-70mm-6048x2520@25000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 3488,
+    "w": 4640
+  },
+  "calibrated_by": "Roman Lisin",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "ZTE",
+  "camera_model": "nubia z50 ultra",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": 1.0,
+  "date": "2023-12-20",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 1.644691087865962,
+    "camera_matrix": [
+      [
+        4655.812551604584,
+        0.0,
+        2277.0369811695064
+      ],
+      [
+        0.0,
+        4664.370874140112,
+        1717.2405221503188
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.7320328985251747,
+      -0.9093441531233524,
+      -8.842455037096537,
+      33.27421064005683
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 35.0,
+  "fps": 23.994999,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "35mm",
+  "name": "ZTE_nubia z50 ultra_35mm__C4k_4by3_4640x3488-23.99fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 3488,
+    "w": 4640
+  },
+  "output_dimension": {
+    "h": 0,
+    "w": 0
+  },
+  "sync_settings": null
+}

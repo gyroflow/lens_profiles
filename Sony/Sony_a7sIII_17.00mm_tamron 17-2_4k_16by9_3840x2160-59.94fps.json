@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "Elvis Brin",
+  "calibrator_version": "1.5.3",
+  "camera_brand": "Sony",
+  "camera_model": "a7sIII",
+  "camera_setting": "tamron 17-2",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.4323984876639608,
+    "camera_matrix": [
+      [
+        1901.7606280512684,
+        0.0,
+        1917.937067163926
+      ],
+      [
+        0.0,
+        1901.9210415226712,
+        1067.3511037854169
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.22038716645527545,
+      0.16714348921007624,
+      -0.020539120894627252,
+      0.13144330879622065
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 17.0,
+  "fps": 59.94006,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilce-7sm3-17.00mm-3840x2160@59940",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "17.00mm",
+  "name": "Sony_a7sIII_17.00mm_tamron 17-2_4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "num_images": 14,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_Galaxy S24 Ultra_aperture_23mm_4k_4by3_3840x2880-30.01fps",
+  "note": "23mm",
+  "calibrated_by": "Yan PC-i9",
+  "camera_brand": "Samsung",
+  "camera_model": "Galaxy S24 Ultra",
+  "lens_model": "aperture",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2880
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2880
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2880
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 30.010563,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.918891792615858,
+    "camera_matrix": [
+      [
+        2496.292087577785,
+        0.0,
+        1937.2325187575689
+      ],
+      [
+        0.0,
+        2495.8477172166517,
+        1434.0560966628088
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.48597990250364664,
+      -0.5656537594611264,
+      1.4318402528721206,
+      -0.9903199210509858
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

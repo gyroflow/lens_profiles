@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "moeforever",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "camera_setting": "30",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": 1.2,
+  "date": "2024-01-06",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.5349822113043583,
+    "camera_matrix": [
+      [
+        2410.6792944423864,
+        0.0,
+        1944.9249799190484
+      ],
+      [
+        0.0,
+        2406.157573939779,
+        1082.1910835315932
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32406464208804026,
+      0.11442497371144272,
+      0.1308952939254799,
+      -0.061728687064121567
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 18.0,
+  "fps": 29.97003,
+  "frame_readout_time": 17.27,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilce-7c-4a2029ec-3840x2160@29970",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Samyang 18 2.8",
+  "name": "Sony_a7C_Samyang 18 2.8_30_4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

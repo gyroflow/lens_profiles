@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "calibrated_by": "陈景霖",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Panasonic",
+  "camera_model": "g100",
+  "camera_setting": "全防抖",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-03-03",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.30778913740873093,
+    "camera_matrix": [
+      [
+        1986.302845794765,
+        0.0,
+        951.204666151657
+      ],
+      [
+        0.0,
+        1985.1343734625725,
+        543.7769485222103
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2429702754502323,
+      0.6150745962300241,
+      -3.35343793275919,
+      7.885784156135638
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 25.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "1260-12",
+  "name": "Panasonic_g100_1260-12_全防抖_1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "num_images": 14,
+  "official": false,
+  "orig_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "output_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "sync_settings": null
+}

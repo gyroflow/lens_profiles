@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "calibrated_by": "Administrator",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 15 pro",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-03-09",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.33690612194479025,
+    "camera_matrix": [
+      [
+        819.3254373078342,
+        0.0,
+        959.5115485383914
+      ],
+      [
+        0.0,
+        819.4815502890542,
+        526.7600672935447
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3476575816096684,
+      0.019904147643765822,
+      0.32487079443336603,
+      -0.17369562815930376
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 59.924145,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "13",
+  "name": "Apple_iPhone 15 pro_13__1080p_16by9_1920x1080-59.92fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

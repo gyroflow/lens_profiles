@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "Vittorio",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "a6700",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.7638001173759379,
+    "camera_matrix": [
+      [
+        4210.7805574998765,
+        0.0,
+        1941.3676725104408
+      ],
+      [
+        0.0,
+        4219.443614565861,
+        1041.3380315582056
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3210004852305496,
+      0.17417983012522886,
+      -2.5825306218472157,
+      12.618126601676426
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 24.0,
+  "fps": 50.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilce-6700-24.00mm-3840x2160@50000",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "SEL24F28G",
+  "name": "Sony_a6700_SEL24F28G__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "num_images": 13,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

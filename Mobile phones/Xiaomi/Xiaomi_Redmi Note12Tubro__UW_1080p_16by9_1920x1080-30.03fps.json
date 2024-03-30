@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_Redmi Note12Tubro__UW_1080p_16by9_1920x1080-30.03fps",
+  "note": "",
+  "calibrated_by": "Septunbium",
+  "camera_brand": "Xiaomi",
+  "camera_model": "Redmi Note12Tubro",
+  "lens_model": "",
+  "camera_setting": "UW",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.027346,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.32110983327121756,
+    "camera_matrix": [
+      [
+        1090.5052497086635,
+        0.0,
+        933.2743146763128
+      ],
+      [
+        0.0,
+        1115.06472016705,
+        540.4338997370917
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.34044625935420125,
+      0.27504578159435783,
+      -0.8432655090915223,
+      1.3800662471158718
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-12-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_tokina 11-20 T2.9at 11mm_6K_5k_16by9_5760x3240-25.00fps",
+  "note": "",
+  "calibrated_by": "Kaan",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "tokina 11-20 T2.9at 11mm",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8066159582496923,
+    "camera_matrix": [
+      [
+        2811.2319761269573,
+        0.0,
+        2907.007579424457
+      ],
+      [
+        0.0,
+        2810.103434327538,
+        1574.0233786105252
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32798598342775087,
+      0.09312080191883208,
+      -0.11505744796205276,
+      0.18705204617248428
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

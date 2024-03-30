@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "Igor K",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.5906103518618633,
+    "camera_matrix": [
+      [
+        3709.8593222017616,
+        0.0,
+        1931.1444294873477
+      ],
+      [
+        0.0,
+        3709.730348432059,
+        1069.3186822646796
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.25896860200901783,
+      0.5879241020313347,
+      -1.6197928096598897,
+      3.702467063643109
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 35.0,
+  "fps": 59.94006,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilme-fx3-35.00mm-3840x2160@59940",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "35.00mm GM",
+  "name": "Sony_FX3_35.00mm GM__4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

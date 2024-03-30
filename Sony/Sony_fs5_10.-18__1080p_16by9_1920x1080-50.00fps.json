@@ -1,0 +1,69 @@
+{
+  "name": "Sony_fs5_10.-18__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "D L",
+  "camera_brand": "Sony",
+  "camera_model": "fs5",
+  "lens_model": "10.-18",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4951883146566116,
+    "camera_matrix": [
+      [
+        1371.4936947682038,
+        0.0,
+        993.367713931918
+      ],
+      [
+        0.0,
+        1367.533412853934,
+        548.5620103578065
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31525668889602865,
+      0.23996637465749443,
+      -0.26942276158493667,
+      0.4300158314964628
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

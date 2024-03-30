@@ -1,0 +1,69 @@
+{
+  "name": "Olympus_Stylus 1s___1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "Junior",
+  "camera_brand": "Olympus",
+  "camera_model": "Stylus 1s",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.24329607536575543,
+    "camera_matrix": [
+      [
+        23145.153301872066,
+        0.0,
+        700.6979705252014
+      ],
+      [
+        0.0,
+        22947.28721973062,
+        -813.8619970746213
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -1.0357272046905992,
+      279.81589294106544,
+      -31707.712395930917,
+      1181567.7208694275
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

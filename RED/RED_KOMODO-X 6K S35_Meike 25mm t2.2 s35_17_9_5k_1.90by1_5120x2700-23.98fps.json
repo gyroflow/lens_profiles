@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO-X 6K S35_Meike 25mm t2.2 s35_17:9_5k_1.90by1_5120x2700-23.98fps",
+  "note": "",
+  "calibrated_by": "lucas gibbons",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "lens_model": "Meike 25mm t2.2 s35",
+  "camera_setting": "17:9",
+  "calib_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "orig_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "output_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7490121342255889,
+    "camera_matrix": [
+      [
+        5737.768899051376,
+        0.0,
+        2572.3342167564456
+      ],
+      [
+        0.0,
+        5738.298076969815,
+        1348.4141951557103
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.24366698083733823,
+      0.020017501656704375,
+      1.8636419144733756,
+      -6.238171591748128
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

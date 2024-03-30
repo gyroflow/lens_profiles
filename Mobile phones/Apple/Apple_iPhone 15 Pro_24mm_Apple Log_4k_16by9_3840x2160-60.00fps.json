@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone 15 Pro_24mm_Apple Log_4k_16by9_3840x2160-60.00fps",
+  "note": "BMC app, lens correction off",
+  "calibrated_by": "Vladimir Kostenko",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 15 Pro",
+  "lens_model": "24mm",
+  "camera_setting": "Apple Log",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 22,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9244513795256738,
+    "camera_matrix": [
+      [
+        2504.7583422819725,
+        0.0,
+        1920.9136489400612
+      ],
+      [
+        0.0,
+        2505.8754517662883,
+        1084.2961481725465
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5859686075190991,
+      -0.853593005061343,
+      1.274324164180012,
+      -0.2762530573455433
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

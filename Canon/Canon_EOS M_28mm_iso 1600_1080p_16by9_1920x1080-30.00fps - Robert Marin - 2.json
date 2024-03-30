@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS M_28mm_iso 1600_1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "calibrated_by": "Robert Marin",
+  "camera_brand": "Canon",
+  "camera_model": "EOS M",
+  "lens_model": "28mm",
+  "camera_setting": "iso 1600",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9071873071176264,
+    "camera_matrix": [
+      [
+        5381.325224418069,
+        0.0,
+        989.4485046053452
+      ],
+      [
+        0.0,
+        5373.40064273447,
+        529.257044629554
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6868817823659967,
+      1.718382643206772,
+      548.7080281274913,
+      -14833.547208031658
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

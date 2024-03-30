@@ -1,0 +1,69 @@
+{
+  "name": "Canon_r7_7Artisans 7.5mm_off stabilizer_4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "cmj",
+  "camera_brand": "Canon",
+  "camera_model": "r7",
+  "lens_model": "7Artisans 7.5mm",
+  "camera_setting": "off stabilizer",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 18,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.959952120202759,
+    "camera_matrix": [
+      [
+        1482.707736848556,
+        0.0,
+        1921.2592974500485
+      ],
+      [
+        0.0,
+        1483.701137616394,
+        1085.5706288024303
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.007731684330151909,
+      0.001154322559261518,
+      -0.003727056609143593,
+      0.001868047914511448
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

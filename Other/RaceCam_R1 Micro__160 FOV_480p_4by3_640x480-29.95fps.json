@@ -1,0 +1,69 @@
+{
+  "name": "RaceCam_R1 Micro__160 FOV_480p_4by3_640x480-29.95fps",
+  "note": "160 FOV",
+  "calibrated_by": "Bryn",
+  "camera_brand": "RaceCam",
+  "camera_model": "R1 Micro",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 640,
+    "h": 480
+  },
+  "orig_dimension": {
+    "w": 640,
+    "h": 480
+  },
+  "output_dimension": {
+    "w": 640,
+    "h": 480
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 29.951778,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4143220410917708,
+    "camera_matrix": [
+      [
+        231.5486608217338,
+        0.0,
+        320.6450331435514
+      ],
+      [
+        0.0,
+        219.91613986496975,
+        243.83435280347223
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.48384965821897213,
+      0.4334129098474361,
+      -0.9309884272333652,
+      0.42786906231039934
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

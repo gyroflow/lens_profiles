@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 4096
+  },
+  "calibrated_by": "001",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4k",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.8040874347550432,
+    "camera_matrix": [
+      [
+        1650.7140551561945,
+        0.0,
+        2028.6707046916963
+      ],
+      [
+        0.0,
+        1651.6793253046412,
+        1055.8391995603392
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.339383446939845,
+      0.05897343173711434,
+      0.06851789728184897,
+      0.03484476797612018
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 50.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "laowa7.5",
+  "name": "Blackmagic_Pocket Cinema Camera 4k_laowa7.5__C4k_1.90by1_4096x2160-50.00fps",
+  "note": "",
+  "num_images": 6,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 4096
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 4096
+  },
+  "sync_settings": null
+}

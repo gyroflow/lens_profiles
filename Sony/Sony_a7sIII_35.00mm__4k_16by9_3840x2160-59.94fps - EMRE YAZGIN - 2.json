@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "EMRE YAZGIN",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "a7sIII",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.5673962263067299,
+    "camera_matrix": [
+      [
+        4242.544131984663,
+        0.0,
+        1940.7262841975516
+      ],
+      [
+        0.0,
+        4239.488739272405,
+        1086.8095446335033
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30974073857837836,
+      0.5770028887150515,
+      -2.796721842804984,
+      6.7504854072254625
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 35.0,
+  "fps": 59.94006,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "------sony-ilce-7sm3-35.00mm-3840x2160@59940",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "35.00mm",
+  "name": "Sony_a7sIII_35.00mm__4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

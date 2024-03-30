@@ -1,0 +1,69 @@
+{
+  "name": "Z CAM_E2 S6_Laowa 7.5mm_f2_1080p_16by9_1920x1080-24.00fps",
+  "note": "",
+  "calibrated_by": "YOHALMO",
+  "camera_brand": "Z CAM",
+  "camera_model": "E2 S6",
+  "lens_model": "Laowa 7.5mm",
+  "camera_setting": "f2",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3116609061845581,
+    "camera_matrix": [
+      [
+        685.8584040773383,
+        0.0,
+        960.5389597127132
+      ],
+      [
+        0.0,
+        686.0245614278703,
+        534.9502307786217
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32835183367104126,
+      0.08682112657398212,
+      0.02437455295978603,
+      0.053295517305989075
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

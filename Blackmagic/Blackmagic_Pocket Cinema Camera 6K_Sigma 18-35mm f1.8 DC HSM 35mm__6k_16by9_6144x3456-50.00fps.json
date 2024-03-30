@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K_Sigma 18-35mm f/1.8 DC HSM 35mm__6k_16by9_6144x3456-50.00fps",
+  "note": "",
+  "calibrated_by": "Thibaut",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K",
+  "lens_model": "Sigma 18-35mm f/1.8 DC HSM 35mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.413012830618905,
+    "camera_matrix": [
+      [
+        9272.734408500644,
+        0.0,
+        3049.6952317724836
+      ],
+      [
+        0.0,
+        9227.389176509228,
+        1920.169494608133
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2548401120302583,
+      5.956624170702694,
+      -82.22478068585714,
+      468.2411832049778
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera6k-sigma18-35mmf/1.8dchsm-35mm-6144x3456@50000",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

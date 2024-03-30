@@ -1,0 +1,69 @@
+{
+  "name": "ONEPLUS_IZI__*60fps_5k_16by9_5120x2880-30.00fps",
+  "note": "",
+  "calibrated_by": "Varun",
+  "camera_brand": "ONEPLUS",
+  "camera_model": "IZI",
+  "lens_model": "",
+  "camera_setting": "*60fps",
+  "calib_dimension": {
+    "w": 5120,
+    "h": 2880
+  },
+  "orig_dimension": {
+    "w": 5120,
+    "h": 2880
+  },
+  "output_dimension": {
+    "w": 5120,
+    "h": 2880
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.198575859906362,
+    "camera_matrix": [
+      [
+        4787.581463656102,
+        0.0,
+        2711.0800786163413
+      ],
+      [
+        0.0,
+        4821.546566108257,
+        1422.3459894324264
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.13736458475129365,
+      -0.6819751741563203,
+      1.9902501700659911,
+      -1.2112749170898824
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

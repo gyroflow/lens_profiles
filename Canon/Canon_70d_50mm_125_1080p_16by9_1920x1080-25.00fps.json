@@ -1,0 +1,69 @@
+{
+  "name": "Canon_70d_50mm_125_1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "黄仕杭",
+  "camera_brand": "Canon",
+  "camera_model": "70d",
+  "lens_model": "50mm",
+  "camera_setting": "125",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 4.82,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6392387023431728,
+    "camera_matrix": [
+      [
+        8383.908321270235,
+        0.0,
+        876.2352283144953
+      ],
+      [
+        0.0,
+        8366.288126466503,
+        1613.466401362919
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.3603179940513062,
+      45.46921911138917,
+      -1317.2878674259402,
+      13015.256857361566
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

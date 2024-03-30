@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "Igor Kasyanyuk",
+  "calibrator_version": "1.5.3",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.69300775994064,
+    "camera_matrix": [
+      [
+        8470.628740977641,
+        0.0,
+        2078.798485968064
+      ],
+      [
+        0.0,
+        8488.620731377909,
+        1061.9092539758258
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4012840323047837,
+      4.612891441622106,
+      -145.85799552015956,
+      1222.5076175300137
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 70.0,
+  "fps": 59.94006,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "--sony-ilme-fx3-70.00mm-3840x2160@59940",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Sony FE 70-200 Macro G II @70mm",
+  "name": "Sony_FX3_Sony FE 70-200 Macro G II @70mm__4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

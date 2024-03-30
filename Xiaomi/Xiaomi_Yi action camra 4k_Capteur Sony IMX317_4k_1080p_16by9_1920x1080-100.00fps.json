@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_Yi action caméra 4k_Capteur Sony IMX317_4k_1080p_16by9_1920x1080-100.00fps",
+  "note": "",
+  "calibrated_by": "Kilian Komites",
+  "camera_brand": "Xiaomi",
+  "camera_model": "Yi action caméra 4k",
+  "lens_model": "Capteur Sony IMX317",
+  "camera_setting": "4k",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 100.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1621070279385803,
+    "camera_matrix": [
+      [
+        3136.5424621384245,
+        0.0,
+        1024.0495678123652
+      ],
+      [
+        0.0,
+        3062.5065126820036,
+        1304.594816596402
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.15118669142762023,
+      0.60373976796446,
+      3.081739911640973,
+      -19.611118808647092
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

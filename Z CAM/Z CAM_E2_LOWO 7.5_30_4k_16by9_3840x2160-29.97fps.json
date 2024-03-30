@@ -1,0 +1,69 @@
+{
+  "name": "Z CAM_E2_LOWO 7.5_30_4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "长星的山寨笔记本",
+  "camera_brand": "Z CAM",
+  "camera_model": "E2",
+  "lens_model": "LOWO 7.5",
+  "camera_setting": "30",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9275591723175663,
+    "camera_matrix": [
+      [
+        1660.7774978386865,
+        0.0,
+        1884.1253613532613
+      ],
+      [
+        0.0,
+        1663.754888478426,
+        1033.01563034997
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2947498926315719,
+      0.24728990734866468,
+      -0.28649304284258503,
+      0.2346881153232059
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

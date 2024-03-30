@@ -1,0 +1,69 @@
+{
+  "name": "Google_Pixel 7_Rear_2x Zoom_1080p_16by9_1920x1080-29.99fps",
+  "note": "",
+  "calibrated_by": "Benjamin",
+  "camera_brand": "Google",
+  "camera_model": "Pixel 7",
+  "lens_model": "Rear",
+  "camera_setting": "2x Zoom",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 29.98913,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.29274720807467824,
+    "camera_matrix": [
+      [
+        3442.6137693811147,
+        0.0,
+        959.2783332424242
+      ],
+      [
+        0.0,
+        3445.4227832441097,
+        493.53640793980816
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6661272747296624,
+      -0.29068007126398543,
+      -60.9946777173351,
+      544.2731167394013
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

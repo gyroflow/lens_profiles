@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Nikon AIS 20mm 2.8_6K 2.4:1_6k_2.37by1_6144x2592-25.00fps",
+  "note": "Used with Canon .71 SpeedBooster",
+  "calibrated_by": "Felix Müller",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Nikon AIS 20mm 2.8",
+  "camera_setting": "6K 2.4:1",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 7,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8056634880732209,
+    "camera_matrix": [
+      [
+        3318.9039390818884,
+        0.0,
+        3086.92427153869
+      ],
+      [
+        0.0,
+        3316.7983435318342,
+        1270.38989364386
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19693792144048772,
+      0.2502886903068703,
+      -0.2403370528302733,
+      0.5249674165707477
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

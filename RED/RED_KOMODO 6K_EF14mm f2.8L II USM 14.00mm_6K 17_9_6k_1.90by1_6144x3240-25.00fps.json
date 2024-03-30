@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 3240,
+    "w": 6144
+  },
+  "calibrated_by": "Subae Haitham",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "camera_setting": "6K 17:9",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.966072655221668,
+    "camera_matrix": [
+      [
+        2310.2587398887827,
+        0.0,
+        3078.4125902795913
+      ],
+      [
+        0.0,
+        2310.053766128562,
+        1638.4643099272794
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.25076483343617956,
+      0.2232030361921189,
+      -0.1832967219323013,
+      0.19317644356205793
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 14.0,
+  "fps": 25.0,
+  "frame_readout_time": null,
+  "global_shutter": true,
+  "gyro_lpf": null,
+  "identifier": "-red-komodo6k-ef14mmf/2.8liiusm-14.00mm-6144x3240@0",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "EF14mm f/2.8L II USM 14.00mm",
+  "name": "RED_KOMODO 6K_EF14mm f/2.8L II USM 14.00mm_6K 17:9_6k_1.90by1_6144x3240-25.00fps",
+  "note": "Samyang 14mm",
+  "num_images": 5,
+  "official": false,
+  "orig_dimension": {
+    "h": 3240,
+    "w": 6144
+  },
+  "output_dimension": {
+    "h": 3240,
+    "w": 6144
+  },
+  "sync_settings": null
+}

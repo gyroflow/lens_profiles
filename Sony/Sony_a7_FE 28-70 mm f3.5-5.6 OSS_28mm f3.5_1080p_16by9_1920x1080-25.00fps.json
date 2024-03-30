@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7_FE 28-70 mm f/3.5-5.6 OSS_28mm f/3.5_1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "bushi893",
+  "camera_brand": "Sony",
+  "camera_model": "a7",
+  "lens_model": "FE 28-70 mm f/3.5-5.6 OSS",
+  "camera_setting": "28mm f/3.5",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.42738794630665095,
+    "camera_matrix": [
+      [
+        1565.219348835044,
+        0.0,
+        958.1303992640214
+      ],
+      [
+        0.0,
+        1564.3652715220271,
+        532.9965528238745
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3195953911187373,
+      0.2067309672086684,
+      -0.09240972855282864,
+      0.27674972642795925
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_S23 Plus_14mm Crop_18,2 mm_2.7k_4by3_2812x2112-30.01fps",
+  "note": "",
+  "calibrated_by": "The Mandalorian",
+  "camera_brand": "Samsung",
+  "camera_model": "S23 Plus",
+  "lens_model": "14mm Crop",
+  "camera_setting": "18,2 mm",
+  "calib_dimension": {
+    "w": 2812,
+    "h": 2112
+  },
+  "orig_dimension": {
+    "w": 2812,
+    "h": 2112
+  },
+  "output_dimension": {
+    "w": 2812,
+    "h": 2112
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 30.014288,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5364704126768571,
+    "camera_matrix": [
+      [
+        1644.5542991647274,
+        0.0,
+        1378.7942560855113
+      ],
+      [
+        0.0,
+        1643.6141330226208,
+        1049.3349534709837
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3188751285989356,
+      0.1640355583815344,
+      0.1782141313017679,
+      -0.16669209188393153
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Canon_C100 MKII_Canon 24-70mm f/2.8_at 24mm_1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "Jeremy Carroll",
+  "camera_brand": "Canon",
+  "camera_model": "C100 MKII",
+  "lens_model": "Canon 24-70mm f/2.8",
+  "camera_setting": "at 24mm",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.27572134456594416,
+    "camera_matrix": [
+      [
+        1866.926539807754,
+        0.0,
+        963.063063912002
+      ],
+      [
+        0.0,
+        1868.7238813267395,
+        558.2971276529215
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19086669434469364,
+      0.4588247528706968,
+      -1.9876619214359736,
+      4.818949676663717
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.1",
+  "date": "2024-01-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

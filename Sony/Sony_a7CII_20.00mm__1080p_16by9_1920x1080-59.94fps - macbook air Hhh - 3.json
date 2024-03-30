@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "calibrated_by": "macbook air Hhh",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "a7CII",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.3643187579804575,
+    "camera_matrix": [
+      [
+        1041.6937480789477,
+        0.0,
+        959.2499595429216
+      ],
+      [
+        0.0,
+        1041.3090508580665,
+        538.9397295113242
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3135806601165827,
+      0.2012259705290986,
+      -0.14911687543438296,
+      0.1929056910540704
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 20.0,
+  "fps": 59.94006,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "--sony-ilce-7cm2-20.00mm-1920x1080@59940",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "20.00mm",
+  "name": "Sony_a7CII_20.00mm__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "output_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "sync_settings": null
+}

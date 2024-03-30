@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "徐明璐",
+  "calibrator_version": "1.5.3",
+  "camera_brand": "Sony",
+  "camera_model": "a1",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2023-11-02",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.8588661760893241,
+    "camera_matrix": [
+      [
+        16116.104563682497,
+        0.0,
+        2063.284488686545
+      ],
+      [
+        0.0,
+        16062.436042331969,
+        1096.868977777845
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.06916764105411165,
+      78.16876998066714,
+      -5600.237944927243,
+      135931.416355273
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 135.0,
+  "fps": 50.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilce-1-135.00mm-3840x2160@50000",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "135.00mm",
+  "name": "Sony_a1_135.00mm__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

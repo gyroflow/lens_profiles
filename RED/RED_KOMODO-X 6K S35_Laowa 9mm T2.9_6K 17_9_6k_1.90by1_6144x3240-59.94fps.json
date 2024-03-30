@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO-X 6K S35_Laowa 9mm T2.9_6K 17:9_6k_1.90by1_6144x3240-59.94fps",
+  "note": "",
+  "calibrated_by": "Raymond Francisco",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "lens_model": "Laowa 9mm T2.9",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6452489952880478,
+    "camera_matrix": [
+      [
+        2085.334361754945,
+        0.0,
+        3064.4162785528197
+      ],
+      [
+        0.0,
+        2085.62372786957,
+        1599.5327729402843
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.35289408401364336,
+      0.07440306415553925,
+      0.07944169825840705,
+      0.041577002597044166
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

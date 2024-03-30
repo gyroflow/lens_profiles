@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_GH6_Laowa 6 mm_5,8K 5760 4320_5k_4by3_5760x4320-25.00fps",
+  "note": "",
+  "calibrated_by": "cedricnussli",
+  "camera_brand": "Panasonic",
+  "camera_model": "GH6",
+  "lens_model": "Laowa 6 mm",
+  "camera_setting": "5,8K 5760 4320",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2651843134340626,
+    "camera_matrix": [
+      [
+        2115.046421428044,
+        0.0,
+        2886.975636865695
+      ],
+      [
+        0.0,
+        2110.347143333293,
+        2161.059204588319
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31914201020293104,
+      0.1876678963160775,
+      -0.0610530631764296,
+      0.07713382984245344
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

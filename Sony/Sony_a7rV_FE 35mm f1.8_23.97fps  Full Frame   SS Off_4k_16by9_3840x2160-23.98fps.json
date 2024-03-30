@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "Paul Chelmis",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "a7rV",
+  "camera_setting": "23.97fps / Full Frame  / SS Off",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.7105219660666114,
+    "camera_matrix": [
+      [
+        3876.929682892642,
+        0.0,
+        1905.6972180523255
+      ],
+      [
+        0.0,
+        3882.2266869078176,
+        1050.9574656883165
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31887341778380585,
+      0.0857653890088457,
+      1.1132728234225084,
+      -0.5763591032994336
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 35.0,
+  "fps": 23.976025,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "----sony-ilce-7rm5-35.00mm-3840x2160@23976",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "FE 35mm f1.8",
+  "name": "Sony_a7rV_FE 35mm f1.8_23.97fps / Full Frame  / SS Off_4k_16by9_3840x2160-23.98fps",
+  "note": "a7rV",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

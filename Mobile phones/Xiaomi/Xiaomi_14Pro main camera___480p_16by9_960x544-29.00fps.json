@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 544,
+    "w": 960
+  },
+  "calibrated_by": "XF H",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Xiaomi",
+  "camera_model": "14Pro main camera",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2023-12-12",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.2652991318325739,
+    "camera_matrix": [
+      [
+        806.2122896819337,
+        0.0,
+        479.101181406973
+      ],
+      [
+        0.0,
+        788.1553121267831,
+        278.03462976782936
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4010382997139957,
+      -0.6489252052370517,
+      2.926806046126599,
+      -3.3909291420913386
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 29.001125,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Xiaomi_14Pro main camera___480p_16by9_960x544-29.00fps",
+  "note": "",
+  "num_images": 11,
+  "official": false,
+  "orig_dimension": {
+    "h": 544,
+    "w": 960
+  },
+  "output_dimension": {
+    "h": 544,
+    "w": 960
+  },
+  "sync_settings": null
+}

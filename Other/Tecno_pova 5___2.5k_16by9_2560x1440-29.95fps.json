@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1440,
+    "w": 2560
+  },
+  "calibrated_by": "U0 A277",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Tecno",
+  "camera_model": "pova 5",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.5886442290013539,
+    "camera_matrix": [
+      [
+        1940.3865465458427,
+        0.0,
+        1292.05680931911
+      ],
+      [
+        0.0,
+        1937.964970146392,
+        715.5619939298293
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5878775157095171,
+      -0.4328296721843062,
+      -3.235117104191871,
+      10.271890282122412
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 29.947083,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Tecno_pova 5___2.5k_16by9_2560x1440-29.95fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 1440,
+    "w": 2560
+  },
+  "output_dimension": {
+    "h": 1440,
+    "w": 2560
+  },
+  "sync_settings": null
+}

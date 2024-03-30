@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_Lumix S1_SIGMA DC 18-50 (28mm)__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "JAFFER SADIQ",
+  "camera_brand": "Panasonic",
+  "camera_model": "Lumix S1",
+  "lens_model": "SIGMA DC 18-50 (28mm)",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8876832941847256,
+    "camera_matrix": [
+      [
+        4607.918186174886,
+        0.0,
+        1918.0757288163636
+      ],
+      [
+        0.0,
+        4608.900308802341,
+        1036.5884835591617
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31389391145275447,
+      -0.4283715206398921,
+      13.028095147736249,
+      -63.39794023145212
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

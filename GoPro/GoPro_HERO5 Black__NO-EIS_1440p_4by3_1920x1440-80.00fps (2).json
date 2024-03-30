@@ -1,0 +1,69 @@
+{
+  "name": "GoPro_HERO5 Black__NO-EIS_1440p_4by3_1920x1440-80.00fps",
+  "note": "NO-EIS",
+  "calibrated_by": "Borna Kovacevic",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO5 Black",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 80.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4320351415945416,
+    "camera_matrix": [
+      [
+        834.0805354059321,
+        0.0,
+        960.7518342161026
+      ],
+      [
+        0.0,
+        834.5507111166678,
+        712.8731452488225
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.0350394698896315,
+      0.0791095823816311,
+      -0.12727609890728253,
+      0.07602684730656771
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

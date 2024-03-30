@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 4K_EF Sigma 18-35mm f/1.8 om 20mm F4.8_with Viltrox EF-M2 adapter_480p_16by9_672x378-59.94fps",
+  "note": "with Viltrox EF-M2 adapter",
+  "calibrated_by": "Igors Orlovs",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K",
+  "lens_model": "EF Sigma 18-35mm f/1.8 om 20mm F4.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 672,
+    "h": 378
+  },
+  "orig_dimension": {
+    "w": 672,
+    "h": 378
+  },
+  "output_dimension": {
+    "w": 2688,
+    "h": 1512
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 59.940063,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2646250384421147,
+    "camera_matrix": [
+      [
+        723.574770852849,
+        0.0,
+        344.84843101624443
+      ],
+      [
+        0.0,
+        724.7967112585416,
+        219.8117704879081
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.23551186065643603,
+      -0.17218452087583583,
+      2.7571429356454815,
+      -6.60696338794379
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera4k-ef12-24mmf/1.2-14mm-2688x1512@59940",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 14.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

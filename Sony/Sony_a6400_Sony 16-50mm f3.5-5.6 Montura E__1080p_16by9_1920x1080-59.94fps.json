@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_Sony 16-50mm f/3.5-5.6 Montura E__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Jeimy D. Patiño Mejía",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "Sony 16-50mm f/3.5-5.6 Montura E",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.47669436589644737,
+    "camera_matrix": [
+      [
+        1304.775792787285,
+        0.0,
+        964.108895228589
+      ],
+      [
+        0.0,
+        1304.582351239006,
+        537.2067113303953
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.35768286791789705,
+      -0.775014954729104,
+      4.955139372724207,
+      -8.175101561449791
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

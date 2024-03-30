@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_xt4_16-55 (16)__C4k_1.90by1_4096x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Orosz Viktoria",
+  "camera_brand": "Fujifilm",
+  "camera_model": "xt4",
+  "lens_model": "16-55 (16)",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1509817523240906,
+    "camera_matrix": [
+      [
+        13786.255827980176,
+        0.0,
+        2122.4202648909827
+      ],
+      [
+        0.0,
+        13722.40587224104,
+        -292.8930874753084
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.05202604631946967,
+      9.678083736067965,
+      -219.0791299799405,
+      1045.934104420936
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

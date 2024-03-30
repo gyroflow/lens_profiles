@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K_Canon EF-S 17-55mm f/2.8 IS USM 17mm__6k_16by9_6144x3456-50.00fps",
+  "note": "",
+  "calibrated_by": "Jack Lee",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K",
+  "lens_model": "Canon EF-S 17-55mm f/2.8 IS USM 17mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.6655706683440183,
+    "camera_matrix": [
+      [
+        4841.426741196667,
+        0.0,
+        3154.92563809253
+      ],
+      [
+        0.0,
+        4843.010172082467,
+        1794.811265720593
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.253719556321687,
+      -0.38048714358065033,
+      3.231371645430344,
+      -5.391711327840096
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera6k-canonef-s17-55mmf/2.8isusm-17mm-6144x3456@50000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 17.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

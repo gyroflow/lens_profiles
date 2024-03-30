@@ -1,0 +1,69 @@
+{
+  "name": "Huawei_mate50pro_miancamer_1X_4k_16by9_3840x2160-60.03fps",
+  "note": "",
+  "calibrated_by": "ylx",
+  "camera_brand": "Huawei",
+  "camera_model": "mate50pro",
+  "lens_model": "miancamer",
+  "camera_setting": "1X",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 60.032124,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.069680794326851,
+    "camera_matrix": [
+      [
+        3458.25236629927,
+        0.0,
+        1955.6193963255976
+      ],
+      [
+        0.0,
+        3459.955199284854,
+        1058.9542356729023
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.714286175021534,
+      -3.816662320332718,
+      17.27146404677898,
+      -26.579198636415416
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

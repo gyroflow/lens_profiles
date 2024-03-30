@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6000_ttartisan 50mm f1.2__1080p_1.98by1_1920x968-50.00fps",
+  "note": "",
+  "calibrated_by": "dikapc",
+  "camera_brand": "Sony",
+  "camera_model": "a6000",
+  "lens_model": "ttartisan 50mm f1.2",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 968
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 968
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3382488326964869,
+    "camera_matrix": [
+      [
+        4162.725673695355,
+        0.0,
+        871.3566922742381
+      ],
+      [
+        0.0,
+        4160.242931333809,
+        519.9399737802811
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.23136766872536108,
+      -12.77797396974404,
+      604.0616976747787,
+      -9337.653641622352
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

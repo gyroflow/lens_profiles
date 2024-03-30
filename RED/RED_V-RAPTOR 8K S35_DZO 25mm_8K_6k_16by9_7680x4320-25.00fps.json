@@ -1,0 +1,69 @@
+{
+  "name": "RED_V-RAPTOR 8K S35_DZO 25mm_8K_6k_16by9_7680x4320-25.00fps",
+  "note": "",
+  "calibrated_by": "Duplex38",
+  "camera_brand": "RED",
+  "camera_model": "V-RAPTOR 8K S35",
+  "lens_model": "DZO 25mm",
+  "camera_setting": "8K",
+  "calib_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.7945170605549847,
+    "camera_matrix": [
+      [
+        6722.343135618944,
+        0.0,
+        3955.266158030032
+      ],
+      [
+        0.0,
+        6724.4182866422025,
+        2021.9606580757477
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.16679650457362166,
+      0.910077609569447,
+      -4.503589265095525,
+      9.494975408503828
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

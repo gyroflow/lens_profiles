@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS R5_Rf 35mm F1.8 Macro IS STM_8K_6k_16by9_7680x4320-25.00fps",
+  "note": "1.04",
+  "calibrated_by": "WangZiChang",
+  "camera_brand": "Canon",
+  "camera_model": "EOS R5",
+  "lens_model": "Rf 35mm F1.8 Macro IS STM",
+  "camera_setting": "8K",
+  "calib_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 7,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.044202557260289,
+    "camera_matrix": [
+      [
+        9792.43911638219,
+        0.0,
+        3940.908815834072
+      ],
+      [
+        0.0,
+        9836.756949649136,
+        2098.935799406761
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2820126905762011,
+      -0.7964880175826764,
+      6.00594631298339,
+      -10.926659870271164
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

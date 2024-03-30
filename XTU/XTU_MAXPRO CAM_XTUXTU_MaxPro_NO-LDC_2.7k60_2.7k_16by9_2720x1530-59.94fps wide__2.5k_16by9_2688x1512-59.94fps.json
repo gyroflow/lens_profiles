@@ -1,0 +1,69 @@
+{
+  "name": "XTU_MAXPRO CAM_XTU/XTU_MaxPro_NO-LDC_2.7k60_2.7k_16by9_2720x1530-59.94fps wide__2.5k_16by9_2688x1512-59.94fps",
+  "note": "",
+  "calibrated_by": "KS",
+  "camera_brand": "XTU",
+  "camera_model": "MAXPRO CAM",
+  "lens_model": "XTU/XTU_MaxPro_NO-LDC_2.7k60_2.7k_16by9_2720x1530-59.94fps wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2688,
+    "h": 1512
+  },
+  "orig_dimension": {
+    "w": 2688,
+    "h": 1512
+  },
+  "output_dimension": {
+    "w": 2688,
+    "h": 1512
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4907716049429781,
+    "camera_matrix": [
+      [
+        1380.191978973802,
+        0.0,
+        1344.814660452207
+      ],
+      [
+        0.0,
+        1364.9494259394205,
+        788.283242587527
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.03672329753980007,
+      0.01392317448205338,
+      -0.024522440696129296,
+      0.010789903750470953
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "xtu-maxprocam-xtu/xtu_maxpro_no-ldc_2.7k60_2.7k_16by9_2720x1530-59.94fps-wide-2688x1512@59940",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

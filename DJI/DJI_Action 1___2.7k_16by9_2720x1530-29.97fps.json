@@ -1,0 +1,69 @@
+{
+  "name": "DJI_Action 1___2.7k_16by9_2720x1530-29.97fps",
+  "note": "",
+  "calibrated_by": "xisang",
+  "camera_brand": "DJI",
+  "camera_model": "Action 1",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2720,
+    "h": 1530
+  },
+  "orig_dimension": {
+    "w": 2720,
+    "h": 1530
+  },
+  "output_dimension": {
+    "w": 2720,
+    "h": 1530
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8424065168306669,
+    "camera_matrix": [
+      [
+        1203.2848806978118,
+        0.0,
+        1365.2935033829165
+      ],
+      [
+        0.0,
+        1202.6061247645562,
+        774.2744232380496
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19062055969436867,
+      0.12104087378870326,
+      -0.2278310597025695,
+      0.08183123109482589
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

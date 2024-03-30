@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Nikon AI-S 18mm f3.5_6K 2.4:1_6k_2.37by1_6144x2592-25.00fps",
+  "note": "Used with Canon .71 SpeedBooster",
+  "calibrated_by": "Felix Müller",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Nikon AI-S 18mm f3.5",
+  "camera_setting": "6K 2.4:1",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.3601718443249209,
+    "camera_matrix": [
+      [
+        2946.5574599833776,
+        0.0,
+        3079.928531272974
+      ],
+      [
+        0.0,
+        2952.416622818629,
+        1229.035533087022
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2442462280527388,
+      0.22042535394657284,
+      -0.2294068291468107,
+      0.3863918221872859
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "U0 A507",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Huawei",
+  "camera_model": "meta 50 pro 1x",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 1.1172765910665052,
+    "camera_matrix": [
+      [
+        3412.097107204803,
+        0.0,
+        1925.1579076677524
+      ],
+      [
+        0.0,
+        3413.066899923945,
+        1042.9361167125014
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5160433374666415,
+      -1.4306312322408723,
+      6.073804428285985,
+      -8.251907872495474
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 30.009205,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Huawei_meta 50 pro 1x___4k_16by9_3840x2160-30.01fps",
+  "note": "",
+  "num_images": 8,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

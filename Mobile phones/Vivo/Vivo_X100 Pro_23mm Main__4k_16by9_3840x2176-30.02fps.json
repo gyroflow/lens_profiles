@@ -1,0 +1,69 @@
+{
+  "name": "Vivo_X100 Pro_23mm Main__4k_16by9_3840x2176-30.02fps",
+  "note": "",
+  "calibrated_by": "Trevor Siebe",
+  "camera_brand": "Vivo",
+  "camera_model": "X100 Pro",
+  "lens_model": "23mm Main",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 30.020269,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6122627886223208,
+    "camera_matrix": [
+      [
+        2561.816457092621,
+        0.0,
+        1907.6605006504617
+      ],
+      [
+        0.0,
+        2560.7044804154434,
+        1072.284077955993
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6655912887691233,
+      -2.29910236856156,
+      6.902545569118944,
+      -6.651845827527983
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

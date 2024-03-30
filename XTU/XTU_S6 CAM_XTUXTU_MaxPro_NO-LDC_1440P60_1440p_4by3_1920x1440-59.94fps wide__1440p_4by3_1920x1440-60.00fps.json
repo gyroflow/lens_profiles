@@ -1,0 +1,69 @@
+{
+  "name": "XTU_S6 CAM_XTU/XTU_MaxPro_NO-LDC_1440P60_1440p_4by3_1920x1440-59.94fps wide__1440p_4by3_1920x1440-60.00fps",
+  "note": "",
+  "calibrated_by": "Kissin WG",
+  "camera_brand": "XTU",
+  "camera_model": "S6 CAM",
+  "lens_model": "XTU/XTU_MaxPro_NO-LDC_1440P60_1440p_4by3_1920x1440-59.94fps wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5391299135170466,
+    "camera_matrix": [
+      [
+        1154.4222950417438,
+        0.0,
+        935.7509057241904
+      ],
+      [
+        0.0,
+        1190.330943853616,
+        684.0678265932694
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.04578507421068035,
+      -0.013391134104962251,
+      0.020401124910573852,
+      -0.007426618337314362
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "xtu-s6cam-xtu/xtu_maxpro_no-ldc_1440p60_1440p_4by3_1920x1440-59.94fps-wide-1920x1440@60000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "calibrated_by": "Александр",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Xiaomi",
+  "camera_model": "Redmi 9",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-02-17",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.4866087586434606,
+    "camera_matrix": [
+      [
+        1785.994054915308,
+        0.0,
+        941.8285231863664
+      ],
+      [
+        0.0,
+        1782.8586345541198,
+        564.6928185636066
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4820594890800814,
+      0.3949102664159838,
+      -4.013069273297426,
+      7.708545959784518
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 29.597412,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Xiaomi_Redmi 9___1080p_16by9_1920x1080-29.60fps",
+  "note": "",
+  "num_images": 12,
+  "official": false,
+  "orig_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "output_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "sync_settings": null
+}

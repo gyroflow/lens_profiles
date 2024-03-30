@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-T5_VILTROX 27mm F1.2__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "JERRY",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-T5",
+  "lens_model": "VILTROX 27mm F1.2",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": -13.3,
+  "gyro_lpf": 0.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5977275284115573,
+    "camera_matrix": [
+      [
+        5165.996084207876,
+        0.0,
+        1904.6945421219775
+      ],
+      [
+        0.0,
+        5165.05801645554,
+        1087.7776464655642
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2197902904006692,
+      0.43443657533836055,
+      -3.7279432445838183,
+      25.69785943232425
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 40.5,
+  "crop_factor": 1.14,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Google_Pixel 7 Pro 12MP Ultrawide_13.4mm f/2.2_, disabled stabilisation_1080p_16by9_1920x1080-30.01fps",
+  "note": "ported Pixel 8 Pro Camera App by AGC",
+  "calibrated_by": "Alex",
+  "camera_brand": "Google",
+  "camera_model": "Pixel 7 Pro 12MP Ultrawide",
+  "lens_model": "13.4mm f/2.2",
+  "camera_setting": ", disabled stabilisation",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.011168,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3685365317899647,
+    "camera_matrix": [
+      [
+        955.1807310679054,
+        0.0,
+        925.7453586589064
+      ],
+      [
+        0.0,
+        957.439350814798,
+        554.5765824524677
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3230183933397726,
+      0.21792312005076472,
+      -0.18261476273292584,
+      0.24873225490860237
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

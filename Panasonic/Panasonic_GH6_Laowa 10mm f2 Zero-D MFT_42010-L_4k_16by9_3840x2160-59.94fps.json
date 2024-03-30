@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_GH6_Laowa 10mm f/2 Zero-D MFT_420/10-L_4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "s",
+  "camera_brand": "Panasonic",
+  "camera_model": "GH6",
+  "lens_model": "Laowa 10mm f/2 Zero-D MFT",
+  "camera_setting": "420/10-L",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 59.94006,
+  "official": false,
+  "use_opencv_fisheye": true,
+  "fisheye_params": {
+    "RMS_error": 1.2435707932658675,
+    "camera_matrix": [
+      [
+        2184.646466479519,
+        0.0,
+        1931.097791664211
+      ],
+      [
+        0.0,
+        2188.0422175122617,
+        1082.1316753807696
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3417806038080177,
+      0.22110973327785063,
+      -0.24099785443047533,
+      0.3317836668433849
+    ],
+    "radial_distortion_limit": null
+  },
+  "use_opencv_standard": false,
+  "calib_params": {
+    "RMS_error": 0.0,
+    "camera_matrix": [],
+    "distortion_coeffs": [],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.0.0",
+  "date": "2023-11-27",
+  "compatible_settings": [],
+  "is_superview": false,
+  "distortion_model_id": 0
+}

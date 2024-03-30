@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_GX85_12-60_12mm_4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Hui Zhao",
+  "camera_brand": "Panasonic",
+  "camera_model": "GX85",
+  "lens_model": "12-60",
+  "camera_setting": "12mm",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9270981091732308,
+    "camera_matrix": [
+      [
+        3394.847514794204,
+        0.0,
+        1985.2557511675775
+      ],
+      [
+        0.0,
+        3390.7715373958517,
+        1095.457552078833
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.28939552755315895,
+      0.1831563537986352,
+      -0.13187967711534626,
+      0.25730074604992303
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

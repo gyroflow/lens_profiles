@@ -1,0 +1,69 @@
+{
+  "name": "Honor_80_27__480p_16by9_960x544-29.00fps",
+  "note": "",
+  "calibrated_by": "han",
+  "camera_brand": "Honor",
+  "camera_model": "80",
+  "lens_model": "27",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 960,
+    "h": 544
+  },
+  "orig_dimension": {
+    "w": 960,
+    "h": 544
+  },
+  "output_dimension": {
+    "w": 960,
+    "h": 544
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.000366,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.21429474011063648,
+    "camera_matrix": [
+      [
+        941.29232182332,
+        0.0,
+        480.62224034037433
+      ],
+      [
+        0.0,
+        941.2241268692882,
+        272.9942751509919
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6081386417975513,
+      -2.4446974927587246,
+      11.205969312255451,
+      -17.1633242637836
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

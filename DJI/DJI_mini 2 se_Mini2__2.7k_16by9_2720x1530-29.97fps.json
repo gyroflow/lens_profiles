@@ -1,0 +1,69 @@
+{
+  "name": "DJI_mini 2 se_Mini2__2.7k_16by9_2720x1530-29.97fps",
+  "note": "",
+  "calibrated_by": "IvAn",
+  "camera_brand": "DJI",
+  "camera_model": "mini 2 se",
+  "lens_model": "Mini2",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2720,
+    "h": 1530
+  },
+  "orig_dimension": {
+    "w": 2720,
+    "h": 1530
+  },
+  "output_dimension": {
+    "w": 2720,
+    "h": 1530
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.695345946068752,
+    "camera_matrix": [
+      [
+        2069.5810920636013,
+        0.0,
+        1353.0592653627289
+      ],
+      [
+        0.0,
+        2067.166155101381,
+        760.7687200282418
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2436042840265744,
+      0.9580583793583104,
+      -3.924486085667593,
+      5.661230773326228
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

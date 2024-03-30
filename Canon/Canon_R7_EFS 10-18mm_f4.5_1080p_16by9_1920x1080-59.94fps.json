@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R7_EFS 10-18mm_f4.5_1080p_16by9_1920x1080-59.94fps",
+  "note": "1/60 Shutter Speed",
+  "calibrated_by": "Ivan Chan",
+  "camera_brand": "Canon",
+  "camera_model": "R7",
+  "lens_model": "EFS 10-18mm",
+  "camera_setting": "f4.5",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6869198227949731,
+    "camera_matrix": [
+      [
+        855.8601363964423,
+        0.0,
+        973.042307718711
+      ],
+      [
+        0.0,
+        858.5240522062854,
+        513.1993730401938
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.324511563122503,
+      0.1688971097259916,
+      -0.045275987213531585,
+      0.054014799016443765
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

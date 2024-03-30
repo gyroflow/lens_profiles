@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "calibrated_by": "OGR",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Caddx",
+  "camera_model": "CADDX Nebula Pro Nano",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2023-11-23",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.46291198089181257,
+    "camera_matrix": [
+      [
+        732.0217475843929,
+        0.0,
+        933.0617375476962
+      ],
+      [
+        0.0,
+        732.4640922078045,
+        587.7296852819054
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.02742258955873482,
+      -0.10661766252090162,
+      0.08775276776484182,
+      -0.028945565472269983
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 30.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": 50.0,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "F/2.0",
+  "name": "Caddx_CADDX Nebula Pro Nano_F/2.0__1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "output_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "sync_settings": null
+}

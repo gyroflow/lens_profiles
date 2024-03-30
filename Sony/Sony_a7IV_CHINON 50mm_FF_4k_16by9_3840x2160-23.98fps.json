@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_CHINON 50mm_FF_4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "WINMEDIACENTER",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "CHINON 50mm",
+  "camera_setting": "FF",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.968072703453524,
+    "camera_matrix": [
+      [
+        5923.103450726141,
+        0.0,
+        2029.4208245399943
+      ],
+      [
+        0.0,
+        5923.275387467975,
+        1053.4231531943265
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.09992758059600808,
+      1.6583146775336046,
+      -22.241559190042228,
+      105.64054081552844
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

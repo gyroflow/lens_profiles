@@ -1,0 +1,69 @@
+{
+  "name": "Canon_T6i_Canon 50mm_FHD_1080p_16by9_1920x1080-29.97fps",
+  "note": "16:9",
+  "calibrated_by": "lizze",
+  "camera_brand": "Canon",
+  "camera_model": "T6i",
+  "lens_model": "Canon 50mm",
+  "camera_setting": "FHD",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5978882673749191,
+    "camera_matrix": [
+      [
+        5004.234266310924,
+        0.0,
+        946.1875055306704
+      ],
+      [
+        0.0,
+        5006.408909894979,
+        495.4029063148539
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.08558000996869122,
+      0.8816067718017363,
+      194.82276547534008,
+      -5675.465557467671
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

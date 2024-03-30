@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_Tamron 35-150mm_XAVC S_1080p_16by9_1920x1080-25.00fps",
+  "note": "35mm",
+  "calibrated_by": "JustVish Creative Studios",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "Tamron 35-150mm",
+  "camera_setting": "XAVC S",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.16929921596654576,
+    "camera_matrix": [
+      [
+        1907.463403706331,
+        0.0,
+        957.8676062450082
+      ],
+      [
+        0.0,
+        1908.4093455741177,
+        533.859840832846
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3289083079969374,
+      -0.07050578728870138,
+      3.730134354068819,
+      -14.070083893496076
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

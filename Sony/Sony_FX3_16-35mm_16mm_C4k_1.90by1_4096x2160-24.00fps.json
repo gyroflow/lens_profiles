@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_16-35mm_16mm_C4k_1.90by1_4096x2160-24.00fps",
+  "note": "24Fps",
+  "calibrated_by": "Roger Thomas",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "16-35mm",
+  "camera_setting": "16mm",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6492090568600963,
+    "camera_matrix": [
+      [
+        1938.995616328945,
+        0.0,
+        2029.4013826738503
+      ],
+      [
+        0.0,
+        1939.212695706378,
+        1072.803017053138
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3186520997390618,
+      0.07816707627580154,
+      0.20621890797496423,
+      -0.08145640788760043
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx3-16.00mm-4096x2160@24000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 16.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

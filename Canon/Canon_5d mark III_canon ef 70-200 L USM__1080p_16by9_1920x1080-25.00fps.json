@@ -1,0 +1,69 @@
+{
+  "name": "Canon_5d mark III_canon ef 70-200 L USM__1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "victor gonzalez",
+  "camera_brand": "Canon",
+  "camera_model": "5d mark III",
+  "lens_model": "canon ef 70-200 L USM",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5818746102539133,
+    "camera_matrix": [
+      [
+        4989.725254757049,
+        0.0,
+        910.6912967254672
+      ],
+      [
+        0.0,
+        4959.821014886642,
+        531.5619677638979
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.0316417633732379,
+      42.94944327503636,
+      -3129.3017750850045,
+      74391.98133433831
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

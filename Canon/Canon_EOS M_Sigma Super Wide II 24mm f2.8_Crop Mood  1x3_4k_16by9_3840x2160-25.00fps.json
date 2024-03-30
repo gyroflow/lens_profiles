@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS M_Sigma Super Wide II 24mm f/2.8_Crop Mood  1x3_4k_16by9_3840x2160-25.00fps",
+  "note": "Viltrox Speedbooster 0.71x",
+  "calibrated_by": "Lilly Schwartz",
+  "camera_brand": "Canon",
+  "camera_model": "EOS M",
+  "lens_model": "Sigma Super Wide II 24mm f/2.8",
+  "camera_setting": "Crop Mood  1x3",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 22.3,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8208857216897124,
+    "camera_matrix": [
+      [
+        4202.083322987644,
+        0.0,
+        1922.2385581968151
+      ],
+      [
+        0.0,
+        4203.241340412408,
+        949.7705478444282
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.12394000014064796,
+      0.6797119627453939,
+      -4.185364490013781,
+      11.382844395266051
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

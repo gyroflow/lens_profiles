@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_VILTROX AF 35/1.8 FE__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "John Watson",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "VILTROX AF 35/1.8 FE",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7668239542743154,
+    "camera_matrix": [
+      [
+        8550.50160300362,
+        0.0,
+        1743.5314691575938
+      ],
+      [
+        0.0,
+        8537.026147527913,
+        1156.0171243215668
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20379492836878071,
+      -0.3935060051998374,
+      94.03675755624604,
+      -1408.4470449238747
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-e10-a3cb0563-3840x2160@29970",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

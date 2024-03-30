@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_Lumix S5 Mark 2_20 - 60__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Sardar Anmol Singh Ji",
+  "camera_brand": "Panasonic",
+  "camera_model": "Lumix S5 Mark 2",
+  "lens_model": "20 - 60",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.731684060723248,
+    "camera_matrix": [
+      [
+        7233.798136749222,
+        0.0,
+        1901.6120908134408
+      ],
+      [
+        0.0,
+        7238.992660710306,
+        1036.8385431759457
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3315471482175162,
+      0.46681553897815126,
+      -7.3235369003729005,
+      60.039711257308696
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

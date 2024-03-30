@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7CII_75.00mm F1.8 SAMYANG__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "彭振宇",
+  "camera_brand": "Sony",
+  "camera_model": "a7CII",
+  "lens_model": "75.00mm F1.8 SAMYANG",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2886230657889288,
+    "camera_matrix": [
+      [
+        14146.50805278647,
+        0.0,
+        1705.3243526899982
+      ],
+      [
+        0.0,
+        14133.39624105046,
+        1000.608653893784
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.824429176773854,
+      86.61864181475988,
+      -6650.274323408788,
+      147092.331325379
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7cm2-75.00mm-3840x2160@29970",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 75.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_S20FE___1080p_16by9_1920x1080-30.01fps",
+  "note": "",
+  "calibrated_by": "Adrien Boch",
+  "camera_brand": "Samsung",
+  "camera_model": "S20FE",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 30.0117,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3991996878560994,
+    "camera_matrix": [
+      [
+        1907.9963355834077,
+        0.0,
+        1038.775747464003
+      ],
+      [
+        0.0,
+        1921.181336335516,
+        535.6902674569194
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4123232094745472,
+      -1.759151474299774,
+      15.721131163353538,
+      -40.3032862965751
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

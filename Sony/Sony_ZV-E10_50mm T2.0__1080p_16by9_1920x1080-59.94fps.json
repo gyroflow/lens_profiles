@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_50mm T2.0__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "ZHAO",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "50mm T2.0",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.47063827753790866,
+    "camera_matrix": [
+      [
+        6539.219920980119,
+        0.0,
+        1026.3634490654154
+      ],
+      [
+        0.0,
+        6548.645801103047,
+        666.0715858531161
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      1.03041592634272,
+      -62.412163363204066,
+      2650.4912868119277,
+      -39388.42407282496
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-10-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

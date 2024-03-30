@@ -1,0 +1,69 @@
+{
+  "name": "Drift_Ghost XL Pro__140_1080p_16by9_1920x1080-24.00fps",
+  "note": "",
+  "calibrated_by": "Alan Lee",
+  "camera_brand": "Drift",
+  "camera_model": "Ghost XL Pro",
+  "lens_model": "",
+  "camera_setting": "140",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.29106502720654925,
+    "camera_matrix": [
+      [
+        1183.971092369528,
+        0.0,
+        956.6823693512916
+      ],
+      [
+        0.0,
+        1183.334613681715,
+        570.1592122079568
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.0573323179494968,
+      -0.028330819863611727,
+      0.04050192632824149,
+      -0.02812399884586793
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

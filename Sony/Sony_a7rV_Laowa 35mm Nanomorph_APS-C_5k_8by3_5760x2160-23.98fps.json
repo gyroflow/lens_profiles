@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7rV_Laowa 35mm Nanomorph_APS-C_5k_8by3_5760x2160-23.98fps",
+  "note": "1.5 HZ Stretch",
+  "calibrated_by": "Matt Likens",
+  "camera_brand": "Sony",
+  "camera_model": "a7rV",
+  "lens_model": "Laowa 35mm Nanomorph",
+  "camera_setting": "APS-C",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": 0.0,
+  "input_horizontal_stretch": 1.5,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.3717498477812637,
+    "camera_matrix": [
+      [
+        5942.662728041563,
+        0.0,
+        2828.17510513208
+      ],
+      [
+        0.0,
+        5966.576827087688,
+        1153.0686024775048
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3923462259026576,
+      0.22209520181172024,
+      -9.006300955758828,
+      44.19667887874336
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-10-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

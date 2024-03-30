@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "叶嘉乐",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "RX0II",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 10.064327875473104,
+    "camera_matrix": [
+      [
+        1735.6235293943744,
+        0.0,
+        2160.155964350519
+      ],
+      [
+        0.0,
+        2453.864807667352,
+        1135.521587566829
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1402006436281899,
+      0.15674134296904255,
+      -0.42586685233919735,
+      0.4441206627597671
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 25.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-dsc-rx0m2-a83e1cdd-3840x2160@25000",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "a83e1cdd",
+  "name": "Sony_RX0II_a83e1cdd__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "num_images": 14,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

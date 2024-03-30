@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "calibrated_by": "U0 A489",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Samsung",
+  "camera_model": "A9Pro (2016)",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.899891524409082,
+    "camera_matrix": [
+      [
+        1577.2275489097208,
+        0.0,
+        937.0266498732848
+      ],
+      [
+        0.0,
+        1576.555682392064,
+        579.7132351888112
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6684200801734547,
+      -1.1400857432629254,
+      -0.04451504989189666,
+      5.167412617543838
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 29.979128,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Samsung_A9Pro (2016)___1080p_16by9_1920x1080-29.98fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "output_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "sync_settings": null
+}

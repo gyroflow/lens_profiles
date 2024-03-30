@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "tangx",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Fujifilm",
+  "camera_model": "XT-30",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-02-28",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.5731174436784016,
+    "camera_matrix": [
+      [
+        6496.796638100398,
+        0.0,
+        1810.2386163248727
+      ],
+      [
+        0.0,
+        6530.7632300776095,
+        1047.5487902742989
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.16111001974465525,
+      12.03907474285126,
+      -184.20485886375175,
+      1028.722208335308
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 29.97003,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "xc 35mm f2",
+  "name": "Fujifilm_XT-30_xc 35mm f2__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

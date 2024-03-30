@@ -1,0 +1,69 @@
+{
+  "name": "Canon_100D Magic Lantern_Samyang 24mm F1.4 ED AS IF UMC_23.976 fps_C4k_2.35by1_4416x1878-23.98fps",
+  "note": "",
+  "calibrated_by": "Andrew Ke",
+  "camera_brand": "Canon",
+  "camera_model": "100D Magic Lantern",
+  "lens_model": "Samyang 24mm F1.4 ED AS IF UMC",
+  "camera_setting": "23.976 fps",
+  "calib_dimension": {
+    "w": 4416,
+    "h": 1878
+  },
+  "orig_dimension": {
+    "w": 4416,
+    "h": 1878
+  },
+  "output_dimension": {
+    "w": 4416,
+    "h": 1878
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.983,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.476003032639553,
+    "camera_matrix": [
+      [
+        5817.709249905703,
+        0.0,
+        2240.930457768038
+      ],
+      [
+        0.0,
+        5827.358717592397,
+        899.7786872509107
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.26239551215579404,
+      -0.3793706616133258,
+      0.06116379946882616,
+      17.174632005018424
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-10-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

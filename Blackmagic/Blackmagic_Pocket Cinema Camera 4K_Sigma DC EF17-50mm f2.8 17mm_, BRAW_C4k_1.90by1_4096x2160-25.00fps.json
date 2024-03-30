@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 4K_Sigma DC EF17-50mm f/2.8 17mm_, BRAW_C4k_1.90by1_4096x2160-25.00fps",
+  "note": "Used Viltrox Mount Adapter EF-M1",
+  "calibrated_by": "theduckking4",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K",
+  "lens_model": "Sigma DC EF17-50mm f/2.8 17mm",
+  "camera_setting": ", BRAW",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": 0.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2070780207324978,
+    "camera_matrix": [
+      [
+        4089.43325478787,
+        0.0,
+        2092.8083360616993
+      ],
+      [
+        0.0,
+        4086.3757166953446,
+        1154.779117506597
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.05122743228983586,
+      1.867688012763697,
+      -9.070857852734637,
+      14.808768938673625
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera4k-ef17-50mmf/2.8-17mm-4096x2160@25000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-11-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 17.0,
+  "crop_factor": 2.0,
+  "global_shutter": false
+}

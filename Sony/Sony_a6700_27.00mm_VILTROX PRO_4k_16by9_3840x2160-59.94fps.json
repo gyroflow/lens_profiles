@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "JyaKe",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "a6700",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-03-21",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.9218842469268832,
+    "camera_matrix": [
+      [
+        4857.917795324611,
+        0.0,
+        1915.4698399710724
+      ],
+      [
+        0.0,
+        4863.904651414845,
+        1073.9760548709228
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.15834918804645984,
+      0.17269086584624416,
+      6.137844771844588,
+      -35.3174385034979
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 27.0,
+  "fps": 59.94006,
+  "frame_readout_time": 16.683322183313006,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilce-6700-27.00mm-3840x2160@59940",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "27.00mm",
+  "name": "Sony_a6700_27.00mm_VILTROX PRO_4k_16by9_3840x2160-59.94fps",
+  "note": "VILTROX PRO",
+  "num_images": 13,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

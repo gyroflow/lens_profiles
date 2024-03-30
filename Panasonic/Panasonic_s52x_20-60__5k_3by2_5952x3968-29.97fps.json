@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_s52x_20-60__5k_3by2_5952x3968-29.97fps",
+  "note": "",
+  "calibrated_by": "黄楼一霸",
+  "camera_brand": "Panasonic",
+  "camera_model": "s52x",
+  "lens_model": "20-60",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 5952,
+    "h": 3968
+  },
+  "orig_dimension": {
+    "w": 5952,
+    "h": 3968
+  },
+  "output_dimension": {
+    "w": 5952,
+    "h": 3968
+  },
+  "frame_readout_time": -6.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8869868461171789,
+    "camera_matrix": [
+      [
+        3519.435420735644,
+        0.0,
+        2961.881193510873
+      ],
+      [
+        0.0,
+        3520.7287932030317,
+        2000.4911616905429
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.29087006273036314,
+      0.15584021710551602,
+      0.09414401311504028,
+      -0.06743923331108684
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

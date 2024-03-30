@@ -1,0 +1,69 @@
+{
+  "name": "Arri_Alexa Mini_40 mm Cooke S4__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Eric Lor",
+  "camera_brand": "Arri",
+  "camera_model": "Alexa Mini",
+  "lens_model": "40 mm Cooke S4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7463005707714344,
+    "camera_matrix": [
+      [
+        3930.3680037967265,
+        0.0,
+        1899.31015538435
+      ],
+      [
+        0.0,
+        3927.717809118694,
+        1043.4185411217886
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1684452460221836,
+      0.32341124262911036,
+      -1.5478396164366053,
+      4.720546513423334
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

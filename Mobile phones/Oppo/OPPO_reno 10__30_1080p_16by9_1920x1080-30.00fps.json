@@ -1,0 +1,69 @@
+{
+  "name": "OPPO_reno 10__30_1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "calibrated_by": "chen",
+  "camera_brand": "OPPO",
+  "camera_model": "reno 10",
+  "lens_model": "",
+  "camera_setting": "30",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 30.004433,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5666356133733254,
+    "camera_matrix": [
+      [
+        1651.3803180744378,
+        0.0,
+        961.6585832566084
+      ],
+      [
+        0.0,
+        1649.0475893522623,
+        549.1611666384802
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5088858772411301,
+      -1.5237550503467836,
+      6.80189243677641,
+      -9.612993698133517
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

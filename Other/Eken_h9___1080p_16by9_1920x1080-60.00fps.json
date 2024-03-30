@@ -1,0 +1,69 @@
+{
+  "name": "Eken_h9___1080p_16by9_1920x1080-60.00fps",
+  "note": "",
+  "calibrated_by": "Unggoon01",
+  "camera_brand": "Eken",
+  "camera_model": "h9",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.40234037795289296,
+    "camera_matrix": [
+      [
+        1099.1976934579254,
+        0.0,
+        956.8450472993754
+      ],
+      [
+        0.0,
+        1097.8252031408222,
+        546.4563472275624
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.10964463028038872,
+      0.016123677852936606,
+      -0.014099459642217692,
+      0.005014717113237289
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

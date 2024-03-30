@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone 15 pro___4k_16by9_3840x2160-30.00fps",
+  "note": "",
+  "calibrated_by": "Lenovo",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 15 pro",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 29.996622,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.830715843796659,
+    "camera_matrix": [
+      [
+        3094.7249300545973,
+        0.0,
+        1926.788324683447
+      ],
+      [
+        0.0,
+        3093.360566269199,
+        1061.758015435979
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3594322784296983,
+      2.658300945092152,
+      -18.50937927330847,
+      37.96802528319772
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

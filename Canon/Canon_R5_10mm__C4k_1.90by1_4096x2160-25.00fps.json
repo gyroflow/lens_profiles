@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R5_七工匠10mm鱼眼_超采_C4k_1.90by1_4096x2160-25.00fps",
+  "note": "超采",
+  "calibrated_by": "赵国梁",
+  "camera_brand": "Canon",
+  "camera_model": "R5",
+  "lens_model": "七工匠10mm鱼眼",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 15.5,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0739111549421383,
+    "camera_matrix": [
+      [
+        1481.30822283513,
+        0.0,
+        2045.1286987729875
+      ],
+      [
+        0.0,
+        1480.9629423037577,
+        1101.9705230682926
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.08665554939309877,
+      -0.019938456022560527,
+      0.0070809806150996255,
+      -0.0002969753879993023
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

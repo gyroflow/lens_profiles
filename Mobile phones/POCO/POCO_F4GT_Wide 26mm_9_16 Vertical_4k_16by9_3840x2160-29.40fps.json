@@ -1,0 +1,69 @@
+{
+  "name": "POCO_F4GT_Wide 26mm_9:16 Vertical_4k_16by9_3840x2160-29.40fps",
+  "note": "v.1",
+  "calibrated_by": "paulotwain",
+  "camera_brand": "POCO",
+  "camera_model": "F4GT",
+  "lens_model": "Wide 26mm",
+  "camera_setting": "9:16 Vertical",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 2160,
+    "h": 3840
+  },
+  "frame_readout_time": -33.99,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 29.401793,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5898175694911305,
+    "camera_matrix": [
+      [
+        2915.931096273656,
+        0.0,
+        1893.5559731910992
+      ],
+      [
+        0.0,
+        2909.9919039441024,
+        1112.1501358782864
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4154021184969674,
+      0.22873151193025343,
+      -0.9241915902625338,
+      1.4827368470463076
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 26.42,
+  "crop_factor": null,
+  "global_shutter": false
+}

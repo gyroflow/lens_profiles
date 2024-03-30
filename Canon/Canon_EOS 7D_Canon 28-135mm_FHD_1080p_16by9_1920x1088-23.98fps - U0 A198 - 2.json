@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS 7D_Canon 28-135mm_FHD_1080p_16by9_1920x1088-23.98fps",
+  "note": "28-135mm",
+  "calibrated_by": "U0 A198",
+  "camera_brand": "Canon",
+  "camera_model": "EOS 7D",
+  "lens_model": "Canon 28-135mm",
+  "camera_setting": "FHD",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1088
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1088
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1088
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4606411253741109,
+    "camera_matrix": [
+      [
+        3805.20002964049,
+        0.0,
+        742.4879362387336
+      ],
+      [
+        0.0,
+        3866.588757040391,
+        635.6014687572715
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.13436595655046382,
+      -0.21661731441625365,
+      0.48335568571443366,
+      -3.0227968672714347
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

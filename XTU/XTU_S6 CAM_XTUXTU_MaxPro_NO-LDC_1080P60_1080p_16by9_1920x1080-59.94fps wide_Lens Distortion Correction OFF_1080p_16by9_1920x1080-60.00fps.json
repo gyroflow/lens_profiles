@@ -1,0 +1,69 @@
+{
+  "name": "XTU_S6 CAM_XTU/XTU_MaxPro_NO-LDC_1080P60_1080p_16by9_1920x1080-59.94fps wide_Lens Distortion Correction OFF_1080p_16by9_1920x1080-60.00fps",
+  "note": "Lens Distortion Correction OFF",
+  "calibrated_by": "Xiaochen Wu",
+  "camera_brand": "XTU",
+  "camera_model": "S6 CAM",
+  "lens_model": "XTU/XTU_MaxPro_NO-LDC_1080P60_1080p_16by9_1920x1080-59.94fps wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6606174260345987,
+    "camera_matrix": [
+      [
+        1027.8423777793714,
+        0.0,
+        923.574769288478
+      ],
+      [
+        0.0,
+        1028.5948087280335,
+        515.9465355884618
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.005379497604082605,
+      -0.2387609240170068,
+      0.5084001201091364,
+      -0.3458229937811874
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "xtu-s6cam-xtu/xtu_maxpro_no-ldc_1080p60_1080p_16by9_1920x1080-59.94fps-wide-1920x1080@60000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

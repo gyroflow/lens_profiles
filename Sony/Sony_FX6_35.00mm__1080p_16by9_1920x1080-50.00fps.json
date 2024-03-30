@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "calibrated_by": "Weikin",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.3870526851844984,
+    "camera_matrix": [
+      [
+        1866.701856223037,
+        0.0,
+        947.6937430614396
+      ],
+      [
+        0.0,
+        1865.491039281581,
+        526.4653728626797
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3110019915433396,
+      -0.080216310070156,
+      2.481295197810148,
+      -6.239992936688144
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 35.0,
+  "fps": 50.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilme-fx6v-35.00mm-1920x1080@50000",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "35.00mm",
+  "name": "Sony_FX6_35.00mm__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "output_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "sync_settings": null
+}

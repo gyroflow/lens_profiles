@@ -1,0 +1,69 @@
+{
+  "name": "Hawkeye_Naked_Hawkeye/HawkeyeNaked2K5_16_9_50fps.json__2.5k_16by9_2560x1440-50.00fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Hawkeye",
+  "camera_model": "Naked",
+  "lens_model": "Hawkeye/HawkeyeNaked2K5_16_9_50fps.json",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "orig_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "output_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4959866323667262,
+    "camera_matrix": [
+      [
+        1321.0098127002273,
+        0.0,
+        1252.864509156552
+      ],
+      [
+        0.0,
+        1320.834186175361,
+        718.340918487391
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.03955462531705178,
+      0.05564178961484947,
+      -0.03089870651279577,
+      -0.13663484984840266
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

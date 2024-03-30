@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Laowa 9mm Zero-D Cine_17:9_5k_1.90by1_5120x2700-23.98fps",
+  "note": "Sensor Cropped",
+  "calibrated_by": "Malin",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Laowa 9mm Zero-D Cine",
+  "camera_setting": "17:9",
+  "calib_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "orig_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "output_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 21,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7632851690943232,
+    "camera_matrix": [
+      [
+        2088.3439101906833,
+        0.0,
+        2571.5444355527184
+      ],
+      [
+        0.0,
+        2085.8738014588316,
+        1347.452799950668
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3430762244987438,
+      0.11225123085642176,
+      -0.010972874962517344,
+      0.09536723248905296
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

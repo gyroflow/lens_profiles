@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_xt3_xc35mm_25_4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "倪定朔",
+  "camera_brand": "Fujifilm",
+  "camera_model": "xt3",
+  "lens_model": "xc35mm",
+  "camera_setting": "25",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7387994268072127,
+    "camera_matrix": [
+      [
+        6146.5130658121525,
+        0.0,
+        1923.9492227934643
+      ],
+      [
+        0.0,
+        6183.72524896651,
+        967.4052870650776
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31995324332216,
+      4.266723891875274,
+      -63.34934665374528,
+      383.82804071579073
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

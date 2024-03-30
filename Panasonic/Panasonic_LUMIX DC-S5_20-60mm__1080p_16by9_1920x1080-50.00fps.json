@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_LUMIX DC-S5_20-60mm__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "CoffeeLake",
+  "camera_brand": "Panasonic",
+  "camera_model": "LUMIX DC-S5",
+  "lens_model": "20-60mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 14.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.30109904649102964,
+    "camera_matrix": [
+      [
+        1132.7966200535018,
+        0.0,
+        959.8442139641082
+      ],
+      [
+        0.0,
+        1134.8997443955743,
+        546.197163268497
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30868911812718686,
+      0.050473322180804615,
+      0.34126425922119813,
+      -0.2295358783850506
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

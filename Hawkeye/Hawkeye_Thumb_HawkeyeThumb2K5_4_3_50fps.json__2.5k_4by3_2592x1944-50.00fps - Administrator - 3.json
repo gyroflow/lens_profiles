@@ -1,0 +1,69 @@
+{
+  "name": "Hawkeye_Thumb_Hawkeye/Thumb2K5_4_3_50fps.json__2.5k_4by3_2592x1944-50.00fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Hawkeye",
+  "camera_model": "Thumb",
+  "lens_model": "Hawkeye/Thumb2K5_4_3_50fps.json",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2592,
+    "h": 1944
+  },
+  "orig_dimension": {
+    "w": 2592,
+    "h": 1944
+  },
+  "output_dimension": {
+    "w": 2592,
+    "h": 1944
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.929339731121436,
+    "camera_matrix": [
+      [
+        1417.9063249409196,
+        0.0,
+        1252.6486554263126
+      ],
+      [
+        0.0,
+        1420.8890518037915,
+        972.2109734667512
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.05516373336115525,
+      -0.023444955734117635,
+      0.016506397526845278,
+      -0.004959815570516678
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

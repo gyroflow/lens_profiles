@@ -1,0 +1,69 @@
+{
+  "name": "Sony_RX100VII_2c6e6d86__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Sony",
+  "camera_model": "RX100VII",
+  "lens_model": "2c6e6d86",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6202539516547524,
+    "camera_matrix": [
+      [
+        1356.2834548407457,
+        0.0,
+        934.2973843654912
+      ],
+      [
+        0.0,
+        1357.065791245048,
+        515.6207219441184
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33339196777677815,
+      0.05353093024964549,
+      0.4290143181412736,
+      -0.5175938266221592
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-dsc-rx100m7-2c6e6d86-1920x1080@59940",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

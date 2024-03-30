@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K_Samyang 10mm T3.1__6k_16by9_6144x3456-50.00fps",
+  "note": "",
+  "calibrated_by": "Bean-FPV",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K",
+  "lens_model": "Samyang 10mm T3.1",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": 0.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 30,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": true,
+  "fisheye_params": {
+    "RMS_error": 2.0421235776104214,
+    "camera_matrix": [
+      [
+        2838.8382069819068,
+        0.0,
+        3102.266038363142
+      ],
+      [
+        0.0,
+        2837.103377667078,
+        1686.8220574485422
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.26127433454931,
+      0.2639092839333613,
+      -0.3905698628286343,
+      0.34116138213210573
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-11-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 10.0,
+  "crop_factor": 1.55,
+  "global_shutter": false
+}

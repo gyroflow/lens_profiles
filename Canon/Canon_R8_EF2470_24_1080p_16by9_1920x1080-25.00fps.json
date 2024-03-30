@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R8_EF2470_24端_1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "sun",
+  "camera_brand": "Canon",
+  "camera_model": "R8",
+  "lens_model": "EF2470",
+  "camera_setting": "24端",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3657766632186348,
+    "camera_matrix": [
+      [
+        1433.22717778049,
+        0.0,
+        966.228872278774
+      ],
+      [
+        0.0,
+        1434.9711225032192,
+        544.7436099752885
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.16808666027762909,
+      0.43970981478020504,
+      -0.8652530987928763,
+      1.1851235263753022
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

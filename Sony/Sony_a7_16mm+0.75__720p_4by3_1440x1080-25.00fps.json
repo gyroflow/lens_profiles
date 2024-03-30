@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7_16mm+0.75__720p_4by3_1440x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "Hui Zhao",
+  "camera_brand": "Sony",
+  "camera_model": "a7",
+  "lens_model": "16mm+0.75",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1440,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1440,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1440,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5218756413196773,
+    "camera_matrix": [
+      [
+        725.1681162209093,
+        0.0,
+        729.161585269787
+      ],
+      [
+        0.0,
+        967.0585550177188,
+        542.5380597820495
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.23471306117469384,
+      0.14770283787555188,
+      0.018020191551746223,
+      0.14988471187616623
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

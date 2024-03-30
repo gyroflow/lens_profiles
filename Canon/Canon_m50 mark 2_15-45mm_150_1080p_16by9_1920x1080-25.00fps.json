@@ -1,0 +1,69 @@
+{
+  "name": "Canon_m50 mark 2_15-45mm_1/50_1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "nexus",
+  "camera_brand": "Canon",
+  "camera_model": "m50 mark 2",
+  "lens_model": "15-45mm",
+  "camera_setting": "1/50",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.33060110918076696,
+    "camera_matrix": [
+      [
+        1464.966422681481,
+        0.0,
+        961.3530588916556
+      ],
+      [
+        0.0,
+        1466.3903005437487,
+        532.1668030819917
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1958872330282033,
+      0.16060710745794146,
+      0.02020329206757109,
+      0.18203220856873237
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

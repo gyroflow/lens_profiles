@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6000_Sony__720p_4by3_1440x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "Yadira T",
+  "camera_brand": "Sony",
+  "camera_model": "a6000",
+  "lens_model": "Sony",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1440,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1440,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1440,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5347257669725393,
+    "camera_matrix": [
+      [
+        4468.998942988671,
+        0.0,
+        754.8223859092014
+      ],
+      [
+        0.0,
+        5964.11485283828,
+        562.2735447467422
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.7194166447791324,
+      -19.28567573684104,
+      1274.9896513004974,
+      -12388.957009242507
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

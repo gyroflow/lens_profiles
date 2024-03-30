@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "王胜琦",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.671479074707463,
+    "camera_matrix": [
+      [
+        2033.2047853490244,
+        0.0,
+        1923.01108868686
+      ],
+      [
+        0.0,
+        2033.7596117439523,
+        1084.62324282852
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3246805671193104,
+      0.15119951251688957,
+      0.008461604701406455,
+      0.04637073474567073
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 12.0,
+  "fps": 50.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilce-7m4-12.00mm-3840x2160@50000",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "12.00mm",
+  "name": "Sony_a7IV_12.00mm__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "num_images": 11,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

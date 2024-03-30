@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_GH5S_SIGMA DC 17-70 28mm_C_4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Marcel Leonhardt",
+  "camera_brand": "Panasonic",
+  "camera_model": "GH5S",
+  "lens_model": "SIGMA DC 17-70 28mm",
+  "camera_setting": "C",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.997907311341954,
+    "camera_matrix": [
+      [
+        4298.2706731952985,
+        0.0,
+        1939.8310549770436
+      ],
+      [
+        0.0,
+        4306.015142970989,
+        1182.1203627915374
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3525058887986656,
+      -0.3300103161427232,
+      6.2330260579912595,
+      -16.40863349566529
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

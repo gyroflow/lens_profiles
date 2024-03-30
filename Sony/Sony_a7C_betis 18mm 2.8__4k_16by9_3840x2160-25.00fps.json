@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_betis 18mm 2.8_防抖开启_4k_16by9_3840x2160-25.00fps",
+  "note": "手持",
+  "calibrated_by": "阿猛",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "betis 18mm 2.8",
+  "camera_setting": "防抖开启",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5627098953575999,
+    "camera_matrix": [
+      [
+        2022.8368091525751,
+        0.0,
+        1925.189559879296
+      ],
+      [
+        0.0,
+        2021.98020105916,
+        1082.072216666497
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2176556563901581,
+      0.22369355701195984,
+      -0.13487625006046797,
+      0.23632890996823144
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-1d6d1d69-3840x2160@25000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

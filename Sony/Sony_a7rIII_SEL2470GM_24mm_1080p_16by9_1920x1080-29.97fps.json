@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7rIII_SEL2470GM_24mm_1080p_16by9_1920x1080-29.97fps",
+  "note": "24mm",
+  "calibrated_by": "Hendrik",
+  "camera_brand": "Sony",
+  "camera_model": "a7rIII",
+  "lens_model": "SEL2470GM",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 30,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2772775782276711,
+    "camera_matrix": [
+      [
+        1328.8806097378026,
+        0.0,
+        961.7429183573472
+      ],
+      [
+        0.0,
+        1330.093090459412,
+        542.0057141931812
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.17725436360805494,
+      0.18573543219155367,
+      -0.0035268199975975792,
+      0.21305448557726575
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

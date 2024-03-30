@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "Adun",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "a7CII",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-03-30",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.8630524673080487,
+    "camera_matrix": [
+      [
+        6949.679227411738,
+        0.0,
+        1919.2847315862175
+      ],
+      [
+        0.0,
+        6967.454436644396,
+        1246.4718252906894
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5545073341246751,
+      -1.7150678386837417,
+      18.940524309412012,
+      -41.224083988872295
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 50.0,
+  "fps": 23.976025,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilce-7cm2-50.00mm-3840x2160@23976",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Voigtlander\nAPO-LANTHAR 50mm F2 Aspherical",
+  "name": "Sony_a7CII_Voigtlander\nAPO-LANTHAR 50mm F2 Aspherical__4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

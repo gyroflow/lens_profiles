@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "calibrated_by": "U0 A390",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Samsung",
+  "camera_model": "S23",
+  "camera_setting": "Relacion 9 16",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.6425734579908086,
+    "camera_matrix": [
+      [
+        1097.326733296395,
+        0.0,
+        980.2083070480708
+      ],
+      [
+        0.0,
+        1098.2582649508754,
+        514.5200370147147
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4554694138209868,
+      0.3503128228850795,
+      -5.792729755825353,
+      15.73722710473727
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 29.999115,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Samsung_S23__Relacion 9 16_1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "num_images": 14,
+  "official": false,
+  "orig_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "output_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "sync_settings": null
+}

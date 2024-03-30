@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_Carl Zeiss Jenna f1.8 50mm__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Tom Leonard",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "Carl Zeiss Jenna f1.8 50mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6610844559670952,
+    "camera_matrix": [
+      [
+        5680.700655314114,
+        0.0,
+        1910.011283190905
+      ],
+      [
+        0.0,
+        5679.100535321918,
+        1026.1446817311278
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3075710733673299,
+      -2.1589393468488134,
+      27.538180830409065,
+      -126.23838141092176
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

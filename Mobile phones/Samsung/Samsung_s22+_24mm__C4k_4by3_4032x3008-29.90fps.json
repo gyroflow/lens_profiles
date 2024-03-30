@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_s22+_24mm__C4k_4by3_4032x3008-29.90fps",
+  "note": "",
+  "calibrated_by": "Akshay kumar Saini",
+  "camera_brand": "Samsung",
+  "camera_model": "s22+",
+  "lens_model": "24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4032,
+    "h": 3008
+  },
+  "orig_dimension": {
+    "w": 4032,
+    "h": 3008
+  },
+  "output_dimension": {
+    "w": 4032,
+    "h": 3008
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.899433,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.369684311908537,
+    "camera_matrix": [
+      [
+        4852.695672901691,
+        0.0,
+        2010.0993852459417
+      ],
+      [
+        0.0,
+        4861.201217871812,
+        1540.0690508570738
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5006049041268158,
+      0.2586737037168859,
+      -20.35627885509801,
+      106.16322694459116
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

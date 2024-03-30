@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2592,
+    "w": 4608
+  },
+  "calibrated_by": "717",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "XTU",
+  "camera_model": "S5K",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2023-12-03",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 2.1186293021433595,
+    "camera_matrix": [
+      [
+        2176.593451236845,
+        0.0,
+        2375.8285503919915
+      ],
+      [
+        0.0,
+        2176.260043000469,
+        1312.1058189455644
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.01853847733033131,
+      -0.04125907741475018,
+      0.09213416123213192,
+      -0.0654256838838445
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 30.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-xtu-s5k-xtu/xtu_xtus5k_xtu_5k30_5k_16by9_4068x2592-30fps-wide-4608x2592@30000",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "XTU/XTU_XTUS5K_XTU_5k30_5k_16by9_4068x2592-30fps wide",
+  "name": "XTU_S5K_XTU/XTU_XTUS5K_XTU_5k30_5k_16by9_4068x2592-30fps wide__C4k_16by9_4608x2592-30.00fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2592,
+    "w": 4608
+  },
+  "output_dimension": {
+    "h": 2592,
+    "w": 4608
+  },
+  "sync_settings": null
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Micro Cinema Camera_Rokinon 12mm_iso 1600_1080p_16by9_1920x1080-24.00fps",
+  "note": "",
+  "calibrated_by": "Austin West",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Micro Cinema Camera",
+  "lens_model": "Rokinon 12mm",
+  "camera_setting": "iso 1600",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 25,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2813022944073425,
+    "camera_matrix": [
+      [
+        1987.241761589572,
+        0.0,
+        936.9894391228024
+      ],
+      [
+        0.0,
+        1987.2412114127376,
+        566.2839409065198
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.274963456491554,
+      0.08040050650834646,
+      -0.5379398706136418,
+      5.957050240633647
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 12.0,
+  "crop_factor": 2.88,
+  "global_shutter": false
+}

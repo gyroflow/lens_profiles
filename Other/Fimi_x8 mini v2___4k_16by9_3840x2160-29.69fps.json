@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "U0 A359",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Fimi",
+  "camera_model": "x8 mini v2",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 1.4347050943557165,
+    "camera_matrix": [
+      [
+        3186.882018137854,
+        0.0,
+        1926.4028768862397
+      ],
+      [
+        0.0,
+        3181.2716126015475,
+        1059.935674128833
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4804523474541419,
+      -0.3879167467315191,
+      0.8604133414038022,
+      1.011888295029881
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 29.694366,
+  "frame_readout_time": 0.0,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Fimi_x8 mini v2___4k_16by9_3840x2160-29.69fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

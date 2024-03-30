@@ -1,0 +1,69 @@
+{
+  "name": "OnePlus_Open_OnePlusOpen_24mm_4k_16by9_3840x2160-25.00fps",
+  "note": "16_9",
+  "calibrated_by": "André",
+  "camera_brand": "OnePlus",
+  "camera_model": "Open",
+  "lens_model": "OnePlusOpen",
+  "camera_setting": "24mm",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 1.4285714285714284,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6254470230772102,
+    "camera_matrix": [
+      [
+        2699.074288956241,
+        0.0,
+        1927.7114675874093
+      ],
+      [
+        0.0,
+        2706.646746320664,
+        1098.8389582290934
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5333802218528971,
+      -1.1888262653900443,
+      4.717794906236089,
+      -5.718874389291099
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

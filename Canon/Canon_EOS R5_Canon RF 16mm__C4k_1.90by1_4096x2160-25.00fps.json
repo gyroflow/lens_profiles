@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS R5_Canon RF 16mm__C4k_1.90by1_4096x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "justin paul03",
+  "camera_brand": "Canon",
+  "camera_model": "EOS R5",
+  "lens_model": "Canon RF 16mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": true,
+  "fisheye_params": {
+    "RMS_error": 0.6809280055637176,
+    "camera_matrix": [
+      [
+        1695.0375446826708,
+        0.0,
+        2023.351042735358
+      ],
+      [
+        0.0,
+        1697.0614812609242,
+        1052.4183531345768
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.37514376439330377,
+      -0.07464191191549197,
+      0.426939230113851,
+      -0.18708974720493288
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-11-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 16.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

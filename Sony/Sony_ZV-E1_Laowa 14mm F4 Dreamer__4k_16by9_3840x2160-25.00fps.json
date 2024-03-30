@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E1_Laowa 14mm F4 Dreamer__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Rémy Brahier",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E1",
+  "lens_model": "Laowa 14mm F4 Dreamer",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 1.9858374384236452,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4419519437295506,
+    "camera_matrix": [
+      [
+        1589.815648991033,
+        0.0,
+        1919.6638253452031
+      ],
+      [
+        0.0,
+        1590.1158818583476,
+        1063.588843447476
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3352995847181902,
+      0.10607773008378864,
+      0.02263560691524918,
+      0.07383800183556011
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

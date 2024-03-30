@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_Lumix GH5_12-35_60 10bit_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "siddharth sud",
+  "camera_brand": "Panasonic",
+  "camera_model": "Lumix GH5",
+  "lens_model": "12-35",
+  "camera_setting": "60 10bit",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3492947525926767,
+    "camera_matrix": [
+      [
+        1626.1290373283364,
+        0.0,
+        967.5708788868498
+      ],
+      [
+        0.0,
+        1625.3950965951108,
+        545.2738879204334
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2666386140568837,
+      0.8661781927715763,
+      -3.9317930337367577,
+      6.799652439831448
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-11-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

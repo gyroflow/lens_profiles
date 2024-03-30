@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_Redmi 红米K30pro_红米K30pro主摄横屏__480p_16by9_960x544-30.00fps",
+  "note": "",
+  "calibrated_by": "Ming",
+  "camera_brand": "Xiaomi",
+  "camera_model": "Redmi 红米K30pro",
+  "lens_model": "红米K30pro主摄横屏",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 960,
+    "h": 544
+  },
+  "orig_dimension": {
+    "w": 960,
+    "h": 544
+  },
+  "output_dimension": {
+    "w": 960,
+    "h": 544
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.000401,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2930699512569622,
+    "camera_matrix": [
+      [
+        723.8298793774474,
+        0.0,
+        476.49454430496314
+      ],
+      [
+        0.0,
+        730.515331640264,
+        269.4701537959159
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4130665426994178,
+      -0.023566199378865123,
+      0.29509948332215497,
+      -0.1852368492136296
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

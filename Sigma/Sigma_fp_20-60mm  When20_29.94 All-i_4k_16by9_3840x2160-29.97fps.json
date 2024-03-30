@@ -1,0 +1,69 @@
+{
+  "name": "Sigma_fp_20-60mm  When20_29.94 All-i_4k_16by9_3840x2160-29.97fps",
+  "note": "4K",
+  "calibrated_by": "牧明",
+  "camera_brand": "Sigma",
+  "camera_model": "fp",
+  "lens_model": "20-60mm  When20",
+  "camera_setting": "29.94 All-i",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5578907018784842,
+    "camera_matrix": [
+      [
+        2222.917237343067,
+        0.0,
+        1920.3449236559377
+      ],
+      [
+        0.0,
+        2221.2793214765943,
+        1092.9485207864716
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2843635337904871,
+      0.155286525648247,
+      0.0007244778457091334,
+      0.05703869860617149
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_50.00mm Sigma ART_S-Cinetone_1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "GCN",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "50.00mm Sigma ART",
+  "camera_setting": "S-Cinetone",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3664381223287896,
+    "camera_matrix": [
+      [
+        2799.8639913764414,
+        0.0,
+        970.4035329083828
+      ],
+      [
+        0.0,
+        2792.874916473009,
+        541.0875372191124
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.28634887270070447,
+      -0.8920570473802387,
+      11.321549990100335,
+      -39.13982032090526
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx6v-50.00mm-1920x1080@25000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 50.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

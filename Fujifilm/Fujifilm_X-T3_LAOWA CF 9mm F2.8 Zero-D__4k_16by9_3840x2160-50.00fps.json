@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-T3_LAOWA CF 9mm F2.8 Zero-D__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Kostas Gur",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-T3",
+  "lens_model": "LAOWA CF 9mm F2.8 Zero-D",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7703929912847355,
+    "camera_matrix": [
+      [
+        1753.9506360608996,
+        0.0,
+        1932.5575075336617
+      ],
+      [
+        0.0,
+        1753.5892976554303,
+        1033.2813520994132
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33306965149515744,
+      0.16947083373950425,
+      -0.11848951651996306,
+      0.17230078182734726
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

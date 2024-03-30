@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Carl Zeiss Jena Flektogon 20mm T2.8_6K 17:9_6k_1.90by1_6144x3240-23.98fps",
+  "note": "90 degree shutter, 23.976fps",
+  "calibrated_by": "Joel Gagne",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Carl Zeiss Jena Flektogon 20mm T2.8",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1718193311121656,
+    "camera_matrix": [
+      [
+        4890.662781358856,
+        0.0,
+        3094.265488043617
+      ],
+      [
+        0.0,
+        4893.27885953592,
+        1684.6324585532109
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.223304208666234,
+      0.23629873860529335,
+      -0.21606991923105084,
+      0.4023358632283537
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

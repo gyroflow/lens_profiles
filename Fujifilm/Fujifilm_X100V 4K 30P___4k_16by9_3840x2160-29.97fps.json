@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X100V 4K 30P___4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "apple密码1234",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X100V 4K 30P",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9997044983393288,
+    "camera_matrix": [
+      [
+        4005.106852766513,
+        0.0,
+        1929.7984615346231
+      ],
+      [
+        0.0,
+        4015.430119409369,
+        1086.493043253265
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2769807162163232,
+      0.9019674451395164,
+      -5.088899314269613,
+      12.68062954112521
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

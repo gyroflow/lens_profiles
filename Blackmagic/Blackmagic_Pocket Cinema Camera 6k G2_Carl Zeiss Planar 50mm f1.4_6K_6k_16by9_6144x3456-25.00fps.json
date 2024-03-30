@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6k G2_Carl Zeiss Planar 50mm f/1.4_6K_6k_16by9_6144x3456-25.00fps",
+  "note": "Calibrated with iPhone pattern",
+  "calibrated_by": "Tobias Thorne",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6k G2",
+  "lens_model": "Carl Zeiss Planar 50mm f/1.4",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0955715547333702,
+    "camera_matrix": [
+      [
+        17509.062057893447,
+        0.0,
+        3330.34730284066
+      ],
+      [
+        0.0,
+        17341.928202618892,
+        1223.0317903544037
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5627365934334814,
+      -31.138523497288222,
+      788.4805919985537,
+      -6431.9577876294825
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

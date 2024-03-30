@@ -1,0 +1,69 @@
+{
+  "name": "sioeye_v4___1080p_16by9_1920x1080-60.02fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "sioeye",
+  "camera_model": "v4",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 6,
+  "fps": 60.015968,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.34988571843447364,
+    "camera_matrix": [
+      [
+        1091.5170854031828,
+        0.0,
+        971.3845975312684
+      ],
+      [
+        0.0,
+        1091.621660480224,
+        540.2124821343564
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.010431073479727378,
+      -0.006717870147617302,
+      0.006955777325884173,
+      -0.0002686912709952932
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

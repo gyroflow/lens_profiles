@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a1_20.00mm__4k_16by9_3840x2160-100.00fps",
+  "note": "",
+  "calibrated_by": "yinyecheng",
+  "camera_brand": "Sony",
+  "camera_model": "a1",
+  "lens_model": "20.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 100.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5877343704863325,
+    "camera_matrix": [
+      [
+        2362.118822407345,
+        0.0,
+        1917.681763318839
+      ],
+      [
+        0.0,
+        2360.794812127288,
+        1085.3836692684083
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32817487185979133,
+      0.15510156823737928,
+      -0.0315772585115189,
+      0.1565934278496695
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-1-20.00mm-3840x2160@100000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 20.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

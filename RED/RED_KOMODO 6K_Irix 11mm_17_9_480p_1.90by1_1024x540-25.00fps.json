@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Irix 11mm_17:9_480p_1.90by1_1024x540-25.00fps",
+  "note": "Canon X0.71",
+  "calibrated_by": "Shikijo",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Irix 11mm",
+  "camera_setting": "17:9",
+  "calib_dimension": {
+    "w": 1024,
+    "h": 540
+  },
+  "orig_dimension": {
+    "w": 1024,
+    "h": 540
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.21367827470412715,
+    "camera_matrix": [
+      [
+        483.10780434504136,
+        0.0,
+        515.5724262397416
+      ],
+      [
+        0.0,
+        482.9440807949167,
+        254.2622035795866
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3234257461938758,
+      0.17132598190935777,
+      -0.050904117823831106,
+      0.05336525424135165
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

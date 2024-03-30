@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E1_Vazen85 2.8_60 125_6k_16by5_6912x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "思俊",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E1",
+  "lens_model": "Vazen85 2.8",
+  "camera_setting": "60 125",
+  "calib_dimension": {
+    "w": 6912,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 6912,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 6912,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.8,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.0873374287056174,
+    "camera_matrix": [
+      [
+        17354.374819482302,
+        0.0,
+        3446.825763322307
+      ],
+      [
+        0.0,
+        17246.469876592262,
+        1275.8978252369045
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.5424091775106298,
+      43.29690127871359,
+      -3011.857510940265,
+      47123.98439328062
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 85.0,
+  "crop_factor": 1.0,
+  "global_shutter": false
+}

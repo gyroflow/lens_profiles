@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_CN-E20mm T1.5 L F 20.00mm_6K 17:9_6k_1.90by1_6144x3240-23.98fps",
+  "note": "",
+  "calibrated_by": "Bryan Redding",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "CN-E20mm T1.5 L F 20.00mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.83227103447852,
+    "camera_matrix": [
+      [
+        3376.345730853407,
+        0.0,
+        3098.762400130655
+      ],
+      [
+        0.0,
+        3385.165146005034,
+        1620.557648070013
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.24613140065408853,
+      0.3592567515282196,
+      -0.5563593791389001,
+      0.649316684156199
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-komodo6k-cn-e20mmt1.5lf-20.00mm-6144x3240@0",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 20.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

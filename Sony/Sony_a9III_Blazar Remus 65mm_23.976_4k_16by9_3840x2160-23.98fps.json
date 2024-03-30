@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a9III_Blazar Remus 65mm_23.976_4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Derek Findlay",
+  "camera_brand": "Sony",
+  "camera_model": "a9III",
+  "lens_model": "Blazar Remus 65mm",
+  "camera_setting": "23.976",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.9805683123872655,
+    "camera_matrix": [
+      [
+        5093.145753014837,
+        0.0,
+        1921.1908658980833
+      ],
+      [
+        0.0,
+        7659.396197762534,
+        1083.7483194260042
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.2784912688855605,
+      -1.170550263629687,
+      -7.6693322380266995,
+      62.50051164527987
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

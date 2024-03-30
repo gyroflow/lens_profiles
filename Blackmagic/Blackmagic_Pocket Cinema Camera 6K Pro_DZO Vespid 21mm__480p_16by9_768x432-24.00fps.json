@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K Pro_DZO Vespid 21mm__480p_16by9_768x432-24.00fps",
+  "note": "",
+  "calibrated_by": "Max Olsson",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K Pro",
+  "lens_model": "DZO Vespid 21mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 768,
+    "h": 432
+  },
+  "orig_dimension": {
+    "w": 768,
+    "h": 432
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.26799720687926426,
+    "camera_matrix": [
+      [
+        713.5110848030278,
+        0.0,
+        392.8594739558987
+      ],
+      [
+        0.0,
+        696.2309674415002,
+        206.8070424099604
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1857078659181049,
+      0.5619377428310519,
+      -1.9316974898758443,
+      3.5353325898499923
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera6kpro-dzovespid-21mm-6144x3456@24000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 21.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

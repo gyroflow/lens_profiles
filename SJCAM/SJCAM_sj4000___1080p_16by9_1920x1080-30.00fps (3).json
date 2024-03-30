@@ -1,0 +1,69 @@
+{
+  "name": "SJCAM_sj4000___1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "calibrated_by": "Yavor",
+  "camera_brand": "SJCAM",
+  "camera_model": "sj4000",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3737600543294952,
+    "camera_matrix": [
+      [
+        1044.3194645386377,
+        0.0,
+        1003.034929588642
+      ],
+      [
+        0.0,
+        1055.9243780348563,
+        542.7671076608754
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.016076757192169888,
+      0.0009818880618333462,
+      -0.0015860206542286928,
+      0.0033960956187843337
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

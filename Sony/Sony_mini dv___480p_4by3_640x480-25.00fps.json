@@ -1,0 +1,69 @@
+{
+  "name": "Sony_mini dv___480p_4by3_640x480-25.00fps",
+  "note": "",
+  "calibrated_by": "Area 39",
+  "camera_brand": "Sony",
+  "camera_model": "mini dv",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 640,
+    "h": 480
+  },
+  "orig_dimension": {
+    "w": 640,
+    "h": 480
+  },
+  "output_dimension": {
+    "w": 640,
+    "h": 480
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.28313585400016766,
+    "camera_matrix": [
+      [
+        405.583508449059,
+        0.0,
+        317.3316248130764
+      ],
+      [
+        0.0,
+        812.9744771898936,
+        237.328747282474
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.09938407395445964,
+      0.8531685804522793,
+      -7.144020286511887,
+      24.69601046799678
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-11-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

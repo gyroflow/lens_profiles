@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6100_OSS 3.5-5.6/50mm_steady_4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "thoma",
+  "camera_brand": "Sony",
+  "camera_model": "a6100",
+  "lens_model": "OSS 3.5-5.6/50mm",
+  "camera_setting": "steady",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.146408040814067,
+    "camera_matrix": [
+      [
+        53366.19044476028,
+        0.0,
+        1288.342668149657
+      ],
+      [
+        0.0,
+        57179.12191446265,
+        1639.9181910801956
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      5.929247956223917,
+      5063.295699864581,
+      -3549334.7396545648,
+      794865332.9976166
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

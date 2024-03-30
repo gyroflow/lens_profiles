@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_GH5S_奥林巴斯1250__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "mac",
+  "camera_brand": "Panasonic",
+  "camera_model": "GH5S",
+  "lens_model": "奥林巴斯1250",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5323747904506566,
+    "camera_matrix": [
+      [
+        752.4545815509282,
+        0.0,
+        962.588373224319
+      ],
+      [
+        0.0,
+        752.0819852632183,
+        528.1744204090078
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3183813011217634,
+      0.11969487320796712,
+      0.0494129891980364,
+      0.022341787376717312
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-11-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

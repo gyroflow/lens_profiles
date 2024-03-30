@@ -1,0 +1,69 @@
+{
+  "name": "DJI_mini3_1/1.3__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "hello",
+  "camera_brand": "DJI",
+  "camera_model": "mini3",
+  "lens_model": "1/1.3",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.41132605648219145,
+    "camera_matrix": [
+      [
+        1441.4051541950148,
+        0.0,
+        954.5501424400888
+      ],
+      [
+        0.0,
+        1440.741448136193,
+        543.5364384411865
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6287364575899221,
+      -1.9910754735338707,
+      6.8413544251455685,
+      -7.394649497684781
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

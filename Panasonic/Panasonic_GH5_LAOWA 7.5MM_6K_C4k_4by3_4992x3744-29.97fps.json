@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_GH5_LAOWA 7.5MM_6K_C4k_4by3_4992x3744-29.97fps",
+  "note": "",
+  "calibrated_by": "sulingfeng",
+  "camera_brand": "Panasonic",
+  "camera_model": "GH5",
+  "lens_model": "LAOWA 7.5MM",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 4992,
+    "h": 3744
+  },
+  "orig_dimension": {
+    "w": 4992,
+    "h": 3744
+  },
+  "output_dimension": {
+    "w": 4992,
+    "h": 3744
+  },
+  "frame_readout_time": -13.54011015846765,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1337462128695006,
+    "camera_matrix": [
+      [
+        2247.9276818722738,
+        0.0,
+        2472.3083307494026
+      ],
+      [
+        0.0,
+        2248.705219666922,
+        1876.036829894836
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33964803390457904,
+      0.07863007658756689,
+      0.015406148333083885,
+      0.06584469532317247
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

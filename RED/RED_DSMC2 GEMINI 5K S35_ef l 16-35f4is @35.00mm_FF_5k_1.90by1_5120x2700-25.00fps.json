@@ -1,0 +1,69 @@
+{
+  "name": "RED_DSMC2 GEMINI 5K S35_ef l 16-35f4is @35.00mm_FF_5k_1.90by1_5120x2700-25.00fps",
+  "note": "50p",
+  "calibrated_by": "STRIX17",
+  "camera_brand": "RED",
+  "camera_model": "DSMC2 GEMINI 5K S35",
+  "lens_model": "ef l 16-35f4is @35.00mm",
+  "camera_setting": "FF",
+  "calib_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "orig_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "output_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5336419632575979,
+    "camera_matrix": [
+      [
+        5712.84459995873,
+        0.0,
+        2590.6041229064745
+      ],
+      [
+        0.0,
+        5720.29298564713,
+        1344.6504203543925
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.287899666901336,
+      2.121743910958133,
+      -15.250500203391775,
+      40.31001878083976
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-dsmc2gemini5ks35-unknown-35.00mm-5120x2700@0",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

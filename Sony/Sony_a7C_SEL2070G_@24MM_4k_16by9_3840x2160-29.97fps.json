@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_SEL2070G_@24MM_4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "xuyiyang",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "SEL2070G",
+  "camera_setting": "@24MM",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6844703785324848,
+    "camera_matrix": [
+      [
+        3133.2432919435623,
+        0.0,
+        1919.3650971529796
+      ],
+      [
+        0.0,
+        3129.7726637227947,
+        1080.312514608837
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3052730477477882,
+      0.16112990794824456,
+      0.2513791794528762,
+      -0.7196430688486881
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-f10dee07-3840x2160@29970",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

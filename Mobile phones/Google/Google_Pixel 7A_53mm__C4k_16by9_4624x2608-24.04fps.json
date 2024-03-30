@@ -1,0 +1,69 @@
+{
+  "name": "Google_Pixel 7A_53mm__C4k_16by9_4624x2608-24.04fps",
+  "note": "",
+  "calibrated_by": "Taiyakeys",
+  "camera_brand": "Google",
+  "camera_model": "Pixel 7A",
+  "lens_model": "53mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4624,
+    "h": 2608
+  },
+  "orig_dimension": {
+    "w": 4624,
+    "h": 2608
+  },
+  "output_dimension": {
+    "w": 4624,
+    "h": 2608
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.036831,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7327204578715387,
+    "camera_matrix": [
+      [
+        6480.626631844545,
+        0.0,
+        2271.16841950641
+      ],
+      [
+        0.0,
+        6492.129248232804,
+        1196.676144787855
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5007515106371078,
+      -0.7817764177947115,
+      -3.9762217823032824,
+      45.99592669645008
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 4096
+  },
+  "calibrated_by": "PoMaH",
+  "calibrator_version": "1.5.3",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": 0.75,
+  "date": "2023-10-27",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 1.1112331958134152,
+    "camera_matrix": [
+      [
+        7583.59436082702,
+        0.0,
+        2024.2195798668215
+      ],
+      [
+        0.0,
+        7560.257661801278,
+        1074.0664447866725
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.1392513294656435,
+      11.4020351764375,
+      -218.7020828779259,
+      1390.089896728817
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 36.0,
+  "fps": 50.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-blackmagic-pocketcinemacamera4k-.7xef36mmf/1.0-36mm-4096x2160@50000",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": ".7xEF36mm f/1.0 36mm",
+  "name": "Blackmagic_Pocket Cinema Camera 4K_.7xEF36mm f/1.0 36mm__C4k_1.90by1_4096x2160-50.00fps",
+  "note": "",
+  "num_images": 12,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 4096
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 4096
+  },
+  "sync_settings": null
+}

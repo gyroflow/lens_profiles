@@ -1,0 +1,69 @@
+{
+  "name": "Canon_700D_17-50mm F2.8_24 Frames_1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "PGM",
+  "camera_brand": "Canon",
+  "camera_model": "700D",
+  "lens_model": "17-50mm F2.8",
+  "camera_setting": "24 Frames",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5004607322962209,
+    "camera_matrix": [
+      [
+        1507.3846235700828,
+        0.0,
+        985.1721877754806
+      ],
+      [
+        0.0,
+        1507.2962129544158,
+        587.3557344857751
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19364843462802503,
+      0.0474842896633606,
+      0.28622037880234424,
+      0.09420699139506876
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

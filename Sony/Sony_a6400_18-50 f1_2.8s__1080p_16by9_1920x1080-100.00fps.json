@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_18-50 f1:2.8s__1080p_16by9_1920x1080-100.00fps",
+  "note": "",
+  "calibrated_by": "王闯",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "18-50 f1:2.8s",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": -4.89,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 100.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.31782766946723573,
+    "camera_matrix": [
+      [
+        1675.9065735609047,
+        0.0,
+        965.81096601579
+      ],
+      [
+        0.0,
+        1676.7570496523722,
+        522.3989900592932
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3308221268301292,
+      -0.2825384925697417,
+      2.359984329556241,
+      -3.492106769534625
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

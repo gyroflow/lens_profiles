@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_S1H_Lumix s 20-60_C_C4k_1.90by1_4096x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Lucas Sirianos",
+  "camera_brand": "Panasonic",
+  "camera_model": "S1H",
+  "lens_model": "Lumix s 20-60",
+  "camera_setting": "C",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.343239068072055,
+    "camera_matrix": [
+      [
+        4469.355438468678,
+        0.0,
+        2033.9117612812236
+      ],
+      [
+        0.0,
+        4494.899575650238,
+        957.0726211385864
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5198279273882962,
+      0.6334047027604934,
+      -0.009473525302352282,
+      0.5538776321563679
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

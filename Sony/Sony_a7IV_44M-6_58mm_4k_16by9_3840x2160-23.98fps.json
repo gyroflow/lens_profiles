@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_44M-6_58mm_4k_16by9_3840x2160-23.98fps",
+  "note": "58mm",
+  "calibrated_by": "Kaos",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "44M-6",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0148822000615485,
+    "camera_matrix": [
+      [
+        7668.403409470122,
+        0.0,
+        1898.889084708221
+      ],
+      [
+        0.0,
+        7663.51768299716,
+        1193.5158768373888
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5799410308401166,
+      -4.60414350587231,
+      60.67050751809682,
+      -374.63581721946986
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-10-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

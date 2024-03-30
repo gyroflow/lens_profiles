@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7rV_24-70 GMII at 44.00mm__6k_16by9_7680x4320-23.98fps",
+  "note": "",
+  "calibrated_by": "Quan",
+  "camera_brand": "Sony",
+  "camera_model": "a7rV",
+  "lens_model": "24-70 GMII at 44.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 57,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 4.6010944720492954,
+    "camera_matrix": [
+      [
+        53683.446133574726,
+        0.0,
+        4549.901144720699
+      ],
+      [
+        0.0,
+        53488.43283466852,
+        2038.0162866804003
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      2.8242855601751904,
+      431.5479693291439,
+      39594.583549540206,
+      -12952796.58599134
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7rm5-44.00mm-7680x4320@23976",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 44.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

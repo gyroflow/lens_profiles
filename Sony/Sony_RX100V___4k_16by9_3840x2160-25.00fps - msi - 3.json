@@ -1,0 +1,69 @@
+{
+  "name": "Sony_RX100V___4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "msi",
+  "camera_brand": "Sony",
+  "camera_model": "RX100V",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6265495022161606,
+    "camera_matrix": [
+      [
+        2938.4406737949835,
+        0.0,
+        1923.1865008519007
+      ],
+      [
+        0.0,
+        2935.0044426360546,
+        1083.9339104160197
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32547179680295946,
+      0.06678196348610044,
+      0.6372722089304694,
+      -1.4424188944256218
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z8_nikkor 14-30_FF_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "DDvideo.eu",
+  "camera_brand": "Nikon",
+  "camera_model": "Z8",
+  "lens_model": "nikkor 14-30",
+  "camera_setting": "FF",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7278571056085119,
+    "camera_matrix": [
+      [
+        768.8349365123481,
+        0.0,
+        970.370542517728
+      ],
+      [
+        0.0,
+        768.74934541324,
+        539.7579717815084
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30570946709216584,
+      0.2664661962804245,
+      -0.219951989694013,
+      0.22697899084384
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.0",
+  "date": "2024-03-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

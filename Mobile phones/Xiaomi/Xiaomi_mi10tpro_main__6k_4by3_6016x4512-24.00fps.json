@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_mi10tpro_main__6k_4by3_6016x4512-24.00fps",
+  "note": "",
+  "calibrated_by": "Paul Martin",
+  "camera_brand": "Xiaomi",
+  "camera_model": "mi10tpro",
+  "lens_model": "main",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 6016,
+    "h": 4512
+  },
+  "orig_dimension": {
+    "w": 6016,
+    "h": 4512
+  },
+  "output_dimension": {
+    "w": 6016,
+    "h": 4512
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.000095,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.2896484572739975,
+    "camera_matrix": [
+      [
+        4032.8861275872496,
+        0.0,
+        2992.4308723334507
+      ],
+      [
+        0.0,
+        4037.797663782484,
+        2225.503865033676
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4706576206604513,
+      -0.4616402531776216,
+      1.626893870279447,
+      -1.6176424349563037
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "MattWorks",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "camera_setting": "crop",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2023-12-11",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.738526353098116,
+    "camera_matrix": [
+      [
+        27082.71126020184,
+        0.0,
+        1865.3700884406735
+      ],
+      [
+        0.0,
+        27146.31208909176,
+        1084.0170955893243
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      3.467388715944117,
+      -188.64772978429497,
+      26423.541957954803,
+      -42246.1088034878
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 70.0,
+  "fps": 59.94006,
+  "frame_readout_time": 16.683322183313006,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilce-7m4-70.00mm-3840x2160@59940",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "70.00mm",
+  "name": "Sony_a7IV_70.00mm_crop_4k_16by9_3840x2160-59.94fps",
+  "note": "plz suck my dxck",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

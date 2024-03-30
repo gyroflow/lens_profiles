@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 4K_LUMIX G 14/F2.5  14mm__2.5k_16by9_2688x1512-60.00fps",
+  "note": "",
+  "calibrated_by": "Bruno Mendes Gouvea",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K",
+  "lens_model": "LUMIX G 14/F2.5  14mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2688,
+    "h": 1512
+  },
+  "orig_dimension": {
+    "w": 2688,
+    "h": 1512
+  },
+  "output_dimension": {
+    "w": 2688,
+    "h": 1512
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7155797364511642,
+    "camera_matrix": [
+      [
+        3114.7214773620044,
+        0.0,
+        1354.2941650253265
+      ],
+      [
+        0.0,
+        3041.7001126018567,
+        747.2581500776648
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.12643106208185723,
+      -0.16042635639607347,
+      0.3954188920954262,
+      4.131277352195372
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera4k-lumixg14/f2.5-14mm-2688x1512@60000",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 14.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

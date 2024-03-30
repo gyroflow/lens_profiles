@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_z8_sirui 50mm__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "ycchang",
+  "camera_brand": "Nikon",
+  "camera_model": "z8",
+  "lens_model": "sirui 50mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.4308308696029646,
+    "camera_matrix": [
+      [
+        3997.2795839874057,
+        0.0,
+        2089.53802568059
+      ],
+      [
+        0.0,
+        6046.439917046412,
+        356.18894972587543
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.0855717450219026,
+      7.348312400897293,
+      -63.44242722558133,
+      196.3560952991195
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

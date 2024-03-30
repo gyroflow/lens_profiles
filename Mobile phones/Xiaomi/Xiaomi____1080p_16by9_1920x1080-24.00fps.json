@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_小蚁相机___1080p_16by9_1920x1080-24.00fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Xiaomi",
+  "camera_model": "小蚁相机",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": -3.3548040794417595,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 6,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7280041779531752,
+    "camera_matrix": [
+      [
+        843.7983604172045,
+        0.0,
+        943.7543372391592
+      ],
+      [
+        0.0,
+        851.8888106516355,
+        538.6897708488099
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.03547927340081008,
+      0.07871987602769803,
+      -0.0956455230956856,
+      0.04309562160617483
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

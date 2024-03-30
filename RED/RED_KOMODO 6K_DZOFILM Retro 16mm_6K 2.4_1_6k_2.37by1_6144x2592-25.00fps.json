@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_DZOFILM Retro 16mm_6K 2.4:1_6k_2.37by1_6144x2592-25.00fps",
+  "note": "",
+  "calibrated_by": "marlo fokker",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "DZOFILM Retro 16mm",
+  "camera_setting": "6K 2.4:1",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.80730177090456,
+    "camera_matrix": [
+      [
+        3817.2773683551186,
+        0.0,
+        3107.8679550139477
+      ],
+      [
+        0.0,
+        3816.836316779986,
+        1292.2199280199318
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2660473550694095,
+      0.20716854103166876,
+      -0.09042625763373764,
+      0.13283730211428946
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

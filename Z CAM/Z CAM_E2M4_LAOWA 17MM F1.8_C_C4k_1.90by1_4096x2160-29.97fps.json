@@ -1,0 +1,69 @@
+{
+  "name": "Z CAM_E2M4_LAOWA 17MM F1.8_C_C4k_1.90by1_4096x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "sulingfeng",
+  "camera_brand": "Z CAM",
+  "camera_model": "E2M4",
+  "lens_model": "LAOWA 17MM F1.8",
+  "camera_setting": "C",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 11.1,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6356968794058411,
+    "camera_matrix": [
+      [
+        3736.290657050111,
+        0.0,
+        2005.4054282728375
+      ],
+      [
+        0.0,
+        3738.739557756274,
+        1064.538909151696
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19440940209049024,
+      0.28206974343762936,
+      -0.6105384348566739,
+      1.1518210286173791
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

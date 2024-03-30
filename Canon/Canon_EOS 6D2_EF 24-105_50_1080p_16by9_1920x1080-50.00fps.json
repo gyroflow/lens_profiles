@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS 6D2_EF 24-105_50_1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Canon",
+  "camera_model": "EOS 6D2",
+  "lens_model": "EF 24-105",
+  "camera_setting": "50",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 4.89,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.21646412791494837,
+    "camera_matrix": [
+      [
+        1298.1648979040392,
+        0.0,
+        962.2997189096236
+      ],
+      [
+        0.0,
+        1272.1890657921936,
+        513.7200152911607
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20084782849803137,
+      0.12600011743466272,
+      0.05589099347541244,
+      0.23288627531694203
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-12-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

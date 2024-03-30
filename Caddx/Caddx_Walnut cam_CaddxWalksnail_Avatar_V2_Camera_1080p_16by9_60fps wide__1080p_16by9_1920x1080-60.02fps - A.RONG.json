@@ -1,0 +1,69 @@
+{
+  "name": "Caddx_Walnut cam_Caddx/Walksnail_Avatar_V2_Camera_1080p_16by9_60fps wide__1080p_16by9_1920x1080-60.02fps",
+  "note": "",
+  "calibrated_by": "A.RONG",
+  "camera_brand": "Caddx",
+  "camera_model": "Walnut cam",
+  "lens_model": "Caddx/Walksnail_Avatar_V2_Camera_1080p_16by9_60fps wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 60.018543,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5346958816179996,
+    "camera_matrix": [
+      [
+        865.0591604836691,
+        0.0,
+        1007.6769169826756
+      ],
+      [
+        0.0,
+        865.308362319095,
+        515.6628325134245
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.025988673884824717,
+      -0.004260402667143057,
+      0.013545016253185896,
+      -0.007435754172119756
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "caddx-walnutcam-caddx/walksnail_avatar_v2_camera_1080p_16by9_60fps-wide-1920x1080@60019",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z30_TTArtisan AF 27/2.8__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "SpaceNotFound",
+  "camera_brand": "Nikon",
+  "camera_model": "Z30",
+  "lens_model": "TTArtisan AF 27/2.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.22501834164714657,
+    "camera_matrix": [
+      [
+        3005.6294806255146,
+        0.0,
+        920.7193456106208
+      ],
+      [
+        0.0,
+        2998.7290756475904,
+        593.2513735046506
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.22381796010891897,
+      2.3677549983987305,
+      -27.949240166514496,
+      121.06495662566114
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-31",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

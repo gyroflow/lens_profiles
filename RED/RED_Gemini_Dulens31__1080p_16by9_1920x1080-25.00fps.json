@@ -1,0 +1,69 @@
+{
+  "name": "RED_Gemini_Dulens31__1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "Rene Siciliano",
+  "camera_brand": "RED",
+  "camera_model": "Gemini",
+  "lens_model": "Dulens31",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.28407780339544114,
+    "camera_matrix": [
+      [
+        1928.7664090107764,
+        0.0,
+        961.035141604692
+      ],
+      [
+        0.0,
+        1928.103002552303,
+        520.5717538769495
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20261444220393207,
+      0.7324377974753351,
+      -3.095827699600273,
+      7.097171288598687
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

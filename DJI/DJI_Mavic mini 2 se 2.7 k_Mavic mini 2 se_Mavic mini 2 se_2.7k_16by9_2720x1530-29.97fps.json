@@ -1,0 +1,69 @@
+{
+  "name": "DJI_Mavic mini 2 se 2.7 k_Mavic mini 2 se_Mavic mini 2 se_2.7k_16by9_2720x1530-29.97fps",
+  "note": "",
+  "calibrated_by": "Barrios Medina Santiago Senpai",
+  "camera_brand": "DJI",
+  "camera_model": "Mavic mini 2 se 2.7 k",
+  "lens_model": "Mavic mini 2 se",
+  "camera_setting": "Mavic mini 2 se",
+  "calib_dimension": {
+    "w": 2720,
+    "h": 1530
+  },
+  "orig_dimension": {
+    "w": 2720,
+    "h": 1530
+  },
+  "output_dimension": {
+    "w": 2720,
+    "h": 1530
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.7422289893128222,
+    "camera_matrix": [
+      [
+        4042.439817789241,
+        0.0,
+        599.5122772310228
+      ],
+      [
+        0.0,
+        4031.475662733121,
+        961.5722588474912
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.0420245681558844,
+      -0.20578549569136229,
+      12.144277643291158,
+      -29.8323509231264
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

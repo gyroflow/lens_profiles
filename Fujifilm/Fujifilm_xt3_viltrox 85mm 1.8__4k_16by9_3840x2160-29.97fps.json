@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_xt3_viltrox 85mm 1.8__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Daniel López Orvañanos",
+  "camera_brand": "Fujifilm",
+  "camera_model": "xt3",
+  "lens_model": "viltrox 85mm 1.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.629759709154369,
+    "camera_matrix": [
+      [
+        18030.46034671468,
+        0.0,
+        1758.7051976616458
+      ],
+      [
+        0.0,
+        18036.12173691456,
+        1091.9689409332448
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      2.7861278510164555,
+      -322.75465168041063,
+      27692.135369472067,
+      -836504.7835128531
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

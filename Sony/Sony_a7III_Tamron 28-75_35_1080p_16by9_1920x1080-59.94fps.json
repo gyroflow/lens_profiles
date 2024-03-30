@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7III_Tamron 28-75_35_1080p_16by9_1920x1080-59.94fps",
+  "note": "35",
+  "calibrated_by": "张子忠",
+  "camera_brand": "Sony",
+  "camera_model": "a7III",
+  "lens_model": "Tamron 28-75",
+  "camera_setting": "35",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5298613778332281,
+    "camera_matrix": [
+      [
+        1747.249975327776,
+        0.0,
+        969.922332873426
+      ],
+      [
+        0.0,
+        1746.1038080111205,
+        542.8750197779516
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33339371632464676,
+      0.11695357741472572,
+      -0.06629046621985844,
+      0.4733528380402222
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-12-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_Sigma 24-70 DG-DN Art_Vertical_4k_16by9_3840x2160-59.94fps",
+  "note": "50mm",
+  "calibrated_by": "Fabio Scarparo",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "Sigma 24-70 DG-DN Art",
+  "camera_setting": "Vertical",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 2160,
+    "h": 3840
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6445509180506798,
+    "camera_matrix": [
+      [
+        9710.900515761228,
+        0.0,
+        1663.9705176765542
+      ],
+      [
+        0.0,
+        9707.239397918089,
+        1131.792536541656
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.37965224144570464,
+      1.572462267289635,
+      16.837875010630466,
+      -555.2919432212152
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7m4-50.30mm-3840x2160@59940",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 50.3,
+  "crop_factor": null,
+  "global_shutter": false
+}

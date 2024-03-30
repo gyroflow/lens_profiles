@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_z62_24200__1080p_16by9_1920x1080-119.88fps",
+  "note": "",
+  "calibrated_by": "shi yang",
+  "camera_brand": "Nikon",
+  "camera_model": "z62",
+  "lens_model": "24200",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 119.880119,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.49964669932179817,
+    "camera_matrix": [
+      [
+        1382.9573778809247,
+        0.0,
+        925.925937127616
+      ],
+      [
+        0.0,
+        1357.1813536255977,
+        602.6340333943839
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30965649117489064,
+      0.3943623741736432,
+      -1.0838774036581893,
+      1.7475417509358886
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

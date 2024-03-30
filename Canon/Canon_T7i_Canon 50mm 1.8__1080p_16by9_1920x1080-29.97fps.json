@@ -1,0 +1,69 @@
+{
+  "name": "Canon_T7i_Canon 50mm 1.8__1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "Yan Lima",
+  "camera_brand": "Canon",
+  "camera_model": "T7i",
+  "lens_model": "Canon 50mm 1.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3640519322220304,
+    "camera_matrix": [
+      [
+        4671.665742887174,
+        0.0,
+        933.404811965557
+      ],
+      [
+        0.0,
+        4674.029139476954,
+        526.8927702932178
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30257457771156354,
+      -7.127344623237668,
+      202.93311291123177,
+      -1809.968092791632
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

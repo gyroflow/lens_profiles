@@ -1,0 +1,69 @@
+{
+  "name": "Canon_6D_canon 24-105__720p_16by9_1280x720-59.94fps",
+  "note": "",
+  "calibrated_by": "vince wuoley",
+  "camera_brand": "Canon",
+  "camera_model": "6D",
+  "lens_model": "canon 24-105",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3596715582525662,
+    "camera_matrix": [
+      [
+        1227.1965424895743,
+        0.0,
+        617.6415555558619
+      ],
+      [
+        0.0,
+        1226.2340334815715,
+        361.2247290453716
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.41132548320504736,
+      -0.8056664268248833,
+      6.1196577634169325,
+      -12.285647641567142
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_Xperia 1_24__4k_2.34by1_3840x1644-24.97fps",
+  "note": "",
+  "calibrated_by": "Kid小淇儿",
+  "camera_brand": "Sony",
+  "camera_model": "Xperia 1",
+  "lens_model": "24",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 1644
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 1644
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 1644
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 24.967527,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8809087988810701,
+    "camera_matrix": [
+      [
+        2737.759978008775,
+        0.0,
+        1905.4734142104533
+      ],
+      [
+        0.0,
+        2744.3449123905034,
+        780.808583068379
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3707164538805043,
+      0.11969019719580498,
+      1.0641135681581844,
+      -2.5414820959879396
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

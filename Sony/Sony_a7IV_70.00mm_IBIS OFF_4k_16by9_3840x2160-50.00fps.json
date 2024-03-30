@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "Mateusz",
+  "calibrator_version": "1.5.2",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "camera_setting": "IBIS OFF",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": 1.5,
+  "date": "2023-10-15",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.7447230207209714,
+    "camera_matrix": [
+      [
+        13608.157131172782,
+        0.0,
+        1514.2063239393983
+      ],
+      [
+        0.0,
+        13558.689548912893,
+        1065.8508581150263
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33820565890121956,
+      13.85998536807162,
+      -571.032263888418,
+      12411.830447002292
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 70.0,
+  "fps": 50.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilce-7m4-70.00mm-3840x2160@50000",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "70.00mm",
+  "name": "Sony_a7IV_70.00mm_IBIS OFF_4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

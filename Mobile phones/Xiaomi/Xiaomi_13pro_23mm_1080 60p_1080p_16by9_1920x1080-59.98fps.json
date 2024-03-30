@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_13pro_23mm_1080 60p_1080p_16by9_1920x1080-59.98fps",
+  "note": "1080 60p",
+  "calibrated_by": "Lan",
+  "camera_brand": "Xiaomi",
+  "camera_model": "13pro",
+  "lens_model": "23mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": 50.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.982533,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.29178751227939087,
+    "camera_matrix": [
+      [
+        1704.6460146546626,
+        0.0,
+        963.576226240159
+      ],
+      [
+        0.0,
+        1700.1614840979362,
+        527.5819743320401
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33896174744176605,
+      -0.4065381875853537,
+      4.08261953448875,
+      -9.39851481911692
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

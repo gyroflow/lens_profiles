@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_GH5_15mm__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "AdmZHANG",
+  "camera_brand": "Panasonic",
+  "camera_model": "GH5",
+  "lens_model": "15mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3664438952097457,
+    "camera_matrix": [
+      [
+        1691.1879171673002,
+        0.0,
+        958.3411580374328
+      ],
+      [
+        0.0,
+        1688.124945286831,
+        530.6308203593001
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3119523738517534,
+      0.12424625381374536,
+      0.33773101084014695,
+      -1.2646419270226406
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_RX0II_23f3dc98__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Michał",
+  "camera_brand": "Sony",
+  "camera_model": "RX0II",
+  "lens_model": "23f3dc98",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9792205562771812,
+    "camera_matrix": [
+      [
+        3041.3341890883576,
+        0.0,
+        1909.649109666375
+      ],
+      [
+        0.0,
+        3038.1328489697803,
+        1032.5955311823052
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.26570632444259584,
+      1.3952705141585433,
+      -6.347600690180033,
+      10.042676632488083
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-dsc-rx0m2-23f3dc98-3840x2160@29970",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

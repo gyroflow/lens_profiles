@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX30_11.00mm__C4k_1.90by1_4096x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "ANDREW WOFFINDEN",
+  "camera_brand": "Sony",
+  "camera_model": "FX30",
+  "lens_model": "11.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6447739133514686,
+    "camera_matrix": [
+      [
+        2082.2477078010397,
+        0.0,
+        2036.2184917999184
+      ],
+      [
+        0.0,
+        2082.771379503942,
+        1066.0259704607724
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2575230008308998,
+      0.2263300633769262,
+      -0.20340535307269456,
+      0.1906485789656383
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx30-11.00mm-4096x2160@25000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 11.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

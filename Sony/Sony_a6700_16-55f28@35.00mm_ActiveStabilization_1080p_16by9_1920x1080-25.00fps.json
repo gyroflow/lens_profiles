@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6700_16-55f28@35.00mm_ActiveStabilization_1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "LennArt",
+  "camera_brand": "Sony",
+  "camera_model": "a6700",
+  "lens_model": "16-55f28@35.00mm",
+  "camera_setting": "ActiveStabilization",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.25792547438435987,
+    "camera_matrix": [
+      [
+        2297.8704652859055,
+        0.0,
+        965.7501437119594
+      ],
+      [
+        0.0,
+        2345.080723667618,
+        1031.9113875951705
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3236982253030355,
+      -0.2080424653691702,
+      1.329899635667089,
+      -1.7744259603099397
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-6700-35.00mm-1920x1080@25000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

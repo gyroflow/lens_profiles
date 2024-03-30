@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_S8_rear__1080p_16by9_1920x1080-30.01fps",
+  "note": "",
+  "calibrated_by": "Tiger Boy",
+  "camera_brand": "Samsung",
+  "camera_model": "S8",
+  "lens_model": "rear",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.008474,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7668323456162818,
+    "camera_matrix": [
+      [
+        1498.9501683731453,
+        0.0,
+        925.1828884546838
+      ],
+      [
+        0.0,
+        1498.3275235876197,
+        507.4592658702605
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.46118906436648305,
+      0.24242545874143073,
+      -3.049820733423633,
+      6.091590422911428
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

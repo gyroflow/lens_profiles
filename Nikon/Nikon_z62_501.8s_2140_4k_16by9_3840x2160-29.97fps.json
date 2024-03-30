@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_z62_501.8s_2140_4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "lingxing",
+  "camera_brand": "Nikon",
+  "camera_model": "z62",
+  "lens_model": "501.8s",
+  "camera_setting": "2140",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4646182380286033,
+    "camera_matrix": [
+      [
+        6768.196196203166,
+        0.0,
+        1867.628901463491
+      ],
+      [
+        0.0,
+        6742.81002932799,
+        777.2551793146632
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.39337279745674897,
+      1.141565364429309,
+      -32.44653567071494,
+      268.66203398744284
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_D7100_16-85mm__1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "LHXC418",
+  "camera_brand": "Nikon",
+  "camera_model": "D7100",
+  "lens_model": "16-85mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 4.900230343064483,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3604275820937935,
+    "camera_matrix": [
+      [
+        1309.4509218741962,
+        0.0,
+        964.4632200150928
+      ],
+      [
+        0.0,
+        1310.4867748639165,
+        540.2134868374507
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.18502430758778568,
+      0.1933656647756563,
+      -0.15819150706935126,
+      0.31461334145623504
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

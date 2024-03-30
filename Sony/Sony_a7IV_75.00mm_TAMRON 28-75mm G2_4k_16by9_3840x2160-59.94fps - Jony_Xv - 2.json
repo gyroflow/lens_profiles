@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "Jony_Xv",
+  "calibrator_version": "1.5.3",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "camera_setting": "TAMRON 28-75mm G2",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2023-10-20",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.7901303895921958,
+    "camera_matrix": [
+      [
+        12159.070391145897,
+        0.0,
+        1897.4505614112152
+      ],
+      [
+        0.0,
+        12175.279440637649,
+        1169.883273182684
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2397753938001246,
+      25.24617675306188,
+      -1510.852462023346,
+      29496.57808895598
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 75.0,
+  "fps": 59.94006,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilce-7m4-75.00mm-3840x2160@59940",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "75.00mm",
+  "name": "Sony_a7IV_75.00mm_TAMRON 28-75mm G2_4k_16by9_3840x2160-59.94fps",
+  "note": "59.94",
+  "num_images": 14,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

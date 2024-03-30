@@ -1,0 +1,69 @@
+{
+  "name": "Cycliq_Fly12 sport___2.5k_16by9_2560x1440-30.00fps",
+  "note": "",
+  "calibrated_by": "G M",
+  "camera_brand": "Cycliq",
+  "camera_model": "Fly12 sport",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "orig_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "output_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8963150326702948,
+    "camera_matrix": [
+      [
+        1765.776359915961,
+        0.0,
+        1340.0232140059525
+      ],
+      [
+        0.0,
+        1766.5689507251625,
+        676.4902156508193
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.03827669438978242,
+      -0.11071157147421684,
+      0.27672149539022906,
+      -0.2338247372800963
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

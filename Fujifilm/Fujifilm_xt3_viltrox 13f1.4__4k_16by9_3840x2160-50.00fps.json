@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_xt3_viltrox 13f1.4__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "HCW",
+  "camera_brand": "Fujifilm",
+  "camera_model": "xt3",
+  "lens_model": "viltrox 13f1.4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 20,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.866986203648183,
+    "camera_matrix": [
+      [
+        2644.4557297088268,
+        0.0,
+        1934.756739555608
+      ],
+      [
+        0.0,
+        2643.5767455878186,
+        1020.2401318845414
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31515333879184976,
+      -0.1391368036553579,
+      1.118506210094177,
+      -1.2212483330193653
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

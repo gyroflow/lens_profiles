@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a58 18-55 kit___720p_4by3_1440x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "Dipak009",
+  "camera_brand": "Sony",
+  "camera_model": "a58 18-55 kit",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1440,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1440,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1440,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.358829409048736,
+    "camera_matrix": [
+      [
+        1805.8684475364792,
+        0.0,
+        621.7308800618413
+      ],
+      [
+        0.0,
+        2423.739365998673,
+        447.6143911654648
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33800775241562026,
+      0.18041439964038977,
+      0.7400930544958257,
+      -2.3480766321656423
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-10-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

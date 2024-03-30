@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7III_Tamron 17-28mm f2.8__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "胡耀民",
+  "camera_brand": "Sony",
+  "camera_model": "a7III",
+  "lens_model": "Tamron 17-28mm f2.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.3353854610454392,
+    "camera_matrix": [
+      [
+        2282.8857970229965,
+        0.0,
+        1888.35964704922
+      ],
+      [
+        0.0,
+        2278.5605793606533,
+        1073.3615774440234
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2145959432734382,
+      0.2100223381893887,
+      -0.12986609645151573,
+      0.2241203305042424
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-10-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

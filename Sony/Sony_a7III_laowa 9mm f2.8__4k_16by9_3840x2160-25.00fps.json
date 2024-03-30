@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7III_laowa 9mm f/2.8__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "RAWW",
+  "camera_brand": "Sony",
+  "camera_model": "a7III",
+  "lens_model": "laowa 9mm f/2.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9109614610847449,
+    "camera_matrix": [
+      [
+        1688.9638619520074,
+        0.0,
+        1846.632177413269
+      ],
+      [
+        0.0,
+        1687.571075255518,
+        1071.3010325596176
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33558847161917227,
+      0.15774985744107284,
+      -0.08225169162912714,
+      0.14787126821781169
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

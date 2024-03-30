@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS RP_SIGMA 35MM F1,4 ART__1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "iMac",
+  "camera_brand": "Canon",
+  "camera_model": "EOS RP",
+  "lens_model": "SIGMA 35MM F1,4 ART",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.47947042707872006,
+    "camera_matrix": [
+      [
+        1897.745055854388,
+        0.0,
+        961.2789013220228
+      ],
+      [
+        0.0,
+        1898.891843519695,
+        535.7148933998237
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.27662338562472516,
+      -0.34294845352628067,
+      4.416107078534157,
+      -10.41343196093094
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

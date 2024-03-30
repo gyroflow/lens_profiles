@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Cinema Camera 6K_Otus 28 1.4_4k 50_C4k_1.90by1_4096x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Jan Bielecki",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Cinema Camera 6K",
+  "lens_model": "Otus 28 1.4",
+  "camera_setting": "4k 50",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 15.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.851838136219893,
+    "camera_matrix": [
+      [
+        4905.774257257544,
+        0.0,
+        2047.6342434205776
+      ],
+      [
+        0.0,
+        4886.745359743017,
+        1141.442055985383
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3159257709970956,
+      -0.4493911211866662,
+      2.551918607454641,
+      -3.1747011622851615
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

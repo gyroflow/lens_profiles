@@ -1,0 +1,69 @@
+{
+  "name": "POCO_x5 pro_main lens_video_4k_16by9_3840x2160-24.01fps",
+  "note": "eis off",
+  "calibrated_by": "Abhik Sadhukhan",
+  "camera_brand": "POCO",
+  "camera_model": "x5 pro",
+  "lens_model": "main lens",
+  "camera_setting": "video",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.006508,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9935779531457825,
+    "camera_matrix": [
+      [
+        2849.3235835978285,
+        0.0,
+        1868.6263644269843
+      ],
+      [
+        0.0,
+        2846.135121363422,
+        1109.0737412588817
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5650236556981411,
+      -1.755238317825787,
+      6.630478946502904,
+      -8.305008668507504
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-10-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

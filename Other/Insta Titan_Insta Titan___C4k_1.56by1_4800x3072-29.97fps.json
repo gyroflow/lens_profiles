@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 3072,
+    "w": 4800
+  },
+  "calibrated_by": "Wlodek Zieland",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Insta Titan",
+  "camera_model": "Insta Titan",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-03-24",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 2.1756616495193426,
+    "camera_matrix": [
+      [
+        1723.774815255298,
+        0.0,
+        2385.282435907384
+      ],
+      [
+        0.0,
+        1641.8171049781522,
+        1524.1914989354775
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.014651351350284322,
+      -0.010512265217607982,
+      -0.011236027606174969,
+      0.004390003340855457
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 29.97003,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Insta Titan_Insta Titan___C4k_1.56by1_4800x3072-29.97fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 3072,
+    "w": 4800
+  },
+  "output_dimension": {
+    "h": 3072,
+    "w": 4800
+  },
+  "sync_settings": null
+}

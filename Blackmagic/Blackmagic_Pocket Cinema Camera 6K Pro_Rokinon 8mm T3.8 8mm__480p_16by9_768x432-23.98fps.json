@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K Pro_Rokinon 8mm T/3.8 8mm__480p_16by9_768x432-23.98fps",
+  "note": "",
+  "calibrated_by": "7eremiah",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K Pro",
+  "lens_model": "Rokinon 8mm T/3.8 8mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 768,
+    "h": 432
+  },
+  "orig_dimension": {
+    "w": 768,
+    "h": 432
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 23.976028,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2197208414813953,
+    "camera_matrix": [
+      [
+        277.46799943240995,
+        0.0,
+        396.41518976126855
+      ],
+      [
+        0.0,
+        277.90421079823886,
+        214.81031550543312
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.05243800887578001,
+      -0.017390360377289124,
+      0.012552054388474017,
+      -0.0011485514239201423
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera6kpro-rokinon8mmt/3.8-8mm-6144x3456@23976",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 8.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

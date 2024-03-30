@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "calibrated_by": "新媒体",
+  "calibrator_version": "1.5.0",
+  "camera_brand": "Sony",
+  "camera_model": "a7sIII",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-01-12",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.2658848527357633,
+    "camera_matrix": [
+      [
+        785.1315794995821,
+        0.0,
+        966.646764118355
+      ],
+      [
+        0.0,
+        785.4231502710813,
+        542.1520549601278
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3158412092271912,
+      0.20000417182821453,
+      -0.16868317213981848,
+      0.1654877042415035
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 14.0,
+  "fps": 100.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilce-7sm3-14.00mm-1920x1080@100000",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "14.00mm",
+  "name": "Sony_a7sIII_14.00mm__1080p_16by9_1920x1080-100.00fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "output_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "sync_settings": null
+}

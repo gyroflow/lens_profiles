@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO-X 6K S35_mitakon speedmaster 35mm t1 with sirui 1.25 anamorphic adapter_6K 17:9 1.25x_6k_1.90by1_6144x3240-24.00fps",
+  "note": "",
+  "calibrated_by": "John Towner",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "lens_model": "mitakon speedmaster 35mm t1 with sirui 1.25 anamorphic adapter",
+  "camera_setting": "6K 17:9 1.25x",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.4926136489496353,
+    "camera_matrix": [
+      [
+        6397.528065875067,
+        0.0,
+        2931.789183359304
+      ],
+      [
+        0.0,
+        8148.087676334165,
+        1501.737011047285
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2047710033505534,
+      -2.694215432241187,
+      12.055257972358662,
+      -22.178746070473466
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

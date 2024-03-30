@@ -1,0 +1,69 @@
+{
+  "name": "Canon_G9X M2_G9X M2__1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "Wlodek",
+  "camera_brand": "Canon",
+  "camera_model": "G9X M2",
+  "lens_model": "G9X M2",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.37910943427221583,
+    "camera_matrix": [
+      [
+        1678.5313399655618,
+        0.0,
+        958.0424830235484
+      ],
+      [
+        0.0,
+        1683.064310240586,
+        536.1766232309872
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3156582051904518,
+      0.30260439259793936,
+      -0.6459761389031744,
+      1.1084774465340177
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

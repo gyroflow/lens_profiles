@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z8_50mm 1.2s__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Lei Zhang",
+  "camera_brand": "Nikon",
+  "camera_model": "Z8",
+  "lens_model": "50mm 1.2s",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3643089157503753,
+    "camera_matrix": [
+      [
+        4372.02715691301,
+        0.0,
+        822.5104885380296
+      ],
+      [
+        0.0,
+        4364.772229967067,
+        482.99348736092094
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3803359171762792,
+      -4.606052077533571,
+      141.65352387142647,
+      -1280.6628695491777
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

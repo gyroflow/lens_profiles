@@ -1,0 +1,69 @@
+{
+  "name": "Z CAM_E2S6_Meike 24mm T2.1__C4k_1.90by1_4096x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "nova",
+  "camera_brand": "Z CAM",
+  "camera_model": "E2S6",
+  "lens_model": "Meike 24mm T2.1",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.933941958415458,
+    "camera_matrix": [
+      [
+        4327.551726718271,
+        0.0,
+        2094.645862939178
+      ],
+      [
+        0.0,
+        4335.241985349771,
+        1095.4352780750448
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31322693707201654,
+      0.19391416738946424,
+      -1.8874404804946985,
+      6.811152723921179
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

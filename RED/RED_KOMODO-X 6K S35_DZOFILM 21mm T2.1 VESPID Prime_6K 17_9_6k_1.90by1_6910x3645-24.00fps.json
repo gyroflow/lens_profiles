@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO-X 6K S35_DZOFILM 21mm T2.1 VESPID Prime_6K 17:9_6k_1.90by1_6910x3645-24.00fps",
+  "note": "",
+  "calibrated_by": "Fabio Reichmuth",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "lens_model": "DZOFILM 21mm T2.1 VESPID Prime",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6910,
+    "h": 3645
+  },
+  "orig_dimension": {
+    "w": 6910,
+    "h": 3645
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.771497925511174,
+    "camera_matrix": [
+      [
+        5627.530382007323,
+        0.0,
+        3515.9675873692563
+      ],
+      [
+        0.0,
+        5627.262512227464,
+        1795.7798564497948
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19150057866323547,
+      0.541294594748504,
+      -2.09428341993198,
+      4.078532601928074
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.0",
+  "date": "2023-10-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

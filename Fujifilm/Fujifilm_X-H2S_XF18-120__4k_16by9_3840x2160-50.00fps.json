@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-H2S_XF18-120__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "MAC X",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-H2S",
+  "lens_model": "XF18-120",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 4.89,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3917578334846253,
+    "camera_matrix": [
+      [
+        3069.188522763678,
+        0.0,
+        1934.3746853675573
+      ],
+      [
+        0.0,
+        3074.0833937346783,
+        1089.710646513681
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3283794682243483,
+      0.1769019630294613,
+      -0.01833206231318795,
+      0.2730131109222727
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

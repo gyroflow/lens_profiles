@@ -1,0 +1,69 @@
+{
+  "name": "XTU_Mini1_GK319__5k_16by9_5120x2880-30.00fps",
+  "note": "",
+  "calibrated_by": "YUTU",
+  "camera_brand": "XTU",
+  "camera_model": "Mini1",
+  "lens_model": "GK319",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 5120,
+    "h": 2880
+  },
+  "orig_dimension": {
+    "w": 5120,
+    "h": 2880
+  },
+  "output_dimension": {
+    "w": 5120,
+    "h": 2880
+  },
+  "frame_readout_time": 20.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7309175734428002,
+    "camera_matrix": [
+      [
+        2608.9269757643156,
+        0.0,
+        2577.069722478307
+      ],
+      [
+        0.0,
+        2611.387214194885,
+        1359.7734319935928
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.07287116878114869,
+      0.007057515855302563,
+      -0.010206104549037984,
+      0.0037111231156333815
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K Pro_Sigma 24-70mm f/2.8 DG OS HSM 24mm__C4k_1.90by1_4096x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Andro Koshy",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K Pro",
+  "lens_model": "Sigma 24-70mm f/2.8 DG OS HSM 24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7655595769979926,
+    "camera_matrix": [
+      [
+        6439.540137377677,
+        0.0,
+        2125.805428219845
+      ],
+      [
+        0.0,
+        6446.1972928423365,
+        1016.8275123533994
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19960330948235408,
+      0.5484543213364708,
+      -6.869471743814784,
+      43.33110895380605
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera6kpro-sigma24-70mmf/2.8dgoshsm-24mm-4096x2160@25000",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R5_35 mm RF_17:9_C4k_1.90by1_4096x2160-25.00fps",
+  "note": "4K",
+  "calibrated_by": "luca giorgio barone",
+  "camera_brand": "Canon",
+  "camera_model": "R5",
+  "lens_model": "35 mm RF",
+  "camera_setting": "17:9",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5076747001816089,
+    "camera_matrix": [
+      [
+        4188.745874616465,
+        0.0,
+        2041.3855003441508
+      ],
+      [
+        0.0,
+        4193.516609954637,
+        1081.6355733144092
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.244427017074403,
+      0.34251102289420865,
+      -1.3790313682256354,
+      2.991832801237441
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

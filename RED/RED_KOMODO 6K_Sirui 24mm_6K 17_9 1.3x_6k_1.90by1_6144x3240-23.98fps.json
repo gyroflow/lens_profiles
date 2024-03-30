@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Sirui 24mm_6K 17:9 1.3x_6k_1.90by1_6144x3240-23.98fps",
+  "note": "",
+  "calibrated_by": "Max Hunt",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Sirui 24mm",
+  "camera_setting": "6K 17:9 1.3x",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.9019179600458216,
+    "camera_matrix": [
+      [
+        14040.562043075504,
+        0.0,
+        3103.3625076196276
+      ],
+      [
+        0.0,
+        17574.459987360005,
+        1782.3569498904333
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -2.310841905438716,
+      121.4366707863716,
+      -2227.167441581339,
+      12761.141136251688
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

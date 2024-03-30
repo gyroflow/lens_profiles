@@ -1,0 +1,69 @@
+{
+  "name": "Sony_Xperia 1 iv_24mm__4k_2.34by1_3840x1644-119.63fps",
+  "note": "",
+  "calibrated_by": "和丽江",
+  "camera_brand": "Sony",
+  "camera_model": "Xperia 1 iv",
+  "lens_model": "24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 1644
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 1644
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 1644
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 119.627876,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4463495130919341,
+    "camera_matrix": [
+      [
+        2817.157312035678,
+        0.0,
+        1918.038177457338
+      ],
+      [
+        0.0,
+        2814.104267051644,
+        828.9107066582095
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4165380074679651,
+      -0.07661114395793335,
+      -0.6803316136702148,
+      7.831508891757712
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

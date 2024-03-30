@@ -1,0 +1,69 @@
+{
+  "name": "kinefinity_Terra4k_canonEF24-105(50mm)__C4k_1.90by1_4096x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Javier John",
+  "camera_brand": "kinefinity",
+  "camera_model": "Terra4k",
+  "lens_model": "canonEF24-105(50mm)",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.91981722103562,
+    "camera_matrix": [
+      [
+        7447.260242988734,
+        0.0,
+        2132.6865305365036
+      ],
+      [
+        0.0,
+        7453.513996678934,
+        1119.0120612657895
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.42677991469461646,
+      0.007336250480803501,
+      -9.378265518469377,
+      126.54866873077836
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

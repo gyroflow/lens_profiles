@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_19.90mm__C4k_1.90by1_4096x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "masa",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "19.90mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7744545237417391,
+    "camera_matrix": [
+      [
+        2317.1953355807063,
+        0.0,
+        2052.773802258607
+      ],
+      [
+        0.0,
+        2315.8713931156285,
+        1087.8539146702497
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2659119946230972,
+      0.6140799440633146,
+      -1.3208940187204072,
+      1.407509955071198
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx3-19.90mm-4096x2160@24000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 19.9,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Philips_adr810___1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "calibrated_by": "cuijd",
+  "camera_brand": "Philips",
+  "camera_model": "adr810",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 6,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3686375864425403,
+    "camera_matrix": [
+      [
+        877.0540749124456,
+        0.0,
+        949.7312273957078
+      ],
+      [
+        0.0,
+        877.2063530549848,
+        537.4061533391761
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.06133854363989885,
+      -0.04182298246685608,
+      0.10493751378283672,
+      -0.07081595171419251
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

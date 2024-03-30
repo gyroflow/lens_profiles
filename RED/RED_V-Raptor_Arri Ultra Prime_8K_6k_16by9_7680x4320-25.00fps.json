@@ -1,0 +1,69 @@
+{
+  "name": "RED_V-Raptor_Arri Ultra Prime_8K_6k_16by9_7680x4320-25.00fps",
+  "note": "50mm",
+  "calibrated_by": "Cassidy Lichtenstein",
+  "camera_brand": "RED",
+  "camera_model": "V-Raptor",
+  "lens_model": "Arri Ultra Prime",
+  "camera_setting": "8K",
+  "calib_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8592439109791236,
+    "camera_matrix": [
+      [
+        10934.069358080911,
+        0.0,
+        3711.6326766090174
+      ],
+      [
+        0.0,
+        10933.40507939295,
+        2222.881759998444
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.04354423291875504,
+      -0.7625450022587106,
+      10.246634220657691,
+      -42.68961363434525
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Z CAM_E2M4_思锐35mmT1.2__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "YB",
+  "camera_brand": "Z CAM",
+  "camera_model": "E2M4",
+  "lens_model": "思锐35mmT1.2",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.38283013304878377,
+    "camera_matrix": [
+      [
+        8107.272128380738,
+        0.0,
+        1015.186015974039
+      ],
+      [
+        0.0,
+        8076.589840579735,
+        81.44021175428068
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.560027054012365,
+      -34.16442740143427,
+      3178.113718516531,
+      -76417.15172246804
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

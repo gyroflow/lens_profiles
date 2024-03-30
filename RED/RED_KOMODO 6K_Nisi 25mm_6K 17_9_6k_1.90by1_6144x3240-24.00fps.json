@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Nisi 25mm_6K 17:9_6k_1.90by1_6144x3240-24.00fps",
+  "note": "",
+  "calibrated_by": "Maxwell Ingels",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Nisi 25mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1534329822571814,
+    "camera_matrix": [
+      [
+        5761.257901483475,
+        0.0,
+        3079.96373115689
+      ],
+      [
+        0.0,
+        5764.30325103228,
+        1625.3325398677637
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2242324068546741,
+      1.1416213828239492,
+      -7.038342294068613,
+      16.992871558375885
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 25.0,
+  "crop_factor": 1.41,
+  "global_shutter": true
+}

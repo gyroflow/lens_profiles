@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6700_70.00mm_TAMRON 17-70mm_1080p_16by9_1920x1080-100.00fps",
+  "note": "",
+  "calibrated_by": "岳继元",
+  "camera_brand": "Sony",
+  "camera_model": "a6700",
+  "lens_model": "70.00mm",
+  "camera_setting": "TAMRON 17-70mm",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 100.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.29736013308417686,
+    "camera_matrix": [
+      [
+        5845.9114136919725,
+        0.0,
+        947.8378217086536
+      ],
+      [
+        0.0,
+        5841.292206268254,
+        530.3140806219945
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      1.1034362411864864,
+      27.522960316417272,
+      -2258.067608494179,
+      58832.46073993608
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-6700-70.00mm-1920x1080@100000",
+  "calibrator_version": "1.5.1",
+  "date": "2023-11-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 70.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

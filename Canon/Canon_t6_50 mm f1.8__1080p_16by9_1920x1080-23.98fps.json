@@ -1,0 +1,69 @@
+{
+  "name": "Canon_t6_50 mm f/1.8__1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "andres flores",
+  "camera_brand": "Canon",
+  "camera_model": "t6",
+  "lens_model": "50 mm f/1.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5237814272621001,
+    "camera_matrix": [
+      [
+        4841.063638669369,
+        0.0,
+        879.5939562003167
+      ],
+      [
+        0.0,
+        4864.141944469323,
+        480.38033728913007
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.16624451551066446,
+      1.734909844957758,
+      -131.6223801985388,
+      1808.487192135898
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

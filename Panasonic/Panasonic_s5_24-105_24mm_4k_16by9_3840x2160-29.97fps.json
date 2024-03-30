@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_s5_24-105_24mm_4k_16by9_3840x2160-29.97fps",
+  "note": "24mm",
+  "calibrated_by": "L2004",
+  "camera_brand": "Panasonic",
+  "camera_model": "s5",
+  "lens_model": "24-105",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8218637755794389,
+    "camera_matrix": [
+      [
+        2609.6725457837597,
+        0.0,
+        1934.5415926255728
+      ],
+      [
+        0.0,
+        2617.2199624760947,
+        1031.5542899356917
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.27813323249336513,
+      0.25111064066148103,
+      -0.23617759260249568,
+      0.19317230051768863
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

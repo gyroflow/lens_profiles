@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 2013_Lumix 12-32mm G Vario_800ISO  RAW_1080p_16by9_1952x1112-24.00fps",
+  "note": "",
+  "calibrated_by": "egriffin",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 2013",
+  "lens_model": "Lumix 12-32mm G Vario",
+  "camera_setting": "800ISO  RAW",
+  "calib_dimension": {
+    "w": 1952,
+    "h": 1112
+  },
+  "orig_dimension": {
+    "w": 1952,
+    "h": 1112
+  },
+  "output_dimension": {
+    "w": 1952,
+    "h": 1112
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.34544481684850886,
+    "camera_matrix": [
+      [
+        1932.4894730161673,
+        0.0,
+        985.077138002634
+      ],
+      [
+        0.0,
+        1928.64888970334,
+        541.509894504228
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.03774032208445259,
+      1.108331933640909,
+      -6.821718733293923,
+      15.67497373486705
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

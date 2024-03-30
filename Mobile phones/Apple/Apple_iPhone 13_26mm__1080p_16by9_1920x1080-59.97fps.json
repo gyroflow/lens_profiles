@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone 13_26mm__1080p_16by9_1920x1080-59.97fps",
+  "note": "",
+  "calibrated_by": "Andre Zamith Selvaggio",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 13",
+  "lens_model": "26mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 59.966869,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4556358923178344,
+    "camera_matrix": [
+      [
+        1669.8536852872571,
+        0.0,
+        956.3860869606071
+      ],
+      [
+        0.0,
+        1670.9279550749245,
+        534.2787856884598
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5091868626693639,
+      -0.34866405918327276,
+      -4.7972658734275635,
+      24.263192431739252
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

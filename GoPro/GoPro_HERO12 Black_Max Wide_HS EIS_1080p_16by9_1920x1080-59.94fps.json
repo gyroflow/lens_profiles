@@ -1,0 +1,69 @@
+{
+  "name": "GoPro_HERO12 Black_Max Wide_HS EIS_1080p_16by9_1920x1080-59.94fps",
+  "note": "HS EIS",
+  "calibrated_by": "Nick",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO12 Black",
+  "lens_model": "Max Wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7607764727891952,
+    "camera_matrix": [
+      [
+        857.5791275981727,
+        0.0,
+        1003.760333339064
+      ],
+      [
+        0.0,
+        838.8630903053843,
+        539.8605266994952
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.208873945005692,
+      -0.2620330996041469,
+      0.27719026261922736,
+      -0.10759061714144916
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "gopro-hero12black-maxwide-1920x1080@59940-hseis",
+  "calibrator_version": "1.5.3",
+  "date": "2023-10-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

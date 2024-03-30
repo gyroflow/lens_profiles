@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_12 pro_wide angle_60fps no-stab_4k_16by9_3840x2160-51.55fps",
+  "note": "",
+  "calibrated_by": "R. T.",
+  "camera_brand": "Xiaomi",
+  "camera_model": "12 pro",
+  "lens_model": "wide angle",
+  "camera_setting": "60fps no-stab",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 51.551716,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5551363798638392,
+    "camera_matrix": [
+      [
+        2708.1334008027966,
+        0.0,
+        1916.6206300665433
+      ],
+      [
+        0.0,
+        2706.962667632557,
+        1090.8641444027992
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4269220210592401,
+      -0.33401582505771266,
+      1.2579069572984336,
+      -1.025297194125838
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

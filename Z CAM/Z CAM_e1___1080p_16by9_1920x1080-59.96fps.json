@@ -1,0 +1,69 @@
+{
+  "name": "Z CAM_e1___1080p_16by9_1920x1080-59.96fps",
+  "note": "",
+  "calibrated_by": "顾逸骏",
+  "camera_brand": "Z CAM",
+  "camera_model": "e1",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 59.960026,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6983772627084247,
+    "camera_matrix": [
+      [
+        811.8847380910555,
+        0.0,
+        940.9265840261852
+      ],
+      [
+        0.0,
+        813.2855854452791,
+        537.1354816965215
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.008310624498378457,
+      0.009781490974323204,
+      -0.010507582438502123,
+      0.002718211022755857
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

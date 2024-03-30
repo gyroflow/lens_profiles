@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone Xr_iphone Xr_25frame_4k_16by9_3840x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "JUNE-BOOK",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone Xr",
+  "lens_model": "iphone Xr",
+  "camera_setting": "25frame",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 24.001787,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8237872391778505,
+    "camera_matrix": [
+      [
+        3091.110377101766,
+        0.0,
+        1910.245731242174
+      ],
+      [
+        0.0,
+        3096.5718267437614,
+        1071.7759661011498
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.7072574064612216,
+      -2.3421971332069225,
+      7.241700014831862,
+      -7.354615816424203
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-10-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

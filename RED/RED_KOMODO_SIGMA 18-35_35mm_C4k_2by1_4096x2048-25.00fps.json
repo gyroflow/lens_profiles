@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO_SIGMA 18-35_35mm_C4k_2by1_4096x2048-25.00fps",
+  "note": "",
+  "calibrated_by": "RK",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO",
+  "lens_model": "SIGMA 18-35",
+  "camera_setting": "35mm",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2048
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2048
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2048
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5342109879865738,
+    "camera_matrix": [
+      [
+        5113.271182667003,
+        0.0,
+        2032.8834950083303
+      ],
+      [
+        0.0,
+        5111.183469674547,
+        1017.571874292414
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3695492679212442,
+      1.2803853934135905,
+      -7.882105547720994,
+      25.47870108099155
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

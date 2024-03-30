@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R5_50mm F1.4__C4k_1.90by1_4096x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Tsz Lok Kwan",
+  "camera_brand": "Canon",
+  "camera_model": "R5",
+  "lens_model": "50mm F1.4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6456377433904411,
+    "camera_matrix": [
+      [
+        6067.345850381804,
+        0.0,
+        2085.807106666415
+      ],
+      [
+        0.0,
+        6070.188870365161,
+        1055.1055788694168
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.14367454888837525,
+      0.3969261610638317,
+      -5.164100906900968,
+      24.74703227248042
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

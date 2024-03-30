@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_NX2000_NX 20-50_35mm-f8-iso800_1080p_16by9_1920x1080-29.97fps",
+  "note": "35mm",
+  "calibrated_by": "Reza",
+  "camera_brand": "Samsung",
+  "camera_model": "NX2000",
+  "lens_model": "NX 20-50",
+  "camera_setting": "35mm-f8-iso800",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.42407833008011625,
+    "camera_matrix": [
+      [
+        2813.0824622220516,
+        0.0,
+        947.4911048399542
+      ],
+      [
+        0.0,
+        2822.231967067693,
+        500.5232709155581
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.36599430989667,
+      -1.8771581054075972,
+      21.866626781655235,
+      -78.12809455319665
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

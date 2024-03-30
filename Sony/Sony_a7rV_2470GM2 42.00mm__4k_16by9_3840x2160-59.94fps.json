@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7rV_2470GM2 42.00mm__4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "余威",
+  "camera_brand": "Sony",
+  "camera_model": "a7rV",
+  "lens_model": "2470GM2 42.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5687779289949045,
+    "camera_matrix": [
+      [
+        5907.093013370296,
+        0.0,
+        1915.217944414784
+      ],
+      [
+        0.0,
+        5901.790513808318,
+        1065.631378026979
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.27578212237682304,
+      2.1900969876173466,
+      -26.858113740691937,
+      117.07289422465522
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7rm5-42.00mm-3840x2160@59940",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 42.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

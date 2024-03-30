@@ -1,0 +1,69 @@
+{
+  "name": "Canon_200D_EF-S 24mm 2.8 STM_23.976_1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Josva Meinhard Á Kósini",
+  "camera_brand": "Canon",
+  "camera_model": "200D",
+  "lens_model": "EF-S 24mm 2.8 STM",
+  "camera_setting": "23.976",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4772805179558991,
+    "camera_matrix": [
+      [
+        2053.706320730481,
+        0.0,
+        1023.0015572782733
+      ],
+      [
+        0.0,
+        2051.849068977204,
+        503.2647952387141
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.23581271437260465,
+      -0.06350999994744837,
+      0.9728988200794634,
+      -0.943591050391929
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": 1.6,
+  "global_shutter": false
+}

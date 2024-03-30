@@ -1,0 +1,69 @@
+{
+  "name": "Lenovo_Mirage VR405_fisheye_maxRes_2k_1by1_2160x2160-30.00fps",
+  "note": "quadratic",
+  "calibrated_by": "Alexander Dräbenstedt",
+  "camera_brand": "Lenovo",
+  "camera_model": "Mirage VR405",
+  "lens_model": "fisheye",
+  "camera_setting": "maxRes",
+  "calib_dimension": {
+    "w": 2160,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 2160,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 2160,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 7,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0741593079100609,
+    "camera_matrix": [
+      [
+        649.0373084712415,
+        0.0,
+        1085.7902150453865
+      ],
+      [
+        0.0,
+        649.4443326399008,
+        1087.0375259526872
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.0513715169925657,
+      0.13854193805610113,
+      -0.21522705062627528,
+      0.0945436176823302
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

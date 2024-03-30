@@ -1,0 +1,69 @@
+{
+  "name": "POCO_x3 Pro_IMX582__1080p_16by9_1920x1080-60.08fps",
+  "note": "",
+  "calibrated_by": "Sirjan Chhetri",
+  "camera_brand": "POCO",
+  "camera_model": "x3 Pro",
+  "lens_model": "IMX582",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 60.083164,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5006709285044888,
+    "camera_matrix": [
+      [
+        1819.0628684466933,
+        0.0,
+        916.6627250671404
+      ],
+      [
+        0.0,
+        1820.174993374928,
+        543.5036697244328
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4839771012898977,
+      -2.455808221638274,
+      23.62535354811111,
+      -59.80980659022685
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

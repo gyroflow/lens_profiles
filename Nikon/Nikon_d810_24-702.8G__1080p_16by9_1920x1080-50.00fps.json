@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_d810_24-70/2.8G__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Administrator-gql",
+  "camera_brand": "Nikon",
+  "camera_model": "d810",
+  "lens_model": "24-70/2.8G",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4543841406746648,
+    "camera_matrix": [
+      [
+        1302.0096662136834,
+        0.0,
+        997.8642165919472
+      ],
+      [
+        0.0,
+        1304.3974468801362,
+        500.7285629476364
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.316542396554569,
+      0.32891885312586583,
+      -0.5930822595994172,
+      0.9445225945222396
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-10-21",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

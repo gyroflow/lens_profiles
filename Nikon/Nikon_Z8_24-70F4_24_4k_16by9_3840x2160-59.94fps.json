@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z8_24-70/F4_24端_4k_16by9_3840x2160-59.94fps",
+  "note": "24端",
+  "calibrated_by": "wjr",
+  "camera_brand": "Nikon",
+  "camera_model": "Z8",
+  "lens_model": "24-70/F4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8725011820767387,
+    "camera_matrix": [
+      [
+        3320.490425748619,
+        0.0,
+        1755.7194166510287
+      ],
+      [
+        0.0,
+        3314.7203745933452,
+        1102.5002058219934
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30948523992503824,
+      0.3672246891894756,
+      -1.4571939110790273,
+      2.5263812395712177
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

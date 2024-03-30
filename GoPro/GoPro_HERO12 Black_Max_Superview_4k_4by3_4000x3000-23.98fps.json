@@ -1,0 +1,69 @@
+{
+  "name": "GoPro_HERO12 Black_Max_Superview_4k_4by3_4000x3000-23.98fps",
+  "note": "NO-EIS",
+  "calibrated_by": "Nicholas Federoff",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO12 Black",
+  "lens_model": "Max",
+  "camera_setting": "Superview",
+  "calib_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "orig_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "output_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2574811698225248,
+    "camera_matrix": [
+      [
+        1405.6324241830823,
+        0.0,
+        1999.694505176878
+      ],
+      [
+        0.0,
+        1407.178668317966,
+        1494.589697590448
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.14056289258997645,
+      -0.10320400861002443,
+      0.06107494469909745,
+      -0.013704090606533052
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "gopro-hero12black-max-4000x3000@23976-no-eis",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

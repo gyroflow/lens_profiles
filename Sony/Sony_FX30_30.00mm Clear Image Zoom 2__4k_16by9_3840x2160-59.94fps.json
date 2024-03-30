@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "Anthony Disbrow",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "FX30",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-02-24",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.6445301324699954,
+    "camera_matrix": [
+      [
+        8782.159440273492,
+        0.0,
+        1923.0851670005568
+      ],
+      [
+        0.0,
+        8763.621593331061,
+        1103.7131615867956
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6449246410204248,
+      -19.935802331759408,
+      615.3199038419255,
+      -6375.637802325599
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 30.0,
+  "fps": 59.94006,
+  "frame_readout_time": 15.95796034925592,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilme-fx30-30.00mm-3840x2160@59940",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "30.00mm Clear Image Zoom 2",
+  "name": "Sony_FX30_30.00mm Clear Image Zoom 2__4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_gh5_12-40 2.8 pro_FHD 120FPS_1080p_16by9_1920x1080-24.00fps",
+  "note": "100M 12mm",
+  "calibrated_by": "Alex",
+  "camera_brand": "Panasonic",
+  "camera_model": "gh5",
+  "lens_model": "12-40 2.8 pro",
+  "camera_setting": "FHD 120FPS",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 13.9,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.522664329853112,
+    "camera_matrix": [
+      [
+        1304.5332882907956,
+        0.0,
+        956.6488329802462
+      ],
+      [
+        0.0,
+        1306.5119852360922,
+        531.3152568946102
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3221168055236937,
+      0.09172054818131808,
+      0.46596986921331274,
+      -1.0407480688227462
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-10-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7III_GMaster FE 2.8/24-70_100M_4k_16by9_3840x2160-25.00fps",
+  "note": "24mm",
+  "calibrated_by": "attimo.h265",
+  "camera_brand": "Sony",
+  "camera_model": "a7III",
+  "lens_model": "GMaster FE 2.8/24-70",
+  "camera_setting": "100M",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.805226914727017,
+    "camera_matrix": [
+      [
+        2649.203449099866,
+        0.0,
+        1905.204442570797
+      ],
+      [
+        0.0,
+        2649.0367159230186,
+        1067.1960042313406
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.15140314987669376,
+      0.3585760672189842,
+      -0.41260231145452336,
+      0.4593528827508602
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

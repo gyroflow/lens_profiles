@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS R_Canon 24-70mm 2.8f__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Trenton Farris",
+  "camera_brand": "Canon",
+  "camera_model": "EOS R",
+  "lens_model": "Canon 24-70mm 2.8f",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3732083815750747,
+    "camera_matrix": [
+      [
+        2581.57925948525,
+        0.0,
+        974.1886774357414
+      ],
+      [
+        0.0,
+        2595.736820919871,
+        575.4343431534201
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.42563330122294063,
+      -1.0478951415377995,
+      16.00195145891803,
+      -57.79934544308697
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

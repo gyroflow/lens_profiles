@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "calibrated_by": "guang",
+  "calibrator_version": "1.5.2",
+  "camera_brand": "XTU",
+  "camera_model": "S6 CAM",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-02-06",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.27113156973621194,
+    "camera_matrix": [
+      [
+        1053.6839216690396,
+        0.0,
+        995.0697261191422
+      ],
+      [
+        0.0,
+        1054.5353895316366,
+        489.82804922025224
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.054479569403413315,
+      0.0393497646795996,
+      -0.058869863136174226,
+      0.03182818498389337
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 30.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-xtu-s6cam-xtu/xtu_maxpro_no-ldc_1080p30_1080p_16by9_1920x1080-29.97fps-wide-1920x1080@30000",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "XTU/XTU_MaxPro_NO-LDC_1080P30_1080p_16by9_1920x1080-29.97fps wide",
+  "name": "XTU_S6 CAM_XTU/XTU_MaxPro_NO-LDC_1080P30_1080p_16by9_1920x1080-29.97fps wide__1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "num_images": 12,
+  "official": false,
+  "orig_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "output_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "sync_settings": null
+}

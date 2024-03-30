@@ -1,0 +1,69 @@
+{
+  "name": "Canon_700D_EFS-18-135__1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "小小",
+  "camera_brand": "Canon",
+  "camera_model": "700D",
+  "lens_model": "EFS-18-135",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.46283677307537774,
+    "camera_matrix": [
+      [
+        1435.0605994881205,
+        0.0,
+        977.3714761871042
+      ],
+      [
+        0.0,
+        1425.5006217119446,
+        486.2409522311896
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.13793137696224,
+      0.3384722979383174,
+      -0.8221989561874995,
+      1.2740220896075969
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

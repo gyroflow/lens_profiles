@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_XS-10_15-45mm_F-Log_C4k_1.90by1_4096x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "AlexPC",
+  "camera_brand": "Fujifilm",
+  "camera_model": "XS-10",
+  "lens_model": "15-45mm",
+  "camera_setting": "F-Log",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.167940577899521,
+    "camera_matrix": [
+      [
+        6150.280796244926,
+        0.0,
+        2057.547795142624
+      ],
+      [
+        0.0,
+        6116.954741986791,
+        509.9878151593963
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.26215640053379974,
+      1.1407358618132084,
+      -12.35170165791104,
+      57.20580669225894
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS m_C口35mm__2k_16by9_2192x1234-25.00fps",
+  "note": "",
+  "calibrated_by": "qh sun",
+  "camera_brand": "Canon",
+  "camera_model": "EOS m",
+  "lens_model": "C口35mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2192,
+    "h": 1234
+  },
+  "orig_dimension": {
+    "w": 2192,
+    "h": 1234
+  },
+  "output_dimension": {
+    "w": 2192,
+    "h": 1234
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.627771719387653,
+    "camera_matrix": [
+      [
+        2792.0656569178145,
+        0.0,
+        980.7130652223512
+      ],
+      [
+        0.0,
+        2796.7785307843988,
+        668.1643620146174
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.02264693309509076,
+      3.8335363493403714,
+      -30.572141102882696,
+      92.3796693828791
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

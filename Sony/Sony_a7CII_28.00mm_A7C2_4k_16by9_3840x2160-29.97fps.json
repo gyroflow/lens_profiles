@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7CII_28.00mm_A7C2_4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Mr Two",
+  "camera_brand": "Sony",
+  "camera_model": "a7CII",
+  "lens_model": "28.00mm",
+  "camera_setting": "A7C2",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6135021116502642,
+    "camera_matrix": [
+      [
+        3013.140010184986,
+        0.0,
+        1921.476241651764
+      ],
+      [
+        0.0,
+        3014.830021567212,
+        1056.5695378436692
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1177534245706692,
+      0.34140684931147,
+      -0.857979220074328,
+      1.771184306060907
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7cm2-28.00mm-3840x2160@29970",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 28.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

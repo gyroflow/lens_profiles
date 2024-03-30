@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 3072,
+    "w": 4096
+  },
+  "calibrated_by": "Administrator",
+  "calibrator_version": "1.5.2",
+  "camera_brand": "Xiaomi",
+  "camera_model": "14u",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-03-02",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.9038323023345184,
+    "camera_matrix": [
+      [
+        2881.6555789151507,
+        0.0,
+        2027.2884388153575
+      ],
+      [
+        0.0,
+        2880.528926506201,
+        1522.0429460165014
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5693822959799599,
+      -2.0313400333986675,
+      7.551552703557315,
+      -8.740130049498951
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 27.142857,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Xiaomi_14u___C4k_4by3_4096x3072-27.14fps",
+  "note": "",
+  "num_images": 14,
+  "official": false,
+  "orig_dimension": {
+    "h": 3072,
+    "w": 4096
+  },
+  "output_dimension": {
+    "h": 3072,
+    "w": 4096
+  },
+  "sync_settings": null
+}

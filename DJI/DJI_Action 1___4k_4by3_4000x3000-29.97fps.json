@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 3000,
+    "w": 4000
+  },
+  "calibrated_by": "huang rui",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "DJI",
+  "camera_model": "Action 1",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-01-21",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 1.0122275077573686,
+    "camera_matrix": [
+      [
+        1710.838475827706,
+        0.0,
+        2035.0656534911168
+      ],
+      [
+        0.0,
+        1710.879125041292,
+        1510.9443874034075
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20434951477724023,
+      0.04866081111626158,
+      -0.12905317296170404,
+      0.0368702064627309
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 29.97003,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "DJI_Action 1___4k_4by3_4000x3000-29.97fps",
+  "note": "",
+  "num_images": 7,
+  "official": false,
+  "orig_dimension": {
+    "h": 3000,
+    "w": 4000
+  },
+  "output_dimension": {
+    "h": 3000,
+    "w": 4000
+  },
+  "sync_settings": null
+}

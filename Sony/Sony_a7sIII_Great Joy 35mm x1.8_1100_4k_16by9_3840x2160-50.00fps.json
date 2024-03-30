@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7sIII_Great Joy 35mm x1.8_1/100_4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "rapha",
+  "camera_brand": "Sony",
+  "camera_model": "a7sIII",
+  "lens_model": "Great Joy 35mm x1.8",
+  "camera_setting": "1/100",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 6912,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.8,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.588071533444789,
+    "camera_matrix": [
+      [
+        2141.1522134160923,
+        0.0,
+        1988.4159734677403
+      ],
+      [
+        0.0,
+        3873.6763612773825,
+        1063.455126857429
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33519208423663793,
+      -0.5025126864135824,
+      2.0580301257059737,
+      -1.7046268363204662
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

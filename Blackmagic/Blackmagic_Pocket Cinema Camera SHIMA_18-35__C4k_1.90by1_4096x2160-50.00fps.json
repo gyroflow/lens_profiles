@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera SHIMA_18-35__C4k_1.90by1_4096x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera SHIMA",
+  "lens_model": "18-35",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 4.89,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7562759432811447,
+    "camera_matrix": [
+      [
+        6552.786985344245,
+        0.0,
+        2057.2109023963912
+      ],
+      [
+        0.0,
+        6530.105133620633,
+        1176.7849836583025
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4414332035392584,
+      1.8865513812117487,
+      -44.68912509383296,
+      416.5622184949431
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

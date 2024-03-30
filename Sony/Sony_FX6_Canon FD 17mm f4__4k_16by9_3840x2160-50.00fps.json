@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_Canon FD 17mm f/4__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Brieuc LE MERCIER",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "Canon FD 17mm f/4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9310955876593676,
+    "camera_matrix": [
+      [
+        1888.80484647283,
+        0.0,
+        1926.547877175275
+      ],
+      [
+        0.0,
+        1888.141610208207,
+        1078.6733084274192
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.22265681007542795,
+      0.25292960776156026,
+      -0.22481939981603713,
+      0.30409898840251903
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_12 pro_Ultra wide_60fps_4k_16by9_3840x2160-51.55fps",
+  "note": "",
+  "calibrated_by": "U0 A5",
+  "camera_brand": "Xiaomi",
+  "camera_model": "12 pro",
+  "lens_model": "Ultra wide",
+  "camera_setting": "60fps",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 51.551716,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5653953422065379,
+    "camera_matrix": [
+      [
+        2612.9379346080623,
+        0.0,
+        1899.851039355185
+      ],
+      [
+        0.0,
+        2604.728417660781,
+        1096.4900435454913
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3804549763869218,
+      -0.15140350311137268,
+      0.7780279876454828,
+      -0.5896786474341263
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "calibrated_by": "Eric Lor",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 11 pro",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.6568995732011919,
+    "camera_matrix": [
+      [
+        1788.196655705776,
+        0.0,
+        964.8185928828364
+      ],
+      [
+        0.0,
+        1787.809538652686,
+        528.7898272428155
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5586464958409871,
+      0.13947250776287,
+      -11.078888727867184,
+      43.397904893340375
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 29.97349,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "med lensHD 1080",
+  "name": "Apple_iPhone 11 pro_med lensHD 1080__1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "num_images": 14,
+  "official": false,
+  "orig_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "output_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "sync_settings": null
+}

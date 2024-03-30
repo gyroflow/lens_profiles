@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_Redmi Note 4X Samsung S5K3L8___1080p_16by9_1920x1080-23.78fps",
+  "note": "",
+  "calibrated_by": "U0 A127",
+  "camera_brand": "Xiaomi",
+  "camera_model": "Redmi Note 4X Samsung S5K3L8",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.783001,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.483431823315672,
+    "camera_matrix": [
+      [
+        1505.543985023416,
+        0.0,
+        969.545413639417
+      ],
+      [
+        0.0,
+        1503.534960115751,
+        552.056820311084
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4277750701485284,
+      0.4616490905909425,
+      -2.1254426864454694,
+      2.068820615184792
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

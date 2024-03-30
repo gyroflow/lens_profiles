@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone 13 mini___1080p_16by9_1920x1080-59.97fps",
+  "note": "",
+  "calibrated_by": "loris vassella",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 13 mini",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.967232,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2820657482713315,
+    "camera_matrix": [
+      [
+        1647.422135474129,
+        0.0,
+        958.7300782664752
+      ],
+      [
+        0.0,
+        1647.225775552781,
+        540.0564536376316
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5401357113320775,
+      -0.6027996006650979,
+      -3.958608725246053,
+      22.334317000936505
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

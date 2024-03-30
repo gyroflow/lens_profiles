@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_D5100_Tamron Aspherical_f3.5 ISO AUTO_1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "Dell",
+  "camera_brand": "Nikon",
+  "camera_model": "D5100",
+  "lens_model": "Tamron Aspherical",
+  "camera_setting": "f3.5 ISO AUTO",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.40173711492896225,
+    "camera_matrix": [
+      [
+        1488.5924799667623,
+        0.0,
+        1008.977263198528
+      ],
+      [
+        0.0,
+        1483.2616430830592,
+        527.5917763890054
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.16399577027564316,
+      -0.013994143426086377,
+      0.4839776953946948,
+      -0.3445029010716235
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

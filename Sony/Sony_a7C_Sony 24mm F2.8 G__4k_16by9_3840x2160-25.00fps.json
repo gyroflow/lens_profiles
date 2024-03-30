@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_Sony 24mm F/2.8 G__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Konstantin Dziuin",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "Sony 24mm F/2.8 G",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7040025362673781,
+    "camera_matrix": [
+      [
+        2480.4750399836607,
+        0.0,
+        1927.3005460552445
+      ],
+      [
+        0.0,
+        2482.584570962269,
+        1047.4503344310144
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.313229045171938,
+      0.17586632074750824,
+      -0.22026146429925353,
+      0.6347695660836323
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-c62d57d1-3840x2160@25000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

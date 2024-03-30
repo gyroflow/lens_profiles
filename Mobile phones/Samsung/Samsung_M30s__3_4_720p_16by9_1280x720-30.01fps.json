@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_M30s__3:4_720p_16by9_1280x720-30.01fps",
+  "note": "25.9mm focal length",
+  "calibrated_by": "SAI",
+  "camera_brand": "Samsung",
+  "camera_model": "M30s",
+  "lens_model": "",
+  "camera_setting": "3:4",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 30.007528,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.271227770835457,
+    "camera_matrix": [
+      [
+        1035.4760366040673,
+        0.0,
+        656.9822885838929
+      ],
+      [
+        0.0,
+        1036.3690068083113,
+        359.084476940685
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4910656791477989,
+      -1.2816586465907882,
+      7.486173487458425,
+      -8.34111420115979
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

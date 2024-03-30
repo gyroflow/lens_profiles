@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z8_NIKKOR Z 14-24mm f/2.8 S__4k_16by9_3840x2160-119.88fps",
+  "note": "",
+  "calibrated_by": "christopheryoung",
+  "camera_brand": "Nikon",
+  "camera_model": "Z8",
+  "lens_model": "NIKKOR Z 14-24mm f/2.8 S",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 119.880119,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7872371999533173,
+    "camera_matrix": [
+      [
+        1555.7164196484364,
+        0.0,
+        1917.173318993404
+      ],
+      [
+        0.0,
+        1556.0947116005393,
+        1081.0449571383983
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.29806934155064385,
+      0.12885860707428773,
+      0.018426403923623092,
+      0.03770685816179328
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 14.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

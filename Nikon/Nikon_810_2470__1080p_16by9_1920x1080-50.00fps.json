@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_810_2470__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Administrator-gql",
+  "camera_brand": "Nikon",
+  "camera_model": "810",
+  "lens_model": "2470",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": 50.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5926452597688987,
+    "camera_matrix": [
+      [
+        9971.45374712182,
+        0.0,
+        1087.4861709555837
+      ],
+      [
+        0.0,
+        10141.521293146374,
+        559.8094273006328
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      1.6133123370196618,
+      -236.51776012150813,
+      68818.54681356288,
+      -4286930.461718995
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-10-21",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

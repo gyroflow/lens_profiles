@@ -1,0 +1,69 @@
+{
+  "name": "POCO_F1 wide 2to1___2k_2by1_2016x1008-25.02fps",
+  "note": "",
+  "calibrated_by": "javi",
+  "camera_brand": "POCO",
+  "camera_model": "F1 wide 2to1",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2016,
+    "h": 1008
+  },
+  "orig_dimension": {
+    "w": 2016,
+    "h": 1008
+  },
+  "output_dimension": {
+    "w": 2016,
+    "h": 1008
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 25.017822,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.525305601107695,
+    "camera_matrix": [
+      [
+        1441.0352698604795,
+        0.0,
+        1014.1057936560682
+      ],
+      [
+        0.0,
+        1440.6373092015515,
+        512.6927481386027
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5722928174537074,
+      -1.3197132317240796,
+      3.4886751053358935,
+      -2.817078577447849
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

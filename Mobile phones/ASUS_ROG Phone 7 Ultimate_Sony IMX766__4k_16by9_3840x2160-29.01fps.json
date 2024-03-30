@@ -1,0 +1,69 @@
+{
+  "name": "ASUS_ROG Phone 7 Ultimate_Sony IMX766__4k_16by9_3840x2160-29.01fps",
+  "note": "",
+  "calibrated_by": "Tom M",
+  "camera_brand": "ASUS",
+  "camera_model": "ROG Phone 7 Ultimate",
+  "lens_model": "Sony IMX766",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.012003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8623637702709711,
+    "camera_matrix": [
+      [
+        1982.6810728730804,
+        0.0,
+        1936.56097411321
+      ],
+      [
+        0.0,
+        1981.7955039660644,
+        1047.1193497561194
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2037421999369519,
+      0.205435734310184,
+      0.32462894345041177,
+      -0.42114359130551854
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Z CAM_S6_Canon 35 F/2_1/60_5k_4by3_5552x4164-24.00fps",
+  "note": "180 Degree Shutter, EF Mount",
+  "calibrated_by": "Dan Gill",
+  "camera_brand": "Z CAM",
+  "camera_model": "S6",
+  "lens_model": "Canon 35 F/2",
+  "camera_setting": "1/60",
+  "calib_dimension": {
+    "w": 5552,
+    "h": 4164
+  },
+  "orig_dimension": {
+    "w": 5552,
+    "h": 4164
+  },
+  "output_dimension": {
+    "w": 5552,
+    "h": 4164
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.586324487419841,
+    "camera_matrix": [
+      [
+        -2046.0106812793688,
+        -0.0,
+        3248.276133482103
+      ],
+      [
+        0.0,
+        -2043.3342496449116,
+        2260.0991219684465
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3205721614032765,
+      0.17093733661184995,
+      -0.032526285738398615,
+      0.08225964959528248
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

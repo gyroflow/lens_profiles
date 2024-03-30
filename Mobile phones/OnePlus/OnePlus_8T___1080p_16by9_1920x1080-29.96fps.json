@@ -1,0 +1,69 @@
+{
+  "name": "OnePlus_8T___1080p_16by9_1920x1080-29.96fps",
+  "note": "",
+  "calibrated_by": "U0 A1041",
+  "camera_brand": "OnePlus",
+  "camera_model": "8T",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.963356,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.36423700653403207,
+    "camera_matrix": [
+      [
+        1677.9723478835049,
+        0.0,
+        952.0546354945022
+      ],
+      [
+        0.0,
+        1675.5447931505514,
+        525.3428152300206
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5394239885632766,
+      -0.8824344734937939,
+      0.32224160724017875,
+      5.813654902168649
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

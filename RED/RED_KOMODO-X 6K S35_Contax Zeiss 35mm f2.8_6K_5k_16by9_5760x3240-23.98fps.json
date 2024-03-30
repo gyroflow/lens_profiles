@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO-X 6K S35_Contax Zeiss 35mm f2.8_6K_5k_16by9_5760x3240-23.98fps",
+  "note": "23.975fps",
+  "calibrated_by": "Raymond Francisco",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "lens_model": "Contax Zeiss 35mm f2.8",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0618797247928475,
+    "camera_matrix": [
+      [
+        8157.404089348512,
+        0.0,
+        2884.5920981618683
+      ],
+      [
+        0.0,
+        8157.987848718562,
+        1564.7675452054757
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2637243922173484,
+      -0.4583989255249325,
+      4.585962976933741,
+      -8.091409769234502
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

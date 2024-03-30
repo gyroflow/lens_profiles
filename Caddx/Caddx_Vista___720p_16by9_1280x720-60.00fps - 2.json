@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 720,
+    "w": 1280
+  },
+  "calibrated_by": "比奇堡派先生派fpv",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Caddx",
+  "camera_model": "Vista",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2023-12-16",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.4104465370483755,
+    "camera_matrix": [
+      [
+        607.9840004975476,
+        0.0,
+        648.8222574207145
+      ],
+      [
+        0.0,
+        607.8384798164176,
+        348.425538439477
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.09947727908904912,
+      0.17208658172805685,
+      -0.2462689433027127,
+      0.13145853652877085
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 60.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Caddx_Vista___720p_16by9_1280x720-60.00fps",
+  "note": "",
+  "num_images": 7,
+  "official": false,
+  "orig_dimension": {
+    "h": 720,
+    "w": 1280
+  },
+  "output_dimension": {
+    "h": 720,
+    "w": 1280
+  },
+  "sync_settings": null
+}

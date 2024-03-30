@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "calibrated_by": "Meik Dangmann",
+  "calibrator_version": "1.5.3",
+  "camera_brand": "Happymodel",
+  "camera_model": "Mobula7 HD",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2023-10-28",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.3004756292242119,
+    "camera_matrix": [
+      [
+        785.2786173570094,
+        0.0,
+        945.3537489095291
+      ],
+      [
+        0.0,
+        785.0975095485563,
+        515.426961468892
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.0301052622372925,
+      0.0513021327331713,
+      -0.02315742010927999,
+      0.0014567001981514334
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 60.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Happymodel_Mobula7 HD___1080p_16by9_1920x1080-60.00fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "output_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "sync_settings": null
+}

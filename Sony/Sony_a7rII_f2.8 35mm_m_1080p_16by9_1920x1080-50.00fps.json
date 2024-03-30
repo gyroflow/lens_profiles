@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7rII_f2.8 35mm_m_1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "OLDYE",
+  "camera_brand": "Sony",
+  "camera_model": "a7rII",
+  "lens_model": "f2.8 35mm",
+  "camera_setting": "m",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7527631339076141,
+    "camera_matrix": [
+      [
+        1885.8479954828597,
+        0.0,
+        966.2149187273642
+      ],
+      [
+        0.0,
+        1889.7144343215705,
+        511.0042758268274
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.40773103713488934,
+      0.1851100745165411,
+      -1.1663025547430077,
+      1.6540655744177042
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

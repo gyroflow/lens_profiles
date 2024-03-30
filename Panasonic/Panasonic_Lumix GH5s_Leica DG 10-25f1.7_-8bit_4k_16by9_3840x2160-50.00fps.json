@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_Lumix GH5s_Leica DG 10-25f1.7_-8bit_4k_16by9_3840x2160-50.00fps",
+  "note": "25mm",
+  "calibrated_by": "Rongthep22",
+  "camera_brand": "Panasonic",
+  "camera_model": "Lumix GH5s",
+  "lens_model": "Leica DG 10-25f1.7",
+  "camera_setting": "-8bit",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6259903865110532,
+    "camera_matrix": [
+      [
+        4943.701812207974,
+        0.0,
+        1895.9565857070352
+      ],
+      [
+        0.0,
+        4951.569189338623,
+        1116.3872447060676
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4016042931423926,
+      -1.444076043227977,
+      14.4000192425319,
+      -41.00206246040073
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

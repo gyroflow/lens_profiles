@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7CII_25.40mm__1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Jenit Bilakhia",
+  "camera_brand": "Sony",
+  "camera_model": "a7CII",
+  "lens_model": "25.40mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3522300741105029,
+    "camera_matrix": [
+      [
+        1500.2329980125726,
+        0.0,
+        963.1934353367128
+      ],
+      [
+        0.0,
+        1487.1744547205412,
+        540.4136410950086
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33181455621458783,
+      0.04963214000481576,
+      1.075911878750193,
+      -2.045245262036038
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7cm2-25.40mm-1920x1080@23976",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 25.4,
+  "crop_factor": null,
+  "global_shutter": false
+}

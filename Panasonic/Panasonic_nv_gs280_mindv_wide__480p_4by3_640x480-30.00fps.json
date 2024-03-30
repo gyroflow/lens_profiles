@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_nv_gs280_mindv_wide__480p_4by3_640x480-30.00fps",
+  "note": "",
+  "calibrated_by": "Area 39",
+  "camera_brand": "Panasonic",
+  "camera_model": "nv_gs280_mindv",
+  "lens_model": "wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 640,
+    "h": 480
+  },
+  "orig_dimension": {
+    "w": 640,
+    "h": 480
+  },
+  "output_dimension": {
+    "w": 640,
+    "h": 480
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.21702292117909203,
+    "camera_matrix": [
+      [
+        664.6918493490573,
+        0.0,
+        329.5428775040507
+      ],
+      [
+        0.0,
+        661.5880814971554,
+        258.4225360878171
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1221383949823408,
+      0.12943156122788066,
+      -0.0345971502080324,
+      0.2722849057910923
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

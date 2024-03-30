@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7III_16-35mm f/2.8__1080p_16by9_1920x1080-100.00fps",
+  "note": "",
+  "calibrated_by": "Chris Colwell",
+  "camera_brand": "Sony",
+  "camera_model": "a7III",
+  "lens_model": "16-35mm f/2.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 100.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.34833591600636166,
+    "camera_matrix": [
+      [
+        1155.837914690762,
+        0.0,
+        962.524528921983
+      ],
+      [
+        0.0,
+        1155.694617443029,
+        546.0086985922939
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.27954958510150824,
+      0.1410743793966477,
+      0.13955800470040008,
+      0.002572279336015818
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-12-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

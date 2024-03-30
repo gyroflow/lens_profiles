@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_TAMRON 70-180 F2.8__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "U0 A217",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "TAMRON 70-180 F2.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.322677351324738,
+    "camera_matrix": [
+      [
+        18422.37719227326,
+        0.0,
+        1257.4429824260974
+      ],
+      [
+        0.0,
+        18730.28776958041,
+        -819.7080233581748
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3222739773985407,
+      42.03690276522708,
+      -2854.5644081296396,
+      98626.02430886537
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-3b4d8d1c-1920x1080@50000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

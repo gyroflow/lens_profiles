@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_XH2s_16-55 2.8_23.97_C4k_1.90by1_4096x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "Ravi Hosseini",
+  "camera_brand": "Fujifilm",
+  "camera_model": "XH2s",
+  "lens_model": "16-55 2.8",
+  "camera_setting": "23.97",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6797083840271113,
+    "camera_matrix": [
+      [
+        6263.888996279489,
+        0.0,
+        2096.6528945816685
+      ],
+      [
+        0.0,
+        6265.97468180446,
+        897.5176646275136
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1717779963739429,
+      3.789037015646505,
+      -45.76256814654403,
+      215.6105636795288
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

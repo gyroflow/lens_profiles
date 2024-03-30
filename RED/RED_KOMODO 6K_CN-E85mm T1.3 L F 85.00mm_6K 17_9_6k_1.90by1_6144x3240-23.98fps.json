@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_CN-E85mm T1.3 L F 85.00mm_6K 17:9_6k_1.90by1_6144x3240-23.98fps",
+  "note": "",
+  "calibrated_by": "Bryan Redding",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "CN-E85mm T1.3 L F 85.00mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6565490751917907,
+    "camera_matrix": [
+      [
+        13800.366629403974,
+        0.0,
+        3079.7846135615864
+      ],
+      [
+        0.0,
+        13829.73717421426,
+        1656.579311689604
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.035178365022042996,
+      7.090410100456667,
+      -175.3982445869824,
+      2259.3758431490537
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-komodo6k-cn-e85mmt1.3lf-85.00mm-6144x3240@0",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 85.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

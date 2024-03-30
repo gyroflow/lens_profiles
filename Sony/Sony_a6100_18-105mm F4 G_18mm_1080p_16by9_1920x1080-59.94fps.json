@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6100_18-105mm F4 G_18mm_1080p_16by9_1920x1080-59.94fps",
+  "note": "18mm",
+  "calibrated_by": "Hilman Taqy M.",
+  "camera_brand": "Sony",
+  "camera_model": "a6100",
+  "lens_model": "18-105mm F4 G",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5201357608228964,
+    "camera_matrix": [
+      [
+        1379.8791616293652,
+        0.0,
+        961.0903126149548
+      ],
+      [
+        0.0,
+        1379.9313760436055,
+        527.9332271576038
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.35540779478491885,
+      -0.12631228723199042,
+      0.9882161216075545,
+      -1.440407612082698
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

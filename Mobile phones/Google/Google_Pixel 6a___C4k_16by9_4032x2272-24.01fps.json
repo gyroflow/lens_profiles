@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2272,
+    "w": 4032
+  },
+  "calibrated_by": "xiao",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Google",
+  "camera_model": "Pixel 6a",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2023-12-09",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 1.020331018008904,
+    "camera_matrix": [
+      [
+        3118.519942823154,
+        0.0,
+        2011.7585186507592
+      ],
+      [
+        0.0,
+        3121.590767961867,
+        1093.6355143384935
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5848430791033881,
+      -1.5714148253051403,
+      5.311826283384278,
+      -6.020368879233349
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 24.007523,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Google_Pixel 6a___C4k_16by9_4032x2272-24.01fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2272,
+    "w": 4032
+  },
+  "output_dimension": {
+    "h": 2272,
+    "w": 4032
+  },
+  "sync_settings": null
+}

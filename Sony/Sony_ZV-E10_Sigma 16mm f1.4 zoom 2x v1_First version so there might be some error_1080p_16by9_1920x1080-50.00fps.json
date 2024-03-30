@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_Sigma 16mm f1.4 zoom 2x v1_First version so there might be some error_1080p_16by9_1920x1080-50.00fps",
+  "note": "First version so there might be some error",
+  "calibrated_by": "Zentarus111",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "Sigma 16mm f1.4 zoom 2x v1",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5668166376192201,
+    "camera_matrix": [
+      [
+        2683.0563432592317,
+        0.0,
+        993.7933418438432
+      ],
+      [
+        0.0,
+        2679.709948493706,
+        458.7644556130123
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.012917811875258334,
+      10.35365696315618,
+      -175.66619595023386,
+      1000.7252760612312
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-e10-5190504c-1920x1080@50000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

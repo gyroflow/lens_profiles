@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z6_2470F4__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "何志勇",
+  "camera_brand": "Nikon",
+  "camera_model": "Z6",
+  "lens_model": "2470F4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2970185458772843,
+    "camera_matrix": [
+      [
+        1742.5919652696373,
+        0.0,
+        937.4501500552816
+      ],
+      [
+        0.0,
+        1740.9042149004235,
+        518.7668706224551
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33125592483002625,
+      -0.04054408819008076,
+      1.3513483353648963,
+      -2.828112283417745
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

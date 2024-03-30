@@ -1,0 +1,69 @@
+{
+  "name": "AKASO_Brave 4 4k___1080p_16by9_1920x1080-60.00fps",
+  "note": "",
+  "calibrated_by": "Alex Laspro",
+  "camera_brand": "AKASO",
+  "camera_model": "Brave 4 4k",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.700418972513397,
+    "camera_matrix": [
+      [
+        993.4754572576368,
+        0.0,
+        871.9352451825114
+      ],
+      [
+        0.0,
+        997.9258329302586,
+        509.8156288829955
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.02441835624260007,
+      0.09062832463605187,
+      0.03652549344745044,
+      -0.05343112241754899
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

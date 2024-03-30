@@ -1,0 +1,69 @@
+{
+  "name": "Sigma_fp_dulens 31mm__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "HH",
+  "camera_brand": "Sigma",
+  "camera_model": "fp",
+  "lens_model": "dulens 31mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.813290747611216,
+    "camera_matrix": [
+      [
+        3477.156819114577,
+        0.0,
+        1946.9673426518189
+      ],
+      [
+        0.0,
+        3480.122477863573,
+        1059.2832939700404
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.268722028285591,
+      0.2694407132459741,
+      -0.7114506874366406,
+      2.2335874074918096
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

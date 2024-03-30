@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-H2s_Tamron 17-70mm f2.8_17mm 60ss f2.8_6k_3by2_6240x4160-29.97fps",
+  "note": "Open Gate",
+  "calibrated_by": "jaime augusto",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-H2s",
+  "lens_model": "Tamron 17-70mm f2.8",
+  "camera_setting": "17mm 60ss f2.8",
+  "calib_dimension": {
+    "w": 6240,
+    "h": 4160
+  },
+  "orig_dimension": {
+    "w": 6240,
+    "h": 4160
+  },
+  "output_dimension": {
+    "w": 6240,
+    "h": 4160
+  },
+  "frame_readout_time": -11.5,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.3185280735513747,
+    "camera_matrix": [
+      [
+        4475.389944513648,
+        0.0,
+        3125.6189901258003
+      ],
+      [
+        0.0,
+        4474.438571350555,
+        2063.153051176606
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3943247591826582,
+      -0.2983591303507025,
+      0.7690348367230738,
+      0.11930064070044402
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

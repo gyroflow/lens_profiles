@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_DC-S5_20-60mm f3.5-5.6_20mm_1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "小摩托",
+  "camera_brand": "Panasonic",
+  "camera_model": "DC-S5",
+  "lens_model": "20-60mm f3.5-5.6",
+  "camera_setting": "20mm",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.28850990144428446,
+    "camera_matrix": [
+      [
+        1144.568556625202,
+        0.0,
+        957.4367004721428
+      ],
+      [
+        0.0,
+        1146.4042508352732,
+        550.9354717445825
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30902326507228844,
+      0.038076588663636814,
+      0.4768432269953827,
+      -0.5039509599461134
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

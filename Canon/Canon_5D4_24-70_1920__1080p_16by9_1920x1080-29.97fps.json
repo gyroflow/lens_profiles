@@ -1,0 +1,69 @@
+{
+  "name": "Canon_5D4_24-70_1920*_1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "wy",
+  "camera_brand": "Canon",
+  "camera_model": "5D4",
+  "lens_model": "24-70",
+  "camera_setting": "1920*",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4147348388303576,
+    "camera_matrix": [
+      [
+        1312.1392868742053,
+        0.0,
+        957.7390969974596
+      ],
+      [
+        0.0,
+        1311.6655549109078,
+        537.4482087863666
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19897375683737928,
+      0.13583260494917818,
+      0.1637841161679146,
+      0.06860361024821869
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-11-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

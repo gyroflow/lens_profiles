@@ -1,0 +1,69 @@
+{
+  "name": "GoPro_HERO4 Black___1440p_4by3_1920x1440-47.95fps",
+  "note": "",
+  "calibrated_by": "anthony",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO4 Black",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 47.952049,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5935193947728662,
+    "camera_matrix": [
+      [
+        846.1099197260472,
+        0.0,
+        927.5316070829476
+      ],
+      [
+        0.0,
+        848.698236605211,
+        728.3508869355823
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.04901313874244099,
+      0.01328515502127343,
+      -0.0050262539043435875,
+      0.0007692366605619193
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

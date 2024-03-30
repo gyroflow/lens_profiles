@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_x-s10_18-55mm f2.8_manual_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Peyman HB",
+  "camera_brand": "Fujifilm",
+  "camera_model": "x-s10",
+  "lens_model": "18-55mm f2.8",
+  "camera_setting": "manual",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4210892561053699,
+    "camera_matrix": [
+      [
+        1509.2683668622603,
+        0.0,
+        955.4284945861464
+      ],
+      [
+        0.0,
+        1510.4600203634534,
+        527.7089605469429
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.21921525270193812,
+      1.1329189523126324,
+      -4.4428579638677,
+      7.52924627334201
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

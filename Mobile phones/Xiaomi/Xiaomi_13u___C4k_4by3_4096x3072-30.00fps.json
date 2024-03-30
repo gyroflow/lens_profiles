@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_13u广角___C4k_4by3_4096x3072-30.00fps",
+  "note": "",
+  "calibrated_by": "Shinis Haya",
+  "camera_brand": "Xiaomi",
+  "camera_model": "13u广角",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 3072
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 3072
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 3072
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.523710673357232,
+    "camera_matrix": [
+      [
+        1480.7931651150952,
+        0.0,
+        2093.0312460137147
+      ],
+      [
+        0.0,
+        1483.4865454316423,
+        1522.7516500297932
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.26081873851754694,
+      0.3830501222377269,
+      -0.3288158749349827,
+      0.2248879717077915
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

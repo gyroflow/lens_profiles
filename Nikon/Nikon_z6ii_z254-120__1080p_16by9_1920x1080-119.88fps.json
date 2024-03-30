@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_z6ii_z254-120__1080p_16by9_1920x1080-119.88fps",
+  "note": "",
+  "calibrated_by": "李安九",
+  "camera_brand": "Nikon",
+  "camera_model": "z6ii",
+  "lens_model": "z254-120",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 119.880119,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2423763098437049,
+    "camera_matrix": [
+      [
+        1240.7928782110907,
+        0.0,
+        958.1867887282722
+      ],
+      [
+        0.0,
+        1243.2767640059978,
+        530.7531616840565
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3141196811383148,
+      0.21790353593525133,
+      -0.2496277806203221,
+      0.4229331573923869
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

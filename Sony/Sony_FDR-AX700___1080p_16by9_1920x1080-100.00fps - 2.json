@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FDR-AX700___1080p_16by9_1920x1080-100.00fps",
+  "note": "",
+  "calibrated_by": "柳笛",
+  "camera_brand": "Sony",
+  "camera_model": "FDR-AX700",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 100.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.469032328241464,
+    "camera_matrix": [
+      [
+        2093.239640756425,
+        0.0,
+        975.5402880467728
+      ],
+      [
+        0.0,
+        2090.787671100026,
+        538.2208623187302
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2636059724831431,
+      1.0415124393992767,
+      -5.246803571354048,
+      9.912242679721542
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

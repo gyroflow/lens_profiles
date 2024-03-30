@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_13pro wide_14mm__1080p_16by9_1920x1080-60.01fps",
+  "note": "",
+  "calibrated_by": "Lan",
+  "camera_brand": "Xiaomi",
+  "camera_model": "13pro wide",
+  "lens_model": "14mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": 50.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.008106,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3323043411214445,
+    "camera_matrix": [
+      [
+        1060.559469961505,
+        0.0,
+        953.5789276104462
+      ],
+      [
+        0.0,
+        1059.8933141076425,
+        536.1100760143473
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.34955858638618176,
+      -0.25003746647717,
+      1.4002320603831506,
+      -1.329811594166254
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 14.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

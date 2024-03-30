@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_14.60mm__C4k_1.90by1_4096x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Jonathan Smith",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "14.60mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5217256403309781,
+    "camera_matrix": [
+      [
+        1707.6281522360614,
+        0.0,
+        2042.523731886178
+      ],
+      [
+        0.0,
+        1706.4160453554591,
+        1064.502874402792
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3508242133375316,
+      -0.008629374858537282,
+      0.3924034454462359,
+      -0.23508857226390625
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx6v-14.60mm-4096x2160@59940",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 14.6,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R8_50mm 1.8 stm__1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Beko ibañez",
+  "camera_brand": "Canon",
+  "camera_model": "R8",
+  "lens_model": "50mm 1.8 stm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": -4.8325062402903045,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.39003164058485784,
+    "camera_matrix": [
+      [
+        3208.158782022806,
+        0.0,
+        975.8303667447911
+      ],
+      [
+        0.0,
+        3212.43144858624,
+        537.5380501715573
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.34817630786941317,
+      0.9689707044979072,
+      -18.042419834984003,
+      71.19844988148722
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

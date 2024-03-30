@@ -1,0 +1,69 @@
+{
+  "name": "XTU_S2_标准__1440p_4by3_1920x1440-60.09fps",
+  "note": "",
+  "calibrated_by": "唐昌铭",
+  "camera_brand": "XTU",
+  "camera_model": "S2",
+  "lens_model": "标准",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 60.090134,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5040610586364433,
+    "camera_matrix": [
+      [
+        1395.512597424716,
+        0.0,
+        1143.1195141887536
+      ],
+      [
+        0.0,
+        1395.336664696966,
+        792.0708135444037
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.02955768241358042,
+      0.07174629244410162,
+      -0.15468163388231723,
+      0.06908719560640193
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-11-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

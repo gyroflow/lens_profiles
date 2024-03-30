@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS R62_RF35-1.8__1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "guoji",
+  "camera_brand": "Canon",
+  "camera_model": "EOS R62",
+  "lens_model": "RF35-1.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3903010905763925,
+    "camera_matrix": [
+      [
+        1818.393405873532,
+        0.0,
+        967.3424635208368
+      ],
+      [
+        0.0,
+        1820.7484491214907,
+        581.110651055901
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3386044096855518,
+      0.022263615029024585,
+      1.6142389169617906,
+      -5.453338262070749
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

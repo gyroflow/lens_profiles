@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_Tamron 70-300 (300mm)__4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "杜以恒",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "Tamron 70-300 (300mm)",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8767308160625883,
+    "camera_matrix": [
+      [
+        150573.84359702127,
+        0.0,
+        3355.5954258931247
+      ],
+      [
+        0.0,
+        181444.2013938729,
+        1020.2589645192656
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      34.901615827974595,
+      -91228.41197238152,
+      184778599.56633785,
+      -136573926346.78618
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7m4-300.00mm-3840x2160@23976",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 300.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

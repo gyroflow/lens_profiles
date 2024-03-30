@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_AstrHori岩石星10mmF8一代__4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "程功",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "AstrHori岩石星10mmF8一代",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8531445982097352,
+    "camera_matrix": [
+      [
+        2020.802342658886,
+        0.0,
+        1929.470530719462
+      ],
+      [
+        0.0,
+        1971.5002580586656,
+        1086.3284727263726
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.06443302124457148,
+      0.015348668177705872,
+      -0.05424364754250739,
+      0.03802334548419312
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a1_85.00mm__4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Sharon",
+  "camera_brand": "Sony",
+  "camera_model": "a1",
+  "lens_model": "85.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.44039565372245687,
+    "camera_matrix": [
+      [
+        8932.368767214479,
+        0.0,
+        1941.601730366625
+      ],
+      [
+        0.0,
+        8945.08131895256,
+        1236.9888347095398
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.24281717770619923,
+      5.2793420886308216,
+      -76.25854174290654,
+      541.6265330614007
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-1-85.00mm-3840x2160@59940",
+  "calibrator_version": "1.5.3",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 85.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

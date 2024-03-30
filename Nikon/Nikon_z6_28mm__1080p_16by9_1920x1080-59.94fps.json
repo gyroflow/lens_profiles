@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_z6_28mm__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Darryl Irving",
+  "camera_brand": "Nikon",
+  "camera_model": "z6",
+  "lens_model": "28mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5611359582282374,
+    "camera_matrix": [
+      [
+        -506.38341346203856,
+        -0.0,
+        920.4051967216265
+      ],
+      [
+        0.0,
+        -505.8848693420938,
+        508.88679413186475
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3056412038476958,
+      0.24025681254977824,
+      -0.1086340892002103,
+      0.11897819607617208
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

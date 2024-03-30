@@ -1,0 +1,69 @@
+{
+  "name": "Huawei_P30pro main_f1.6_f1.6__1080p_16by9_1920x1080-60.36fps",
+  "note": "",
+  "calibrated_by": "Anton",
+  "camera_brand": "Huawei",
+  "camera_model": "P30pro main_f1.6",
+  "lens_model": "f1.6",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 16.57,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.355553,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4132645811706073,
+    "camera_matrix": [
+      [
+        1865.7037804013496,
+        0.0,
+        952.8864109630666
+      ],
+      [
+        0.0,
+        1862.9217676326616,
+        542.2389429865719
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6514691799798944,
+      -5.506489205689711,
+      39.49197943069626,
+      -91.224257303592
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Insta360_OneR_Ultrawide 110_LOW EIS_1080p_16by9_1920x1080-29.97fps",
+  "note": "LOW EIS",
+  "calibrated_by": "钟文祺",
+  "camera_brand": "Insta360",
+  "camera_model": "OneR",
+  "lens_model": "Ultrawide 110",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4563277087927066,
+    "camera_matrix": [
+      [
+        1065.9964075874518,
+        0.0,
+        960.8029921122568
+      ],
+      [
+        0.0,
+        1065.134492320296,
+        532.8429556227644
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.10295980234755188,
+      -0.014535467513769832,
+      0.027235524329053143,
+      -0.018039859167633086
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "insta360-oner-ultrawide110-1920x1080@29970-eis",
+  "calibrator_version": "1.5.2",
+  "date": "2023-12-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

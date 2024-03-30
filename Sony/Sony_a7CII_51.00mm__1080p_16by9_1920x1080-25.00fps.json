@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7CII_51.00mm__1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "Run",
+  "camera_brand": "Sony",
+  "camera_model": "a7CII",
+  "lens_model": "51.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5623998409330858,
+    "camera_matrix": [
+      [
+        3055.2797258417468,
+        0.0,
+        996.8006488116158
+      ],
+      [
+        0.0,
+        3034.5062787843026,
+        525.8045419753981
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.41805332465372047,
+      8.559332293454132,
+      -95.98862372738144,
+      439.5812883029489
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7cm2-51.00mm-1920x1080@25000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 51.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

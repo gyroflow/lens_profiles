@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS 100d_18-55_18mm 5k 21:9_C4k_2.20by1_4992x2268-23.98fps",
+  "note": "",
+  "calibrated_by": "jules.p",
+  "camera_brand": "Canon",
+  "camera_model": "EOS 100d",
+  "lens_model": "18-55",
+  "camera_setting": "18mm 5k 21:9",
+  "calib_dimension": {
+    "w": 4992,
+    "h": 2268
+  },
+  "orig_dimension": {
+    "w": 4992,
+    "h": 2268
+  },
+  "output_dimension": {
+    "w": 4992,
+    "h": 2268
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.983,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.838517933636888,
+    "camera_matrix": [
+      [
+        6619.79424361839,
+        0.0,
+        2502.188755374783
+      ],
+      [
+        0.0,
+        6623.513279029881,
+        928.8164988774852
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.13150833062178888,
+      4.105410840179336,
+      -38.974452009598615,
+      145.89944156689418
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

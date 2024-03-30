@@ -1,0 +1,69 @@
+{
+  "name": "Motorola_moto X30 Pro_23 f/1.95__C4k_16by9_4096x2304-30.00fps",
+  "note": "",
+  "calibrated_by": "quan'ling",
+  "camera_brand": "Motorola",
+  "camera_model": "moto X30 Pro",
+  "lens_model": "23 f/1.95",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2304
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2304
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2304
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 30.004915,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2457845869628388,
+    "camera_matrix": [
+      [
+        2641.0888796557556,
+        0.0,
+        2096.3493348511824
+      ],
+      [
+        0.0,
+        2619.9695972050063,
+        1080.7227646652373
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2894149514212881,
+      0.9059648540929088,
+      -3.915195764808717,
+      5.7651519866197685
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

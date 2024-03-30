@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_D7100_TOKINA SD 11-16 f.2.8 (IF) DXII__1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "tato",
+  "camera_brand": "Nikon",
+  "camera_model": "D7100",
+  "lens_model": "TOKINA SD 11-16 f.2.8 (IF) DXII",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.44537251681082823,
+    "camera_matrix": [
+      [
+        1325.3318852116242,
+        0.0,
+        955.9709205389962
+      ],
+      [
+        0.0,
+        1322.045017357321,
+        550.911855576766
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30938210717605413,
+      0.7307152894650889,
+      -5.534583819229673,
+      14.778129797291202
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

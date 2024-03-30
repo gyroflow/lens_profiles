@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS 80d_Sigma Dc 17-70mm 2.8-4.5__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Luca Roverati",
+  "camera_brand": "Canon",
+  "camera_model": "EOS 80d",
+  "lens_model": "Sigma Dc 17-70mm 2.8-4.5",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4028625446631315,
+    "camera_matrix": [
+      [
+        1513.1481489452733,
+        0.0,
+        955.5923823570542
+      ],
+      [
+        0.0,
+        1515.645640852525,
+        556.0602796788188
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1379873182010889,
+      0.5405344486548438,
+      -1.471832359561238,
+      2.280043288144737
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-10-31",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

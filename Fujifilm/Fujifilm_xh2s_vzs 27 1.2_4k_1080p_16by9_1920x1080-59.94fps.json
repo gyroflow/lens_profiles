@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_xh2s_vzs 27 1.2_4k_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "胡振锋",
+  "camera_brand": "Fujifilm",
+  "camera_model": "xh2s",
+  "lens_model": "vzs 27 1.2",
+  "camera_setting": "4k",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.27169225245285367,
+    "camera_matrix": [
+      [
+        2302.049047875743,
+        0.0,
+        985.5663736423016
+      ],
+      [
+        0.0,
+        2300.2041083563454,
+        549.1090654094096
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19203954187411024,
+      0.6340346710685041,
+      -1.401254243907346,
+      3.565728177944694
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-10-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

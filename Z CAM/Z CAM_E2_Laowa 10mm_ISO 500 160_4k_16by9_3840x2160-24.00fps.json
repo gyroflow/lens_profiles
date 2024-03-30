@@ -1,0 +1,69 @@
+{
+  "name": "Z CAM_E2_Laowa 10mm_ISO 500 1/60_4k_16by9_3840x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "Eric Nolin",
+  "camera_brand": "Z CAM",
+  "camera_model": "E2",
+  "lens_model": "Laowa 10mm",
+  "camera_setting": "ISO 500 1/60",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7891663455205797,
+    "camera_matrix": [
+      [
+        2164.12010983339,
+        0.0,
+        1901.6320433619192
+      ],
+      [
+        0.0,
+        2164.3837120014587,
+        1056.824338392813
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.35451462027576774,
+      0.09039112772546266,
+      0.026495642538424524,
+      0.1304978439285217
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

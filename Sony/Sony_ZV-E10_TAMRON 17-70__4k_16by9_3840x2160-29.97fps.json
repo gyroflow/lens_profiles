@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_TAMRON 17-70__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "JewK",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "TAMRON 17-70",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.039378320586519,
+    "camera_matrix": [
+      [
+        3458.5445278806756,
+        0.0,
+        1938.0826956776168
+      ],
+      [
+        0.0,
+        3456.8352324054604,
+        936.1827126968968
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2543605115880466,
+      -0.4586205877435675,
+      2.689171488438494,
+      -3.290165440633875
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-e10-1c2b83aa-3840x2160@29970",
+  "calibrator_version": "1.5.2",
+  "date": "2023-12-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

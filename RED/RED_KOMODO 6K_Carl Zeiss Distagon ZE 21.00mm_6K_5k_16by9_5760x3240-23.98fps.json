@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Carl Zeiss Distagon ZE 21.00mm_6K_5k_16by9_5760x3240-23.98fps",
+  "note": "",
+  "calibrated_by": "Shin Hasegawa",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Carl Zeiss Distagon ZE 21.00mm",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6615096833891988,
+    "camera_matrix": [
+      [
+        5003.722188610541,
+        0.0,
+        2884.04650859405
+      ],
+      [
+        0.0,
+        5003.102173786587,
+        1606.21816592378
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2347360476159632,
+      0.0992840762373442,
+      0.3879885332214094,
+      -0.445203277622532
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-komodo6k-unknown-21.00mm-5760x3240@0",
+  "calibrator_version": "1.5.3",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 21.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

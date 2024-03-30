@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS M_EF-M 22mm f/2 STM_1/50s 172deg 23.982 f2.0 14bit 5208 × 2214_5k_2.35by1_5208x2214-23.98fps",
+  "note": "",
+  "calibrated_by": "James Semerdak",
+  "camera_brand": "Canon",
+  "camera_model": "EOS M",
+  "lens_model": "EF-M 22mm f/2 STM",
+  "camera_setting": "1/50s 172deg 23.982 f2.0 14bit 5208 × 2214",
+  "calib_dimension": {
+    "w": 5208,
+    "h": 2214
+  },
+  "orig_dimension": {
+    "w": 5208,
+    "h": 2214
+  },
+  "output_dimension": {
+    "w": 5208,
+    "h": 2214
+  },
+  "frame_readout_time": -35.86,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.982,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.093416545016466,
+    "camera_matrix": [
+      [
+        4879.011312019013,
+        0.0,
+        2570.248706556255
+      ],
+      [
+        0.0,
+        4869.263324574026,
+        1162.8922129081225
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2867407093028215,
+      0.5413871586420619,
+      -1.627786744417541,
+      2.9581801588351793
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

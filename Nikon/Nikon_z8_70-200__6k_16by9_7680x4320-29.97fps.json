@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_z8_70-200__6k_16by9_7680x4320-29.97fps",
+  "note": "",
+  "calibrated_by": "Yau Leung Chiu",
+  "camera_brand": "Nikon",
+  "camera_model": "z8",
+  "lens_model": "70-200",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "frame_readout_time": 4.89,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1514583285001945,
+    "camera_matrix": [
+      [
+        15867.685173438054,
+        0.0,
+        3948.759111641744
+      ],
+      [
+        0.0,
+        15869.580221241253,
+        2148.848635962574
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.34354359973627285,
+      -1.468852585219079,
+      53.22989811472025,
+      -496.3800498276124
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

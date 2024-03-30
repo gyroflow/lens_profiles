@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z30__3840*_4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "GR Chan",
+  "camera_brand": "Nikon",
+  "camera_model": "Z30",
+  "lens_model": "",
+  "camera_setting": "3840*",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8785311992033719,
+    "camera_matrix": [
+      [
+        9348.212420694465,
+        0.0,
+        1859.3925983832664
+      ],
+      [
+        0.0,
+        9330.624970300092,
+        1035.0409856866495
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2129173382264057,
+      3.8443212014105743,
+      -184.9690630989671,
+      2646.7222956768114
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

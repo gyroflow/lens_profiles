@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E1_106.00mm__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "中学生应否谈恋爱",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E1",
+  "lens_model": "106.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.557304921780407,
+    "camera_matrix": [
+      [
+        11919.276735626265,
+        0.0,
+        1888.394690117222
+      ],
+      [
+        0.0,
+        11919.689791144989,
+        1027.013706103169
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      1.399368438665192,
+      7.623971502003947,
+      -231.5010511034046,
+      2852.938074121795
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-e1-106.00mm-3840x2160@50000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 106.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

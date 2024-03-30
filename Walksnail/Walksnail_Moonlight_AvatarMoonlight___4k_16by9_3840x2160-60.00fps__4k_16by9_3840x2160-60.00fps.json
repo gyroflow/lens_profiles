@@ -1,0 +1,69 @@
+{
+  "name": "Walksnail_Moonlight_AvatarMoonlight___4k_16by9_3840x2160-60.00fps__4k_16by9_3840x2160-60.00fps",
+  "note": "",
+  "calibrated_by": "korshun 4568",
+  "camera_brand": "Walksnail",
+  "camera_model": "Moonlight",
+  "lens_model": "AvatarMoonlight___4k_16by9_3840x2160-60.00fps",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.999798,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0091548668766896,
+    "camera_matrix": [
+      [
+        1780.5254821115464,
+        0.0,
+        1915.7656824389676
+      ],
+      [
+        0.0,
+        1781.996271336466,
+        1083.9817148278887
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.0376892842215375,
+      0.00048170251947918344,
+      -0.0015609360611990805,
+      -0.0005735966117834771
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

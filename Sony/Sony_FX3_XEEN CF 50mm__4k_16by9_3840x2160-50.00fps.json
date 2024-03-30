@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_XEEN CF 50mm__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Loris Burn",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "XEEN CF 50mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3860674153021513,
+    "camera_matrix": [
+      [
+        5700.713378081201,
+        0.0,
+        1909.0415473767223
+      ],
+      [
+        0.0,
+        5699.34506233226,
+        1054.8998206198626
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.048302251580876726,
+      2.197151548083791,
+      -26.71088276763546,
+      122.9605841262218
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

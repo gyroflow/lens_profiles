@@ -1,0 +1,69 @@
+{
+  "name": "DJI_ZENMUSE X7_C-Dreamer 9mm F2.8__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "liuxinliang",
+  "camera_brand": "DJI",
+  "camera_model": "ZENMUSE X7",
+  "lens_model": "C-Dreamer 9mm F2.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5745865222863528,
+    "camera_matrix": [
+      [
+        1557.5782802105318,
+        0.0,
+        1919.553192165228
+      ],
+      [
+        0.0,
+        1555.714587511182,
+        1140.4364206796718
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3172569645617381,
+      0.22578177697956897,
+      -0.17104013193281226,
+      0.1783299908701999
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

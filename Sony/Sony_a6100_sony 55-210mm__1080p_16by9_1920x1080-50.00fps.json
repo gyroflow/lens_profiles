@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6100_sony 55-210mm__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Trishan",
+  "camera_brand": "Sony",
+  "camera_model": "a6100",
+  "lens_model": "sony 55-210mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3644940574071533,
+    "camera_matrix": [
+      [
+        16261.573259728704,
+        0.0,
+        988.4869085991998
+      ],
+      [
+        0.0,
+        16260.324149754564,
+        601.3222678011936
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      3.6689179827322302,
+      1191.6296916827478,
+      -350368.6812731557,
+      47210474.12516083
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "OPPO_Find X2 Pro_26mm__4k_16by9_4000x2256-24.00fps",
+  "note": "",
+  "calibrated_by": "Joe",
+  "camera_brand": "OPPO",
+  "camera_model": "Find X2 Pro",
+  "lens_model": "26mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4000,
+    "h": 2256
+  },
+  "orig_dimension": {
+    "w": 4000,
+    "h": 2256
+  },
+  "output_dimension": {
+    "w": 4000,
+    "h": 2256
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.004583,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.184882021526193,
+    "camera_matrix": [
+      [
+        3141.9175449778672,
+        0.0,
+        2050.5739392263117
+      ],
+      [
+        0.0,
+        3136.499632346349,
+        1122.5971322862451
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4932531977907555,
+      -2.105326952169391,
+      11.825550743367224,
+      -19.071759823707787
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

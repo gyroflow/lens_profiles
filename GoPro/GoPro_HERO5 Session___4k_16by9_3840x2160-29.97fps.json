@@ -1,0 +1,68 @@
+{
+  "name": "GoPro_HERO5 Session___4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "罗灿",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO5 Session",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 6,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8078273906809332,
+    "camera_matrix": [
+      [
+        1813.0741651123265,
+        0.0,
+        1938.591006238138
+      ],
+      [
+        0.0,
+        1813.544129145084,
+        1077.8748882320028
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.08783115758016898,
+      -0.08641348212345029,
+      0.06712277120940012,
+      -0.03184663715847549
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.4.0",
+  "date": "2024-03-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null
+}

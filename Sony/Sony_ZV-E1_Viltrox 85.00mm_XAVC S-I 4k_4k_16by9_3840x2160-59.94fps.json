@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "melvin mac studio",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E1",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.43456619199030766,
+    "camera_matrix": [
+      [
+        8608.600758837876,
+        0.0,
+        1947.0185813465248
+      ],
+      [
+        0.0,
+        8606.401328566488,
+        1014.7652339165616
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.9836214223596652,
+      0.9084015165230548,
+      -37.00284003164127,
+      281.2968064620451
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 85.0,
+  "fps": 59.94006,
+  "frame_readout_time": 9.57,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "--sony-zv-e1-85.00mm-3840x2160@59940",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Viltrox 85.00mm",
+  "name": "Sony_ZV-E1_Viltrox 85.00mm_XAVC S-I 4k_4k_16by9_3840x2160-59.94fps",
+  "note": "XAVC S-I 4k",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

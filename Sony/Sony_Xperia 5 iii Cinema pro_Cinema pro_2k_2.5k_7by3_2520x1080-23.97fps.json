@@ -1,0 +1,69 @@
+{
+  "name": "Sony_Xperia 5 iii Cinema pro_Cinema pro_2k_2.5k_7by3_2520x1080-23.97fps",
+  "note": "",
+  "calibrated_by": "U0 A499",
+  "camera_brand": "Sony",
+  "camera_model": "Xperia 5 iii Cinema pro",
+  "lens_model": "Cinema pro",
+  "camera_setting": "2k",
+  "calib_dimension": {
+    "w": 2520,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 2520,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 2520,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.97155,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.45014351163721167,
+    "camera_matrix": [
+      [
+        1277.6450991724842,
+        0.0,
+        1258.9215209444285
+      ],
+      [
+        0.0,
+        1278.7389893900586,
+        550.4984485920216
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.23954022664589927,
+      0.7013527085729991,
+      -1.162207731998437,
+      0.976878819029543
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

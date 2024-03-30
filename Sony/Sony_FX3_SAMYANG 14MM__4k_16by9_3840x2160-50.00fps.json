@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_SAMYANG 14MM__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Augustin",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "SAMYANG 14MM",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8578665482933105,
+    "camera_matrix": [
+      [
+        1765.0132759212536,
+        0.0,
+        1915.7158204930008
+      ],
+      [
+        0.0,
+        1764.535044448162,
+        1113.3328155861038
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1919493179718539,
+      0.1258980201538775,
+      -0.1024826395889457,
+      0.21913179675849428
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

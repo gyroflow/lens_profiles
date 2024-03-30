@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "Lê Trung Hạo",
+  "calibrator_version": "1.5.3",
+  "camera_brand": "Sony",
+  "camera_model": "FX30",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.8757134110978733,
+    "camera_matrix": [
+      [
+        5400.384923036264,
+        0.0,
+        1889.654297257544
+      ],
+      [
+        0.0,
+        5400.229064662179,
+        1096.4494177529543
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33400608979949437,
+      0.80816551339253,
+      -10.5256686391909,
+      64.96300665428171
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 30.0,
+  "fps": 25.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "--sony-ilme-fx30-30.00mm-3840x2160@25000",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "30.00mm",
+  "name": "Sony_FX30_30.00mm__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "num_images": 20,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "JT Clark",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "FX30",
+  "camera_setting": "h.265, 23.976",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.7151710855523796,
+    "camera_matrix": [
+      [
+        4419.758206991792,
+        0.0,
+        1958.644269150443
+      ],
+      [
+        0.0,
+        4421.300902394066,
+        1066.9887188038697
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2970286357453315,
+      0.6711366225446146,
+      -4.521654113525707,
+      13.167248392106334
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 24.0,
+  "fps": 23.976025,
+  "frame_readout_time": 12.5,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "---sony-ilme-fx30-24.00mm-3840x2160@23976",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Sigma 24-70 DG DN (@ 24mm)",
+  "name": "Sony_FX30_Sigma 24-70 DG DN (@ 24mm)_h.265, 23.976_4k_16by9_3840x2160-23.98fps",
+  "note": "4K 10 bit 4.2.2",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

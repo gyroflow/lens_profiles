@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_28mm F1.4 DG HSM | Art 019 28.00mm_6K 17:9_6k_1.90by1_6144x3240-25.00fps",
+  "note": "",
+  "calibrated_by": "Levente Safrany",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "28mm F1.4 DG HSM | Art 019 28.00mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.7276600992996265,
+    "camera_matrix": [
+      [
+        6625.797931184288,
+        0.0,
+        3104.391433637511
+      ],
+      [
+        0.0,
+        6626.231603938409,
+        1571.796913540675
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33511429923471414,
+      -0.0034403060692393623,
+      1.1304821127202267,
+      -2.28578567669996
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-komodo6k-28mmf1.4dghsm|art019-28.00mm-6144x3240@0",
+  "calibrator_version": "1.5.3",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 28.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

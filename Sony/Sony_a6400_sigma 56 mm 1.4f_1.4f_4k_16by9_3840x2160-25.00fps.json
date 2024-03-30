@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_sigma 56 mm 1.4f_1.4f_4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Jakub Bociąga",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "sigma 56 mm 1.4f",
+  "camera_setting": "1.4f",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.902287564335271,
+    "camera_matrix": [
+      [
+        15399.342006536606,
+        0.0,
+        2050.646986622032
+      ],
+      [
+        0.0,
+        15348.21780921912,
+        941.4795283880352
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      2.773960682816587,
+      -8.273794055706345,
+      4977.742076600433,
+      -257169.71988700237
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

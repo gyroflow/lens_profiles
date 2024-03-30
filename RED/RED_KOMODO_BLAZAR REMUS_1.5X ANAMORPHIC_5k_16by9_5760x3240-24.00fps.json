@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO_BLAZAR REMUS_1.5X ANAMORPHIC_5k_16by9_5760x3240-24.00fps",
+  "note": "",
+  "calibrated_by": "MGAPHOTO",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO",
+  "lens_model": "BLAZAR REMUS",
+  "camera_setting": "1.5X ANAMORPHIC",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.5809789939440422,
+    "camera_matrix": [
+      [
+        6256.450109551067,
+        0.0,
+        2968.434466360666
+      ],
+      [
+        0.0,
+        9281.005239623424,
+        1052.525480712942
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19658376845035103,
+      -1.5610075303181006,
+      1.6043145771658007,
+      3.8971865516895847
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 45.0,
+  "crop_factor": 1.5,
+  "global_shutter": true
+}

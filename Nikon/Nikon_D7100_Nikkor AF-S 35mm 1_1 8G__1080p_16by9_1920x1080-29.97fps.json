@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_D7100_Nikkor AF-S 35mm 1:1 8G__1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "tato",
+  "camera_brand": "Nikon",
+  "camera_model": "D7100",
+  "lens_model": "Nikkor AF-S 35mm 1:1 8G",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5514168982252765,
+    "camera_matrix": [
+      [
+        3030.96997672291,
+        0.0,
+        922.3794343109658
+      ],
+      [
+        0.0,
+        3029.8753359173393,
+        566.9752757830798
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1844303647498395,
+      -3.869410295789062,
+      62.68679937171659,
+      -328.88211530963446
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

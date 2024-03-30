@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z 6___1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Ragul Strange",
+  "camera_brand": "Nikon",
+  "camera_model": "Z 6",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 17,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.46923258222998065,
+    "camera_matrix": [
+      [
+        2464.0091059273536,
+        0.0,
+        923.5009593923292
+      ],
+      [
+        0.0,
+        2467.5902459061267,
+        531.3202887786757
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2342048262871201,
+      2.189763026021433,
+      -22.511127192842896,
+      85.12502923802148
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

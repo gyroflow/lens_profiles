@@ -1,0 +1,69 @@
+{
+  "name": "Z CAM_E2_Lumix 35-100 f2.8 G II_C_C4k_1.90by1_4096x2160-25.00fps",
+  "note": "35mm",
+  "calibrated_by": "Jarek",
+  "camera_brand": "Z CAM",
+  "camera_model": "E2",
+  "lens_model": "Lumix 35-100 f2.8 G II",
+  "camera_setting": "C",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7386233946916754,
+    "camera_matrix": [
+      [
+        8265.92863810024,
+        0.0,
+        2021.400828331266
+      ],
+      [
+        0.0,
+        8273.288693925126,
+        1095.8510972790357
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.46309215133240306,
+      0.033193131779355727,
+      9.317759995333551,
+      -75.83749895501889
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

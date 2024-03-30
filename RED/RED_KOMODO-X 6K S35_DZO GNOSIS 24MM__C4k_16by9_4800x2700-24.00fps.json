@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO-X 6K S35_DZO GNOSIS 24MM__C4k_16by9_4800x2700-24.00fps",
+  "note": "",
+  "calibrated_by": "Alexandre GRIMA",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "lens_model": "DZO GNOSIS 24MM",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4800,
+    "h": 2700
+  },
+  "orig_dimension": {
+    "w": 4800,
+    "h": 2700
+  },
+  "output_dimension": {
+    "w": 4800,
+    "h": 2700
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7101345102103331,
+    "camera_matrix": [
+      [
+        5689.688732208296,
+        0.0,
+        2416.4445690606253
+      ],
+      [
+        0.0,
+        5688.731950522898,
+        1346.2154789761232
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2255165865118339,
+      0.4822872447969912,
+      -4.04835695679216,
+      14.50672905562852
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

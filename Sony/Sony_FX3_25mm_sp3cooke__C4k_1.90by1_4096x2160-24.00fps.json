@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_25mm_sp3cooke__C4k_1.90by1_4096x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "STAGE UNREAL",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "25mm_sp3cooke",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5697610903021147,
+    "camera_matrix": [
+      [
+        2897.4891321294635,
+        0.0,
+        2032.3294429572825
+      ],
+      [
+        0.0,
+        2899.8075753662,
+        1109.9199658293244
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.26509893229127185,
+      0.20977371879073375,
+      -0.10468792394901597,
+      0.6018067309953311
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Cinema Camera 6K_Dulens APO 31mm__720p_3by2_1512x1008-23.98fps",
+  "note": "",
+  "calibrated_by": "Jordan Dudek",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Cinema Camera 6K",
+  "lens_model": "Dulens APO 31mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1512,
+    "h": 1008
+  },
+  "orig_dimension": {
+    "w": 1512,
+    "h": 1008
+  },
+  "output_dimension": {
+    "w": 6048,
+    "h": 4032
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976028,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2581224817998671,
+    "camera_matrix": [
+      [
+        1411.7999640055814,
+        0.0,
+        756.5199039381489
+      ],
+      [
+        0.0,
+        1415.852676188826,
+        490.2570479576508
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2290255328991583,
+      0.7592649998001282,
+      -3.0722218971455644,
+      7.260867055987375
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-cinemacamera6k-dulensapo-31mm-6048x4032@23976",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 31.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

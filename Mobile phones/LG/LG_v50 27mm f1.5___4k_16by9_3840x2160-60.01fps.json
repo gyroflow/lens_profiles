@@ -1,0 +1,69 @@
+{
+  "name": "LG_v50 27mm f1.5___4k_16by9_3840x2160-60.01fps",
+  "note": "",
+  "calibrated_by": "Kyi Thar",
+  "camera_brand": "LG",
+  "camera_model": "v50 27mm f1.5",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 60.009251,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0205242188106622,
+    "camera_matrix": [
+      [
+        2917.25134244904,
+        0.0,
+        1915.3509941241196
+      ],
+      [
+        0.0,
+        2917.553783145088,
+        1097.7352055604856
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.7437702371852916,
+      -3.15193831489827,
+      9.351892586100275,
+      -7.876028580649421
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_z30_nikon50-250__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "王佳豪",
+  "camera_brand": "Nikon",
+  "camera_model": "z30",
+  "lens_model": "nikon50-250",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4694568549146503,
+    "camera_matrix": [
+      [
+        4839.015534885815,
+        0.0,
+        959.8792738562272
+      ],
+      [
+        0.0,
+        4866.266009735891,
+        502.68899496856903
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2221782838356239,
+      11.52659591802306,
+      -1006.948189078538,
+      19981.347420573577
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

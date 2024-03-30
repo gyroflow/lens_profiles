@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_DZOFILM Vespid Prime FF 90 mm Macro T2.8_90°_C4k_1.90by1_4096x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "Irgend Wer",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "DZOFILM Vespid Prime FF 90 mm Macro T2.8",
+  "camera_setting": "90°",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6302303418448075,
+    "camera_matrix": [
+      [
+        11333.87481695988,
+        0.0,
+        2090.4973840275743
+      ],
+      [
+        0.0,
+        11330.905939416649,
+        1076.258382022573
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.39778462675210746,
+      22.77102431173309,
+      -1008.3967023370496,
+      15088.621765643858
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS R5_RF 24mmF/1.8 IS STM_8K_6k_16by9_7680x4320-25.00fps",
+  "note": "1.12",
+  "calibrated_by": "WangZiChang",
+  "camera_brand": "Canon",
+  "camera_model": "EOS R5",
+  "lens_model": "RF 24mmF/1.8 IS STM",
+  "camera_setting": "8K",
+  "calib_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1287002661987502,
+    "camera_matrix": [
+      [
+        6379.989800695568,
+        0.0,
+        3872.091727284962
+      ],
+      [
+        0.0,
+        6379.687219227637,
+        2142.462708170135
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3891413366075005,
+      -0.7554387543891474,
+      5.4315599478933985,
+      -11.718484001568244
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

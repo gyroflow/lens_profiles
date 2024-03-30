@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_WB800F_4.1-86.1mm 1:2.8-5.9__1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "Flopster Flop",
+  "camera_brand": "Samsung",
+  "camera_model": "WB800F",
+  "lens_model": "4.1-86.1mm 1:2.8-5.9",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.992036037417664,
+    "camera_matrix": [
+      [
+        1324.930804376465,
+        0.0,
+        956.6985206853834
+      ],
+      [
+        0.0,
+        1322.6432355122083,
+        546.869926566067
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3105969616277949,
+      0.021782494614510005,
+      1.3765485109994453,
+      -2.6747635757299233
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

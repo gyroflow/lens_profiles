@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_Sirui 33mm sniper AF_33mm_4k_16by9_3840x2160-59.94fps",
+  "note": "33mm",
+  "calibrated_by": "DroneNav",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "Sirui 33mm sniper AF",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5889904265434495,
+    "camera_matrix": [
+      [
+        3962.00009400232,
+        0.0,
+        1976.7014934058989
+      ],
+      [
+        0.0,
+        3963.874496705124,
+        1085.8191398121849
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3275910585891186,
+      -1.0643996486574494,
+      19.048830024399052,
+      -51.0171614413738
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx3-33.00mm-3840x2160@59940",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 33.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

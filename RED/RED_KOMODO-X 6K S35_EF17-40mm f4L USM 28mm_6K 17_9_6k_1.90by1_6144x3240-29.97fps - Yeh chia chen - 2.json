@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 3240,
+    "w": 6144
+  },
+  "calibrated_by": "Yeh chia chen",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "camera_setting": "6K 17:9",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.5770446552653169,
+    "camera_matrix": [
+      [
+        6193.9718672859135,
+        0.0,
+        3063.9134189034116
+      ],
+      [
+        0.0,
+        6192.279304499679,
+        1624.3708589395608
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.29294475482780014,
+      -0.021881569090466135,
+      1.362931705612687,
+      -2.438403357165539
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 28.0,
+  "fps": 29.97003,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-red-komodo-x6ks35-ef17-40mmf/4lusm-28mm-6144x3240@0",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "EF17-40mm f/4L USM 28mm",
+  "name": "RED_KOMODO-X 6K S35_EF17-40mm f/4L USM 28mm_6K 17:9_6k_1.90by1_6144x3240-29.97fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 3240,
+    "w": 6144
+  },
+  "output_dimension": {
+    "h": 3240,
+    "w": 6144
+  },
+  "sync_settings": null
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_S5M2_SR70300__1080p_16by9_1920x1080-100.00fps",
+  "note": "",
+  "calibrated_by": "王远扬",
+  "camera_brand": "Panasonic",
+  "camera_model": "S5M2",
+  "lens_model": "SR70300",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 100.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3663594706086888,
+    "camera_matrix": [
+      [
+        4018.380860325886,
+        0.0,
+        931.6761558264697
+      ],
+      [
+        0.0,
+        4020.589314837047,
+        521.7742557884716
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.40086693723925354,
+      -3.506856531710864,
+      94.15667337561432,
+      -885.855224191887
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_Xh2s_75mm Viltrox_F8_6k_3by2_6240x4160-24.00fps",
+  "note": "",
+  "calibrated_by": "Clive Dickerson",
+  "camera_brand": "Fujifilm",
+  "camera_model": "Xh2s",
+  "lens_model": "75mm Viltrox",
+  "camera_setting": "F8",
+  "calib_dimension": {
+    "w": 6240,
+    "h": 4160
+  },
+  "orig_dimension": {
+    "w": 6240,
+    "h": 4160
+  },
+  "output_dimension": {
+    "w": 6240,
+    "h": 4160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.8651719939303937,
+    "camera_matrix": [
+      [
+        23955.65996535108,
+        0.0,
+        2741.542830795949
+      ],
+      [
+        0.0,
+        23986.92219719219,
+        1821.3419426635369
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.7088031086925426,
+      -36.27220087770389,
+      2730.578743235184,
+      -61871.85793708372
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

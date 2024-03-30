@@ -1,0 +1,69 @@
+{
+  "name": "RED_Komodo 6K_LAOWA 11mm F4.5 C-Dreamer_2.4:1_6k_2.37by1_6144x2592-50.00fps",
+  "note": "",
+  "calibrated_by": "Armin Sky",
+  "camera_brand": "RED",
+  "camera_model": "Komodo 6K",
+  "lens_model": "LAOWA 11mm F4.5 C-Dreamer",
+  "camera_setting": "2.4:1",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9299371359930226,
+    "camera_matrix": [
+      [
+        2561.2510631464124,
+        0.0,
+        3074.0298204593037
+      ],
+      [
+        0.0,
+        2559.723065461555,
+        1310.15736609638
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31308769473696246,
+      0.11455404960843672,
+      -0.006633379415877894,
+      0.054122900715570105
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

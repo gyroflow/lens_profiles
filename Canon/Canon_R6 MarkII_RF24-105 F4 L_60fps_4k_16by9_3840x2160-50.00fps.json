@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R6 MarkII_RF24-105 F4 L_60fps_4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Canon",
+  "camera_model": "R6 MarkII",
+  "lens_model": "RF24-105 F4 L",
+  "camera_setting": "60fps",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 14.8,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7317991727257986,
+    "camera_matrix": [
+      [
+        2648.6106390138466,
+        0.0,
+        1936.134765580356
+      ],
+      [
+        0.0,
+        2651.340718223209,
+        1075.2044608953224
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.24344186230085751,
+      0.0818950660312423,
+      0.19593697418900857,
+      -0.07468905972681802
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "calibrated_by": "adrian",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Walksnail",
+  "camera_model": "1s little",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-03-24",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.4187991118860205,
+    "camera_matrix": [
+      [
+        790.5261100435016,
+        0.0,
+        959.4183649064004
+      ],
+      [
+        0.0,
+        792.2697049493523,
+        529.5688925086383
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.033634252576306894,
+      -0.14110771536979022,
+      0.17416529515204618,
+      -0.0948312356233975
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 60.014233,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "1s lite",
+  "name": "Walksnail_1s little_1s lite__1080p_16by9_1920x1080-60.01fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "output_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "sync_settings": null
+}

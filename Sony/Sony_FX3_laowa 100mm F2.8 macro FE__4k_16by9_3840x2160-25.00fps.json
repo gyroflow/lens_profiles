@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_laowa 100mm F2.8 macro FE__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "zhao Felix",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "laowa 100mm F2.8 macro FE",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.643100963069551,
+    "camera_matrix": [
+      [
+        11678.613971426528,
+        0.0,
+        1859.9199717227752
+      ],
+      [
+        0.0,
+        11686.073937931578,
+        1070.8023481536989
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.8276522052208128,
+      -17.385848702866358,
+      1413.2402837331908,
+      -28192.827096388253
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "XTU_MAXPRO CAM_XTU/XTU_MaxPro_LDC_2.7k60_2.7k_16by9_2720x1530-59.94fps wide__2.5k_16by9_2688x1512-59.94fps",
+  "note": "",
+  "calibrated_by": "Lenovo",
+  "camera_brand": "XTU",
+  "camera_model": "MAXPRO CAM",
+  "lens_model": "XTU/XTU_MaxPro_LDC_2.7k60_2.7k_16by9_2720x1530-59.94fps wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2688,
+    "h": 1512
+  },
+  "orig_dimension": {
+    "w": 2688,
+    "h": 1512
+  },
+  "output_dimension": {
+    "w": 2688,
+    "h": 1512
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.5639636741927123,
+    "camera_matrix": [
+      [
+        1421.6870119990897,
+        0.0,
+        1308.5856245235902
+      ],
+      [
+        0.0,
+        1414.6926386460775,
+        828.0840201862353
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.34033969297332434,
+      0.12391468712779292,
+      0.011966306022231416,
+      0.12262380756295696
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "xtu-maxprocam-xtu/xtu_maxpro_ldc_2.7k60_2.7k_16by9_2720x1530-59.94fps-wide-2688x1512@59940",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

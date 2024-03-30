@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FDR-AX53___1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "yoav fishabne",
+  "camera_brand": "Sony",
+  "camera_model": "FDR-AX53",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5669127501081695,
+    "camera_matrix": [
+      [
+        1402.498477647959,
+        0.0,
+        958.8926849706654
+      ],
+      [
+        0.0,
+        1405.9197618592184,
+        518.1614218571737
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3857652634039625,
+      -0.36463076111893394,
+      2.4625073576040424,
+      -3.969215545549548
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

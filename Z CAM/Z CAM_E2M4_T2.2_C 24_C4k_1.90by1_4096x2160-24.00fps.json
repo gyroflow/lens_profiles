@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 4096
+  },
+  "calibrated_by": "X",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Z CAM",
+  "camera_model": "E2M4",
+  "camera_setting": "C 24",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-03-11",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.8986466506946382,
+    "camera_matrix": [
+      [
+        16350.65431802291,
+        0.0,
+        970.8945410283736
+      ],
+      [
+        0.0,
+        16353.366923344152,
+        1926.3572734170864
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2767608463678042,
+      10.363852803890524,
+      -415.2572600715799,
+      4720.130946804889
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 24.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "T2.2",
+  "name": "Z CAM_E2M4_T2.2_C 24_C4k_1.90by1_4096x2160-24.00fps",
+  "note": "",
+  "num_images": 14,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 4096
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 4096
+  },
+  "sync_settings": null
+}

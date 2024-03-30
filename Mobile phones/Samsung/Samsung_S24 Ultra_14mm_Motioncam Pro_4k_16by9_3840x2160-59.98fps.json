@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_S24 Ultra_14mm_Motioncam Pro_4k_16by9_3840x2160-59.98fps",
+  "note": "",
+  "calibrated_by": "Gizmo95",
+  "camera_brand": "Samsung",
+  "camera_model": "S24 Ultra",
+  "lens_model": "14mm",
+  "camera_setting": "Motioncam Pro",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.975998,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5099516016681035,
+    "camera_matrix": [
+      [
+        1611.34140058522,
+        0.0,
+        1913.3396105983732
+      ],
+      [
+        0.0,
+        1611.4183604273462,
+        1090.7073645970372
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2995379607995633,
+      0.3252067960070632,
+      -0.3686608024133951,
+      0.33359275174116454
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

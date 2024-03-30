@@ -1,0 +1,69 @@
+{
+  "name": "Canon_6D_Canon 50/1.8__1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "Nik Kras",
+  "camera_brand": "Canon",
+  "camera_model": "6D",
+  "lens_model": "Canon 50/1.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5475561966881373,
+    "camera_matrix": [
+      [
+        2884.1176788094913,
+        0.0,
+        913.8836416984376
+      ],
+      [
+        0.0,
+        2879.6103692724005,
+        553.6934171586739
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2148217475178373,
+      1.0752956253362014,
+      -15.116861496458872,
+      43.9241330704473
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

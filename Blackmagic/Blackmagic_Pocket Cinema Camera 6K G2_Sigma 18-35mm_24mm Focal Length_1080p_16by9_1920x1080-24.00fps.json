@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K G2_Sigma 18-35mm_24mm Focal Length_1080p_16by9_1920x1080-24.00fps",
+  "note": "ProRes HD",
+  "calibrated_by": "Olav Carter",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K G2",
+  "lens_model": "Sigma 18-35mm",
+  "camera_setting": "24mm Focal Length",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.45575084819673806,
+    "camera_matrix": [
+      [
+        1661.8055102352084,
+        0.0,
+        988.049154249638
+      ],
+      [
+        0.0,
+        1661.2022234348942,
+        545.5371270462492
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.26019379026635764,
+      -0.061764390687954224,
+      1.3508772152256912,
+      -2.270340871688686
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

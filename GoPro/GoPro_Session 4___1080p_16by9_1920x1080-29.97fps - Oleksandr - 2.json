@@ -1,0 +1,69 @@
+{
+  "name": "GoPro_Session 4___1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "Oleksandr",
+  "camera_brand": "GoPro",
+  "camera_model": "Session 4",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.48644325934312294,
+    "camera_matrix": [
+      [
+        838.4344475990113,
+        0.0,
+        959.659980017936
+      ],
+      [
+        0.0,
+        838.4184128561928,
+        536.0501598072175
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.11366290104158018,
+      -0.045053126003834425,
+      0.008183654228880328,
+      0.0011546830110924669
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

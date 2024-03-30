@@ -1,0 +1,69 @@
+{
+  "name": "POCO_X 3 pro___2k_4by3_2016x1504-30.03fps",
+  "note": "",
+  "calibrated_by": "Lucas",
+  "camera_brand": "POCO",
+  "camera_model": "X 3 pro",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2016,
+    "h": 1504
+  },
+  "orig_dimension": {
+    "w": 2016,
+    "h": 1504
+  },
+  "output_dimension": {
+    "w": 2016,
+    "h": 1504
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.029137,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8431744019453785,
+    "camera_matrix": [
+      [
+        1505.9904358408978,
+        0.0,
+        1008.5604934582444
+      ],
+      [
+        0.0,
+        1506.0541371180725,
+        763.4355874097519
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.484052100954072,
+      -0.8038430178360549,
+      4.301564565486289,
+      -7.899037868264918
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

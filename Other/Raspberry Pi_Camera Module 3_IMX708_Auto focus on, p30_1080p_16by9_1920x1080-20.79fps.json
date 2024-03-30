@@ -1,0 +1,69 @@
+{
+  "name": "Raspberry Pi_Camera Module 3_IMX708_Auto focus on, p30_1080p_16by9_1920x1080-20.79fps",
+  "note": "",
+  "calibrated_by": "Jude Pereira",
+  "camera_brand": "Raspberry Pi",
+  "camera_model": "Camera Module 3",
+  "lens_model": "IMX708",
+  "camera_setting": "Auto focus on, p30",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 20.789673,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.29528934739139884,
+    "camera_matrix": [
+      [
+        1420.6571314054495,
+        0.0,
+        972.347039212074
+      ],
+      [
+        0.0,
+        1420.3747993882823,
+        533.3394482123973
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.23543545987322104,
+      1.693805865300036,
+      -5.743565004563036,
+      6.853732568881692
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

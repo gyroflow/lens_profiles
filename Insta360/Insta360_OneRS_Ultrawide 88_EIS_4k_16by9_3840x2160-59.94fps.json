@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "Thássio",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Insta360",
+  "camera_model": "OneRS",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-01-17",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.6324073456485754,
+    "camera_matrix": [
+      [
+        2177.6124746996643,
+        0.0,
+        1909.3579049477055
+      ],
+      [
+        0.0,
+        2180.276857771984,
+        1067.565068509757
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.07671239691010616,
+      0.10836110154753818,
+      -0.3281131504225767,
+      0.32535861700768454
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 59.94006,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-insta360-oners-ultrawide88-3840x2160@59940-eis",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Ultrawide 88",
+  "name": "Insta360_OneRS_Ultrawide 88_EIS_4k_16by9_3840x2160-59.94fps",
+  "note": "EIS",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

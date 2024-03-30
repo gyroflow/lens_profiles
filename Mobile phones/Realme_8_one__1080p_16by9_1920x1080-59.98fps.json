@@ -1,0 +1,69 @@
+{
+  "name": "Realme_8_one__1080p_16by9_1920x1080-59.98fps",
+  "note": "",
+  "calibrated_by": "hrisancho",
+  "camera_brand": "Realme",
+  "camera_model": "8",
+  "lens_model": "one",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.977112,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3469781108807531,
+    "camera_matrix": [
+      [
+        1767.6864630579762,
+        0.0,
+        950.7008668807214
+      ],
+      [
+        0.0,
+        1768.776247056443,
+        527.2594570786972
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3919496299859144,
+      1.0245108489630008,
+      -7.123996999047419,
+      14.853573352709878
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_Redmi note 9Filmic pro_ACC 23_23mm_2k_16by9_2048x1152-23.91fps",
+  "note": "23mm",
+  "calibrated_by": "Prashant kharel",
+  "camera_brand": "Xiaomi",
+  "camera_model": "Redmi note 9Filmic pro",
+  "lens_model": "ACC 23",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2048,
+    "h": 1152
+  },
+  "orig_dimension": {
+    "w": 2048,
+    "h": 1152
+  },
+  "output_dimension": {
+    "w": 2048,
+    "h": 1152
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.90608,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6610683162145412,
+    "camera_matrix": [
+      [
+        1942.9285583655617,
+        0.0,
+        1049.9711073571375
+      ],
+      [
+        0.0,
+        1899.8959319898156,
+        553.5900581336858
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5875967533098695,
+      -2.628666244051136,
+      14.393806208576365,
+      -26.27320229286928
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

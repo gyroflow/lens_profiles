@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_Viltrox AF 23/1.4 E__4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Matheus Velloso de Oliveira Gomes",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "Viltrox AF 23/1.4 E",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 40.75,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.457147377082409,
+    "camera_matrix": [
+      [
+        3922.20609510328,
+        0.0,
+        2030.68250121033
+      ],
+      [
+        0.0,
+        3929.544815771028,
+        1144.1320573684245
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1432028333838871,
+      1.8444060150664905,
+      -10.955082328391736,
+      27.01632171399764
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-e10-a7fe6a9e-3840x2160@23976",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

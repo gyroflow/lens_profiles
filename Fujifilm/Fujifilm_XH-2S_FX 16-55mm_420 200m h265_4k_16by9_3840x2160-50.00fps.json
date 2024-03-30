@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_XH-2S_FX 16-55mm_420 200m h265_4k_16by9_3840x2160-50.00fps",
+  "note": "16mm",
+  "calibrated_by": "Berk Arı",
+  "camera_brand": "Fujifilm",
+  "camera_model": "XH-2S",
+  "lens_model": "FX 16-55mm",
+  "camera_setting": "420 200m h265",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.568701036978325,
+    "camera_matrix": [
+      [
+        2628.512813305649,
+        0.0,
+        1929.05111256868
+      ],
+      [
+        0.0,
+        2623.436269359455,
+        1072.5812137210935
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30727631822563667,
+      0.13613354069992778,
+      0.00259952053777668,
+      0.02651261772744098
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

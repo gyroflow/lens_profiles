@@ -1,0 +1,69 @@
+{
+  "name": "Sony_HDR AS 15_170_170grad_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "StAdolph",
+  "camera_brand": "Sony",
+  "camera_model": "HDR AS 15",
+  "lens_model": "170",
+  "camera_setting": "170grad",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.681968983614283,
+    "camera_matrix": [
+      [
+        791.4993037771882,
+        0.0,
+        965.7026687587625
+      ],
+      [
+        0.0,
+        790.865061969288,
+        566.5209392087218
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.007088300509831148,
+      0.0222608758586149,
+      -0.018961694620670645,
+      0.005354754487454232
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

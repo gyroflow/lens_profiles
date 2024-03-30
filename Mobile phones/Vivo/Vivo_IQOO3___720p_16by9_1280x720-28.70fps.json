@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 720,
+    "w": 1280
+  },
+  "calibrated_by": "Administrator",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Vivo",
+  "camera_model": "IQOO3",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-03-03",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.4700799630381976,
+    "camera_matrix": [
+      [
+        737.0575477923376,
+        0.0,
+        643.2214569668209
+      ],
+      [
+        0.0,
+        738.2802829463941,
+        342.97885983183585
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1802016269547033,
+      0.77442353924233,
+      -1.6984649185108036,
+      1.9070717453968469
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 28.69614,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Vivo_IQOO3___720p_16by9_1280x720-28.70fps",
+  "note": "",
+  "num_images": 14,
+  "official": false,
+  "orig_dimension": {
+    "h": 720,
+    "w": 1280
+  },
+  "output_dimension": {
+    "h": 720,
+    "w": 1280
+  },
+  "sync_settings": null
+}

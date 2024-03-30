@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "calibrated_by": "blekicrot",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Samsung",
+  "camera_model": "Samsung A51 Ultra Wide 9:16",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-03-17",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.34698361066372707,
+    "camera_matrix": [
+      [
+        806.3442619704721,
+        0.0,
+        974.872869783609
+      ],
+      [
+        0.0,
+        808.4974377700572,
+        554.8026881097576
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.25307207139293014,
+      0.5345567894082444,
+      -0.785919487796714,
+      0.5394763003132297
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 30.009071,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Ultra Wide",
+  "name": "Samsung_Samsung A51 Ultra Wide 9:16_Ultra Wide__1080p_16by9_1920x1080-30.01fps",
+  "note": "",
+  "num_images": 14,
+  "official": false,
+  "orig_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "output_dimension": {
+    "h": 1920,
+    "w": 1080
+  },
+  "sync_settings": null
+}

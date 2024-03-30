@@ -1,0 +1,69 @@
+{
+  "name": "Caddx_Tarsier_双摄_4k_1080p_16by9_1920x1080-60.03fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Caddx",
+  "camera_model": "Tarsier",
+  "lens_model": "双摄",
+  "camera_setting": "4k",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 60.029587,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.600659922077926,
+    "camera_matrix": [
+      [
+        1269.7030342911978,
+        0.0,
+        951.7303784310274
+      ],
+      [
+        0.0,
+        1271.532897173895,
+        563.1674256514668
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.11467414358636596,
+      0.08907740681076583,
+      -0.31173627246779906,
+      0.4217616376627683
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

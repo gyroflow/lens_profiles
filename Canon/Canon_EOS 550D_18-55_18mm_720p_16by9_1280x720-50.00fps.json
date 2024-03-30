@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS 550D_18-55_18mm_720p_16by9_1280x720-50.00fps",
+  "note": "50fps",
+  "calibrated_by": "EMSR",
+  "camera_brand": "Canon",
+  "camera_model": "EOS 550D",
+  "lens_model": "18-55",
+  "camera_setting": "18mm",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2257220920739714,
+    "camera_matrix": [
+      [
+        1081.2527019565823,
+        0.0,
+        631.9179758650718
+      ],
+      [
+        0.0,
+        1083.974753528045,
+        363.76831486483314
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.028066907021177055,
+      3.65786803646552,
+      -38.088310242971154,
+      137.2989532216004
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-10-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

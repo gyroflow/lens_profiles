@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6000_岩石星50 f2__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "黄焕",
+  "camera_brand": "Sony",
+  "camera_model": "a6000",
+  "lens_model": "岩石星50 f2",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5445779073537477,
+    "camera_matrix": [
+      [
+        8594.888067000074,
+        0.0,
+        808.0460965996741
+      ],
+      [
+        0.0,
+        8525.040152013587,
+        -271.2903597412331
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.7992688184187592,
+      -49.625203781219966,
+      2385.446237969054,
+      -40294.61212560501
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

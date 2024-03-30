@@ -1,0 +1,69 @@
+{
+  "name": "Sony_RX0II_f3080bb8__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "ss g",
+  "camera_brand": "Sony",
+  "camera_model": "RX0II",
+  "lens_model": "f3080bb8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0044186988982802,
+    "camera_matrix": [
+      [
+        1817.3339003076376,
+        0.0,
+        1901.5552834538491
+      ],
+      [
+        0.0,
+        1818.7747596198817,
+        1052.254157673013
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1658067480128872,
+      0.2005131348378568,
+      -0.2652798963167477,
+      0.12763835980662985
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-dsc-rx0m2-f3080bb8-3840x2160@29970",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

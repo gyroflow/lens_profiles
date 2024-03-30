@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_XS10_XF16-55__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "skshdjjd",
+  "camera_brand": "Fujifilm",
+  "camera_model": "XS10",
+  "lens_model": "XF16-55",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1475921305994643,
+    "camera_matrix": [
+      [
+        1481.099001576636,
+        0.0,
+        918.2122891981344
+      ],
+      [
+        0.0,
+        1476.0122986392507,
+        541.9781275460745
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.28039003226798603,
+      0.9589290158127348,
+      -5.822769467717811,
+      11.266097556447026
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

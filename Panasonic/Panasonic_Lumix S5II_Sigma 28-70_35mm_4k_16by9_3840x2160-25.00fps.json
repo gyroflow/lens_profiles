@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_Lumix S5II_Sigma 28-70_35mm_4k_16by9_3840x2160-25.00fps",
+  "note": "MP4 10bit 4K25p",
+  "calibrated_by": "THIBAULT Rémy",
+  "camera_brand": "Panasonic",
+  "camera_model": "Lumix S5II",
+  "lens_model": "Sigma 28-70",
+  "camera_setting": "35mm",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7495882327014194,
+    "camera_matrix": [
+      [
+        4059.62203536059,
+        0.0,
+        1890.3566081996
+      ],
+      [
+        0.0,
+        4073.245317584624,
+        1105.5197710990478
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3273195074425894,
+      0.316433657494566,
+      -0.44208750380372375,
+      0.12492798026385674
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

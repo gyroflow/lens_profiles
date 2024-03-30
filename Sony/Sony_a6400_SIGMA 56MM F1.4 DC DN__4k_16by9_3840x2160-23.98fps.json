@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_SIGMA 56MM F1.4 DC DN__4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "BC SUN",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "SIGMA 56MM F1.4 DC DN",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9844652003034672,
+    "camera_matrix": [
+      [
+        72563.65533559778,
+        0.0,
+        2423.7592459680673
+      ],
+      [
+        0.0,
+        74589.73828015527,
+        873.3269991427118
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      19.401617311923975,
+      12282.925437612508,
+      -20800772.078180473,
+      9524230012.095898
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2024-01-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

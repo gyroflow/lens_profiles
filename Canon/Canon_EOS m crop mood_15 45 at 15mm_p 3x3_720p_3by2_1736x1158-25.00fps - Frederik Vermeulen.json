@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS m crop mood_15 45 at 15mm_p 3x3_720p_3by2_1736x1158-25.00fps",
+  "note": "",
+  "calibrated_by": "Frederik Vermeulen",
+  "camera_brand": "Canon",
+  "camera_model": "EOS m crop mood",
+  "lens_model": "15 45 at 15mm",
+  "camera_setting": "p 3x3",
+  "calib_dimension": {
+    "w": 1736,
+    "h": 1158
+  },
+  "orig_dimension": {
+    "w": 1736,
+    "h": 1158
+  },
+  "output_dimension": {
+    "w": 1736,
+    "h": 1158
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.482564974152207,
+    "camera_matrix": [
+      [
+        1268.0674328330444,
+        0.0,
+        881.5581346033983
+      ],
+      [
+        0.0,
+        1268.6861605328832,
+        564.3588385270612
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20449559666839112,
+      0.16187210267380434,
+      0.0649052521248449,
+      0.14806526361559658
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

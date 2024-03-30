@@ -1,0 +1,69 @@
+{
+  "name": "Canon_M50 mark I_Ttartisan 35mm 1.4 ef-m_FHD_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "j d",
+  "camera_brand": "Canon",
+  "camera_model": "M50 mark I",
+  "lens_model": "Ttartisan 35mm 1.4 ef-m",
+  "camera_setting": "FHD",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2983523047743123,
+    "camera_matrix": [
+      [
+        3325.766687810786,
+        0.0,
+        1033.9589285713992
+      ],
+      [
+        0.0,
+        3329.2283341256407,
+        543.2106075023023
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.08416528710304721,
+      2.806260815360175,
+      -41.966521694362825,
+      223.58945967415087
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

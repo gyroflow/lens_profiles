@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_Tamron 17-70mm F/2.8_@17mm_4k_16by9_3840x2160-25.00fps",
+  "note": "VERTICAL VIDEO",
+  "calibrated_by": "KING",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "Tamron 17-70mm F/2.8",
+  "camera_setting": "@17mm",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 2160,
+    "h": 3840
+  },
+  "frame_readout_time": 38.64,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6674576030201393,
+    "camera_matrix": [
+      [
+        3309.1741825940117,
+        0.0,
+        1957.427747233114
+      ],
+      [
+        0.0,
+        3276.1021676086,
+        1091.6592685055969
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.283937073881746,
+      0.28326054779937404,
+      -0.23658037264656165,
+      0.19259821496416143
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-e10-bdb211f0-3840x2160@25000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 17.0,
+  "crop_factor": 1.5,
+  "global_shutter": false
+}

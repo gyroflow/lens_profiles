@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R5C_Laowa Nanomorph_35mm 8k FF_2k_2.39by1_2048x858-25.00fps",
+  "note": "",
+  "calibrated_by": "enzo pianetti ",
+  "camera_brand": "Canon",
+  "camera_model": "R5C",
+  "lens_model": "Laowa Nanomorph",
+  "camera_setting": "35mm 8k FF",
+  "calib_dimension": {
+    "w": 2048,
+    "h": 858
+  },
+  "orig_dimension": {
+    "w": 2048,
+    "h": 858
+  },
+  "output_dimension": {
+    "w": 2048,
+    "h": 858
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.580901240066633,
+    "camera_matrix": [
+      [
+        2318.949965034977,
+        0.0,
+        1024.9733341679491
+      ],
+      [
+        0.0,
+        2306.930354283814,
+        656.4016831077325
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.06993569525460322,
+      9.043472927835907,
+      -65.27176082476403,
+      177.66243954526198
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

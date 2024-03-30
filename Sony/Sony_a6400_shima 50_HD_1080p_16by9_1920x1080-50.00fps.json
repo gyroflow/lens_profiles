@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_shima 50_HD_1080p_16by9_1920x1080-50.00fps",
+  "note": "50mm",
+  "calibrated_by": "Leijiahui",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "shima 50",
+  "camera_setting": "HD",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4464852020043177,
+    "camera_matrix": [
+      [
+        2795.142830610428,
+        0.0,
+        934.198143225973
+      ],
+      [
+        0.0,
+        2795.855135545234,
+        580.6789001478695
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2206930433152853,
+      -0.8257752393096521,
+      4.935080466311094,
+      -19.91966218034769
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

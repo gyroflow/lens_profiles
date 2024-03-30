@@ -1,0 +1,69 @@
+{
+  "name": "Canon_5D mark IV_EF 50mm 1.8 STM_50, 1.8, 23.9, FHD_1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "RLM Freez",
+  "camera_brand": "Canon",
+  "camera_model": "5D mark IV",
+  "lens_model": "EF 50mm 1.8 STM",
+  "camera_setting": "50, 1.8, 23.9, FHD",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.33610217456761476,
+    "camera_matrix": [
+      [
+        2822.9839193788625,
+        0.0,
+        956.0045099429556
+      ],
+      [
+        0.0,
+        2819.4382656582347,
+        510.49146666793973
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.049279685189637205,
+      3.747282939853233,
+      -37.709575328086025,
+      122.7467551330072
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

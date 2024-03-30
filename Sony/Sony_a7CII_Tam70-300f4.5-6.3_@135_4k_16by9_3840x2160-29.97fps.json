@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7CII_Tam70-300/f4.5-6.3_@135/_4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Eric",
+  "camera_brand": "Sony",
+  "camera_model": "a7CII",
+  "lens_model": "Tam70-300/f4.5-6.3",
+  "camera_setting": "@135/",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.940566347229729,
+    "camera_matrix": [
+      [
+        32279.95944530332,
+        0.0,
+        1523.6083122021644
+      ],
+      [
+        0.0,
+        32162.23248716191,
+        1177.2718018120822
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      5.463034283440411,
+      -969.0789363006528,
+      198483.40388977272,
+      -16835868.167100493
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7cm2-133.00mm-3840x2160@29970",
+  "calibrator_version": "1.5.1",
+  "date": "2024-01-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 133.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

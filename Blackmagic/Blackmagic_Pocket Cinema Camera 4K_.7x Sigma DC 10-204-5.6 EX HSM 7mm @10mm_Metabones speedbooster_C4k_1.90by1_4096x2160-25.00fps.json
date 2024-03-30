@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 4K_.7x Sigma DC 10-20/4-5.6 EX HSM 7mm @10mm_Metabones speedbooster_C4k_1.90by1_4096x2160-25.00fps",
+  "note": "Metabones speedbooster",
+  "calibrated_by": "Akos Pajdusak",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K",
+  "lens_model": ".7x Sigma DC 10-20/4-5.6 EX HSM 7mm @10mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 44,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2199266743113355,
+    "camera_matrix": [
+      [
+        1586.7029630631116,
+        0.0,
+        2046.4636403061852
+      ],
+      [
+        0.0,
+        1584.4429350876533,
+        1130.2083155315706
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.26314063924564657,
+      0.29734744374244926,
+      -0.11958078260644324,
+      -0.010229342061385325
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera4k-.7xsigmadc10-20/4-5.6exhsm-7mm-4096x2160@25000",
+  "calibrator_version": "1.5.3",
+  "date": "2023-10-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 7.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

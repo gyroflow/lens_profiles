@@ -1,0 +1,69 @@
+{
+  "name": "Sony_nex3n_1650_16mm_1080p_16by9_1920x1080-25.00fps",
+  "note": "关防抖",
+  "calibrated_by": "mr.hongyuanzhang",
+  "camera_brand": "Sony",
+  "camera_model": "nex3n",
+  "lens_model": "1650",
+  "camera_setting": "16mm",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.41492912785530567,
+    "camera_matrix": [
+      [
+        1312.656621331714,
+        0.0,
+        955.6183204483928
+      ],
+      [
+        0.0,
+        1310.3395387808566,
+        548.995066664855
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3089713177872148,
+      -0.005801946760733003,
+      0.44365492808900847,
+      -0.28717460475502604
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "AKASO_Brave 7_G7__1080p_16by9_1920x1080-90.07fps",
+  "note": "",
+  "calibrated_by": "James Keenan",
+  "camera_brand": "AKASO",
+  "camera_model": "Brave 7",
+  "lens_model": "G7",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 90.074364,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3888166732253674,
+    "camera_matrix": [
+      [
+        1146.4106337748865,
+        0.0,
+        930.7694611815152
+      ],
+      [
+        0.0,
+        1147.693282165999,
+        593.823400613454
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.05295141611140532,
+      0.08115144820466438,
+      -0.2743658736217214,
+      0.31486576263315696
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

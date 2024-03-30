@@ -1,0 +1,69 @@
+{
+  "name": "OnePlus_7T_Wide__1080p_16by9_1920x1080-30.15fps",
+  "note": "",
+  "calibrated_by": "tajnymag",
+  "camera_brand": "OnePlus",
+  "camera_model": "7T",
+  "lens_model": "Wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.146137,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7090703919660526,
+    "camera_matrix": [
+      [
+        1010.8844841988566,
+        0.0,
+        963.555282952213
+      ],
+      [
+        0.0,
+        1005.7997187283842,
+        543.6144082222164
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4773499617460823,
+      -0.49781939135382847,
+      1.2142474428906602,
+      -0.6207794548359878
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_Tamron 35-150 f/2-2.8 85.00mm__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Igor Iudnikov",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "Tamron 35-150 f/2-2.8 85.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2747574663059196,
+    "camera_matrix": [
+      [
+        4759.724000049508,
+        0.0,
+        948.5805368813286
+      ],
+      [
+        0.0,
+        4764.056281149672,
+        460.5079950597222
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.25385973483814667,
+      4.4087576321876965,
+      -115.35604807787436,
+      1186.577070533643
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7m4-86.00mm-1920x1080@50000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

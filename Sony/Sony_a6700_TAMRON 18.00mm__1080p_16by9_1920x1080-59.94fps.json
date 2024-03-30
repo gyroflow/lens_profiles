@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6700_TAMRON 18.00mm__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Tao Jiang",
+  "camera_brand": "Sony",
+  "camera_model": "a6700",
+  "lens_model": "TAMRON 18.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3614731732631321,
+    "camera_matrix": [
+      [
+        1643.3178935629703,
+        0.0,
+        951.9156290168166
+      ],
+      [
+        0.0,
+        1644.2185574087257,
+        529.9014985394216
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.09905482586560264,
+      0.236487930650411,
+      -0.7605234362608123,
+      1.680534013699183
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-6700-18.00mm-1920x1080@59940",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 18.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

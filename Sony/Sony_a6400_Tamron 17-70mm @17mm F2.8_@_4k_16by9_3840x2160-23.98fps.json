@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_Tamron 17-70mm @17mm F/2.8_@_4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Willingsworth Pho",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "Tamron 17-70mm @17mm F/2.8",
+  "camera_setting": "@",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": -46.0,
+  "gyro_lpf": 0.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9561182674935172,
+    "camera_matrix": [
+      [
+        2844.576046725295,
+        0.0,
+        1954.9092643192052
+      ],
+      [
+        0.0,
+        2845.4842906640906,
+        1071.4009971345188
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1790475567809247,
+      0.13954466333589985,
+      -0.10178728562414598,
+      0.6736840442235958
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

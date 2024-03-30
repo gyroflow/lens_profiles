@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone 14 pro max_24 mm_HEVC_4k_16by9_3840x2160-24.00fps",
+  "note": "f1.78",
+  "calibrated_by": "Miguel Hernandez",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 14 pro max",
+  "lens_model": "24 mm",
+  "camera_setting": "HEVC",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.997797,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.650313983978152,
+    "camera_matrix": [
+      [
+        2969.9274301150845,
+        0.0,
+        1921.392108808696
+      ],
+      [
+        0.0,
+        2970.8540402294734,
+        1091.7445572727038
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4982878705763121,
+      0.18627776054034545,
+      -2.880417342450748,
+      5.50168981450815
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

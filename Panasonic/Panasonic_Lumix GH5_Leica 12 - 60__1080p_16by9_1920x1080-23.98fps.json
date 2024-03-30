@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_Lumix GH5_Leica 12 - 60__1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Micah Peterson",
+  "camera_brand": "Panasonic",
+  "camera_model": "Lumix GH5",
+  "lens_model": "Leica 12 - 60",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 6,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4984355533208777,
+    "camera_matrix": [
+      [
+        3520.2614449126363,
+        0.0,
+        965.3985050088291
+      ],
+      [
+        0.0,
+        3518.920382212581,
+        498.537978970823
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.37549760384994374,
+      0.34909013567645897,
+      -24.452872106571416,
+      201.05001940506628
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7III_FE 4/ 25-105 G OOS_1/1000_4k_16by9_3840x2160-25.00fps",
+  "note": "24mm IBIS OFF",
+  "calibrated_by": "RobR",
+  "camera_brand": "Sony",
+  "camera_model": "a7III",
+  "lens_model": "FE 4/ 25-105 G OOS",
+  "camera_setting": "1/1000",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.49642985626845904,
+    "camera_matrix": [
+      [
+        2876.000382875814,
+        0.0,
+        1939.5380273778649
+      ],
+      [
+        0.0,
+        2877.1193770247664,
+        1028.4903905071196
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2688668896848028,
+      0.3917920769894426,
+      -1.567976853707555,
+      3.361761239231358
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

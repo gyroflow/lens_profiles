@@ -1,0 +1,69 @@
+{
+  "name": "Motorola_Edge S Pro_main 24mm__4k_16by9_4000x2250-30.01fps",
+  "note": "",
+  "calibrated_by": "Charles",
+  "camera_brand": "Motorola",
+  "camera_model": "Edge S Pro",
+  "lens_model": "main 24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4000,
+    "h": 2250
+  },
+  "orig_dimension": {
+    "w": 4000,
+    "h": 2250
+  },
+  "output_dimension": {
+    "w": 4000,
+    "h": 2250
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 30.007175,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7851478326048708,
+    "camera_matrix": [
+      [
+        2861.2447036131975,
+        0.0,
+        2022.0963174936096
+      ],
+      [
+        0.0,
+        2846.9045603490104,
+        1113.6736157941766
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.510660710706837,
+      -1.0429199791013757,
+      3.9447305514495663,
+      -4.737152658602816
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Caddx_Vista__Racing Goggles V2_480p_4by3_960x720-60.00fps",
+  "note": "",
+  "calibrated_by": "Tu Vuong",
+  "camera_brand": "Caddx",
+  "camera_model": "Vista",
+  "lens_model": "",
+  "camera_setting": "Racing Goggles V2",
+  "calib_dimension": {
+    "w": 960,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 960,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 960,
+    "h": 720
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4441944077142176,
+    "camera_matrix": [
+      [
+        448.5275889514456,
+        0.0,
+        483.1365290830068
+      ],
+      [
+        0.0,
+        448.573193120688,
+        367.88766679790433
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.010820901199506967,
+      0.02927800599242853,
+      -0.02924705257450585,
+      0.011676923837520172
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

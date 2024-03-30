@@ -1,0 +1,69 @@
+{
+  "name": "Canon_RP_RF 50mm F1.8_43mm-8bit_1080p_16by9_1920x1080-59.94fps",
+  "note": "43mm-8bit",
+  "calibrated_by": "Mamad_Kakah",
+  "camera_brand": "Canon",
+  "camera_model": "RP",
+  "lens_model": "RF 50mm F1.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3021450388019045,
+    "camera_matrix": [
+      [
+        2805.351893218884,
+        0.0,
+        941.9577649342956
+      ],
+      [
+        0.0,
+        2802.97580041088,
+        557.0895386562498
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3924348754015806,
+      -1.701843931179326,
+      15.366900200163524,
+      -54.785152357939815
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

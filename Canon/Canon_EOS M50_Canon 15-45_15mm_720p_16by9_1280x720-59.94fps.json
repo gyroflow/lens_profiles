@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS M50_Canon 15-45_15mm_720p_16by9_1280x720-59.94fps",
+  "note": "15mm",
+  "calibrated_by": "sahil saleem",
+  "camera_brand": "Canon",
+  "camera_model": "EOS M50",
+  "lens_model": "Canon 15-45",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 6,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3614308542409928,
+    "camera_matrix": [
+      [
+        965.7223689607792,
+        0.0,
+        671.3077804380246
+      ],
+      [
+        0.0,
+        963.120901973558,
+        358.55709797486566
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2182902914584759,
+      0.1481341167389939,
+      0.16199966731041718,
+      -0.07736549847954707
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

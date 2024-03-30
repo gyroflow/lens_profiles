@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_GH5M2_LUMIX G VARIO 14-140/F3.5-5.6  14mm_1.60 f3.5_4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Christophe",
+  "camera_brand": "Panasonic",
+  "camera_model": "GH5M2",
+  "lens_model": "LUMIX G VARIO 14-140/F3.5-5.6  14mm",
+  "camera_setting": "1.60 f3.5",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8334472696534603,
+    "camera_matrix": [
+      [
+        3562.3172466282203,
+        0.0,
+        1947.607841456176
+      ],
+      [
+        0.0,
+        3559.9109633031903,
+        1091.1627592004363
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.27090460131461236,
+      0.025345326576223428,
+      0.9721317683733934,
+      -2.452758365758158
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

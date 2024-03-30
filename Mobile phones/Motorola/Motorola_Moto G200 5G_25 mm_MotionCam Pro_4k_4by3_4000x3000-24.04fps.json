@@ -1,0 +1,69 @@
+{
+  "name": "Motorola_Moto G200 5G_25 mm_MotionCam Pro_4k_4by3_4000x3000-24.04fps",
+  "note": "MotionCam Pro",
+  "calibrated_by": "JoHuam",
+  "camera_brand": "Motorola",
+  "camera_model": "Moto G200 5G",
+  "lens_model": "25 mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "orig_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "output_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 24.035337,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6688475502252196,
+    "camera_matrix": [
+      [
+        2781.0868339243034,
+        0.0,
+        2015.284041265303
+      ],
+      [
+        0.0,
+        2780.675444171661,
+        1479.7256665935813
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.47865558893378646,
+      -1.205742606629778,
+      3.9693430663388303,
+      -4.145595125466154
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

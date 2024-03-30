@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_df871ce3__4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "翁晨灿",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "df871ce3",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.9683766747178728,
+    "camera_matrix": [
+      [
+        4014.545556439315,
+        0.0,
+        2259.5097600448007
+      ],
+      [
+        0.0,
+        4021.5627361745032,
+        1006.8197343272348
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2581819983012846,
+      -0.16370626885896933,
+      6.648905783349006,
+      -16.560437117142488
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-df871ce3-3840x2160@23976",
+  "calibrator_version": "1.5.3",
+  "date": "2023-11-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

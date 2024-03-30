@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7rIII_24MM  F1.8__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Raikvolt",
+  "camera_brand": "Sony",
+  "camera_model": "a7rIII",
+  "lens_model": "24MM  F1.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3570532589005669,
+    "camera_matrix": [
+      [
+        1322.7828491668336,
+        0.0,
+        960.417140504571
+      ],
+      [
+        0.0,
+        1323.647477015924,
+        536.5696522985218
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19879605669036104,
+      0.37075572602214857,
+      -0.6071545552496985,
+      1.420953756286674
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6500_Sony FE 28-70 f/3.5-5.6_@ 28mm f/3.5_4k_16by9_3840x2160-25.00fps",
+  "note": "@ 28mm f/3.5",
+  "calibrated_by": "Kadijk, Jasper",
+  "camera_brand": "Sony",
+  "camera_model": "a6500",
+  "lens_model": "Sony FE 28-70 f/3.5-5.6",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9662986047526548,
+    "camera_matrix": [
+      [
+        4868.541913066333,
+        0.0,
+        1950.8087962871743
+      ],
+      [
+        0.0,
+        4873.707254061244,
+        1022.0343352830084
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.18806127739934367,
+      0.950188066384875,
+      -10.303521827753,
+      41.756434553518304
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

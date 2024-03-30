@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS R_Sigma 17-50_29fps_4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Salvatore",
+  "camera_brand": "Canon",
+  "camera_model": "EOS R",
+  "lens_model": "Sigma 17-50",
+  "camera_setting": "29fps",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7958434121597797,
+    "camera_matrix": [
+      [
+        4032.5045668211847,
+        0.0,
+        1980.5844800920993
+      ],
+      [
+        0.0,
+        4029.482683110494,
+        1114.4356930023507
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.18272216878529468,
+      2.51329676656828,
+      -34.524346409363396,
+      140.13775178923555
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

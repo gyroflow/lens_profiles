@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_S1H_24-105mm F4 MACRO O.I.S__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Chan Tony",
+  "camera_brand": "Panasonic",
+  "camera_model": "S1H",
+  "lens_model": "24-105mm F4 MACRO O.I.S",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.39422120754082784,
+    "camera_matrix": [
+      [
+        1354.7149735369244,
+        0.0,
+        961.8140741851888
+      ],
+      [
+        0.0,
+        1358.4528616927555,
+        531.3195371848051
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.29124600821446023,
+      0.2721397037563321,
+      -0.491634461207276,
+      0.6504315491040664
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

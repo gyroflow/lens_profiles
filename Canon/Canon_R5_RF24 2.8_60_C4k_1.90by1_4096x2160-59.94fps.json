@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R5_RF24 2.8_60_C4k_1.90by1_4096x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "许镭",
+  "camera_brand": "Canon",
+  "camera_model": "R5",
+  "lens_model": "RF24 2.8",
+  "camera_setting": "60",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 15.5,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6949536767951032,
+    "camera_matrix": [
+      [
+        2822.222285297063,
+        0.0,
+        2050.3747600701736
+      ],
+      [
+        0.0,
+        2822.3639765818384,
+        1086.4002000372404
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32272784139527305,
+      0.20671300485192132,
+      -0.15464576061437285,
+      0.25065351685567366
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

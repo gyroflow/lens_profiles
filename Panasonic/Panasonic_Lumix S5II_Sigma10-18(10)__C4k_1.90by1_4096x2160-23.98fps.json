@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_Lumix S5II_Sigma10-18(10)__C4k_1.90by1_4096x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "尹子豪",
+  "camera_brand": "Panasonic",
+  "camera_model": "Lumix S5II",
+  "lens_model": "Sigma10-18(10)",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6375720705728715,
+    "camera_matrix": [
+      [
+        1708.2217552209772,
+        0.0,
+        2042.6631580748103
+      ],
+      [
+        0.0,
+        1711.5436104531568,
+        1073.743773211565
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31330439913666813,
+      0.23269582746748252,
+      -0.112074336367259,
+      0.15813171416417027
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

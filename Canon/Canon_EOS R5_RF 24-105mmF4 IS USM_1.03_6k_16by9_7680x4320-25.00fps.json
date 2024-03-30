@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS R5_RF 24-105mmF4 IS USM_1.03_6k_16by9_7680x4320-25.00fps",
+  "note": "1.03",
+  "calibrated_by": "WangZiCang",
+  "camera_brand": "Canon",
+  "camera_model": "EOS R5",
+  "lens_model": "RF 24-105mmF4 IS USM",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 6,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.031435437663936,
+    "camera_matrix": [
+      [
+        8460.53857510468,
+        0.0,
+        3850.9245527625194
+      ],
+      [
+        0.0,
+        8513.210478661449,
+        1747.453848581144
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3720600983575316,
+      -0.5475800369148394,
+      6.456047010474107,
+      -17.351893128078846
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

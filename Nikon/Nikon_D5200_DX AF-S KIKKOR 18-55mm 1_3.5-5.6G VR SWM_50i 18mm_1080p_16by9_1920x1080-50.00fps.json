@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_D5200_DX AF-S KIKKOR 18-55mm 1:3.5-5.6G VR SWM_50i 18mm_1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "ChZT",
+  "camera_brand": "Nikon",
+  "camera_model": "D5200",
+  "lens_model": "DX AF-S KIKKOR 18-55mm 1:3.5-5.6G VR SWM",
+  "camera_setting": "50i 18mm",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4809086062928652,
+    "camera_matrix": [
+      [
+        1893.2749976987773,
+        0.0,
+        978.109254694908
+      ],
+      [
+        0.0,
+        1891.5367094863411,
+        563.2510533962246
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.27597473388203186,
+      -0.1873881671479029,
+      0.7753697716057596,
+      0.23782674937153808
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-12-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

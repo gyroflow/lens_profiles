@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 4K V2_Laowa 7.5 M43__C4k_1.90by1_4096x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "Hsu Jung-Hsiang",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K V2",
+  "lens_model": "Laowa 7.5 M43",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.4549293072220937,
+    "camera_matrix": [
+      [
+        1686.3848483062611,
+        0.0,
+        2050.7116530767025
+      ],
+      [
+        0.0,
+        1687.8794640990825,
+        1078.6903565240814
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31268906994160695,
+      0.15243798100763856,
+      -0.0972889962160592,
+      0.12230026473176844
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

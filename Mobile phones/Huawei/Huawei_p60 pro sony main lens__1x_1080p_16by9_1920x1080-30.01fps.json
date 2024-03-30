@@ -1,0 +1,69 @@
+{
+  "name": "Huawei_p60 pro sony main lens__1x_1080p_16by9_1920x1080-30.01fps",
+  "note": "",
+  "calibrated_by": "Samer",
+  "camera_brand": "Huawei",
+  "camera_model": "p60 pro sony main lens",
+  "lens_model": "",
+  "camera_setting": "1x",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.005358,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3866131855628869,
+    "camera_matrix": [
+      [
+        1493.0718444693484,
+        0.0,
+        956.158561762476
+      ],
+      [
+        0.0,
+        1491.6308018522711,
+        539.8783328247026
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6954912440868095,
+      -2.7184817325347863,
+      10.196208162174118,
+      -13.30476334439221
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

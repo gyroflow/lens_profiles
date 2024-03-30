@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_sony16mm__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "黄",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "sony16mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.35178874850064423,
+    "camera_matrix": [
+      [
+        1339.6264019328512,
+        0.0,
+        973.4454672381148
+      ],
+      [
+        0.0,
+        1339.8233179502977,
+        541.0195420236635
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3034091724800638,
+      -0.13475240418753512,
+      1.4319018532349488,
+      -1.80436982923417
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

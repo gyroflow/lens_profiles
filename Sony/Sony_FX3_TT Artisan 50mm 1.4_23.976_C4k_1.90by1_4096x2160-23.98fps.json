@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_TT Artisan 50mm 1.4_23.976_C4k_1.90by1_4096x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Cosmo Free",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "TT Artisan 50mm 1.4",
+  "camera_setting": "23.976",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8384371973582857,
+    "camera_matrix": [
+      [
+        5704.616478292879,
+        0.0,
+        1995.3539106186452
+      ],
+      [
+        0.0,
+        5706.305685045093,
+        997.5945173303008
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.09888720314194636,
+      0.7513430150853647,
+      -5.646480208897421,
+      19.987863296417817
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z30 DX_Z 40mm__1080p_16by9_1920x1080-119.88fps",
+  "note": "",
+  "calibrated_by": "MatriX Jiang",
+  "camera_brand": "Nikon",
+  "camera_model": "Z30 DX",
+  "lens_model": "Z 40mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 119.880119,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2642450153147365,
+    "camera_matrix": [
+      [
+        3355.049981483935,
+        0.0,
+        963.6763824007382
+      ],
+      [
+        0.0,
+        3352.8532685303812,
+        519.1855545383452
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.34823223988515256,
+      -1.8246880954750304,
+      41.33658007252123,
+      -382.1614186360805
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

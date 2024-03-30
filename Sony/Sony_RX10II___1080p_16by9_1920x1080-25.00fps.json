@@ -1,0 +1,69 @@
+{
+  "name": "Sony_RX10II___1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "wujinsheng",
+  "camera_brand": "Sony",
+  "camera_model": "RX10II",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8208461127090443,
+    "camera_matrix": [
+      [
+        1331.2362481797102,
+        0.0,
+        967.4973228523618
+      ],
+      [
+        0.0,
+        1324.2928169185411,
+        522.8710817452854
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33337049854066264,
+      0.156873420058601,
+      -0.07764985624831605,
+      0.12096222813628836
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

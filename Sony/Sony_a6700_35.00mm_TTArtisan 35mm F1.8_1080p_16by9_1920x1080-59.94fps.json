@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6700_35.00mm_TTArtisan 35mm F1.8_1080p_16by9_1920x1080-59.94fps",
+  "note": "TTArtisan 35mm F1.8",
+  "calibrated_by": "oranpig",
+  "camera_brand": "Sony",
+  "camera_model": "a6700",
+  "lens_model": "35.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2642711120198657,
+    "camera_matrix": [
+      [
+        3132.068743730383,
+        0.0,
+        944.6703942075584
+      ],
+      [
+        0.0,
+        3131.1991271163574,
+        520.1319526349433
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1786991830020258,
+      2.093114504023767,
+      -18.78949245136894,
+      45.57030493783545
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-6700-35.00mm-1920x1080@59940",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

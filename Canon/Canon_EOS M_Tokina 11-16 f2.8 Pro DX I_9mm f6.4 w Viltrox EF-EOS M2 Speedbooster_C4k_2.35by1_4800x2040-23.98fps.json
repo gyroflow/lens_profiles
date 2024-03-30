@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS M_Tokina 11-16 f2.8 Pro DX I_9mm f6.4 w Viltrox EF-EOS M2 Speedbooster_C4k_2.35by1_4800x2040-23.98fps",
+  "note": "",
+  "calibrated_by": "Marvin Jel",
+  "camera_brand": "Canon",
+  "camera_model": "EOS M",
+  "lens_model": "Tokina 11-16 f2.8 Pro DX I",
+  "camera_setting": "9mm f6.4 w Viltrox EF-EOS M2 Speedbooster",
+  "calib_dimension": {
+    "w": 4800,
+    "h": 2040
+  },
+  "orig_dimension": {
+    "w": 4800,
+    "h": 2040
+  },
+  "output_dimension": {
+    "w": 4800,
+    "h": 2040
+  },
+  "frame_readout_time": -6.042927750151526,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.983,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.1618036618905374,
+    "camera_matrix": [
+      [
+        2323.6027386187825,
+        0.0,
+        2348.5473801129183
+      ],
+      [
+        0.0,
+        2321.4492839385566,
+        1075.1309242884904
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.36652487788557103,
+      -0.08370365664586922,
+      0.41633615190231565,
+      -0.32020512475850244
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

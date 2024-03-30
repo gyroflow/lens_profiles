@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 3240,
+    "w": 6144
+  },
+  "calibrated_by": "Katsuhiko Masuda",
+  "calibrator_version": "1.5.3",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "camera_setting": "6K 17:9",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.8890209050204961,
+    "camera_matrix": [
+      [
+        3499.8434793123483,
+        0.0,
+        3088.771955236121
+      ],
+      [
+        0.0,
+        3498.5124127806403,
+        1651.4947316354642
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2658882009270329,
+      0.1604406404905279,
+      -0.1226523017615111,
+      0.23809933932062835
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 15.0,
+  "fps": 23.976025,
+  "frame_readout_time": 0.0,
+  "global_shutter": true,
+  "gyro_lpf": null,
+  "identifier": "-red-komodo-x6ks35-rf15-35mmf2.8lisusm-15.00mm-6144x3240@0",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "RF15-35mm F2.8 L IS USM 15.00mm",
+  "name": "RED_KOMODO-X 6K S35_RF15-35mm F2.8 L IS USM 15.00mm_6K 17:9_6k_1.90by1_6144x3240-23.98fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 3240,
+    "w": 6144
+  },
+  "output_dimension": {
+    "h": 3240,
+    "w": 6144
+  },
+  "sync_settings": null
+}

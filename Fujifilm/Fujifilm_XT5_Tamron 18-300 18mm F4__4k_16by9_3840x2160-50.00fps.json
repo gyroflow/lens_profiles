@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_XT5_Tamron 18-300 18mm F4__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "王瑞杰",
+  "camera_brand": "Fujifilm",
+  "camera_model": "XT5",
+  "lens_model": "Tamron 18-300 18mm F4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": -13.3,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8290320104347828,
+    "camera_matrix": [
+      [
+        3382.174467309213,
+        0.0,
+        1924.0139531249392
+      ],
+      [
+        0.0,
+        3383.6647159786207,
+        1118.8350826424753
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32233956221725785,
+      0.8545232677905693,
+      -5.9206621129144,
+      14.29919795667101
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

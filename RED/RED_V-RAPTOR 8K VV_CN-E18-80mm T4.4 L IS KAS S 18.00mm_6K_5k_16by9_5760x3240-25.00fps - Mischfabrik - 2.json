@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 3240,
+    "w": 5760
+  },
+  "calibrated_by": "Mischfabrik",
+  "calibrator_version": "1.5.3",
+  "camera_brand": "RED",
+  "camera_model": "V-RAPTOR 8K VV",
+  "camera_setting": "6K",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2023-10-19",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.6764525867714829,
+    "camera_matrix": [
+      [
+        3695.8864739205887,
+        0.0,
+        2904.731261586579
+      ],
+      [
+        0.0,
+        3696.7122053787953,
+        1632.9673012893647
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1511685802007264,
+      0.2527181709799885,
+      -0.0734696434294904,
+      0.19258138201844743
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 18.0,
+  "fps": 25.0,
+  "frame_readout_time": 0.0,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-red-v-raptor8kvv-cn-e18-80mmt4.4liskass-18.00mm-5760x3240@0",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "CN-E18-80mm T4.4 L IS KAS S 18.00mm",
+  "name": "RED_V-RAPTOR 8K VV_CN-E18-80mm T4.4 L IS KAS S 18.00mm_6K_5k_16by9_5760x3240-25.00fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 3240,
+    "w": 5760
+  },
+  "output_dimension": {
+    "h": 3240,
+    "w": 5760
+  },
+  "sync_settings": null
+}

@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Samyang 14mm f2.8_6K_5k_16by9_5760x3240-25.00fps",
+  "note": "with Canon Speedbooster",
+  "calibrated_by": "GEE",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Samyang 14mm f2.8",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9022382941338172,
+    "camera_matrix": [
+      [
+        2316.3113484105816,
+        0.0,
+        2898.676978995967
+      ],
+      [
+        0.0,
+        2317.1801734215323,
+        1574.6468167552746
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.180505404708888,
+      0.14458788261996747,
+      -0.09537799677180718,
+      0.17308759097124315
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Canon_650D_Canon 50mm STM_1/125 5.6_1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "Andre Zamith Selvaggio",
+  "camera_brand": "Canon",
+  "camera_model": "650D",
+  "lens_model": "Canon 50mm STM",
+  "camera_setting": "1/125 5.6",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3727630078423688,
+    "camera_matrix": [
+      [
+        4611.343914010737,
+        0.0,
+        992.6761555369008
+      ],
+      [
+        0.0,
+        4623.092973802993,
+        485.2165275047287
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.15475873859308312,
+      13.579881879420975,
+      -359.891814088692,
+      403.7113639015277
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

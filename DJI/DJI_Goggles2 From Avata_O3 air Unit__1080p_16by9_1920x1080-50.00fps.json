@@ -1,0 +1,69 @@
+{
+  "name": "DJI_Goggles2 From Avata_O3 air Unit__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Henry Zhang",
+  "camera_brand": "DJI",
+  "camera_model": "Goggles2 From Avata",
+  "lens_model": "O3 air Unit",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.24500017835456803,
+    "camera_matrix": [
+      [
+        708.4384952272591,
+        0.0,
+        952.824224107703
+      ],
+      [
+        0.0,
+        707.3729497061603,
+        542.6448272302996
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2559608493853444,
+      0.01047833882442176,
+      -0.07547941661170574,
+      0.02296777082852691
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

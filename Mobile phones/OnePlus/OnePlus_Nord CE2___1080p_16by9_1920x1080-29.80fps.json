@@ -1,0 +1,69 @@
+{
+  "name": "OnePlus_Nord CE2___1080p_16by9_1920x1080-29.80fps",
+  "note": "",
+  "calibrated_by": "Breandan.Macgabhann",
+  "camera_brand": "OnePlus",
+  "camera_model": "Nord CE2",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.799416,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.34256750214542253,
+    "camera_matrix": [
+      [
+        1830.3239264195352,
+        0.0,
+        963.0584761349168
+      ],
+      [
+        0.0,
+        1821.824239139127,
+        566.413609306766
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3609205319238847,
+      0.19953689094443747,
+      2.0153960140087026,
+      -8.059796032799232
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-10-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

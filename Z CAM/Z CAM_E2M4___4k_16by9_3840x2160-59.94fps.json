@@ -1,0 +1,69 @@
+{
+  "name": "Z CAM_E2M4___4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Lixiang",
+  "camera_brand": "Z CAM",
+  "camera_model": "E2M4",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4884764987588672,
+    "camera_matrix": [
+      [
+        1795.2654683864528,
+        0.0,
+        1892.5198860655944
+      ],
+      [
+        0.0,
+        1796.5501269522715,
+        1096.948493961423
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.03498240990925784,
+      0.024762262930120345,
+      -0.02667086899330665,
+      0.011484901949016356
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

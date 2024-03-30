@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS R7_RF 24-105mm F4 L IS USM_24.98 fps_1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Rosggy Albert Otero Valdiviezo",
+  "camera_brand": "Canon",
+  "camera_model": "EOS R7",
+  "lens_model": "RF 24-105mm F4 L IS USM",
+  "camera_setting": "24.98 fps",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5174458305278957,
+    "camera_matrix": [
+      [
+        2077.6413038200976,
+        0.0,
+        891.3567750688592
+      ],
+      [
+        0.0,
+        2083.9271764207833,
+        544.0303104326915
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20078302408241183,
+      0.7166499513395915,
+      -3.689260822497093,
+      8.466018676052233
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

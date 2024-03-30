@@ -1,0 +1,69 @@
+{
+  "name": "SJCAM_c100+___1080p_16by9_1920x1080-60.00fps",
+  "note": "",
+  "calibrated_by": "U0 A43",
+  "camera_brand": "SJCAM",
+  "camera_model": "c100+",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 3.0261423237445473,
+    "camera_matrix": [
+      [
+        1893.478806910102,
+        0.0,
+        924.4666777032872
+      ],
+      [
+        0.0,
+        1896.3517394717703,
+        525.7760832380545
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.6893050549105075,
+      0.9284430135058958,
+      -2.4314827048378027,
+      4.033883200165735
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

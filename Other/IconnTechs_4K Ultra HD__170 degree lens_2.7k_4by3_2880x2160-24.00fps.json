@@ -1,0 +1,69 @@
+{
+  "name": "IconnTechs_4K Ultra HD__170 degree lens_2.7k_4by3_2880x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "Garrett",
+  "camera_brand": "IconnTechs",
+  "camera_model": "4K Ultra HD",
+  "lens_model": "",
+  "camera_setting": "170 degree lens",
+  "calib_dimension": {
+    "w": 2880,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 2880,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 2880,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2091088397921244,
+    "camera_matrix": [
+      [
+        1707.0568506341808,
+        0.0,
+        1474.7458163615595
+      ],
+      [
+        0.0,
+        2291.138250117237,
+        982.113270084062
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20072822956099864,
+      -0.24078479773770195,
+      0.35250164566018977,
+      -0.3842656268307623
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

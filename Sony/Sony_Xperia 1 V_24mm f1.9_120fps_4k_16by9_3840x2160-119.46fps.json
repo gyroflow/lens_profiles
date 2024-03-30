@@ -1,0 +1,69 @@
+{
+  "name": "Sony_Xperia 1 V_24mm f1.9_120fps_4k_16by9_3840x2160-119.46fps",
+  "note": "",
+  "calibrated_by": "L",
+  "camera_brand": "Sony",
+  "camera_model": "Xperia 1 V",
+  "lens_model": "24mm f1.9",
+  "camera_setting": "120fps",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 119.456963,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6740347324483774,
+    "camera_matrix": [
+      [
+        2431.244272972352,
+        0.0,
+        1914.0542864550184
+      ],
+      [
+        0.0,
+        2425.648525655344,
+        1099.0346901296955
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4891456237446092,
+      -0.7661811092169282,
+      3.044118799164028,
+      -3.780628550364906
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

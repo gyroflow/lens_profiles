@@ -1,0 +1,69 @@
+{
+  "name": "VIVITAR_DVR923-KIT-BLK_N/A (Built in)_60_1080p_16by9_1920x1080-58.68fps",
+  "note": "",
+  "calibrated_by": "Daniel Laskowski",
+  "camera_brand": "VIVITAR",
+  "camera_model": "DVR923-KIT-BLK",
+  "lens_model": "N/A (Built in)",
+  "camera_setting": "60",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 58.683636,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3480958103337496,
+    "camera_matrix": [
+      [
+        1381.6962596894425,
+        0.0,
+        959.4941348661408
+      ],
+      [
+        0.0,
+        1397.7298933548116,
+        560.8387042608601
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.14566570886417646,
+      0.214962656333457,
+      -0.5280607254874441,
+      0.4547366605040731
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

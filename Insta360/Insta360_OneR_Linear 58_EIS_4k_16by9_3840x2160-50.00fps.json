@@ -1,0 +1,69 @@
+{
+  "name": "Insta360_OneR_Linear 58_EIS_4k_16by9_3840x2160-50.00fps",
+  "note": "EIS",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Insta360",
+  "camera_model": "OneR",
+  "lens_model": "Linear 58",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6162204259512517,
+    "camera_matrix": [
+      [
+        3299.1948690872364,
+        0.0,
+        1909.7152128366652
+      ],
+      [
+        0.0,
+        3296.925714880577,
+        1083.537047212911
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3203054668034268,
+      0.39792067307087464,
+      -1.4279192314097593,
+      2.6648696077132503
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "insta360-oner-linear58-3840x2160@50000-eis",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

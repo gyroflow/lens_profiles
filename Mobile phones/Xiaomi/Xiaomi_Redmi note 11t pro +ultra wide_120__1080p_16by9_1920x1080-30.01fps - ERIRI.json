@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_Redmi note 11t pro +ultra wide_120°__1080p_16by9_1920x1080-30.01fps",
+  "note": "",
+  "calibrated_by": "ERIRI",
+  "camera_brand": "Xiaomi",
+  "camera_model": "Redmi note 11t pro +ultra wide",
+  "lens_model": "120°",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 30.009838,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.46941317757313034,
+    "camera_matrix": [
+      [
+        1073.55858526722,
+        0.0,
+        948.4115734094956
+      ],
+      [
+        0.0,
+        1073.1253725766271,
+        528.2604818762445
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3543857546865719,
+      0.07329968547836371,
+      -0.18853787457065152,
+      0.611671579334654
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2024-02-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

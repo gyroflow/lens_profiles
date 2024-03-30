@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_Redmi Note 11 pro 4G___1080p_16by9_1920x1080-29.92fps",
+  "note": "",
+  "calibrated_by": "U0 A237",
+  "camera_brand": "Xiaomi",
+  "camera_model": "Redmi Note 11 pro 4G",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.917686,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.38436003768645094,
+    "camera_matrix": [
+      [
+        1447.8387404907503,
+        0.0,
+        946.0640780941084
+      ],
+      [
+        0.0,
+        1445.8446035255154,
+        536.0026512390377
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.543496578595775,
+      -2.078907884833456,
+      9.89230111492163,
+      -14.40861066802305
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

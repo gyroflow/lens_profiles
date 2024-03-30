@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7sIII_Sirui Saturn 35mm anamorphic_35mm_4k_16by9_3840x2160-59.94fps",
+  "note": "35mm",
+  "calibrated_by": "PZ",
+  "camera_brand": "Sony",
+  "camera_model": "a7sIII",
+  "lens_model": "Sirui Saturn 35mm anamorphic",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.364071769085465,
+    "camera_matrix": [
+      [
+        2391.8874631758517,
+        0.0,
+        2025.173744243324
+      ],
+      [
+        0.0,
+        3801.901625995269,
+        1156.342170663741
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.40006608105035874,
+      -0.7152244159360578,
+      1.8561578788516135,
+      -1.4096468608279789
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

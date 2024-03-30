@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS T6S_Rokinon 35mm f1.5_FHD_1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "User",
+  "camera_brand": "Canon",
+  "camera_model": "EOS T6S",
+  "lens_model": "Rokinon 35mm f1.5",
+  "camera_setting": "FHD",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4397739850526035,
+    "camera_matrix": [
+      [
+        3241.5488605746805,
+        0.0,
+        946.8510092618428
+      ],
+      [
+        0.0,
+        3240.05704996415,
+        527.7375456102887
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2136588219489138,
+      -1.029923457602953,
+      11.709764898203286,
+      59.00157282044073
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

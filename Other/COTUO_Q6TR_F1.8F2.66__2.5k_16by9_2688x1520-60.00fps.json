@@ -1,0 +1,69 @@
+{
+  "name": "COTUO_Q6TR_F1.8F2.66__2.5k_16by9_2688x1520-60.00fps",
+  "note": "",
+  "calibrated_by": "ZXQ",
+  "camera_brand": "COTUO",
+  "camera_model": "Q6TR",
+  "lens_model": "F1.8F2.66",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2688,
+    "h": 1520
+  },
+  "orig_dimension": {
+    "w": 2688,
+    "h": 1520
+  },
+  "output_dimension": {
+    "w": 2688,
+    "h": 1520
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7917218687342926,
+    "camera_matrix": [
+      [
+        1863.960239969314,
+        0.0,
+        1341.7848970147345
+      ],
+      [
+        0.0,
+        1854.8193703395364,
+        798.3928450265352
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.0012339227679017584,
+      0.14629731311214425,
+      -0.49691988952071486,
+      0.5189507734238211
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

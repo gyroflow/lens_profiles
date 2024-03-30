@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 3000,
+    "w": 4000
+  },
+  "calibrated_by": "Emanuel Caceres",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO11 Black Mini",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.6243692907066415,
+    "camera_matrix": [
+      [
+        1908.458785682052,
+        0.0,
+        1997.6306273612947
+      ],
+      [
+        0.0,
+        1907.8567330641467,
+        1500.2065976104695
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.394327279901885,
+      -0.14020976474426433,
+      0.5522929005536285,
+      -0.2584401112670914
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 50.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-gopro-hero11blackmini-linear-4000x3000@50000-no-eis",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Linear",
+  "name": "GoPro_HERO11 Black Mini_Linear_NO-EIS_4k_4by3_4000x3000-50.00fps",
+  "note": "NO-EIS",
+  "num_images": 10,
+  "official": false,
+  "orig_dimension": {
+    "h": 3000,
+    "w": 4000
+  },
+  "output_dimension": {
+    "h": 3000,
+    "w": 4000
+  },
+  "sync_settings": null
+}

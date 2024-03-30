@@ -1,0 +1,69 @@
+{
+  "name": "Canon_m50 mark II_Canon 24-70 mm_CP_1080p_16by9_1920x1080-25.00fps",
+  "note": "24 mm",
+  "calibrated_by": "Jeisson Caro",
+  "camera_brand": "Canon",
+  "camera_model": "m50 mark II",
+  "lens_model": "Canon 24-70 mm",
+  "camera_setting": "CP",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.45448014628646066,
+    "camera_matrix": [
+      [
+        1503.9218247128292,
+        0.0,
+        957.5405135148992
+      ],
+      [
+        0.0,
+        1506.7855786774662,
+        551.421609457302
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1610103982890518,
+      0.3654303983240046,
+      -0.8617836662463182,
+      1.4132774737726057
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

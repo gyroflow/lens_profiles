@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_Leica R 50mm f2.0__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Brieuc LE MERCIER",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "Leica R 50mm f2.0",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6761018493387354,
+    "camera_matrix": [
+      [
+        6083.2365291697615,
+        0.0,
+        1895.2834111105456
+      ],
+      [
+        0.0,
+        6091.5069170734105,
+        1062.7695146557169
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19347887200437971,
+      1.2014308952733344,
+      -11.134664057158975,
+      45.04630239055881
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

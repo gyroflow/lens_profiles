@@ -1,0 +1,69 @@
+{
+  "name": "RunCam_Thumb Pro__60_1080p_16by9_1920x1080-60.00fps",
+  "note": "",
+  "calibrated_by": "RoxT",
+  "camera_brand": "RunCam",
+  "camera_model": "Thumb Pro",
+  "lens_model": "",
+  "camera_setting": "60",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5827118385832141,
+    "camera_matrix": [
+      [
+        963.3721746314188,
+        0.0,
+        930.514050706603
+      ],
+      [
+        0.0,
+        964.1640288481988,
+        472.8782236392894
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.007350702922253672,
+      -0.04268108596766645,
+      0.07863051651904901,
+      -0.04791259619031248
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6k G2_Sigma 18-35mm f/1.8 DC HSM Art_DCI_C4k_1.90by1_4096x2160-24.00fps",
+  "note": "Calibrated @ 18mm",
+  "calibrated_by": "Tobias Thorne",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6k G2",
+  "lens_model": "Sigma 18-35mm f/1.8 DC HSM Art",
+  "camera_setting": "DCI",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8673301928994134,
+    "camera_matrix": [
+      [
+        5277.085685040392,
+        0.0,
+        2108.1890604154178
+      ],
+      [
+        0.0,
+        5281.107409489755,
+        1057.9155807767534
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2057290619650584,
+      0.8241164181639101,
+      -4.904204161205073,
+      14.71337037882812
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

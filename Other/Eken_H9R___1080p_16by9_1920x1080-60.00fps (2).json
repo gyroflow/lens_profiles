@@ -1,0 +1,69 @@
+{
+  "name": "Eken_H9R___1080p_16by9_1920x1080-60.00fps",
+  "note": "",
+  "calibrated_by": "Artur",
+  "camera_brand": "Eken",
+  "camera_model": "H9R",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3837962251472089,
+    "camera_matrix": [
+      [
+        1088.363263570565,
+        0.0,
+        892.2773397005312
+      ],
+      [
+        0.0,
+        1087.450328478379,
+        513.3075612215977
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.06099738206727274,
+      -0.06912668193359531,
+      0.1123121755886126,
+      -0.06421556475237267
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

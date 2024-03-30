@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a5000_SEL1650OSS_16mm f3.6 1/80_1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "Alfred",
+  "camera_brand": "Sony",
+  "camera_model": "a5000",
+  "lens_model": "SEL1650OSS",
+  "camera_setting": "16mm f3.6 1/80",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3215888539059768,
+    "camera_matrix": [
+      [
+        1334.2434110159109,
+        0.0,
+        959.9879448354726
+      ],
+      [
+        0.0,
+        1333.4815738938296,
+        533.1385442864218
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3202826479263988,
+      -0.07681424527491691,
+      0.9007511620714904,
+      -1.0119068493854404
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

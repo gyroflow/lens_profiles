@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_DULEN43 6114x2592 50P_6K 2.4:1_6k_2.37by1_6144x2592-50.00fps",
+  "note": "",
+  "calibrated_by": "Qiangzi",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "DULEN43 6114x2592 50P",
+  "camera_setting": "6K 2.4:1",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5718727228991697,
+    "camera_matrix": [
+      [
+        10552.872172497971,
+        0.0,
+        3005.408028514963
+      ],
+      [
+        0.0,
+        10553.647125457484,
+        1294.6249795271222
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2203974507930654,
+      1.328457654940578,
+      -22.374523508162195,
+      171.99710882697266
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

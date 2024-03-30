@@ -1,0 +1,69 @@
+{
+  "name": "Pentax_K-5 IIS_Tamron 18-250__1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "florian",
+  "camera_brand": "Pentax",
+  "camera_model": "K-5 IIS",
+  "lens_model": "Tamron 18-250",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4265729048102319,
+    "camera_matrix": [
+      [
+        1440.0363075415978,
+        0.0,
+        948.333397507944
+      ],
+      [
+        0.0,
+        1439.3969449592755,
+        588.6596633880789
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1398129629073432,
+      0.18172810025518144,
+      -0.29402289930047787,
+      0.613664326967695
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

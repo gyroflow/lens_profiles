@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 3456,
+    "w": 6144
+  },
+  "calibrated_by": "Benna van der Walt",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K Pro",
+  "camera_setting": ".braw 12:1  1/100 f5.6",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 2.0717797361534935,
+    "camera_matrix": [
+      [
+        5674.132348685698,
+        0.0,
+        3120.608056480479
+      ],
+      [
+        0.0,
+        5679.313380950831,
+        1385.4164090866827
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.25087057735942797,
+      0.034603785285707435,
+      0.6680907077564211,
+      -2.142863762836046
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 50.0,
+  "fps": 24.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-blackmagic-pocketcinemacamera6kpro-50mm-6144x3456@24000",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Olympus 24mm f2.8 OM H.Zuiko Auto-W",
+  "name": "Blackmagic_Pocket Cinema Camera 6K Pro_Olympus 24mm f2.8 OM H.Zuiko Auto-W_.braw 12:1  1/100 f5.6_6k_16by9_6144x3456-24.00fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 3456,
+    "w": 6144
+  },
+  "output_dimension": {
+    "h": 3456,
+    "w": 6144
+  },
+  "sync_settings": null
+}

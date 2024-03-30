@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "木戈",
+  "calibrator_version": "1.5.2",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO6 Black",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2023-10-19",
+  "digital_lens": "gopro_superview",
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 1.6112233490479084,
+    "camera_matrix": [
+      [
+        1333.4865952555426,
+        0.0,
+        1882.5848993700008
+      ],
+      [
+        0.0,
+        1342.6473366123323,
+        1091.358774650715
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.0902165666073918,
+      0.024468276195241685,
+      -0.12319479634288982,
+      0.08186482819114196
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 23.976025,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-gopro-hero6black-super-3840x2160@23976-no-eis",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Superview",
+  "name": "GoPro_HERO6 Black_Superview_NO-EIS_4k_16by9_3840x2160-23.98fps",
+  "note": "NO-EIS",
+  "num_images": 9,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

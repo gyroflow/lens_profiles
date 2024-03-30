@@ -1,0 +1,69 @@
+{
+  "name": "SJCAM_sj6legend___1080p_16by9_1920x1080-60.00fps",
+  "note": "",
+  "calibrated_by": "Dominik Jégl",
+  "camera_brand": "SJCAM",
+  "camera_model": "sj6legend",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.39241005401846185,
+    "camera_matrix": [
+      [
+        971.6938838212536,
+        0.0,
+        963.6356903101808
+      ],
+      [
+        0.0,
+        979.0388022075236,
+        579.7281997135397
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.04154893300712894,
+      0.02415174816887651,
+      -0.041095792593840115,
+      0.021210484448268643
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

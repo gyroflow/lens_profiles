@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_1f9c8498__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "JJ W",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "1f9c8498",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.25449295649536907,
+    "camera_matrix": [
+      [
+        1736.4345452562902,
+        0.0,
+        972.7041838244036
+      ],
+      [
+        0.0,
+        1737.414426718684,
+        533.432847163201
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33579641127909093,
+      0.5896158462510553,
+      -2.0492612726290655,
+      5.697791391018839
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-1f9c8498-1920x1080@50000",
+  "calibrator_version": "1.5.2",
+  "date": "2024-03-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

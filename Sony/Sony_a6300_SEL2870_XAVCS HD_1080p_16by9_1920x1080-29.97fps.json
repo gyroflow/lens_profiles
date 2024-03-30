@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6300_SEL2870_XAVCS HD_1080p_16by9_1920x1080-29.97fps",
+  "note": "FE3.5-5.6/28-70mm at 28mm F4",
+  "calibrated_by": "Scott Zhang",
+  "camera_brand": "Sony",
+  "camera_model": "a6300",
+  "lens_model": "SEL2870",
+  "camera_setting": "XAVCS HD",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5762965870741893,
+    "camera_matrix": [
+      [
+        2262.217609264707,
+        0.0,
+        957.4190198136328
+      ],
+      [
+        0.0,
+        2265.1936467541477,
+        575.032235930782
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1917832405033913,
+      0.8535953168630642,
+      -6.528342526610031,
+      23.03989272805892
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

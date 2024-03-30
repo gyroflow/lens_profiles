@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z8_NIKKOR z24-70 F2.8s__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "翟梓桢",
+  "camera_brand": "Nikon",
+  "camera_model": "Z8",
+  "lens_model": "NIKKOR z24-70 F2.8s",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.35171696886671394,
+    "camera_matrix": [
+      [
+        2000.897631869314,
+        0.0,
+        972.4214742633302
+      ],
+      [
+        0.0,
+        2001.546075419366,
+        508.304817641148
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.29220213801957945,
+      0.9029962135099168,
+      -6.317889768856066,
+      19.49653502134663
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.0",
+  "date": "2024-01-21",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7rV_16-35za 16mm__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "赵宇宏",
+  "camera_brand": "Sony",
+  "camera_model": "a7rV",
+  "lens_model": "16-35za 16mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 13.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4807026608358984,
+    "camera_matrix": [
+      [
+        869.3599837641933,
+        0.0,
+        960.3632637034084
+      ],
+      [
+        0.0,
+        868.7801206537764,
+        551.9726531863073
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.25168316989239364,
+      0.10335588434827352,
+      0.13385567123015513,
+      -0.024897602062966675
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7rm5-16.00mm-1920x1080@50000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 16.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

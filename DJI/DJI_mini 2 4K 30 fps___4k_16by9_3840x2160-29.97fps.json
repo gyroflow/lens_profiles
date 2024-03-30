@@ -1,0 +1,69 @@
+{
+  "name": "DJI_mini 2 4K 30 fps___4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Stefano",
+  "camera_brand": "DJI",
+  "camera_model": "mini 2 4K 30 fps",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.94127575912455,
+    "camera_matrix": [
+      [
+        3013.0697125662527,
+        0.0,
+        1928.06412452699
+      ],
+      [
+        0.0,
+        3002.012656933579,
+        1036.504858830158
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2517851445507729,
+      1.2413593891717367,
+      -5.3644679148958305,
+      8.661448397633361
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

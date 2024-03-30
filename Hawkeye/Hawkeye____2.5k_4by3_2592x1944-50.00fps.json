@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1944,
+    "w": 2592
+  },
+  "calibrated_by": "ABC",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Hawkeye",
+  "camera_model": "鹰眼裸狗",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-03-09",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.4763095058134945,
+    "camera_matrix": [
+      [
+        1165.3059293977572,
+        0.0,
+        1288.3132554067297
+      ],
+      [
+        0.0,
+        1167.0268856752634,
+        1040.5712313816584
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1410985816960888,
+      0.028164538618935493,
+      -0.08775381268930818,
+      0.039383954551551574
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 50.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Hawkeye_鹰眼裸狗___2.5k_4by3_2592x1944-50.00fps",
+  "note": "",
+  "num_images": 14,
+  "official": false,
+  "orig_dimension": {
+    "h": 1944,
+    "w": 2592
+  },
+  "output_dimension": {
+    "h": 1944,
+    "w": 2592
+  },
+  "sync_settings": null
+}

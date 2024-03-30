@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7III_55 1.8 ZA__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "江展鹏",
+  "camera_brand": "Sony",
+  "camera_model": "a7III",
+  "lens_model": "55 1.8 ZA",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3276828428353109,
+    "camera_matrix": [
+      [
+        2934.570876858647,
+        0.0,
+        946.2225654077484
+      ],
+      [
+        0.0,
+        2937.5664806877467,
+        484.1885732899289
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30685282527024166,
+      1.1229075413417535,
+      -10.363809019742508,
+      41.93101586903263
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

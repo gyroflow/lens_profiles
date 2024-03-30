@@ -1,0 +1,69 @@
+{
+  "name": "Walksnail_Avatar V2 Camera_Walksnail_Avatar_V2_Camera_1080p_16by9_60fps wide__1080p_16by9_1920x1080-60.05fps",
+  "note": "",
+  "calibrated_by": "Kyle Burdass",
+  "camera_brand": "Walksnail",
+  "camera_model": "Avatar V2 Camera",
+  "lens_model": "Walksnail_Avatar_V2_Camera_1080p_16by9_60fps wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.047695,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3812155980102419,
+    "camera_matrix": [
+      [
+        872.4930178439732,
+        0.0,
+        992.5303480505786
+      ],
+      [
+        0.0,
+        873.0443643762545,
+        534.897318848306
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.02553902584047182,
+      -0.0035875100694921867,
+      0.020939504516412268,
+      -0.017786877770333026
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "walksnail-fpvcam-walksnail_avatar_v2_camera_1080p_16by9_60fps-wide-1920x1080@60048",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

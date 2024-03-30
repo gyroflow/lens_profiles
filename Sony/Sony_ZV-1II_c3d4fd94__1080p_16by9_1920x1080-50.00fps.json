@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-1II_c3d4fd94__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "张鹏",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-1II",
+  "lens_model": "c3d4fd94",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.47868317955586376,
+    "camera_matrix": [
+      [
+        1767.3037708433128,
+        0.0,
+        938.1140315864744
+      ],
+      [
+        0.0,
+        1724.019130582677,
+        486.6422992071872
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30057250754803017,
+      0.6905872020840533,
+      -2.693422407226621,
+      3.48426969000167
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-1m2-c3d4fd94-1920x1080@50000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6700_27.90mm__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Guido Ambrosi",
+  "camera_brand": "Sony",
+  "camera_model": "a6700",
+  "lens_model": "27.90mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.936519851490464,
+    "camera_matrix": [
+      [
+        4864.0693849947675,
+        0.0,
+        1932.086983032288
+      ],
+      [
+        0.0,
+        4862.973937317902,
+        1074.8890490447366
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.21039677249461203,
+      2.208826216720925,
+      -16.15199781897883,
+      48.11320348722095
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-6700-27.90mm-3840x2160@25000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 27.9,
+  "crop_factor": null,
+  "global_shutter": false
+}

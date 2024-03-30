@@ -1,0 +1,69 @@
+{
+  "name": "Google_Pixel 7 Pro__Landscape_4k_16by9_3840x2160-59.98fps",
+  "note": "Landscape",
+  "calibrated_by": "b1nary b0y",
+  "camera_brand": "Google",
+  "camera_model": "Pixel 7 Pro",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.978237,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6371736908483077,
+    "camera_matrix": [
+      [
+        3380.271059097076,
+        0.0,
+        1901.0342194302164
+      ],
+      [
+        0.0,
+        3301.6220897310154,
+        1073.2411218875463
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5536180983159845,
+      -1.5408368118570843,
+      6.8310064713997,
+      -9.644718885729333
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

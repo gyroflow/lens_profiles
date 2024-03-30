@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO_35mm Canon FD f3.5__2k_1.90by1_2048x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "David Perkins",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO",
+  "lens_model": "35mm Canon FD f3.5",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2048,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 2048,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 2048,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2956396281939828,
+    "camera_matrix": [
+      [
+        2724.5322782470107,
+        0.0,
+        1026.0970725369689
+      ],
+      [
+        0.0,
+        2726.5551735187055,
+        525.9634181057503
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.22678580289773545,
+      1.2572234175736623,
+      -12.857053041960404,
+      52.21010058955414
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

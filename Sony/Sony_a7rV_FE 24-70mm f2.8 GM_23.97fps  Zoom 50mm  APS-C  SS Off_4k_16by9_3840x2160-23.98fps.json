@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7rV_FE 24-70mm f2.8 GM_23.97fps / Zoom 50mm / APS-C / SS Off_4k_16by9_3840x2160-23.98fps",
+  "note": "a7rV",
+  "calibrated_by": "Paul Chelmis",
+  "camera_brand": "Sony",
+  "camera_model": "a7rV",
+  "lens_model": "FE 24-70mm f2.8 GM",
+  "camera_setting": "23.97fps / Zoom 50mm / APS-C / SS Off",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7926438278370194,
+    "camera_matrix": [
+      [
+        8244.002847429223,
+        0.0,
+        1910.5039678907035
+      ],
+      [
+        0.0,
+        8240.343310243048,
+        1068.8699983665672
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5354172329973923,
+      -6.117376066458237,
+      133.98951328742544,
+      -646.4556984280774
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7rm5-51.00mm-3840x2160@23976",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 51.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

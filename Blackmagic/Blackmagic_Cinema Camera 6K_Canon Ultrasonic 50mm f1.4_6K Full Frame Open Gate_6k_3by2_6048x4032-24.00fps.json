@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 4032,
+    "w": 6048
+  },
+  "calibrated_by": "Ankit Ojha",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Cinema Camera 6K",
+  "camera_setting": "6K Full Frame Open Gate",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 1.896966602720352,
+    "camera_matrix": [
+      [
+        7461.271423354332,
+        0.0,
+        2950.727626558514
+      ],
+      [
+        0.0,
+        7461.351544279263,
+        2141.220305702326
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.22578441107125208,
+      0.30747609402804443,
+      -2.88313200168291,
+      13.751284419100312
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 50.0,
+  "fps": 24.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-blackmagic-cinemacamera6k-ef-lconverter-50mm-6048x4032@24000",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Canon Ultrasonic 50mm f/1.4",
+  "name": "Blackmagic_Cinema Camera 6K_Canon Ultrasonic 50mm f/1.4_6K Full Frame Open Gate_6k_3by2_6048x4032-24.00fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 4032,
+    "w": 6048
+  },
+  "output_dimension": {
+    "h": 4032,
+    "w": 6048
+  },
+  "sync_settings": null
+}

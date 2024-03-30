@@ -1,0 +1,69 @@
+{
+  "name": "GoPro_HERO12 Black_Wide_Wide angle_4k_8by7_3840x3360-29.97fps",
+  "note": "Wide angle",
+  "calibrated_by": "Bhavith  Potluri",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO12 Black",
+  "lens_model": "Wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 3360
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 3360
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 3360
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.970575,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6965728109687651,
+    "camera_matrix": [
+      [
+        1835.1691840050064,
+        0.0,
+        1916.325166818052
+      ],
+      [
+        0.0,
+        1833.509246753546,
+        1679.120250330277
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.03607503926519248,
+      0.08399686773021976,
+      -0.08613811210883468,
+      0.029156107383665548
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

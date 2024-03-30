@@ -1,0 +1,69 @@
+{
+  "name": "Sony_DSC WX 50__mp4_720p_4by3_1440x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "Steve",
+  "camera_brand": "Sony",
+  "camera_model": "DSC WX 50",
+  "lens_model": "",
+  "camera_setting": "mp4",
+  "calib_dimension": {
+    "w": 1440,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1440,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1440,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.45944426171004166,
+    "camera_matrix": [
+      [
+        1170.7139097612887,
+        0.0,
+        712.0917195532359
+      ],
+      [
+        0.0,
+        1559.859710326042,
+        549.4799836962001
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.24853392348233655,
+      0.13765505955906576,
+      0.02685484112612813,
+      0.19615787462506948
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

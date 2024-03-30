@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 4K_LUMIX G VARIO 12-35/F2.8II 12mm__C4k_1.90by1_4096x2160-60.00fps",
+  "note": "",
+  "calibrated_by": "Joshua Stalheim",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K",
+  "lens_model": "LUMIX G VARIO 12-35/F2.8II 12mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7998703593611326,
+    "camera_matrix": [
+      [
+        3102.6810582717203,
+        0.0,
+        1936.2665463822675
+      ],
+      [
+        0.0,
+        3115.5694878036375,
+        1169.665567955764
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2308562057810328,
+      -0.9767153392966323,
+      4.330824044439446,
+      -5.035676772039573
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera4k-lumixgvario12-35/f2.8ii-12mm-4096x2160@60000",
+  "calibrator_version": "1.5.3",
+  "date": "2023-10-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 12.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

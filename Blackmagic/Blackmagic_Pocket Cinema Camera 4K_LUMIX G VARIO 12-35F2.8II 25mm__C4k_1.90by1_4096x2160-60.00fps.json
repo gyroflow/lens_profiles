@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 4K_LUMIX G VARIO 12-35/F2.8II 25mm__C4k_1.90by1_4096x2160-60.00fps",
+  "note": "",
+  "calibrated_by": "小青年，你的未来还有希望吗",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K",
+  "lens_model": "LUMIX G VARIO 12-35/F2.8II 25mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1245925654175268,
+    "camera_matrix": [
+      [
+        5434.084342247214,
+        0.0,
+        2007.3809927189104
+      ],
+      [
+        0.0,
+        5434.755938122202,
+        1020.836592596006
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.25203878463603413,
+      1.7699736273983837,
+      -15.598414679172231,
+      58.51393286441613
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera4k-lumixgvario12-35/f2.8ii-25mm-4096x2160@60000",
+  "calibrator_version": "1.5.3",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 25.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

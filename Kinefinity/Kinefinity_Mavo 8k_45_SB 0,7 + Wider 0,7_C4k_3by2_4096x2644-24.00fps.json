@@ -1,0 +1,69 @@
+{
+  "name": "Kinefinity_Mavo 8k_45_SB 0,7 + Wider 0,7_C4k_3by2_4096x2644-24.00fps",
+  "note": "",
+  "calibrated_by": "Jonathan Da Silva",
+  "camera_brand": "Kinefinity",
+  "camera_model": "Mavo 8k",
+  "lens_model": "45",
+  "camera_setting": "SB 0,7 + Wider 0,7",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2644
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2644
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2644
+  },
+  "frame_readout_time": 12.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9632399233818428,
+    "camera_matrix": [
+      [
+        4250.783318205406,
+        0.0,
+        1956.3041709072804
+      ],
+      [
+        0.0,
+        4259.498028976744,
+        1325.768865061107
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.06414688132851484,
+      0.5435537057281012,
+      -1.5737445235748164,
+      2.771417256315851
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

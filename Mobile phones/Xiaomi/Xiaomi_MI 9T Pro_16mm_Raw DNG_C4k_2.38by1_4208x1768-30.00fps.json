@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_MI 9T Pro_16mm_Raw DNG_C4k_2.38by1_4208x1768-30.00fps",
+  "note": "",
+  "calibrated_by": "mine",
+  "camera_brand": "Xiaomi",
+  "camera_model": "MI 9T Pro",
+  "lens_model": "16mm",
+  "camera_setting": "Raw DNG",
+  "calib_dimension": {
+    "w": 4208,
+    "h": 1768
+  },
+  "orig_dimension": {
+    "w": 4208,
+    "h": 1768
+  },
+  "output_dimension": {
+    "w": 4208,
+    "h": 1768
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.674498950449199,
+    "camera_matrix": [
+      [
+        1860.416235091428,
+        0.0,
+        2140.9809412173377
+      ],
+      [
+        0.0,
+        1857.1361881549503,
+        874.9646296010535
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.29828439034421755,
+      -0.08218590161011859,
+      0.8575208750883286,
+      -0.786336930124123
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

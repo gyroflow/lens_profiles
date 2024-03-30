@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_24.00mm__720p_16by9_1280x720-29.97fps",
+  "note": "",
+  "calibrated_by": "Alexey Zonov",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "24.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.17270179583906728,
+    "camera_matrix": [
+      [
+        861.2738980934112,
+        0.0,
+        636.433790907735
+      ],
+      [
+        0.0,
+        861.2046619721247,
+        357.89131653186485
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3350581879060798,
+      0.3355868907991938,
+      -1.3789059541098567,
+      3.1084679234071566
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx3-24.00mm-1280x720@29970",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

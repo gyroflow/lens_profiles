@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z 8_z 24-120 f4.0s_60fps_1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "calibrated_by": "ShiYuan",
+  "camera_brand": "Nikon",
+  "camera_model": "Z 8",
+  "lens_model": "z 24-120 f4.0s",
+  "camera_setting": "60fps",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 29.996923,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3953302471024206,
+    "camera_matrix": [
+      [
+        1654.024784796071,
+        0.0,
+        963.8767256498062
+      ],
+      [
+        0.0,
+        1640.3779724941649,
+        569.2101789637755
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.38152625163964016,
+      2.5224256452681315,
+      -18.298774940414415,
+      37.66207419701634
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

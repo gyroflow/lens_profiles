@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-T4_FUJIFILM XF 16-55mm f/2.8 R LM WR_f-HD_1080p_16by9_1920x1080-23.98fps",
+  "note": "16 MM",
+  "calibrated_by": "bewar",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-T4",
+  "lens_model": "FUJIFILM XF 16-55mm f/2.8 R LM WR",
+  "camera_setting": "f-HD",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.32153385857574035,
+    "camera_matrix": [
+      [
+        1304.653499926107,
+        0.0,
+        965.1732653021947
+      ],
+      [
+        0.0,
+        1306.3158598601865,
+        538.071880553678
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3257944717111666,
+      0.0018913604654473043,
+      0.3834994440415832,
+      -0.28854408163202994
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-10-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

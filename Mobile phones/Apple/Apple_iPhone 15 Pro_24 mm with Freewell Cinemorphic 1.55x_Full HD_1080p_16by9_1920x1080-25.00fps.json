@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone 15 Pro_24 mm with Freewell Cinemorphic 1.55x_Full HD_1080p_16by9_1920x1080-25.00fps",
+  "note": "Rolling Shutter 5.3",
+  "calibrated_by": "port1327",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 15 Pro",
+  "lens_model": "24 mm with Freewell Cinemorphic 1.55x",
+  "camera_setting": "Full HD",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": -5.3,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.002352,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.4074930691290155,
+    "camera_matrix": [
+      [
+        804.3037547674547,
+        0.0,
+        982.9562793780952
+      ],
+      [
+        0.0,
+        1235.255948495081,
+        521.4291599698314
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.22366133215521572,
+      -0.29903137095273824,
+      0.2578787430864944,
+      -0.09688664014680576
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

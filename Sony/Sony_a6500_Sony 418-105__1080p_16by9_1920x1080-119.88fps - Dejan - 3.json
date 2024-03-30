@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6500_Sony 4/18-105__1080p_16by9_1920x1080-119.88fps",
+  "note": "",
+  "calibrated_by": "Dejan",
+  "camera_brand": "Sony",
+  "camera_model": "a6500",
+  "lens_model": "Sony 4/18-105",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 119.880119,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6048844990448587,
+    "camera_matrix": [
+      [
+        1192.0333596984835,
+        0.0,
+        755.3802582849579
+      ],
+      [
+        0.0,
+        1181.6319305391476,
+        562.4281050643161
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3266532794658682,
+      0.10914228056131818,
+      0.09144210586732834,
+      0.018911987449987747
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

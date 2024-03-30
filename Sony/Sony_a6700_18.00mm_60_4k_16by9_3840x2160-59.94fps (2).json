@@ -1,0 +1,66 @@
+{
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calib_params": {
+    "RMS_error": 0.0,
+    "camera_matrix": [],
+    "distortion_coeffs": [],
+    "radial_distortion_limit": null
+  },
+  "calibrated_by": "郭尔葳",
+  "calibrator_version": "1.0.0-rc4",
+  "camera_brand": "Sony",
+  "camera_model": "a6700",
+  "camera_setting": "60",
+  "compatible_settings": [],
+  "date": "2023-11-21",
+  "fisheye_params": {
+    "RMS_error": 0.6419830479943607,
+    "camera_matrix": [
+      [
+        3018.109236485077,
+        0.0,
+        1947.3848004311392
+      ],
+      [
+        0.0,
+        3017.7518074796612,
+        1068.8484555666646
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.27973490126144857,
+      0.5185145946926968,
+      -1.7211716780854676,
+      2.8664889222793666
+    ],
+    "radial_distortion_limit": null
+  },
+  "fps": 59.94006,
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilce-6700-18.00mm-3840x2160@59940",
+  "input_horizontal_stretch": 1.0,
+  "lens_model": "18.00mm",
+  "name": "Sony_a6700_18.00mm_60_4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "use_opencv_fisheye": true,
+  "use_opencv_standard": false
+}

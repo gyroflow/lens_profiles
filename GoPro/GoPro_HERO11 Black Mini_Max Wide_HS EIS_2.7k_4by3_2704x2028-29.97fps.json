@@ -1,0 +1,69 @@
+{
+  "name": "GoPro_HERO11 Black Mini_Max Wide_HS EIS_2.7k_4by3_2704x2028-29.97fps",
+  "note": "HS EIS",
+  "calibrated_by": "macbook",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO11 Black Mini",
+  "lens_model": "Max Wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2704,
+    "h": 2028
+  },
+  "orig_dimension": {
+    "w": 2704,
+    "h": 2028
+  },
+  "output_dimension": {
+    "w": 2704,
+    "h": 2028
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7292900370558021,
+    "camera_matrix": [
+      [
+        1127.958792311139,
+        0.0,
+        1412.8312935828671
+      ],
+      [
+        0.0,
+        1125.515802385405,
+        993.2652678963104
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.16594156848332428,
+      -0.17439134951482413,
+      0.13613357856829253,
+      -0.04442147308217973
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "gopro-hero11blackmini-maxwide-2704x2028@29970-hseis",
+  "calibrator_version": "1.5.3",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

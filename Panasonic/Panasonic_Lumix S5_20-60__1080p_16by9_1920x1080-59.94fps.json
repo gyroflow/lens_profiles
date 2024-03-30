@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_Lumix S5_20-60__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Jinzheng Yang",
+  "camera_brand": "Panasonic",
+  "camera_model": "Lumix S5",
+  "lens_model": "20-60",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3989413350989498,
+    "camera_matrix": [
+      [
+        1208.4984067356563,
+        0.0,
+        955.0550349317548
+      ],
+      [
+        0.0,
+        1212.8943635563282,
+        545.9737397461665
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2984873760735546,
+      0.14942787574096847,
+      0.07077411283531757,
+      0.017304116783496325
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

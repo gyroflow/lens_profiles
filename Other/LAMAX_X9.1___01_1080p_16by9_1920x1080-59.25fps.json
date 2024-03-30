@@ -1,0 +1,69 @@
+{
+  "name": "LAMAX_X9.1___01_1080p_16by9_1920x1080-59.25fps",
+  "note": "_01",
+  "calibrated_by": "Matyáš Fiman",
+  "camera_brand": "LAMAX",
+  "camera_model": "X9.1",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.250942,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7475343053220267,
+    "camera_matrix": [
+      [
+        1489.0160796424193,
+        0.0,
+        1017.9969010384588
+      ],
+      [
+        0.0,
+        1489.4700629539195,
+        557.3373142711212
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.010000793889259767,
+      -0.2807141799939674,
+      1.0814886466526723,
+      -1.3067194707690597
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

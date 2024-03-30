@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7sIII_85.00mm__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "time",
+  "camera_brand": "Sony",
+  "camera_model": "a7sIII",
+  "lens_model": "85.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.33595633871978947,
+    "camera_matrix": [
+      [
+        16254.90226262579,
+        0.0,
+        882.5061069223335
+      ],
+      [
+        0.0,
+        16723.161025590114,
+        495.4787746580505
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      3.3048387755219064,
+      -1477.991504019377,
+      567821.0269808662,
+      -70691778.22780561
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7sm3-85.00mm-1920x1080@50000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 85.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

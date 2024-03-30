@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1944,
+    "w": 2592
+  },
+  "calibrated_by": "郭峰",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Hawkeye",
+  "camera_model": "Thumb 鹰眼拇指相机",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 2.771932562865349,
+    "camera_matrix": [
+      [
+        620.9304930248647,
+        0.0,
+        1306.4756962462998
+      ],
+      [
+        0.0,
+        622.0707527242811,
+        888.3747810588279
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2518690535333303,
+      0.0858646312297935,
+      -0.0003724435025729272,
+      0.0035048489165852488
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 50.0,
+  "frame_readout_time": 0.0,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "标准镜头",
+  "name": "Hawkeye_Thumb 鹰眼拇指相机_标准镜头__2.5k_4by3_2592x1944-50.00fps",
+  "note": "",
+  "num_images": 8,
+  "official": false,
+  "orig_dimension": {
+    "h": 1944,
+    "w": 2592
+  },
+  "output_dimension": {
+    "h": 1944,
+    "w": 2592
+  },
+  "sync_settings": null
+}

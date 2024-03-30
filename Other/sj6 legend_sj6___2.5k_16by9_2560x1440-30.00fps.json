@@ -1,0 +1,69 @@
+{
+  "name": "sj6 legend_sj6___2.5k_16by9_2560x1440-30.00fps",
+  "note": "",
+  "calibrated_by": "Пользователь",
+  "camera_brand": "sj6 legend",
+  "camera_model": "sj6",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "orig_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "output_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7533777964914566,
+    "camera_matrix": [
+      [
+        1409.2738796203798,
+        0.0,
+        1289.5032153739812
+      ],
+      [
+        0.0,
+        1411.105100523728,
+        723.2710683060449
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.09458439290341232,
+      0.0715640834117166,
+      -0.12369740122699922,
+      0.08007982792589206
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

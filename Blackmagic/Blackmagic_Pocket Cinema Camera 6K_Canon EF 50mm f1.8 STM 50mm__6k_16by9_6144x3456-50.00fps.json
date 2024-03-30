@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K_Canon EF 50mm f/1.8 STM 50mm__6k_16by9_6144x3456-50.00fps",
+  "note": "",
+  "calibrated_by": "摄影部的Mac mini 大明基",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K",
+  "lens_model": "Canon EF 50mm f/1.8 STM 50mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.9309700441871405,
+    "camera_matrix": [
+      [
+        27919.98484628978,
+        0.0,
+        2007.5100550308507
+      ],
+      [
+        0.0,
+        29150.786639994552,
+        1511.6972193081706
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -1.7021338773526735,
+      346.3312215924259,
+      -22917.620054014456,
+      499154.5481873274
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera6k-canonef50mmf/1.8stm-50mm-6144x3456@50000",
+  "calibrator_version": "1.5.2",
+  "date": "2023-11-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 50.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

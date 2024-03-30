@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2176,
+    "w": 3840
+  },
+  "calibrated_by": "Mikheil Prishvin",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "LG",
+  "camera_model": "v60",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-02-19",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 1.174330438924935,
+    "camera_matrix": [
+      [
+        6423.584014966793,
+        0.0,
+        1990.6589686086436
+      ],
+      [
+        0.0,
+        6417.5710444429615,
+        1091.6696333786924
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6960280076324135,
+      -5.722859617577222,
+      174.34299364087195,
+      -2078.2048292105205
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 23.999969,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "58mm",
+  "name": "LG_v60_58mm__4k_16by9_3840x2176-24.00fps",
+  "note": "",
+  "num_images": 9,
+  "official": false,
+  "orig_dimension": {
+    "h": 2176,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2176,
+    "w": 3840
+  },
+  "sync_settings": null
+}

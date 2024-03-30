@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R7_18-150_24MM_4k_16by9_3840x2160-29.97fps",
+  "note": "24MM",
+  "calibrated_by": "罗明晟",
+  "camera_brand": "Canon",
+  "camera_model": "R7",
+  "lens_model": "18-150",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9086412882414878,
+    "camera_matrix": [
+      [
+        4480.284963215539,
+        0.0,
+        1918.9966951685485
+      ],
+      [
+        0.0,
+        4449.6098361678705,
+        1100.579007954308
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.321175744758703,
+      0.4814393990603371,
+      -4.820804832457859,
+      26.203924771698397
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-31",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

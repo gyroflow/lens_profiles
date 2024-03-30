@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_10_25MM__2.5k_4by3_2592x1940-29.97fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Xiaomi",
+  "camera_model": "10",
+  "lens_model": "25MM",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2592,
+    "h": 1940
+  },
+  "orig_dimension": {
+    "w": 2592,
+    "h": 1940
+  },
+  "output_dimension": {
+    "w": 2592,
+    "h": 1940
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.967617,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5825598845768395,
+    "camera_matrix": [
+      [
+        1884.8363637119096,
+        0.0,
+        1273.2978171199916
+      ],
+      [
+        0.0,
+        1883.5883908237945,
+        984.2697388042724
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3341118282523441,
+      0.8984295610448326,
+      -3.8399149115403466,
+      5.508766699032451
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.1",
+  "date": "2023-11-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

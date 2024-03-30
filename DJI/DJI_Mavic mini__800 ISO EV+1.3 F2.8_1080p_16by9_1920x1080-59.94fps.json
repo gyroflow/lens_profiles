@@ -1,0 +1,69 @@
+{
+  "name": "DJI_Mavic mini__800 ISO EV+1.3 F/2.8_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Joe Raven",
+  "camera_brand": "DJI",
+  "camera_model": "Mavic mini",
+  "lens_model": "",
+  "camera_setting": "800 ISO EV+1.3 F/2.8",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.43308478304942977,
+    "camera_matrix": [
+      [
+        1523.5584785545364,
+        0.0,
+        972.017733203473
+      ],
+      [
+        0.0,
+        1522.81060692934,
+        518.0618656512704
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3847989552685038,
+      -0.3781560268090313,
+      2.317071997211872,
+      -3.5818604693894303
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

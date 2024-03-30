@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7CII_Kodak 30mm F10 Disposal Lens__1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Hoyeon",
+  "camera_brand": "Sony",
+  "camera_model": "a7CII",
+  "lens_model": "Kodak 30mm F10 Disposal Lens",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": -9.13,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.319953662787453,
+    "camera_matrix": [
+      [
+        1621.6136828507656,
+        0.0,
+        967.0424443297336
+      ],
+      [
+        0.0,
+        1619.7200666251597,
+        529.0055981166944
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.37234958825785913,
+      0.267129096392331,
+      -0.61100130440442,
+      1.0057757474177424
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

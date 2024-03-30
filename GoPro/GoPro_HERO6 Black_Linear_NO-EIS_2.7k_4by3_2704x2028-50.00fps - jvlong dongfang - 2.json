@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2028,
+    "w": 2704
+  },
+  "calibrated_by": "jvlong dongfang",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO6 Black",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-03-13",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.8880502228276644,
+    "camera_matrix": [
+      [
+        1753.7460529186433,
+        0.0,
+        1345.1962729599725
+      ],
+      [
+        0.0,
+        1753.0857267644287,
+        1016.2090492367072
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3331711868982218,
+      0.2023742222687128,
+      -0.04105564330726513,
+      0.12071031956199424
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 50.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "--gopro-hero6black-linear-2704x2028@50000-no-eis",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Linear",
+  "name": "GoPro_HERO6 Black_Linear_NO-EIS_2.7k_4by3_2704x2028-50.00fps",
+  "note": "NO-EIS",
+  "num_images": 6,
+  "official": false,
+  "orig_dimension": {
+    "h": 2028,
+    "w": 2704
+  },
+  "output_dimension": {
+    "h": 2028,
+    "w": 2704
+  },
+  "sync_settings": null
+}

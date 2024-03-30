@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS R10_35mm__1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "yh325",
+  "camera_brand": "Canon",
+  "camera_model": "EOS R10",
+  "lens_model": "35mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4943848130366939,
+    "camera_matrix": [
+      [
+        3643.144091556324,
+        0.0,
+        970.2348102607864
+      ],
+      [
+        0.0,
+        3663.894389041171,
+        475.4752191026557
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.388913812816982,
+      -2.414532024995995,
+      87.08521558321013,
+      -820.7551113019343
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

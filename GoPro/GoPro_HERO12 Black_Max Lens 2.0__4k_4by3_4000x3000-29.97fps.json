@@ -1,0 +1,69 @@
+{
+  "name": "GoPro_HERO12 Black_Max Lens 2.0__4k_4by3_4000x3000-29.97fps",
+  "note": "",
+  "calibrated_by": "Alex Moraga",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO12 Black",
+  "lens_model": "Max Lens 2.0",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "orig_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "output_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.9304535562276257,
+    "camera_matrix": [
+      [
+        1399.6803736307895,
+        0.0,
+        2004.7236141815208
+      ],
+      [
+        0.0,
+        1400.498497061806,
+        1484.8278814254866
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.14072288127534913,
+      -0.10227356350422467,
+      0.060765890095236794,
+      -0.0134999241919842
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "gopro-hero12black-max-4000x3000@29970-no-eis",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

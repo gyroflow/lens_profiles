@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7sIII_laowa12mm__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "tar",
+  "camera_brand": "Sony",
+  "camera_model": "a7sIII",
+  "lens_model": "laowa12mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.36954537519124825,
+    "camera_matrix": [
+      [
+        656.6403540521304,
+        0.0,
+        964.395897635722
+      ],
+      [
+        0.0,
+        657.8362263161462,
+        541.78221085667
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.313227401948916,
+      0.2055298461330028,
+      -0.07326108323697915,
+      0.08925984045535039
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

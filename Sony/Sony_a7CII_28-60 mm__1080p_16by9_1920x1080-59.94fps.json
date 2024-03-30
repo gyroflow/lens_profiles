@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7CII_28-60 mm__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "龙晋铿",
+  "camera_brand": "Sony",
+  "camera_model": "a7CII",
+  "lens_model": "28-60 mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 10.404677786763164,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5142785386937837,
+    "camera_matrix": [
+      [
+        1425.4789650683804,
+        0.0,
+        959.0322420115492
+      ],
+      [
+        0.0,
+        1426.9057063772748,
+        530.2015395269306
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30402863535283453,
+      0.1021034295330272,
+      0.6320336569582005,
+      -1.354260976760377
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7cm2-28.00mm-1920x1080@59940",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 28.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

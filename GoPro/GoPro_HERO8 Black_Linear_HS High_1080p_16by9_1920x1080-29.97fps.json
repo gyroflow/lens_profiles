@@ -1,0 +1,69 @@
+{
+  "name": "GoPro_HERO8 Black_Linear_HS High_1080p_16by9_1920x1080-29.97fps",
+  "note": "HS High",
+  "calibrated_by": "Marco",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO8 Black",
+  "lens_model": "Linear",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2976324576305666,
+    "camera_matrix": [
+      [
+        1001.6112341507766,
+        0.0,
+        957.2898996771102
+      ],
+      [
+        0.0,
+        1015.253133313084,
+        540.7804974158031
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3097334690307131,
+      0.2871672138866663,
+      -0.5489960301369181,
+      0.7771988662292058
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "gopro-hero8black-linear-1920x1080@29970-hshigh",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "AKASO_EK7000__170° FOV_1080p_16by9_1920x1080-60.00fps",
+  "note": "170° FOV",
+  "calibrated_by": "Administrator",
+  "camera_brand": "AKASO",
+  "camera_model": "EK7000",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4590036223916062,
+    "camera_matrix": [
+      [
+        1209.4794256194662,
+        0.0,
+        959.2560693590189
+      ],
+      [
+        0.0,
+        1209.731218675353,
+        612.4915096557022
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.15282967845604592,
+      0.023752254782442212,
+      -0.013312994759425297,
+      0.00422512135866827
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

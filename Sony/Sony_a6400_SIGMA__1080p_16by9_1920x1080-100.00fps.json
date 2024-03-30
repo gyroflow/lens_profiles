@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_SIGMA__1080p_16by9_1920x1080-100.00fps",
+  "note": "",
+  "calibrated_by": "TECAK",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "SIGMA",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 100.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.41957012481684297,
+    "camera_matrix": [
+      [
+        2923.084659116824,
+        0.0,
+        961.9743741583652
+      ],
+      [
+        0.0,
+        2927.6432232546285,
+        519.4779992799469
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4079167737732077,
+      -1.1439325228254231,
+      9.358447378978507,
+      4.256790079280902
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

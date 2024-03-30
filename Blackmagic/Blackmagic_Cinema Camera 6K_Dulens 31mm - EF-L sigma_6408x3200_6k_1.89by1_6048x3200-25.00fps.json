@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Cinema Camera 6K_Dulens 31mm - EF-L sigma_6408x3200_6k_1.89by1_6048x3200-25.00fps",
+  "note": "",
+  "calibrated_by": "Jan Bielecki",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Cinema Camera 6K",
+  "lens_model": "Dulens 31mm - EF-L sigma",
+  "camera_setting": "6408x3200",
+  "calib_dimension": {
+    "w": 6048,
+    "h": 3200
+  },
+  "orig_dimension": {
+    "w": 6048,
+    "h": 3200
+  },
+  "output_dimension": {
+    "w": 6048,
+    "h": 3200
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.881077049598959,
+    "camera_matrix": [
+      [
+        5265.206021720088,
+        0.0,
+        2970.626816171086
+      ],
+      [
+        0.0,
+        5259.985185366635,
+        1602.88691546684
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2907152403208447,
+      0.050789874397854845,
+      0.475647589741055,
+      0.2719013257215095
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Canon_t6 d1300_ef50mm f/1.8__720p_16by9_1280x720-59.94fps",
+  "note": "",
+  "calibrated_by": "andres flores",
+  "camera_brand": "Canon",
+  "camera_model": "t6 d1300",
+  "lens_model": "ef50mm f/1.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.43364737548687854,
+    "camera_matrix": [
+      [
+        3337.8892687714797,
+        0.0,
+        596.6369859625106
+      ],
+      [
+        0.0,
+        3340.725129115094,
+        356.15974411390795
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1366768341345702,
+      0.054361954870010935,
+      4.319000300274172,
+      48.59679530983883
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

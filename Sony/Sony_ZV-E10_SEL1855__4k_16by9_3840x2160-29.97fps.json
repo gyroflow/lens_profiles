@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_SEL1855__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "apple",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "SEL1855",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": -32.05,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.696535161945662,
+    "camera_matrix": [
+      [
+        16376.231706519804,
+        0.0,
+        2488.2981565596756
+      ],
+      [
+        0.0,
+        20465.332090910662,
+        1014.7132656889916
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      4.650307295714425,
+      -705.4508122940622,
+      62579.07927360696,
+      -1876069.423532907
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-e10-96475b66-3840x2160@29970",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

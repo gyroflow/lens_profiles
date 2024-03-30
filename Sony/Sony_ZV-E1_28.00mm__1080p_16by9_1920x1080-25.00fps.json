@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E1_28.00mm__1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "yuehong tao",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E1",
+  "lens_model": "28.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.40088087553300633,
+    "camera_matrix": [
+      [
+        1500.8329287905326,
+        0.0,
+        973.1416660283788
+      ],
+      [
+        0.0,
+        1503.1010279583502,
+        561.5316086125516
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30698301045839577,
+      0.2638554963170728,
+      -0.4834103540887755,
+      1.01239901450106
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-e1-28.00mm-1920x1080@25000",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 28.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

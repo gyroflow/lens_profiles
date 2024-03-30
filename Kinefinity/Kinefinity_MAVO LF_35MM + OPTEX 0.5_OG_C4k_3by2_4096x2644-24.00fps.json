@@ -1,0 +1,69 @@
+{
+  "name": "Kinefinity_MAVO LF_35MM + OPTEX 0.5_OG_C4k_3by2_4096x2644-24.00fps",
+  "note": "",
+  "calibrated_by": "Samuel Esselinckx",
+  "camera_brand": "Kinefinity",
+  "camera_model": "MAVO LF",
+  "lens_model": "35MM + OPTEX 0.5",
+  "camera_setting": "OG",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2644
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2644
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2644
+  },
+  "frame_readout_time": 12.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.951768612439798,
+    "camera_matrix": [
+      [
+        3071.0958924089646,
+        0.0,
+        2061.2234524858054
+      ],
+      [
+        0.0,
+        3068.475541672912,
+        1307.3152323062309
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19596501902001623,
+      0.09665391717596872,
+      0.10947559669773414,
+      0.10223215848294336
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

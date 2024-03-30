@@ -1,0 +1,69 @@
+{
+  "name": "Sioeye_Blink_最广_EIS ON_1080p_16by9_1920x1080-24.90fps",
+  "note": "",
+  "calibrated_by": "小九尾",
+  "camera_brand": "Sioeye",
+  "camera_model": "Blink",
+  "lens_model": "最广",
+  "camera_setting": "EIS ON",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 20.176355313687615,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 24.901184,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.6523148740380509,
+    "camera_matrix": [
+      [
+        1188.558989295144,
+        0.0,
+        972.5049027985784
+      ],
+      [
+        0.0,
+        1188.4226445757402,
+        545.7479223461564
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.043330151823924704,
+      -0.011812375657965129,
+      -0.02276676107838187,
+      0.033947860585854264
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

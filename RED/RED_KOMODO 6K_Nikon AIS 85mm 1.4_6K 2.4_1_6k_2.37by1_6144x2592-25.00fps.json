@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Nikon AIS 85mm 1.4_6K 2.4:1_6k_2.37by1_6144x2592-25.00fps",
+  "note": "Used with Canon .71 SpeedBooster",
+  "calibrated_by": "Felix Müller",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Nikon AIS 85mm 1.4",
+  "camera_setting": "6K 2.4:1",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6138958951079843,
+    "camera_matrix": [
+      [
+        14429.2735042695,
+        0.0,
+        3076.197330610913
+      ],
+      [
+        0.0,
+        14425.556458611672,
+        1281.4027971474093
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.34589024407726887,
+      -1.9876092987624228,
+      196.22050367220376,
+      -2253.526649079205
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

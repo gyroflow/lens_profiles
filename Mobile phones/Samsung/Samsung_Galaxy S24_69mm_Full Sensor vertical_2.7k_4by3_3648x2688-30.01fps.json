@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_Galaxy S24_69mm_Full Sensor vertical_2.7k_4by3_3648x2688-30.01fps",
+  "note": "vertical orientation",
+  "calibrated_by": "db",
+  "camera_brand": "Samsung",
+  "camera_model": "Galaxy S24",
+  "lens_model": "69mm",
+  "camera_setting": "Full Sensor vertical",
+  "calib_dimension": {
+    "w": 3648,
+    "h": 2688
+  },
+  "orig_dimension": {
+    "w": 3648,
+    "h": 2688
+  },
+  "output_dimension": {
+    "w": 3648,
+    "h": 2688
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 30.010487,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0560304058451164,
+    "camera_matrix": [
+      [
+        6901.245868151778,
+        0.0,
+        1852.89714418989
+      ],
+      [
+        0.0,
+        6903.126861521104,
+        1267.6720643444262
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -1.1903325582424933,
+      49.307930799249135,
+      -649.0654060886119,
+      3073.7754627470654
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

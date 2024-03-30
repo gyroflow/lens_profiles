@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "calibrated_by": "U0 A235",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Motorola",
+  "camera_model": "g13",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.5850580757395344,
+    "camera_matrix": [
+      [
+        879.2973717543118,
+        0.0,
+        939.5136968241826
+      ],
+      [
+        0.0,
+        873.951364907633,
+        537.870778898431
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3705791290952239,
+      0.1123820705368845,
+      -0.023426456211715168,
+      0.19432157121516677
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 29.602171,
+  "frame_readout_time": 0.0,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Motorola_g13__Хоризонтален_1080p_16by9_1920x1080-29.60fps",
+  "note": "Хоризонтален",
+  "num_images": 9,
+  "official": false,
+  "orig_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "output_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "sync_settings": null
+}

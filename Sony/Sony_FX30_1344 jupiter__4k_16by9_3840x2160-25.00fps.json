@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX30_134/4 jupiter__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "virineya",
+  "camera_brand": "Sony",
+  "camera_model": "FX30",
+  "lens_model": "134/4 jupiter",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7171858730121757,
+    "camera_matrix": [
+      [
+        137309.79855075385,
+        0.0,
+        1197.9799809334706
+      ],
+      [
+        0.0,
+        143420.47386258442,
+        987.5843798769504
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      29.403213992116424,
+      -56230.85997805931,
+      167535313.9507774,
+      -183298379871.541
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

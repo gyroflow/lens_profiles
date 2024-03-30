@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_D850_24-70 2.8 G ED_24mm_1080p_16by9_1920x1080-59.94fps",
+  "note": "24mm",
+  "calibrated_by": "Kartik Sharma",
+  "camera_brand": "Nikon",
+  "camera_model": "D850",
+  "lens_model": "24-70 2.8 G ED",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3322015700209454,
+    "camera_matrix": [
+      [
+        1229.378497215053,
+        0.0,
+        975.4838490870064
+      ],
+      [
+        0.0,
+        1230.5175296990628,
+        535.9490928912584
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2764076297808961,
+      -0.0030408183325486195,
+      0.12722116828303148,
+      -0.06589846056432362
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

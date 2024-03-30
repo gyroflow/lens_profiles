@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7CII_Tamron 28-200-28.00mm__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "PC",
+  "camera_brand": "Sony",
+  "camera_model": "a7CII",
+  "lens_model": "Tamron 28-200-28.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5778570322022355,
+    "camera_matrix": [
+      [
+        1526.6542561435374,
+        0.0,
+        952.9873433616368
+      ],
+      [
+        0.0,
+        1525.9574496152302,
+        521.8175944941715
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3133092996402532,
+      0.3763408346367841,
+      -1.0959445893894475,
+      1.9750901556921372
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7cm2-28.00mm-1920x1080@50000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 28.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

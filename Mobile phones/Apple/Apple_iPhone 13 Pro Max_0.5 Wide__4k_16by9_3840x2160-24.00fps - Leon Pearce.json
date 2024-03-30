@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone 13 Pro Max_0.5 Wide__4k_16by9_3840x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "Leon Pearce",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 13 Pro Max",
+  "lens_model": "0.5 Wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.995811,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7681123759326574,
+    "camera_matrix": [
+      [
+        1678.127155665654,
+        0.0,
+        1899.014063819725
+      ],
+      [
+        0.0,
+        1678.8340688874928,
+        1068.113012084259
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31014640262811655,
+      0.25767623086677016,
+      -0.3065967112999393,
+      0.3469228500854115
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

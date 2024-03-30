@@ -1,0 +1,69 @@
+{
+  "name": "RED_Komodo X_Vilrox Epic 50mm_6k_4k_16by9_3840x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "Sir-Tay Jackson",
+  "camera_brand": "RED",
+  "camera_model": "Komodo X",
+  "lens_model": "Vilrox Epic 50mm",
+  "camera_setting": "6k",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9951669067880886,
+    "camera_matrix": [
+      [
+        5154.668721625453,
+        0.0,
+        1903.3506358863197
+      ],
+      [
+        0.0,
+        5291.134662259931,
+        990.9085080157402
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2293530721588468,
+      -0.38533822704907417,
+      -3.0905915346416455,
+      29.303083936907456
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

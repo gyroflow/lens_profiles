@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E1_Milnolta 200mm 2.8 2X Tele_400mm 5.6_4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "CK Teh",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E1",
+  "lens_model": "Milnolta 200mm 2.8 2X Tele",
+  "camera_setting": "400mm 5.6",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.549695201372544,
+    "camera_matrix": [
+      [
+        171797.51476874124,
+        0.0,
+        1799.277570410448
+      ],
+      [
+        0.0,
+        174153.08759307413,
+        919.3998326774145
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -43.29801676998965,
+      -144186.03911231676,
+      1147380616.825992,
+      -2500915887029.9717
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

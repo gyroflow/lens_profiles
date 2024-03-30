@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_gh5_olympus 12-40 pro 2.8_c4k_C4k_1.90by1_4096x2160-24.00fps",
+  "note": "my",
+  "calibrated_by": "Alex",
+  "camera_brand": "Panasonic",
+  "camera_model": "gh5",
+  "lens_model": "olympus 12-40 pro 2.8",
+  "camera_setting": "c4k",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2169274501142835,
+    "camera_matrix": [
+      [
+        2962.562907113969,
+        0.0,
+        2040.222313937476
+      ],
+      [
+        0.0,
+        2961.714988133612,
+        1076.4556727226652
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.314075366268463,
+      0.16516017094476884,
+      -0.15456419576867625,
+      0.13256604204900724
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-10-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

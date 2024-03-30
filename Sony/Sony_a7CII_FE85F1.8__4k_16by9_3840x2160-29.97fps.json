@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7CII_FE85/F1.8__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Eric",
+  "camera_brand": "Sony",
+  "camera_model": "a7CII",
+  "lens_model": "FE85/F1.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9271439433637154,
+    "camera_matrix": [
+      [
+        10222.41568203101,
+        0.0,
+        1943.482909472667
+      ],
+      [
+        0.0,
+        10254.777469045915,
+        939.3894018066904
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5964237011337559,
+      -9.146655394614584,
+      290.6574070331324,
+      -3817.3007095356993
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7cm2-85.00mm-3840x2160@29970",
+  "calibrator_version": "1.5.1",
+  "date": "2024-01-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 85.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

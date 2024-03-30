@@ -1,0 +1,69 @@
+{
+  "name": "Sargo_G10+_--_--_720p_9by16_1440x2560-30.00fps",
+  "note": "",
+  "calibrated_by": "Evan",
+  "camera_brand": "Sargo",
+  "camera_model": "G10+",
+  "lens_model": "--",
+  "camera_setting": "--",
+  "calib_dimension": {
+    "w": 1440,
+    "h": 2560
+  },
+  "orig_dimension": {
+    "w": 1440,
+    "h": 2560
+  },
+  "output_dimension": {
+    "w": 1440,
+    "h": 2560
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.46864406861888,
+    "camera_matrix": [
+      [
+        2138.61255767784,
+        0.0,
+        765.7767214480642
+      ],
+      [
+        0.0,
+        2138.9903109804172,
+        1231.9396444436006
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.08481560789586695,
+      0.14389217272130997,
+      -0.8092133742438864,
+      1.1602930454293914
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

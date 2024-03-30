@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Micro Studio Camera 4K G2_Laowa 7.5mm_4k30 BRaw_480p_16by9_960x540-30.00fps",
+  "note": "",
+  "calibrated_by": "VerJan",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Micro Studio Camera 4K G2",
+  "lens_model": "Laowa 7.5mm",
+  "camera_setting": "4k30 BRaw",
+  "calib_dimension": {
+    "w": 960,
+    "h": 540
+  },
+  "orig_dimension": {
+    "w": 960,
+    "h": 540
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2511769705520372,
+    "camera_matrix": [
+      [
+        418.8262760219856,
+        0.0,
+        471.13225655383513
+      ],
+      [
+        0.0,
+        418.6823305276585,
+        274.63899331018746
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32728293468092895,
+      0.10684251567688428,
+      -0.0060126173562083125,
+      0.07946435656985397
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

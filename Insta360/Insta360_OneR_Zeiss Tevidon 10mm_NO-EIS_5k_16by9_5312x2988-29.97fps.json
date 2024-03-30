@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2988,
+    "w": 5312
+  },
+  "calibrated_by": "qqq",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Insta360",
+  "camera_model": "OneR",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2023-12-09",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.9775856334410772,
+    "camera_matrix": [
+      [
+        4389.715298245186,
+        0.0,
+        2635.87881246231
+      ],
+      [
+        0.0,
+        4384.5851030932845,
+        1569.3972742917183
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19473207405658743,
+      0.7168177845611649,
+      -4.092090569066362,
+      10.542423155889564
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 29.97003,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-insta360-oner-ultrawide110-5312x2988@29970-no-eis",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Zeiss Tevidon 10mm",
+  "name": "Insta360_OneR_Zeiss Tevidon 10mm_NO-EIS_5k_16by9_5312x2988-29.97fps",
+  "note": "NO-EIS",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2988,
+    "w": 5312
+  },
+  "output_dimension": {
+    "h": 2988,
+    "w": 5312
+  },
+  "sync_settings": null
+}

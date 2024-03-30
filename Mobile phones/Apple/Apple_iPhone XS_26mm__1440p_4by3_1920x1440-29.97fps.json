@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone XS_26mm__1440p_4by3_1920x1440-29.97fps",
+  "note": "",
+  "calibrated_by": "",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone XS",
+  "lens_model": "26mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.972788,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.46707019250391546,
+    "camera_matrix": [
+      [
+        1599.58988063342,
+        0.0,
+        949.043099987586
+      ],
+      [
+        0.0,
+        1597.545518268992,
+        711.9318622592622
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.56729283174743,
+      -0.34495366108914877,
+      -4.9402586084454345,
+      17.437519803845863
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

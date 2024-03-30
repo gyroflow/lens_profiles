@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS R5_Sigma 35mm f1.4_4k_C4k_1.90by1_4096x2160-59.94fps",
+  "note": "35mm",
+  "calibrated_by": "Matt Smith",
+  "camera_brand": "Canon",
+  "camera_model": "EOS R5",
+  "lens_model": "Sigma 35mm f1.4",
+  "camera_setting": "4k",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5911780394254337,
+    "camera_matrix": [
+      [
+        3730.857748062024,
+        0.0,
+        1993.0094480036576
+      ],
+      [
+        0.0,
+        3731.2152088512607,
+        1070.3745689055131
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.23857615227956017,
+      0.27225792645177516,
+      0.005643330917517023,
+      0.22785581311560849
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

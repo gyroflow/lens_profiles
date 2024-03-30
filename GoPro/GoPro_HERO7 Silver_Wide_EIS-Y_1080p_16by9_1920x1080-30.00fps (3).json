@@ -1,0 +1,69 @@
+{
+  "name": "GoPro_HERO7 Silver_Wide_EIS-Y_1080p_16by9_1920x1080-30.00fps",
+  "note": "EIS-Y",
+  "calibrated_by": "U0 A510",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO7 Silver",
+  "lens_model": "Wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 30.004456,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.47287936082707094,
+    "camera_matrix": [
+      [
+        1004.016386874766,
+        0.0,
+        952.54104132232
+      ],
+      [
+        0.0,
+        1004.547743616734,
+        533.2833255220484
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.09140194932895564,
+      -0.029430080576488337,
+      -0.06085559403952584,
+      0.056866201570097114
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "gopro-hero7silver-wide-1920x1080@30005-eis-y",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

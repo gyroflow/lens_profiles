@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX30_7.5mm f2.8 7Artisans__1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Zyroz",
+  "camera_brand": "Sony",
+  "camera_model": "FX30",
+  "lens_model": "7.5mm f2.8 7Artisans",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3543163456079717,
+    "camera_matrix": [
+      [
+        703.5805752530547,
+        0.0,
+        956.46595571232
+      ],
+      [
+        0.0,
+        704.3890781238036,
+        534.4298537123246
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.0163569286610669,
+      -0.0008549326166821558,
+      0.0002969193477304539,
+      0.000023218748295966227
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

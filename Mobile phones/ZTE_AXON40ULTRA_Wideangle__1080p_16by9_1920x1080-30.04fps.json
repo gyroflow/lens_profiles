@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "calibrated_by": "U0 A450",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "ZTE",
+  "camera_model": "AXON40ULTRA",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.35412139772751183,
+    "camera_matrix": [
+      [
+        901.859897803822,
+        0.0,
+        957.3151044905912
+      ],
+      [
+        0.0,
+        901.095413390756,
+        537.5840753791739
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4103226580038356,
+      0.0008593141645307353,
+      0.17113315347739474,
+      -0.05348824063022461
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 30.041052,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Wideangle",
+  "name": "ZTE_AXON40ULTRA_Wideangle__1080p_16by9_1920x1080-30.04fps",
+  "note": "",
+  "num_images": 14,
+  "official": false,
+  "orig_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "output_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "sync_settings": null
+}

@@ -1,0 +1,69 @@
+{
+  "name": "RED_V-RAPTOR 8K VV_Laowa 11mm_8K 17:9_8k_1.90by1_8192x4320-60.00fps",
+  "note": "",
+  "calibrated_by": "Servidor Edición ZIF",
+  "camera_brand": "RED",
+  "camera_model": "V-RAPTOR 8K VV",
+  "lens_model": "Laowa 11mm",
+  "camera_setting": "8K 17:9",
+  "calib_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.7299341331711815,
+    "camera_matrix": [
+      [
+        2289.2194481602814,
+        0.0,
+        4078.452013850437
+      ],
+      [
+        0.0,
+        2290.681318948198,
+        2144.8898480359776
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.29118240703444076,
+      0.22259029241159545,
+      -0.17104741218197103,
+      0.1455328255619166
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

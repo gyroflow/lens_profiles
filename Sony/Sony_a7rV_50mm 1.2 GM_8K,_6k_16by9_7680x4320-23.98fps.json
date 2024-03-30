@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 4320,
+    "w": 7680
+  },
+  "calibrated_by": "Frank Gaeta",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "a7rV",
+  "camera_setting": "8K,",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 1.1999876273403358,
+    "camera_matrix": [
+      [
+        14124.587615939785,
+        0.0,
+        3861.360215554677
+      ],
+      [
+        0.0,
+        14150.676797899923,
+        1918.2913773970224
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.24965435151463655,
+      0.4790238490645435,
+      18.8368884145802,
+      -223.30728776691075
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 50.0,
+  "fps": 23.976025,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilce-7rm5-50.00mm-7680x4320@23976",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "50mm 1.2 GM",
+  "name": "Sony_a7rV_50mm 1.2 GM_8K,_6k_16by9_7680x4320-23.98fps",
+  "note": "",
+  "num_images": 10,
+  "official": false,
+  "orig_dimension": {
+    "h": 4320,
+    "w": 7680
+  },
+  "output_dimension": {
+    "h": 4320,
+    "w": 7680
+  },
+  "sync_settings": null
+}

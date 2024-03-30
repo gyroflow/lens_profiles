@@ -1,0 +1,69 @@
+{
+  "name": "XTU_MAX__P60_1080p_16by9_1920x1080-59.88fps",
+  "note": "畸变管防抖关",
+  "calibrated_by": "P",
+  "camera_brand": "XTU",
+  "camera_model": "MAX",
+  "lens_model": "",
+  "camera_setting": "P60",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 30,
+  "fps": 59.877754,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5905979552866919,
+    "camera_matrix": [
+      [
+        1274.6107989511684,
+        0.0,
+        949.6836336308396
+      ],
+      [
+        0.0,
+        1245.3613510418766,
+        540.3016085647812
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.031255579762898715,
+      -0.016930776258596604,
+      0.0045770149554305315,
+      0.017499540712649284
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

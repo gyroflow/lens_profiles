@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_Sony 50_M_1080p_16by9_1920x1080-25.00fps",
+  "note": "50 mm, f1.8",
+  "calibrated_by": "Marti Fischer",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "Sony 50",
+  "camera_setting": "M",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4292193295368628,
+    "camera_matrix": [
+      [
+        11969.754439894215,
+        0.0,
+        1363.194291022853
+      ],
+      [
+        0.0,
+        12053.972008282362,
+        800.9695520513433
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.593037385881916,
+      580.828413335014,
+      -66693.10673762097,
+      2633405.124302999
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 50.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

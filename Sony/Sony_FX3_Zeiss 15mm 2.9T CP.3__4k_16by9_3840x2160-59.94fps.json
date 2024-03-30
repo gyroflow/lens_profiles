@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_Zeiss 15mm 2.9T CP.3__4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Julio Lopez",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "Zeiss 15mm 2.9T CP.3",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6962400383549378,
+    "camera_matrix": [
+      [
+        1658.600053762065,
+        0.0,
+        1900.8099102629308
+      ],
+      [
+        0.0,
+        1657.5258176404016,
+        1076.5002695330866
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.26012659668262433,
+      0.3038058401278188,
+      -0.32533626951517713,
+      0.2432009115370666
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

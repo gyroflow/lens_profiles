@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS Rebel t8i_ef 50 mm f/1.8__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Antonio Cruz",
+  "camera_brand": "Canon",
+  "camera_model": "EOS Rebel t8i",
+  "lens_model": "ef 50 mm f/1.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1080,
+    "h": 1920
+  },
+  "frame_readout_time": -16.683322183313006,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4570084658445821,
+    "camera_matrix": [
+      [
+        4717.4705108075195,
+        0.0,
+        961.8584112837924
+      ],
+      [
+        0.0,
+        4731.613261012827,
+        566.7679736155528
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.06961650600254075,
+      18.463865637881305,
+      -888.2062570946352,
+      13846.823084109948
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

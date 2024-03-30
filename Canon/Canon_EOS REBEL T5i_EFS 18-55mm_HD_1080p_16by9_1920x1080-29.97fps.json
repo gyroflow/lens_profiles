@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS REBEL T5i_EFS 18-55mm_HD_1080p_16by9_1920x1080-29.97fps",
+  "note": "18 mm",
+  "calibrated_by": "Aaron",
+  "camera_brand": "Canon",
+  "camera_model": "EOS REBEL T5i",
+  "lens_model": "EFS 18-55mm",
+  "camera_setting": "HD",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.28375796291299704,
+    "camera_matrix": [
+      [
+        1605.6361490872391,
+        0.0,
+        951.0326307509227
+      ],
+      [
+        0.0,
+        1602.396973908679,
+        543.1374686556821
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19017179234386988,
+      -0.0547947748442974,
+      1.8076461346417536,
+      -4.334060696013491
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

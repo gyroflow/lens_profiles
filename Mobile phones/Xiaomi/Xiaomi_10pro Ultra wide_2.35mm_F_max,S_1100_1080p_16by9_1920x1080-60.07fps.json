@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_10pro Ultra wide_2.35mm_F:max,S:1/100_1080p_16by9_1920x1080-60.07fps",
+  "note": "0.6x",
+  "calibrated_by": "陈美言",
+  "camera_brand": "Xiaomi",
+  "camera_model": "10pro Ultra wide",
+  "lens_model": "2.35mm",
+  "camera_setting": "F:max,S:1/100",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.067616,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3001979972201424,
+    "camera_matrix": [
+      [
+        1190.400173546776,
+        0.0,
+        960.7605414619338
+      ],
+      [
+        0.0,
+        1189.6749367106736,
+        541.1875369440662
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3887510960514778,
+      -0.3784499937512602,
+      1.5859798930614444,
+      -1.216676857810847
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

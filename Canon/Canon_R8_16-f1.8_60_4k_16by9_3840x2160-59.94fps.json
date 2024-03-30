@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R8_16-f1.8_60高格數_4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Lin",
+  "camera_brand": "Canon",
+  "camera_model": "R8",
+  "lens_model": "16-f1.8",
+  "camera_setting": "60高格數",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.923242960394458,
+    "camera_matrix": [
+      [
+        2699.936869065402,
+        0.0,
+        1904.4358108354993
+      ],
+      [
+        0.0,
+        2696.0308532968234,
+        1105.9323950260027
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.8379412299128922,
+      -2.6703837321521617,
+      15.639327603956064,
+      -23.187522600403735
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_15mm laowa cine_6K 2.4:1_6k_2.37by1_6144x2592-24.00fps",
+  "note": "24 fps",
+  "calibrated_by": "ankit gandre",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "15mm laowa cine",
+  "camera_setting": "6K 2.4:1",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8439684855255221,
+    "camera_matrix": [
+      [
+        3536.7936977902355,
+        0.0,
+        3093.249022418871
+      ],
+      [
+        0.0,
+        3537.902397017939,
+        1298.4204828910654
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2899992335250354,
+      0.33825094308474685,
+      -0.6126781598450891,
+      0.7559813533142902
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2024-03-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

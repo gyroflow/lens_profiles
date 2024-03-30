@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_Tamron 1770_17mm_1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "喵酱",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "Tamron 1770",
+  "camera_setting": "17mm",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 4.89,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2687647626805056,
+    "camera_matrix": [
+      [
+        1414.4290385113864,
+        0.0,
+        957.446785308384
+      ],
+      [
+        0.0,
+        1416.5092513462932,
+        541.3455733921503
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30172002594953,
+      0.2333171289202454,
+      -0.2637557086479991,
+      0.4282140531510668
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

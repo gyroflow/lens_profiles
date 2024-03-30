@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7rIV_24-105__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "LENOVO",
+  "camera_brand": "Sony",
+  "camera_model": "a7rIV",
+  "lens_model": "24-105",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 1.2367149758454117,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.3585728721711603,
+    "camera_matrix": [
+      [
+        2880.5504946471456,
+        0.0,
+        1783.9541177327649
+      ],
+      [
+        0.0,
+        2862.5362260946386,
+        1084.8197654372782
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3428541172666361,
+      -0.102130801693876,
+      0.847243243447669,
+      -0.893834532507624
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

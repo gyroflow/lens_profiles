@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 3000,
+    "w": 4000
+  },
+  "calibrated_by": "Rita Rossweisse",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO7 Black",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-01-06",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 1.2541013989215517,
+    "camera_matrix": [
+      [
+        1752.180710679822,
+        0.0,
+        1995.7575645052357
+      ],
+      [
+        0.0,
+        1734.5852719423983,
+        1547.0865617790323
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.0370601189408034,
+      0.05224780075955464,
+      -0.044921927810631555,
+      0.013839215599445316
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 29.97003,
+  "frame_readout_time": 0.0,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "--gopro-hero7black-wide-4000x3000@29970-eis-y",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Wide",
+  "name": "GoPro_HERO7 Black_Wide_EIS-Y_4k_4by3_4000x3000-29.97fps",
+  "note": "EIS-Y",
+  "num_images": 13,
+  "official": false,
+  "orig_dimension": {
+    "h": 3000,
+    "w": 4000
+  },
+  "output_dimension": {
+    "h": 3000,
+    "w": 4000
+  },
+  "sync_settings": null
+}

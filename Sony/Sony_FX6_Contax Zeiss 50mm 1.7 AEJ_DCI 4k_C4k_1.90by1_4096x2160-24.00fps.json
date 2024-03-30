@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_Contax Zeiss 50mm 1.7 AEJ_DCI 4k_C4k_1.90by1_4096x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "Meurig",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "Contax Zeiss 50mm 1.7 AEJ",
+  "camera_setting": "DCI 4k",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9834372652027336,
+    "camera_matrix": [
+      [
+        6363.944353692846,
+        0.0,
+        2008.0539462250824
+      ],
+      [
+        0.0,
+        6369.861136681516,
+        1162.041524248095
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19452536632782677,
+      -0.0522277542395103,
+      -5.173978282827772,
+      45.43027228560619
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx6v-0.00mm-4096x2160@24000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

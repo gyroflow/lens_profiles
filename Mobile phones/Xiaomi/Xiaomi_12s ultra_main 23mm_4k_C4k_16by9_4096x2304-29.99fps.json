@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_12s ultra_main 23mm_4k_C4k_16by9_4096x2304-29.99fps",
+  "note": "",
+  "calibrated_by": "woo guns",
+  "camera_brand": "Xiaomi",
+  "camera_model": "12s ultra",
+  "lens_model": "main 23mm",
+  "camera_setting": "4k",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2304
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2304
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2304
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.990004,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.221763750164441,
+    "camera_matrix": [
+      [
+        2712.0324253247027,
+        0.0,
+        2037.7194336574923
+      ],
+      [
+        0.0,
+        2711.7541435854127,
+        1176.025125380605
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5056849571029793,
+      -1.0939269767185242,
+      3.2228536594427393,
+      -3.007882776514483
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

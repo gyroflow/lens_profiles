@@ -1,0 +1,69 @@
+{
+  "name": "Canon_200d Mark II_EFS 17-55mm_Lens And Body Stabilization on_1080p_16by9_1920x1080-25.00fps",
+  "note": "Lens And Body Stabilization on",
+  "calibrated_by": "Kane McCarthy",
+  "camera_brand": "Canon",
+  "camera_model": "200d Mark II",
+  "lens_model": "EFS 17-55mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6572613277627248,
+    "camera_matrix": [
+      [
+        1672.4188601991846,
+        0.0,
+        933.6098162432148
+      ],
+      [
+        0.0,
+        1677.6413802774082,
+        539.4748019935479
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.25149531135525693,
+      -0.4430334263157348,
+      3.9251216996331664,
+      -8.164669122998902
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "ulefone_Armor 12g___1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "calibrated_by": "Hiroyuki Sakurai",
+  "camera_brand": "ulefone",
+  "camera_model": "Armor 12g",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 30.001143,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3648072769236671,
+    "camera_matrix": [
+      [
+        1563.1804560900352,
+        0.0,
+        973.467583456782
+      ],
+      [
+        0.0,
+        1563.4110397840434,
+        537.0164878846283
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4343603082367878,
+      0.31804918461580534,
+      -0.4411622880299341,
+      -0.6707526714602461
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

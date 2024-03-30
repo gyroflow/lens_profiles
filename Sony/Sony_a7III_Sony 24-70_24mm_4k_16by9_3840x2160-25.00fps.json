@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7III_Sony 24-70_24mm_4k_16by9_3840x2160-25.00fps",
+  "note": "24mm",
+  "calibrated_by": "Flavio",
+  "camera_brand": "Sony",
+  "camera_model": "a7III",
+  "lens_model": "Sony 24-70",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9582283241573772,
+    "camera_matrix": [
+      [
+        2623.419640818618,
+        0.0,
+        1920.5169925644393
+      ],
+      [
+        0.0,
+        2622.1508526689367,
+        1065.189952993524
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2928969863212783,
+      0.11262421503733468,
+      0.3975453195128009,
+      -0.5565473182870065
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

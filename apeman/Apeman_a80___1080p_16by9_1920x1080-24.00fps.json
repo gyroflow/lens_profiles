@@ -1,0 +1,69 @@
+{
+  "name": "Apeman_a80___1080p_16by9_1920x1080-24.00fps",
+  "note": "",
+  "calibrated_by": "U0 A219",
+  "camera_brand": "Apeman",
+  "camera_model": "a80",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5015098455017892,
+    "camera_matrix": [
+      [
+        911.1655986593556,
+        0.0,
+        908.2307528212187
+      ],
+      [
+        0.0,
+        909.4783753072004,
+        476.84183611351585
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.005074703944008774,
+      0.2102840559482056,
+      -0.3584913460015622,
+      0.21586805699961792
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

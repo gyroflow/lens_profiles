@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_m52__Mp4 4k 30_1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "U0 A1214",
+  "camera_brand": "Samsung",
+  "camera_model": "m52",
+  "lens_model": "",
+  "camera_setting": "Mp4 4k 30",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.971962,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4269440425032724,
+    "camera_matrix": [
+      [
+        1725.5258748627066,
+        0.0,
+        943.0362065768226
+      ],
+      [
+        0.0,
+        1725.0121419781603,
+        534.5600463800832
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.47042268433550183,
+      0.3348574200688158,
+      -3.151188441352139,
+      6.335774894108142
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_Xperia 1 iii_74mm__2k_3by2_2016x1344-24.00fps",
+  "note": "",
+  "calibrated_by": "9OKER",
+  "camera_brand": "Sony",
+  "camera_model": "Xperia 1 iii",
+  "lens_model": "74mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2016,
+    "h": 1344
+  },
+  "orig_dimension": {
+    "w": 2016,
+    "h": 1344
+  },
+  "output_dimension": {
+    "w": 2016,
+    "h": 1344
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 24.000216,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4350123604987562,
+    "camera_matrix": [
+      [
+        5896.513643647233,
+        0.0,
+        977.4052482367782
+      ],
+      [
+        0.0,
+        5905.310621223463,
+        810.9862780550627
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.7643637772512858,
+      -4.258740225867223,
+      -23.52561143565163,
+      798.1698136777749
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

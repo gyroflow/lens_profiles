@@ -1,0 +1,69 @@
+{
+  "name": "AKASO_Brave 7__2.7k - Vertical_720p_9by16_1532x2720-30.00fps",
+  "note": "",
+  "calibrated_by": "Chromezero",
+  "camera_brand": "AKASO",
+  "camera_model": "Brave 7",
+  "lens_model": "",
+  "camera_setting": "2.7k - Vertical",
+  "calib_dimension": {
+    "w": 1532,
+    "h": 2720
+  },
+  "orig_dimension": {
+    "w": 1532,
+    "h": 2720
+  },
+  "output_dimension": {
+    "w": 1530,
+    "h": 2720
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7737300228189248,
+    "camera_matrix": [
+      [
+        1925.889704384033,
+        0.0,
+        735.2144991892968
+      ],
+      [
+        0.0,
+        1923.1514507013703,
+        1295.007477426658
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.05166294124847354,
+      0.04575538059694031,
+      -0.13352021243747011,
+      0.15903919302719952
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

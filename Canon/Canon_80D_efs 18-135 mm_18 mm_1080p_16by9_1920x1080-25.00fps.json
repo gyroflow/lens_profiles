@@ -1,0 +1,69 @@
+{
+  "name": "Canon_80D_efs 18-135 mm_18 mm_1080p_16by9_1920x1080-25.00fps",
+  "note": "18 mm",
+  "calibrated_by": "Canopus",
+  "camera_brand": "Canon",
+  "camera_model": "80D",
+  "lens_model": "efs 18-135 mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.35295708245301866,
+    "camera_matrix": [
+      [
+        1529.2002979443123,
+        0.0,
+        970.5042837103314
+      ],
+      [
+        0.0,
+        1530.4056157409348,
+        548.9664136618687
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.13599730553800177,
+      0.15906918125874614,
+      -0.01976726576121608,
+      0.4116728762646392
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

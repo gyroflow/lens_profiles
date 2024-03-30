@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6500_18/135mm 3.5-5.6_50fps_1080p_16by9_1920x1080-50.00fps",
+  "note": "50fps",
+  "calibrated_by": "Agustin",
+  "camera_brand": "Sony",
+  "camera_model": "a6500",
+  "lens_model": "18/135mm 3.5-5.6",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5731842195845825,
+    "camera_matrix": [
+      [
+        1476.311453094114,
+        0.0,
+        952.2447563964546
+      ],
+      [
+        0.0,
+        1476.3719952303186,
+        534.8380945820112
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.29337588500321987,
+      -0.0805540568923302,
+      2.3413360092979594,
+      -5.190739086114241
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

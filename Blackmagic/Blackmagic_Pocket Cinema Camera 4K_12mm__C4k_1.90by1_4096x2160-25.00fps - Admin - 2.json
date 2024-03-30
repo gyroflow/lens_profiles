@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 4096
+  },
+  "calibrated_by": "Admin",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-02-06",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.6980537691666703,
+    "camera_matrix": [
+      [
+        3010.197389188588,
+        0.0,
+        2080.2879859165632
+      ],
+      [
+        0.0,
+        3009.202554436776,
+        1109.7853391039805
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1872294156669949,
+      0.8602192160424365,
+      -2.136740603397337,
+      2.47072842298865
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 12.0,
+  "fps": 25.0,
+  "frame_readout_time": 16.22,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-blackmagic-pocketcinemacamera4k-12mm-4096x2160@25000",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "12mm",
+  "name": "Blackmagic_Pocket Cinema Camera 4K_12mm__C4k_1.90by1_4096x2160-25.00fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 4096
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 4096
+  },
+  "sync_settings": null
+}

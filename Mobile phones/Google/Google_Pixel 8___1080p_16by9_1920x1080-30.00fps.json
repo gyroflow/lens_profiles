@@ -1,0 +1,69 @@
+{
+  "name": "Google_Pixel 8___1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "calibrated_by": "U0 A405",
+  "camera_brand": "Google",
+  "camera_model": "Pixel 8",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 29.998518,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 4.000066994836568,
+    "camera_matrix": [
+      [
+        1703.339663457729,
+        0.0,
+        739.2151802999302
+      ],
+      [
+        0.0,
+        1615.1897511260038,
+        564.1421996373988
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.7979899138475454,
+      1.495231795174922,
+      -14.271452948831294,
+      43.9145572399117
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

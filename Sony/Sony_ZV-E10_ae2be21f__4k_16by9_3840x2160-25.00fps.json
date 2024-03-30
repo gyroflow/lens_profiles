@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_ae2be21f__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "山竹玛丽亚",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "ae2be21f",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.1806966114240214,
+    "camera_matrix": [
+      [
+        2698.533170296147,
+        0.0,
+        1953.702536765389
+      ],
+      [
+        0.0,
+        2704.0532058521812,
+        1091.5744562051584
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3081026354015799,
+      -0.08640739298857564,
+      0.7886196676309444,
+      -0.5905212716708191
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-e10-ae2be21f-3840x2160@25000",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

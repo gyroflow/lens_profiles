@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K_Tokina AT-X 12-28mm f/4 PRO DX 12mm_BRAW_6k_16by9_6144x3456-50.00fps",
+  "note": "BRAW",
+  "calibrated_by": "Jan Bric",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K",
+  "lens_model": "Tokina AT-X 12-28mm f/4 PRO DX 12mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2331788046087913,
+    "camera_matrix": [
+      [
+        3239.7986017624826,
+        0.0,
+        3114.8377160283903
+      ],
+      [
+        0.0,
+        3238.358816643888,
+        1774.8695836729007
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32655508002856487,
+      0.09134822513182154,
+      0.06484961221552861,
+      -0.07167964440233161
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera6k-tokinaat-x12-28mmf/4prodx-12mm-6144x3456@50000",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 12.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

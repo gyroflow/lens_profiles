@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "Owner",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Micro Studio Camera 4K G2",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-02-04",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 1.0237960168177251,
+    "camera_matrix": [
+      [
+        3148.3659152807654,
+        0.0,
+        1988.3763047661257
+      ],
+      [
+        0.0,
+        3151.2169072153,
+        1043.6532929563054
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.07437447408703181,
+      0.2192167379678739,
+      -0.3307961544548236,
+      0.2877351991880944
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 14.0,
+  "fps": 60.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-blackmagic-microstudiocamera4kg2-olympusm.14-42mmf3.5-5.6ez-14mm-3840x2160@60000",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "OLYMPUS M.14-42mm F3.5-5.6 EZ 14mm",
+  "name": "Blackmagic_Micro Studio Camera 4K G2_OLYMPUS M.14-42mm F3.5-5.6 EZ 14mm__4k_16by9_3840x2160-60.00fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

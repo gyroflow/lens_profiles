@@ -1,0 +1,69 @@
+{
+  "name": "ACTIVEON_CX___1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "calibrated_by": "Rich",
+  "camera_brand": "ACTIVEON",
+  "camera_model": "CX",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.998976,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.403182642029876,
+    "camera_matrix": [
+      [
+        1227.2823577714116,
+        0.0,
+        912.01093869252
+      ],
+      [
+        0.0,
+        1227.9028526876064,
+        525.2957504483363
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.07255190413286934,
+      -0.012301807818690709,
+      0.011975286736268794,
+      -0.011092655897391683
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Google_Pixel 7 Pro_121 mm_ratio_C4k_1.85by1_4032x2184-30.08fps",
+  "note": "MotionCam Pro",
+  "calibrated_by": "RimasRa",
+  "camera_brand": "Google",
+  "camera_model": "Pixel 7 Pro",
+  "lens_model": "121 mm",
+  "camera_setting": "ratio",
+  "calib_dimension": {
+    "w": 4032,
+    "h": 2184
+  },
+  "orig_dimension": {
+    "w": 4032,
+    "h": 2184
+  },
+  "output_dimension": {
+    "w": 4032,
+    "h": 2184
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 30.084986,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0061724892058388,
+    "camera_matrix": [
+      [
+        -10324.823379854424,
+        -0.0,
+        2017.065272515468
+      ],
+      [
+        0.0,
+        -10285.977295367336,
+        733.1219934287584
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.8890863970587085,
+      268.34962224385146,
+      -20553.95411010818,
+      539791.9870558034
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

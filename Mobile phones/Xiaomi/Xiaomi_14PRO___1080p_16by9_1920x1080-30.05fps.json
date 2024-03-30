@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_14PRO___1080p_16by9_1920x1080-30.05fps",
+  "note": "",
+  "calibrated_by": "赫莲夕月",
+  "camera_brand": "Xiaomi",
+  "camera_model": "14PRO",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.050018,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.474899281595605,
+    "camera_matrix": [
+      [
+        1707.2786964976292,
+        0.0,
+        972.9167989997692
+      ],
+      [
+        0.0,
+        1706.7762997444984,
+        567.067684109
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3534833467956308,
+      0.3225743518731165,
+      -3.419485282181064,
+      9.081573037019602
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

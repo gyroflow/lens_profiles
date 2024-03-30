@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_LUMIX DC-S5_AstrHori 10mmF8_50_1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "CoffeeLake",
+  "camera_brand": "Panasonic",
+  "camera_model": "LUMIX DC-S5",
+  "lens_model": "AstrHori 10mmF8",
+  "camera_setting": "50",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3140895708444467,
+    "camera_matrix": [
+      [
+        669.4266180260657,
+        0.0,
+        967.571324031018
+      ],
+      [
+        0.0,
+        670.9658209090112,
+        540.1829995147598
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.08000042001137894,
+      -0.01649727106454103,
+      0.0008899810763805298,
+      -0.0026042777840508545
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-11-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

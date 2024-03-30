@@ -1,0 +1,69 @@
+{
+  "name": "RunCam_thumb pro_2.1 ratel_xv_4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "dnlkrnwn",
+  "camera_brand": "RunCam",
+  "camera_model": "thumb pro",
+  "lens_model": "2.1 ratel",
+  "camera_setting": "xv",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9386846999013456,
+    "camera_matrix": [
+      [
+        1732.7724798199824,
+        0.0,
+        1920.900841883689
+      ],
+      [
+        0.0,
+        1299.5322906956264,
+        1127.63493028071
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.08680595829943298,
+      0.01564376178884685,
+      -0.03149650531045937,
+      0.021271792925316325
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

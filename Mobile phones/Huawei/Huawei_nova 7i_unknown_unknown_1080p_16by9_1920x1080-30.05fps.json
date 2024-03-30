@@ -1,0 +1,69 @@
+{
+  "name": "Huawei_nova 7i_unknown_unknown_1080p_16by9_1920x1080-30.05fps",
+  "note": "Slight blurry, but works",
+  "calibrated_by": "Unknown Person",
+  "camera_brand": "Huawei",
+  "camera_model": "nova 7i",
+  "lens_model": "unknown",
+  "camera_setting": "unknown",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.048944,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6087058252438838,
+    "camera_matrix": [
+      [
+        1455.123571183438,
+        0.0,
+        955.7916322711676
+      ],
+      [
+        0.0,
+        1452.913427171762,
+        529.0853722601861
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.26938215023041495,
+      1.096186482948866,
+      -3.420730266921514,
+      4.226108286015976
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

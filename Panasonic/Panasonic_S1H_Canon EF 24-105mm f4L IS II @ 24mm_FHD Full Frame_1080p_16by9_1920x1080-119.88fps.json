@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_S1H_Canon EF 24-105mm f4L IS II @ 24mm_FHD Full Frame_1080p_16by9_1920x1080-119.88fps",
+  "note": "10bit 4:2:0",
+  "calibrated_by": "Ryan Jackson",
+  "camera_brand": "Panasonic",
+  "camera_model": "S1H",
+  "lens_model": "Canon EF 24-105mm f4L IS II @ 24mm",
+  "camera_setting": "FHD Full Frame",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 119.880119,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4144083290572203,
+    "camera_matrix": [
+      [
+        1321.5312645708857,
+        0.0,
+        960.7785426121258
+      ],
+      [
+        0.0,
+        1325.7597882771706,
+        535.9844800779198
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20459462026546643,
+      0.4361996509240725,
+      -0.8415516023649727,
+      1.00521190696443
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

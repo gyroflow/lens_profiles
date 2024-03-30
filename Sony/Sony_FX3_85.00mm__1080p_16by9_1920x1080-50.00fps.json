@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_85.00mm__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "resy02",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "85.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3797582582014828,
+    "camera_matrix": [
+      [
+        5511.582823154204,
+        0.0,
+        893.0565939958748
+      ],
+      [
+        0.0,
+        5510.146144220129,
+        638.0823523469904
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.28208833344659856,
+      6.403700815140646,
+      -357.9005761492497,
+      12623.610269711162
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx3-85.00mm-1920x1080@50000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 85.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

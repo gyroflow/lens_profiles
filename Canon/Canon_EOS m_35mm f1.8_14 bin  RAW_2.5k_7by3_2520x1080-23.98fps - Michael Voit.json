@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS m_35mm f/1.8_14 bin  RAW_2.5k_7by3_2520x1080-23.98fps",
+  "note": "Magic Lantern Firmware",
+  "calibrated_by": "Michael Voit",
+  "camera_brand": "Canon",
+  "camera_model": "EOS m",
+  "lens_model": "35mm f/1.8",
+  "camera_setting": "14 bin  RAW",
+  "calib_dimension": {
+    "w": 2520,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 2520,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 2520,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 23.976,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4674649422313396,
+    "camera_matrix": [
+      [
+        17146.062406511493,
+        0.0,
+        910.0912124819816
+      ],
+      [
+        0.0,
+        17117.72565841226,
+        862.7091235118552
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.7332731381052243,
+      147.6759801476388,
+      -17275.981985970404,
+      697183.9462603051
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

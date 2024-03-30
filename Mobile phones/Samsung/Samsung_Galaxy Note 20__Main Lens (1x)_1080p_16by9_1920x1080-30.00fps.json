@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_Galaxy Note 20__Main Lens (1x)_1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "calibrated_by": "Zayed Munir",
+  "camera_brand": "Samsung",
+  "camera_model": "Galaxy Note 20",
+  "lens_model": "",
+  "camera_setting": "Main Lens (1x)",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.000053,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.42292216024444096,
+    "camera_matrix": [
+      [
+        1436.0046435055312,
+        0.0,
+        942.3656668010954
+      ],
+      [
+        0.0,
+        1433.7083821371627,
+        565.4551729992503
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.35855489722366324,
+      -0.09977505450907348,
+      1.8409766246138848,
+      -3.684100337069883
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

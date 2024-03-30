@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_Sigma 30 mm F1.4_50 Mb_1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "Juan Ruiz",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "Sigma 30 mm F1.4",
+  "camera_setting": "50 Mb",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.484008266085876,
+    "camera_matrix": [
+      [
+        2562.81967198266,
+        0.0,
+        946.3397974341156
+      ],
+      [
+        0.0,
+        2543.7447370935465,
+        520.4003008179171
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.40833335163114626,
+      -1.1022890845027515,
+      12.34461793583791,
+      -32.90473989957383
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Caddx_Walnut cam_Caddx/Caddx_Walnut_NO-LDC_2.7k30_2.7k_4by3_2720x2040-29.97fps wide__2.5k_4by3_2688x2016-29.97fps",
+  "note": "",
+  "calibrated_by": "Austin Strickland",
+  "camera_brand": "Caddx",
+  "camera_model": "Walnut cam",
+  "lens_model": "Caddx/Caddx_Walnut_NO-LDC_2.7k30_2.7k_4by3_2720x2040-29.97fps wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2688,
+    "h": 2016
+  },
+  "orig_dimension": {
+    "w": 2688,
+    "h": 2016
+  },
+  "output_dimension": {
+    "w": 2688,
+    "h": 2016
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7291478463540035,
+    "camera_matrix": [
+      [
+        1227.241157876619,
+        0.0,
+        1265.5869408136816
+      ],
+      [
+        0.0,
+        1226.595586095253,
+        1097.8870204376867
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.033711103296665774,
+      0.06239259706997172,
+      -0.06165284268129956,
+      0.02382242067708155
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "caddx-walnutcam-caddx/caddx_walnut_no-ldc_2.7k30_2.7k_4by3_2720x2040-29.97fps-wide-2688x2016@29970",
+  "calibrator_version": "1.5.3",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

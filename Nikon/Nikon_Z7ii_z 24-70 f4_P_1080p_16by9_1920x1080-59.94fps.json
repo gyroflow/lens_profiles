@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z7ii_z 24-70 f4_P_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Haxlok_1",
+  "camera_brand": "Nikon",
+  "camera_model": "Z7ii",
+  "lens_model": "z 24-70 f4",
+  "camera_setting": "P",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": -4.89,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.49406419396456,
+    "camera_matrix": [
+      [
+        1274.1145132223394,
+        0.0,
+        977.0567171646288
+      ],
+      [
+        0.0,
+        1269.6766455841082,
+        537.4502232519199
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32875410361234964,
+      0.0313899349415568,
+      0.4711649804808854,
+      -0.5322791357692966
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

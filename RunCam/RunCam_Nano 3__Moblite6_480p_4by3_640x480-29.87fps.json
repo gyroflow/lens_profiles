@@ -1,0 +1,69 @@
+{
+  "name": "RunCam_Nano 3__Moblite6_480p_4by3_640x480-29.87fps",
+  "note": "Moblite6",
+  "calibrated_by": "Boo_Boo",
+  "camera_brand": "RunCam",
+  "camera_model": "Nano 3",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 640,
+    "h": 480
+  },
+  "orig_dimension": {
+    "w": 640,
+    "h": 480
+  },
+  "output_dimension": {
+    "w": 640,
+    "h": 480
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 29.867685,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.44575601687013194,
+    "camera_matrix": [
+      [
+        359.39143264221286,
+        0.0,
+        318.1898619671505
+      ],
+      [
+        0.0,
+        340.79883700252367,
+        282.52815489721644
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.06107326331968181,
+      -0.28031893756268084,
+      0.3372206717943761,
+      -0.13779325367541817
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

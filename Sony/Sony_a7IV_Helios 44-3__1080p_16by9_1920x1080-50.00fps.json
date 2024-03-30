@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_Helios 44-3__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Igor Iudnikov",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "Helios 44-3",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2955762952932114,
+    "camera_matrix": [
+      [
+        3186.5259581696027,
+        0.0,
+        962.0843919646971
+      ],
+      [
+        0.0,
+        3186.8712507799805,
+        532.597211370285
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3619264323877545,
+      0.4166962401153336,
+      -9.9628267253987,
+      68.79033657304026
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 58.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

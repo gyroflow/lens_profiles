@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_GH5S_Laowa7.5mm f2.0_422 10bit_2.7k_4by3_3328x2496-25.00fps",
+  "note": "",
+  "calibrated_by": "ykn",
+  "camera_brand": "Panasonic",
+  "camera_model": "GH5S",
+  "lens_model": "Laowa7.5mm f2.0",
+  "camera_setting": "422 10bit",
+  "calib_dimension": {
+    "w": 3328,
+    "h": 2496
+  },
+  "orig_dimension": {
+    "w": 3328,
+    "h": 2496
+  },
+  "output_dimension": {
+    "w": 3328,
+    "h": 2496
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7596605468346318,
+    "camera_matrix": [
+      [
+        1511.303754765575,
+        0.0,
+        1658.7016169223782
+      ],
+      [
+        0.0,
+        1511.5726765810946,
+        1245.8343692723938
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33354672953306125,
+      0.06529327428394623,
+      0.08506216831237651,
+      -0.008549286521797858
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

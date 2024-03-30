@@ -1,0 +1,69 @@
+{
+  "name": "Sony_7CII_35mm ziess_100/s_4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Mark",
+  "camera_brand": "Sony",
+  "camera_model": "7CII",
+  "lens_model": "35mm ziess",
+  "camera_setting": "100/s",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 5.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4742057610138241,
+    "camera_matrix": [
+      [
+        3584.592202183086,
+        0.0,
+        1918.0160150023037
+      ],
+      [
+        0.0,
+        3591.912555701293,
+        1180.16417943718
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2990395415714239,
+      0.37717960777860976,
+      -0.9144973742050976,
+      1.980924990873682
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7cm2-35.00mm-3840x2160@25000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

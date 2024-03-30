@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_GH5S_Olympus M.Zuiko_at_1080p_16by9_1920x1080-59.94fps",
+  "note": "25mm F1.8",
+  "calibrated_by": "Mark Benitez",
+  "camera_brand": "Panasonic",
+  "camera_model": "GH5S",
+  "lens_model": "Olympus M.Zuiko",
+  "camera_setting": "at",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4495365392572306,
+    "camera_matrix": [
+      [
+        2489.5346973777387,
+        0.0,
+        964.716533646136
+      ],
+      [
+        0.0,
+        2494.578080843616,
+        530.9784008666034
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.21096625403141644,
+      0.33880516830881835,
+      -0.9161214453602856,
+      3.1798927397630674
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

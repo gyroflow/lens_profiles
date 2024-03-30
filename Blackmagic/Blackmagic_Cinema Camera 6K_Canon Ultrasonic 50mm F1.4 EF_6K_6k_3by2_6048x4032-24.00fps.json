@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Cinema Camera 6K_Canon Ultrasonic 50mm F/1.4 EF_6K_6k_3by2_6048x4032-24.00fps",
+  "note": "50mm f1.4",
+  "calibrated_by": "Ankit Ojha",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Cinema Camera 6K",
+  "lens_model": "Canon Ultrasonic 50mm F/1.4 EF",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 6048,
+    "h": 4032
+  },
+  "orig_dimension": {
+    "w": 6048,
+    "h": 4032
+  },
+  "output_dimension": {
+    "w": 6048,
+    "h": 4032
+  },
+  "frame_readout_time": 41.67,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.4693318022399808,
+    "camera_matrix": [
+      [
+        9626.827748965798,
+        0.0,
+        2824.0185229321405
+      ],
+      [
+        0.0,
+        9652.544409794124,
+        1909.7845255497436
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.21717643421785435,
+      -1.5079897610698003,
+      13.186588985509188,
+      -33.12116584970533
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-cinemacamera6k-ef-lconverter-50mm-6048x4032@24000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 50.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

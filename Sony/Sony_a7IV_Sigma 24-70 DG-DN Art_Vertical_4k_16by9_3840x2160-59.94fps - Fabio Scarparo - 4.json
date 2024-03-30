@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "Fabio Scarparo",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "camera_setting": "Vertical",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2023-12-30",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.5359576881982046,
+    "camera_matrix": [
+      [
+        3964.680468141501,
+        0.0,
+        1913.7896595919349
+      ],
+      [
+        0.0,
+        3964.77543854618,
+        1079.7914605992714
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.11120372960719486,
+      0.6409078489933735,
+      -2.868166977039941,
+      6.067535760221288
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 24.0,
+  "fps": 59.94006,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": 0.0,
+  "identifier": "--sony-ilce-7m4-24.00mm-3840x2160@59940",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Sigma 24-70 DG-DN Art",
+  "name": "Sony_a7IV_Sigma 24-70 DG-DN Art_Vertical_4k_16by9_3840x2160-59.94fps",
+  "note": "24 mm",
+  "num_images": 20,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 3840,
+    "w": 2160
+  },
+  "sync_settings": null
+}

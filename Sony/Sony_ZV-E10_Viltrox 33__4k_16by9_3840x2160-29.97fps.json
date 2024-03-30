@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_Viltrox 33__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "白茶清欢无琐事",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "Viltrox 33",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8110541913369341,
+    "camera_matrix": [
+      [
+        33959.357759453465,
+        0.0,
+        1390.0940018809897
+      ],
+      [
+        0.0,
+        56419.164121494345,
+        1072.7929524623771
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      5.666506930489,
+      -947.2404480174416,
+      870310.5740483118,
+      -284350874.59516674
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-e10-d3250770-3840x2160@29970",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

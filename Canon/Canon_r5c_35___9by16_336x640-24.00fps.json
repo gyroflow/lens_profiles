@@ -1,0 +1,69 @@
+{
+  "name": "Canon_r5c_35___9by16_336x640-24.00fps",
+  "note": "",
+  "calibrated_by": "admins",
+  "camera_brand": "Canon",
+  "camera_model": "r5c",
+  "lens_model": "35",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 336,
+    "h": 640
+  },
+  "orig_dimension": {
+    "w": 336,
+    "h": 640
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.31878343970956197,
+    "camera_matrix": [
+      [
+        870.557613239245,
+        0.0,
+        183.1896647853752
+      ],
+      [
+        0.0,
+        874.6723892186096,
+        306.89371647099085
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.17308510489001316,
+      1.2946821455229676,
+      -14.981146117328258,
+      79.81898846668658
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-10-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

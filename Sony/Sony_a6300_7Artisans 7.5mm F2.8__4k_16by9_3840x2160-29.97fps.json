@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6300_7Artisans 7.5mm F2.8__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Nils Schreiner",
+  "camera_brand": "Sony",
+  "camera_model": "a6300",
+  "lens_model": "7Artisans 7.5mm F2.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 25.2533800574595,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6109400528541454,
+    "camera_matrix": [
+      [
+        1673.8008108768702,
+        0.0,
+        1917.271512906634
+      ],
+      [
+        0.0,
+        1629.8259571565227,
+        1094.8177677924814
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.008717914382732728,
+      -0.007318617139961595,
+      0.011519301240179644,
+      -0.003057625551490647
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

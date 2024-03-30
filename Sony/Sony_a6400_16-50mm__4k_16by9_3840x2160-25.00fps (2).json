@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_16-50mm__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Malav Shah",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "16-50mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6094218114742466,
+    "camera_matrix": [
+      [
+        3268.0002646885277,
+        0.0,
+        1898.172784901587
+      ],
+      [
+        0.0,
+        3258.9686388568393,
+        1087.4165146534615
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3362047131762388,
+      -0.1696215088626292,
+      1.2648715269708124,
+      -1.165712303880539
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

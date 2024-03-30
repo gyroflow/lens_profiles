@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_EF40mm f/2.8 STM 28.00mm_6K 17:9_6k_1.90by1_6144x3240-25.00fps",
+  "note": "",
+  "calibrated_by": "Accelerator",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "EF40mm f/2.8 STM 28.00mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.087944759800865,
+    "camera_matrix": [
+      [
+        6437.404716666697,
+        0.0,
+        3057.22207589529
+      ],
+      [
+        0.0,
+        6437.099684124447,
+        1669.7559019788223
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.17873761433696125,
+      0.3752490455427851,
+      -1.3180813099759152,
+      7.18789164361946
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-komodo6k-ef40mmf/2.8stm-28.00mm-6144x3240@0",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 28.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

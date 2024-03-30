@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_625f1443__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "番茄",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "625f1443",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.363340911206393,
+    "camera_matrix": [
+      [
+        1277.0665690733283,
+        0.0,
+        968.0594261907136
+      ],
+      [
+        0.0,
+        1278.7614342106308,
+        544.6012018929107
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30456854005326833,
+      0.02754046862109372,
+      0.5292394260523452,
+      -0.4635689997847417
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-e10-625f1443-1920x1080@59940",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

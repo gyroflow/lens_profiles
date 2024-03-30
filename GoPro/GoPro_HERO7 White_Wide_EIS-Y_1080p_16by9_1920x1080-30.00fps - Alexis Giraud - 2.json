@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "calibrated_by": "Alexis Giraud",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO7 White",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2023-11-30",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.3899522810772392,
+    "camera_matrix": [
+      [
+        950.7106897378666,
+        0.0,
+        953.914192061706
+      ],
+      [
+        0.0,
+        950.6790563170828,
+        550.8267073205681
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.10810965317549744,
+      0.013176299153757664,
+      -0.17767595598457964,
+      0.16782460391269818
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 30.000011,
+  "frame_readout_time": 24.0,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-gopro-hero7white-wide-1920x1080@30000-eis-y",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Wide",
+  "name": "GoPro_HERO7 White_Wide_EIS-Y_1080p_16by9_1920x1080-30.00fps",
+  "note": "EIS-Y",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "output_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "sync_settings": null
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS M_7 Artisans 25mm f.18_Magic Lantern Crop Mood p  3x3_720p_3by2_1736x1158-25.00fps",
+  "note": "rolling shutter applied",
+  "calibrated_by": "admin",
+  "camera_brand": "Canon",
+  "camera_model": "EOS M",
+  "lens_model": "7 Artisans 25mm f.18",
+  "camera_setting": "Magic Lantern Crop Mood p  3x3",
+  "calib_dimension": {
+    "w": 1736,
+    "h": 1158
+  },
+  "orig_dimension": {
+    "w": 1736,
+    "h": 1158
+  },
+  "output_dimension": {
+    "w": 1736,
+    "h": 1158
+  },
+  "frame_readout_time": 21.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6193574833198016,
+    "camera_matrix": [
+      [
+        2152.8950923700263,
+        0.0,
+        892.5867787143155
+      ],
+      [
+        0.0,
+        2152.62308398616,
+        559.2011405955882
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.24581272802038065,
+      -0.4429153851824792,
+      4.846582423186859,
+      -12.422344277312266
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

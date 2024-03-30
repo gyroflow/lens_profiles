@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS R50_Canon 18-45_FHD_1080p_16by9_1920x1080-50.00fps",
+  "note": "18mm",
+  "calibrated_by": "Dhivyan",
+  "camera_brand": "Canon",
+  "camera_model": "EOS R50",
+  "lens_model": "Canon 18-45",
+  "camera_setting": "FHD",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.38991358447644614,
+    "camera_matrix": [
+      [
+        2402.804641361074,
+        0.0,
+        966.9599724872512
+      ],
+      [
+        0.0,
+        2400.3956474254783,
+        518.7102896738754
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3406927439710625,
+      0.4798703264021471,
+      -2.6864927752961596,
+      8.371783370303282
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Insta360_EVO_Unknown_50fpz_2.7k_1by1_2880x2880-29.97fps",
+  "note": "NO-EIS",
+  "calibrated_by": "Per Hansen",
+  "camera_brand": "Insta360",
+  "camera_model": "EVO",
+  "lens_model": "Unknown",
+  "camera_setting": "50fpz",
+  "calib_dimension": {
+    "w": 2880,
+    "h": 2880
+  },
+  "orig_dimension": {
+    "w": 2880,
+    "h": 2880
+  },
+  "output_dimension": {
+    "w": 2880,
+    "h": 2880
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.3694571487723373,
+    "camera_matrix": [
+      [
+        869.1582755977588,
+        0.0,
+        1441.3758444705966
+      ],
+      [
+        0.0,
+        868.4250488704606,
+        1422.360054613191
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.0020760214117440147,
+      -0.0030266544909939865,
+      -0.0007369470066610488,
+      -0.0004695878363621481
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "insta360-evo-unknown-2880x2880@29970-no-eis",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

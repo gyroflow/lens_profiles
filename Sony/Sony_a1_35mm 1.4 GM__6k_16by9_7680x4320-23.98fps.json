@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 4320,
+    "w": 7680
+  },
+  "calibrated_by": "Kyle Kirchhoff",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "a1",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 1.2341107082327738,
+    "camera_matrix": [
+      [
+        7442.050454229908,
+        0.0,
+        3838.941869886938
+      ],
+      [
+        0.0,
+        7446.307598667555,
+        2100.9374463804797
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30817267243073526,
+      0.26532688094371587,
+      -0.3208541378912027,
+      0.10306337239199996
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 35.0,
+  "fps": 23.976025,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilce-1-35.00mm-7680x4320@23976",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "35mm 1.4 GM",
+  "name": "Sony_a1_35mm 1.4 GM__6k_16by9_7680x4320-23.98fps",
+  "note": "",
+  "num_images": 11,
+  "official": false,
+  "orig_dimension": {
+    "h": 4320,
+    "w": 7680
+  },
+  "output_dimension": {
+    "h": 4320,
+    "w": 7680
+  },
+  "sync_settings": null
+}

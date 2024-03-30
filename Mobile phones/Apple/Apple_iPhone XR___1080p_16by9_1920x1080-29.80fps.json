@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone XR___1080p_16by9_1920x1080-29.80fps",
+  "note": "",
+  "calibrated_by": "Rich",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone XR",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 29.802956,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4721578370179395,
+    "camera_matrix": [
+      [
+        1646.1696845007748,
+        0.0,
+        954.825469437106
+      ],
+      [
+        0.0,
+        1646.729005617869,
+        528.9449393285289
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6263459836998126,
+      -1.411410320824393,
+      2.0165727452233315,
+      2.5531669604278715
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-02-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

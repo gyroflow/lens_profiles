@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO-X 6K S35_EF14mm f/2.8L II USM 14.00mm_6K_5k_16by9_5760x3240-23.98fps",
+  "note": "",
+  "calibrated_by": "Chris McClain",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "lens_model": "EF14mm f/2.8L II USM 14.00mm",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.976452338352206,
+    "camera_matrix": [
+      [
+        3226.547219059482,
+        0.0,
+        2898.4882560540564
+      ],
+      [
+        0.0,
+        3227.1111255372084,
+        1620.189619443408
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30738805970415667,
+      0.07580229073053352,
+      0.22286214231113824,
+      -0.15467893824887774
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-komodo-x6ks35-ef14mmf/2.8liiusm-14.00mm-5760x3240@0",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 14.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Realme_9 pro plus_main cam_21:9 cinemetic_2k_2.33by1_2400x1028-29.98fps",
+  "note": "pro setting",
+  "calibrated_by": "ASUS TUF FX504",
+  "camera_brand": "Realme",
+  "camera_model": "9 pro plus",
+  "lens_model": "main cam",
+  "camera_setting": "21:9 cinemetic",
+  "calib_dimension": {
+    "w": 2400,
+    "h": 1028
+  },
+  "orig_dimension": {
+    "w": 2400,
+    "h": 1028
+  },
+  "output_dimension": {
+    "w": 2400,
+    "h": 1028
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.984394,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3973321112806716,
+    "camera_matrix": [
+      [
+        1757.2784425321724,
+        0.0,
+        1198.5666820178749
+      ],
+      [
+        0.0,
+        1756.8834712127048,
+        508.1910118599395
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5027391007119533,
+      -0.26237467561364103,
+      -5.321772408725237,
+      19.902419236826773
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Caddx_AVATAR-HD PRO__720P_1080p_16by9_1920x1080-59.98fps",
+  "note": "",
+  "calibrated_by": "Marcin W",
+  "camera_brand": "Caddx",
+  "camera_model": "AVATAR-HD PRO",
+  "lens_model": "",
+  "camera_setting": "720P",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.977646,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.24646090792303288,
+    "camera_matrix": [
+      [
+        922.4570876921596,
+        0.0,
+        1017.0248616055214
+      ],
+      [
+        0.0,
+        921.833958746846,
+        516.8406965780288
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.00635797270383523,
+      -0.06538468184848206,
+      0.13987450116926356,
+      -0.10560672733923011
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6300_SEL 70-200mm F4__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "MM",
+  "camera_brand": "Sony",
+  "camera_model": "a6300",
+  "lens_model": "SEL 70-200mm F4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8211039667591816,
+    "camera_matrix": [
+      [
+        42903.892930080954,
+        0.0,
+        1868.7474613426928
+      ],
+      [
+        0.0,
+        41008.435914835376,
+        482.5457495512271
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      3.4510596487165395,
+      -2213.714576128122,
+      1472644.7537328196,
+      -282467858.80881447
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

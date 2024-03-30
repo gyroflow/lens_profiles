@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K Pro_Sigma or Tamron 24-70mm f/2.8 24mm_.braw 12:1  1/100 f2.8_6k_16by9_6144x3456-24.00fps",
+  "note": "",
+  "calibrated_by": "Benna van der Walt",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K Pro",
+  "lens_model": "Sigma or Tamron 24-70mm f/2.8 24mm",
+  "camera_setting": ".braw 12:1  1/100 f2.8",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.7988943360818386,
+    "camera_matrix": [
+      [
+        6634.695698511415,
+        0.0,
+        3209.9771675195448
+      ],
+      [
+        0.0,
+        6632.857104366759,
+        1652.2336693442192
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.156083650768624,
+      0.6315289992129661,
+      -4.58619241446051,
+      13.448428688566311
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera6kpro-sigmaortamron24-70mmf/2.8-24mm-6144x3456@24000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

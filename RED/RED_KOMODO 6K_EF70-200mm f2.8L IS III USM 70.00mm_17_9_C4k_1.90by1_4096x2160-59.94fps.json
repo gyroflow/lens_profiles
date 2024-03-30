@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_EF70-200mm f/2.8L IS III USM 70.00mm_17:9_C4k_1.90by1_4096x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Adam Bachi",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "EF70-200mm f/2.8L IS III USM 70.00mm",
+  "camera_setting": "17:9",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 6,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.5156986799587373,
+    "camera_matrix": [
+      [
+        11914.288373075902,
+        0.0,
+        2000.573447100008
+      ],
+      [
+        0.0,
+        11914.402262605685,
+        1323.6965130389651
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.13810024659428258,
+      2.174409254932295,
+      4.2527670551795405,
+      -1009.7542007349944
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-komodo6k-ef70-200mmf/2.8lisiiiusm-70.00mm-4096x2160@0",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

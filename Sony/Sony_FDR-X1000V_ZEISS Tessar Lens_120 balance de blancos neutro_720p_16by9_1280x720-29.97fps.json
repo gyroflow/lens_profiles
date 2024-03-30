@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FDR-X1000V_ZEISS® Tessar® Lens_120° balance de blancos neutro_720p_16by9_1280x720-29.97fps",
+  "note": "",
+  "calibrated_by": "Carlos Salazar",
+  "camera_brand": "Sony",
+  "camera_model": "FDR-X1000V",
+  "lens_model": "ZEISS® Tessar® Lens",
+  "camera_setting": "120° balance de blancos neutro",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.29761502604868284,
+    "camera_matrix": [
+      [
+        603.0236622820103,
+        0.0,
+        647.7659196004242
+      ],
+      [
+        0.0,
+        603.9108449852979,
+        349.0755256184251
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.05642296479196671,
+      -0.022817247428245584,
+      0.024637311676676103,
+      -0.011260560089824652
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

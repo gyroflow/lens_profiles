@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R8_RF 14-35mm_14mm_4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Laura Turner",
+  "camera_brand": "Canon",
+  "camera_model": "R8",
+  "lens_model": "RF 14-35mm",
+  "camera_setting": "14mm",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.7547020169596066,
+    "camera_matrix": [
+      [
+        2824.2217925870577,
+        0.0,
+        1892.300908822859
+      ],
+      [
+        0.0,
+        2858.7677660976315,
+        989.4490265619472
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.7014014366781243,
+      0.20858580535555424,
+      4.446499746013547,
+      -1.83052841063819
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_S23 Ultra_23mm_Sensor 2.35_C4k_7by3_4032x1728-24.01fps",
+  "note": "Motion Cam",
+  "calibrated_by": "U0 A427",
+  "camera_brand": "Samsung",
+  "camera_model": "S23 Ultra",
+  "lens_model": "23mm",
+  "camera_setting": "Sensor 2.35",
+  "calib_dimension": {
+    "w": 4032,
+    "h": 1728
+  },
+  "orig_dimension": {
+    "w": 4032,
+    "h": 1728
+  },
+  "output_dimension": {
+    "w": 4032,
+    "h": 1728
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.00845,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4064366905066119,
+    "camera_matrix": [
+      [
+        2653.14678446318,
+        0.0,
+        2000.493008372668
+      ],
+      [
+        0.0,
+        2654.334218225994,
+        849.0559303145071
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.59825599941437,
+      -1.5888292584504022,
+      5.915620745725545,
+      -7.481546776674429
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

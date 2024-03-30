@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7III_sony20-70__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "家乐",
+  "camera_brand": "Sony",
+  "camera_model": "a7III",
+  "lens_model": "sony20-70",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.40564852331458473,
+    "camera_matrix": [
+      [
+        1054.614547717923,
+        0.0,
+        956.7123896259336
+      ],
+      [
+        0.0,
+        1053.5926588742811,
+        538.8231886841291
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.29135929585430836,
+      0.1311941708321748,
+      0.08195723974460471,
+      0.049943216956380286
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

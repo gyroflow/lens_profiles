@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 4096
+  },
+  "calibrated_by": "FAHAD FPV",
+  "calibrator_version": "1.5.3",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K",
+  "camera_setting": "4k",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2023-11-04",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 1.175235846178747,
+    "camera_matrix": [
+      [
+        1618.8424494171295,
+        0.0,
+        2079.23668287248
+      ],
+      [
+        0.0,
+        1617.1075162859593,
+        1105.2928613945546
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.0003005149231005293,
+      -0.03761411116230925,
+      0.029101055604752655,
+      -0.008092175422825988
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 19.0,
+  "fps": 59.940063,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "--blackmagic-pocketcinemacamera4k-19mm-4096x2160@59940",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "8mm",
+  "name": "Blackmagic_Pocket Cinema Camera 4K_8mm_4k_C4k_1.90by1_4096x2160-59.94fps",
+  "note": "FAHAD",
+  "num_images": 14,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 4096
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 4096
+  },
+  "sync_settings": null
+}

@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 3240,
+    "w": 5760
+  },
+  "calibrated_by": "Max Hunt",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "camera_setting": "6K",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 1.117658633338683,
+    "camera_matrix": [
+      [
+        11761.379554028554,
+        0.0,
+        2873.6545555861935
+      ],
+      [
+        0.0,
+        11749.007349353184,
+        1662.645049979398
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.08035811907579579,
+      2.986983385603991,
+      -54.33199026240089,
+      352.9685089518529
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 50.0,
+  "fps": 23.976025,
+  "frame_readout_time": null,
+  "global_shutter": true,
+  "gyro_lpf": null,
+  "identifier": "-red-komodo6k-ef50mmf/1.2lusm-50.00mm-5760x3240@0",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "EF50mm f/1.2L USM 50.00mm",
+  "name": "RED_KOMODO 6K_EF50mm f/1.2L USM 50.00mm_6K_5k_16by9_5760x3240-23.98fps",
+  "note": "",
+  "num_images": 11,
+  "official": false,
+  "orig_dimension": {
+    "h": 3240,
+    "w": 5760
+  },
+  "output_dimension": {
+    "h": 3240,
+    "w": 5760
+  },
+  "sync_settings": null
+}

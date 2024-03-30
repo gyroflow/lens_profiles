@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_28_6K_5k_16by9_5760x3240-25.00fps",
+  "note": "",
+  "calibrated_by": "NARNI98",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "28",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7401604161131288,
+    "camera_matrix": [
+      [
+        4720.127246869691,
+        0.0,
+        2861.8637192330316
+      ],
+      [
+        0.0,
+        4721.69222220276,
+        1566.9488234063642
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1524032560160269,
+      0.0662558105993553,
+      0.45024607486995893,
+      -0.0781968422169444
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

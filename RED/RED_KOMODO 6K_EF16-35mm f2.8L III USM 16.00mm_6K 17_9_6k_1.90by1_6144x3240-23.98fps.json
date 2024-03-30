@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_EF16-35mm f/2.8L III USM 16.00mm_6K 17:9_6k_1.90by1_6144x3240-23.98fps",
+  "note": "Canon 0.71x Adapter",
+  "calibrated_by": "Bryan Redding",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "EF16-35mm f/2.8L III USM 16.00mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8399126673705966,
+    "camera_matrix": [
+      [
+        2401.424582049829,
+        0.0,
+        3086.645246532424
+      ],
+      [
+        0.0,
+        2410.8152588273097,
+        1657.669364398138
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.27288896476211805,
+      -0.08435612453269792,
+      0.4912823960504053,
+      -0.35951745723554235
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-komodo6k-ef16-35mmf/2.8liiiusm-16.00mm-6144x3240@0",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 16.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "calibrated_by": "Raikvolt",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Honor 80",
+  "camera_model": "Honor 80",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2023-12-06",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.4365611642917708,
+    "camera_matrix": [
+      [
+        1769.9364345716735,
+        0.0,
+        961.0720429692446
+      ],
+      [
+        0.0,
+        1769.503420804603,
+        528.7615076288714
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.546437245277397,
+      -1.9690923080199996,
+      10.083064222508051,
+      -18.240183432287072
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 29.899607,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Honor 80_Honor 80__1080 30P_1080p_16by9_1920x1080-29.90fps",
+  "note": "1080 30P",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "output_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "sync_settings": null
+}

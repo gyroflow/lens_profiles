@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_唯卓士751.2__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "赵金辉",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "唯卓士751.2",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3016743175617809,
+    "camera_matrix": [
+      [
+        36101.23159653465,
+        0.0,
+        986.394681932554
+      ],
+      [
+        0.0,
+        37429.79187723461,
+        567.9292653264114
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      6.112687182596361,
+      83566.42772187282,
+      -172116575.08796057,
+      109517566653.54192
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

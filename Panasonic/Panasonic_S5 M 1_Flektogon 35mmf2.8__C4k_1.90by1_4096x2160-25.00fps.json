@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_S5 M 1_Flektogon 35mm/f2.8__C4k_1.90by1_4096x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Udvar Ferencz",
+  "camera_brand": "Panasonic",
+  "camera_model": "S5 M 1",
+  "lens_model": "Flektogon 35mm/f2.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8077566308104854,
+    "camera_matrix": [
+      [
+        4415.608137377385,
+        0.0,
+        1986.6127562716208
+      ],
+      [
+        0.0,
+        4408.442863686548,
+        1089.2434872664933
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2759182311584268,
+      -0.5421534713996325,
+      9.069489184264995,
+      -38.20852721649431
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

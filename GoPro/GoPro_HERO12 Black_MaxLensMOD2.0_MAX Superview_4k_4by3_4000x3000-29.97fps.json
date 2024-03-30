@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 3000,
+    "w": 4000
+  },
+  "calibrated_by": "JMTBike",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO12 Black",
+  "camera_setting": "MAX Superview",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2023-12-23",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.979790605034002,
+    "camera_matrix": [
+      [
+        1392.1007733283798,
+        0.0,
+        2011.6782974834032
+      ],
+      [
+        0.0,
+        1392.5575575962043,
+        1478.6681435914425
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.17485665285205865,
+      -0.1788102406740315,
+      0.13681770509437252,
+      -0.03845431535924741
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 29.97003,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-gopro-hero12black-max-4000x3000@29970-no-eis",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "MaxLensMOD2.0",
+  "name": "GoPro_HERO12 Black_MaxLensMOD2.0_MAX Superview_4k_4by3_4000x3000-29.97fps",
+  "note": "NO-EIS",
+  "num_images": 18,
+  "official": false,
+  "orig_dimension": {
+    "h": 3000,
+    "w": 4000
+  },
+  "output_dimension": {
+    "h": 3000,
+    "w": 4000
+  },
+  "sync_settings": null
+}

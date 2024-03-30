@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_Sigma30mm__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "蓝色的",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "Sigma30mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3529468543349925,
+    "camera_matrix": [
+      [
+        3082.962308345478,
+        0.0,
+        947.2704366329208
+      ],
+      [
+        0.0,
+        3061.3785272090217,
+        376.99742541760594
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4436390116747418,
+      -1.845976700052635,
+      31.631252531292123,
+      -147.5295432438449
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

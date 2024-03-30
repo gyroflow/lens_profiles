@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "Michal M",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Walksnail",
+  "camera_model": "Moonlight 4K 30fps",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-02-16",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.732105778052946,
+    "camera_matrix": [
+      [
+        1793.7564830825006,
+        0.0,
+        1902.628565688716
+      ],
+      [
+        0.0,
+        1793.324902828731,
+        1111.900120801034
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.05413117431933569,
+      0.030670042645294875,
+      -0.02797634508134669,
+      0.007769509532139257
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 30.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Walksnail_Moonlight 4K 30fps___4k_16by9_3840x2160-30.00fps",
+  "note": "",
+  "num_images": 7,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

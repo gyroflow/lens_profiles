@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R10_Sigma 10-20mm 1:4-5.6 DC HSM__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Ethan",
+  "camera_brand": "Canon",
+  "camera_model": "R10",
+  "lens_model": "Sigma 10-20mm 1:4-5.6 DC HSM",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 4.585725131416614,
+    "camera_matrix": [
+      [
+        1866.6340823237572,
+        0.0,
+        1971.000342368244
+      ],
+      [
+        0.0,
+        1862.6510252611065,
+        1095.9908550120751
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.37375447936410017,
+      0.6957843767799269,
+      -0.7567360810719238,
+      0.577904428638118
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

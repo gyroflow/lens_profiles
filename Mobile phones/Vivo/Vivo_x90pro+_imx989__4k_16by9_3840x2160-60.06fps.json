@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "skamannpaul",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Vivo",
+  "camera_model": "x90pro+",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.9893130657881172,
+    "camera_matrix": [
+      [
+        2444.0706453925736,
+        0.0,
+        1948.793481789478
+      ],
+      [
+        0.0,
+        2446.1343531370376,
+        1051.322709757781
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.613872411885797,
+      -2.109856043895273,
+      6.473844512227153,
+      -6.371572756570528
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 60.055458,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "imx989",
+  "name": "Vivo_x90pro+_imx989_无防抖_4k_16by9_3840x2160-60.06fps",
+  "note": "无防抖",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

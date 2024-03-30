@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS M_35mm f/1.8_14bit  1/50_2.5k_7by3_2520x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Michael Voit",
+  "camera_brand": "Canon",
+  "camera_model": "EOS M",
+  "lens_model": "35mm f/1.8",
+  "camera_setting": "14bit  1/50",
+  "calib_dimension": {
+    "w": 2520,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 2520,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 2520,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 23.976,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3336013025249098,
+    "camera_matrix": [
+      [
+        43730.75365761978,
+        0.0,
+        926.2126128909688
+      ],
+      [
+        0.0,
+        57488.1900821416,
+        340.00245026743687
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      7.6077937454549645,
+      -3284.9226394806637,
+      1426204.3817013672,
+      -2044515230.0418563
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

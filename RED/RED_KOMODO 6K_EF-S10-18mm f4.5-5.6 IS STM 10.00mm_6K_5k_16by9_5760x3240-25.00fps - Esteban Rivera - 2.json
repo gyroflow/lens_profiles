@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 3240,
+    "w": 5760
+  },
+  "calibrated_by": "Esteban Rivera",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "camera_setting": "6K",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-01-15",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.9928172980498284,
+    "camera_matrix": [
+      [
+        2349.1195130396377,
+        0.0,
+        2876.026685800088
+      ],
+      [
+        0.0,
+        2349.483136479302,
+        1545.1746942645452
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3026748453851208,
+      0.2825450196259586,
+      -0.2889773545746177,
+      0.17794823644122096
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 25.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-----red-komodo6k-ef-s10-18mmf/4.5-5.6isstm-10.00mm-5760x3240@0",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "EF-S10-18mm f/4.5-5.6 IS STM 10.00mm",
+  "name": "RED_KOMODO 6K_EF-S10-18mm f/4.5-5.6 IS STM 10.00mm_6K_5k_16by9_5760x3240-25.00fps",
+  "note": "f 8.0",
+  "num_images": 5,
+  "official": false,
+  "orig_dimension": {
+    "h": 3240,
+    "w": 5760
+  },
+  "output_dimension": {
+    "h": 3240,
+    "w": 5760
+  },
+  "sync_settings": null
+}

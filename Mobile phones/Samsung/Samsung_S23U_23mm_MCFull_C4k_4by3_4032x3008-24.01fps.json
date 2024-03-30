@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 3008,
+    "w": 4032
+  },
+  "calibrated_by": "U0 A549",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Samsung",
+  "camera_model": "S23U",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.8480448016067029,
+    "camera_matrix": [
+      [
+        2666.8436299784735,
+        0.0,
+        2000.7533113506745
+      ],
+      [
+        0.0,
+        2666.2082122167044,
+        1490.771815668433
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5064720245279319,
+      -0.4832492221096532,
+      1.465268075975111,
+      -1.3059179363490836
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 24.008459,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "23mm",
+  "name": "Samsung_S23U_23mm_MCFull_C4k_4by3_4032x3008-24.01fps",
+  "note": "MCFull",
+  "num_images": 13,
+  "official": false,
+  "orig_dimension": {
+    "h": 3008,
+    "w": 4032
+  },
+  "output_dimension": {
+    "h": 3008,
+    "w": 4032
+  },
+  "sync_settings": null
+}

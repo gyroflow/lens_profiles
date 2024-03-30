@@ -1,0 +1,69 @@
+{
+  "name": "Hawkeye_THUMB 4K___2.5k_16by9_2560x1440-50.00fps",
+  "note": "",
+  "calibrated_by": "mac",
+  "camera_brand": "Hawkeye",
+  "camera_model": "THUMB 4K",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "orig_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "output_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.6642162640009233,
+    "camera_matrix": [
+      [
+        1346.7749786491177,
+        0.0,
+        1235.3531354208792
+      ],
+      [
+        0.0,
+        1318.4283750578647,
+        741.1729652125614
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.060432215460174306,
+      -0.011814669771396277,
+      -0.024511359552378948,
+      0.02801957476508905
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

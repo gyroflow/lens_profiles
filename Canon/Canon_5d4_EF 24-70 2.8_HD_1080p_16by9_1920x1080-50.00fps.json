@@ -1,0 +1,69 @@
+{
+  "name": "Canon_5d4_EF 24-70 2.8_HD_1080p_16by9_1920x1080-50.00fps",
+  "note": "24mm",
+  "calibrated_by": "凡人",
+  "camera_brand": "Canon",
+  "camera_model": "5d4",
+  "lens_model": "EF 24-70 2.8",
+  "camera_setting": "HD",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3805606367725275,
+    "camera_matrix": [
+      [
+        1207.0685267269223,
+        0.0,
+        962.4710484498391
+      ],
+      [
+        0.0,
+        1207.1200515149774,
+        541.6254799937713
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1912579154692366,
+      0.20153422776029625,
+      -0.26089958371491506,
+      0.4733359968765476
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

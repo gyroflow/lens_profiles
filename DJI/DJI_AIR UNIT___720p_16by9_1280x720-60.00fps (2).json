@@ -1,0 +1,69 @@
+{
+  "name": "DJI_AIR UNIT___720p_16by9_1280x720-60.00fps",
+  "note": "",
+  "calibrated_by": "USERss",
+  "camera_brand": "DJI",
+  "camera_model": "AIR UNIT",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.20483757790087911,
+    "camera_matrix": [
+      [
+        573.6803004628583,
+        0.0,
+        636.443286926404
+      ],
+      [
+        0.0,
+        573.7105677991293,
+        342.2112121928067
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.032926962491148515,
+      0.0239794732221313,
+      -0.02819119277173721,
+      0.009075900384294976
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sigma_fp_Laowa 9mm F5.6 FF RL_DCCROPOFF_1080p_16by9_1920x1080-25.00fps",
+  "note": "12bit",
+  "calibrated_by": "dr000minFPV",
+  "camera_brand": "Sigma",
+  "camera_model": "fp",
+  "lens_model": "Laowa 9mm F5.6 FF RL",
+  "camera_setting": "DCCROPOFF",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 20.9,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5712935737565301,
+    "camera_matrix": [
+      [
+        512.7115870858955,
+        0.0,
+        969.7984567381789
+      ],
+      [
+        0.0,
+        510.8603918665101,
+        547.5574720728446
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.24115882551186987,
+      0.3243135737420037,
+      -0.24790729197654512,
+      0.1720852927052378
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

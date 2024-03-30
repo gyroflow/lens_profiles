@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS M100_EF-M 15-45mm__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Richard",
+  "camera_brand": "Canon",
+  "camera_model": "EOS M100",
+  "lens_model": "EF-M 15-45mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7592940657826445,
+    "camera_matrix": [
+      [
+        2583.954269347979,
+        0.0,
+        949.4157863727944
+      ],
+      [
+        0.0,
+        2578.819826472877,
+        462.2800079120191
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.22509074257151784,
+      2.5168015748059065,
+      -24.21644746486706,
+      93.65523935224478
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

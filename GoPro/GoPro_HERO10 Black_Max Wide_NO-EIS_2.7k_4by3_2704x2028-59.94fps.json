@@ -1,0 +1,69 @@
+{
+  "name": "GoPro_HERO10 Black_Max Wide_NO-EIS_2.7k_4by3_2704x2028-59.94fps",
+  "note": "NO-EIS",
+  "calibrated_by": "Liam Bristow-Hanna",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO10 Black",
+  "lens_model": "Max Wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2704,
+    "h": 2028
+  },
+  "orig_dimension": {
+    "w": 2704,
+    "h": 2028
+  },
+  "output_dimension": {
+    "w": 2704,
+    "h": 2028
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4968452132639,
+    "camera_matrix": [
+      [
+        1104.4847107978171,
+        0.0,
+        1345.2341839693331
+      ],
+      [
+        0.0,
+        1105.3749757731632,
+        1012.9991611444856
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1539648673990897,
+      -0.1331168383923948,
+      0.09342280918611016,
+      -0.026135942021447377
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "gopro-hero10black-maxwide-2704x2028@59940-no-eis",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

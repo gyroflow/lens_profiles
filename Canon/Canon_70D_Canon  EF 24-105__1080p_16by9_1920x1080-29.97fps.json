@@ -1,0 +1,69 @@
+{
+  "name": "Canon_70D_Canon  EF 24-105__1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "EX",
+  "camera_brand": "Canon",
+  "camera_model": "70D",
+  "lens_model": "Canon  EF 24-105",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.37104352243807653,
+    "camera_matrix": [
+      [
+        2109.4067100438283,
+        0.0,
+        965.3330590202748
+      ],
+      [
+        0.0,
+        2114.479282673676,
+        518.7448140236335
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1781784960670236,
+      0.6994172160089013,
+      -5.022017777175136,
+      15.959118902928214
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone se3___1080p_16by9_1920x1080-29.99fps",
+  "note": "",
+  "calibrated_by": "",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone se3",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.98724,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4586314835648627,
+    "camera_matrix": [
+      [
+        1675.574205720117,
+        0.0,
+        954.7603368723017
+      ],
+      [
+        0.0,
+        1675.3016754609152,
+        534.2310743906934
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5633301032738982,
+      -0.6792746761681924,
+      -2.3679564988873234,
+      12.491791205680572
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

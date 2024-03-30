@@ -1,0 +1,69 @@
+{
+  "name": "Kinefinity_MAVO LF_35MM MAMIYA__C4k_3by2_4096x2644-24.00fps",
+  "note": "",
+  "calibrated_by": "Samuel Esselinckx",
+  "camera_brand": "Kinefinity",
+  "camera_model": "MAVO LF",
+  "lens_model": "35MM MAMIYA",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2644
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2644
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2644
+  },
+  "frame_readout_time": 12.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7864467205187242,
+    "camera_matrix": [
+      [
+        3345.974985318975,
+        0.0,
+        2051.504255791101
+      ],
+      [
+        0.0,
+        3346.991397573583,
+        1288.5370762433645
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.14826674115614563,
+      0.28042356906691324,
+      -0.5858968710186586,
+      0.8921414460120285
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

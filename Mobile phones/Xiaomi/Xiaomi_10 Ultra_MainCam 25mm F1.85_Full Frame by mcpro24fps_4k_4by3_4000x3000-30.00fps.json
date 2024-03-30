@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_10 Ultra_MainCam 25mm F1.85_Full Frame by mcpro24fps_4k_4by3_4000x3000-30.00fps",
+  "note": "Full Frame by mcpro24fps",
+  "calibrated_by": "Xenon",
+  "camera_brand": "Xiaomi",
+  "camera_model": "10 Ultra",
+  "lens_model": "MainCam 25mm F1.85",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "orig_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "output_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.003723,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.521708739861605,
+    "camera_matrix": [
+      [
+        2984.1022347353733,
+        0.0,
+        2043.2782943657155
+      ],
+      [
+        0.0,
+        2983.3991814322812,
+        1467.1747402953165
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.39430253693092143,
+      0.5063138143849306,
+      -2.747880212471828,
+      4.379957506068343
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

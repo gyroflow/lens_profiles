@@ -1,0 +1,69 @@
+{
+  "name": "Canon_80d_sigma dc 17-50 2.8__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "cube_film",
+  "camera_brand": "Canon",
+  "camera_model": "80d",
+  "lens_model": "sigma dc 17-50 2.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6447684406707691,
+    "camera_matrix": [
+      [
+        1058.889600692496,
+        0.0,
+        983.408412443164
+      ],
+      [
+        0.0,
+        1050.093704536898,
+        537.1182656768004
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30172595032988886,
+      0.35620322888097544,
+      -0.40521393799365263,
+      0.37736180034883554
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

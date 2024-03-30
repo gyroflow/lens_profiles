@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "calibrated_by": "olo",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Lenovo",
+  "camera_model": "K6 Note",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.47039699929265494,
+    "camera_matrix": [
+      [
+        1315.230557696866,
+        0.0,
+        968.2372689577538
+      ],
+      [
+        0.0,
+        1314.4276466846522,
+        520.8227921305274
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.43716952462770814,
+      0.1904858921286613,
+      -1.5160184016714424,
+      2.5640092284663
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 26.919632,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Lenovo_K6 Note___1080p_16by9_1920x1080-26.92fps",
+  "note": "",
+  "num_images": 9,
+  "official": false,
+  "orig_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "output_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "sync_settings": null
+}

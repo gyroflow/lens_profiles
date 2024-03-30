@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_XT3_Canon FD 50mm 1.4 + Metabones Speedboster__C4k_1.90by1_4096x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Vehera Danylo",
+  "camera_brand": "Fujifilm",
+  "camera_model": "XT3",
+  "lens_model": "Canon FD 50mm 1.4 + Metabones Speedboster",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 9.011888652003844,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7532430145105266,
+    "camera_matrix": [
+      [
+        8008.860529318304,
+        0.0,
+        2054.1673492266887
+      ],
+      [
+        0.0,
+        8003.111005061676,
+        1061.816599346173
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.08765449606162966,
+      -2.1066859807904477,
+      38.0796452516425,
+      -216.27395961749573
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

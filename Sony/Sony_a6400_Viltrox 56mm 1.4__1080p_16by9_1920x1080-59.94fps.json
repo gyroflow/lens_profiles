@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_Viltrox 56mm 1.4__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "ARB Films",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "Viltrox 56mm 1.4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3844373558544371,
+    "camera_matrix": [
+      [
+        4686.617655405657,
+        0.0,
+        949.8452698375194
+      ],
+      [
+        0.0,
+        4661.478382765915,
+        587.2565639073482
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.43622019136696377,
+      19.313363863404593,
+      -755.0026829919566,
+      10280.3443745308
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-12-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

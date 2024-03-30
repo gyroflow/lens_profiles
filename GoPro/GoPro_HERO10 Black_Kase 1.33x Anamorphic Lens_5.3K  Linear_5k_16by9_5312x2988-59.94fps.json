@@ -1,0 +1,69 @@
+{
+  "name": "GoPro_HERO10 Black_Kase 1.33x Anamorphic Lens_5.3K  Linear_5k_16by9_5312x2988-59.94fps",
+  "note": "NO-EIS",
+  "calibrated_by": "Kwong Kan",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO10 Black",
+  "lens_model": "Kase 1.33x Anamorphic Lens",
+  "camera_setting": "5.3K  Linear",
+  "calib_dimension": {
+    "w": 5312,
+    "h": 2988
+  },
+  "orig_dimension": {
+    "w": 5312,
+    "h": 2988
+  },
+  "output_dimension": {
+    "w": 5312,
+    "h": 2988
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.277789888958837,
+    "camera_matrix": [
+      [
+        2220.37648355123,
+        0.0,
+        2652.429078040906
+      ],
+      [
+        0.0,
+        2562.441889787413,
+        1496.4768630473957
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2818225036495264,
+      -0.06836979254281216,
+      0.19249023698620404,
+      -0.10411123772270976
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.3",
+  "date": "2023-10-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

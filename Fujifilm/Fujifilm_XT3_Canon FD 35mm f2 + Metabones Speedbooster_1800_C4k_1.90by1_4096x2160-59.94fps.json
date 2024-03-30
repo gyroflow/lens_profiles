@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_XT3_Canon FD 35mm f2 + Metabones Speedbooster_1/800_C4k_1.90by1_4096x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Vehera Danylo",
+  "camera_brand": "Fujifilm",
+  "camera_model": "XT3",
+  "lens_model": "Canon FD 35mm f2 + Metabones Speedbooster",
+  "camera_setting": "1/800",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 9.026725046043753,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8058492850518375,
+    "camera_matrix": [
+      [
+        4963.526482087787,
+        0.0,
+        2163.8911277151096
+      ],
+      [
+        0.0,
+        4970.637617723717,
+        1043.441059675695
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.14901770487260102,
+      0.6509170483789702,
+      -4.217415136424116,
+      13.345355722404626
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

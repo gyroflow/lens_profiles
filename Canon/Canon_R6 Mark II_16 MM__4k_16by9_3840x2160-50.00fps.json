@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R6 Mark II_16 MM__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Xiaodan O.Y",
+  "camera_brand": "Canon",
+  "camera_model": "R6 Mark II",
+  "lens_model": "16 MM",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5262448689104352,
+    "camera_matrix": [
+      [
+        2563.367713698238,
+        0.0,
+        1923.7055767830984
+      ],
+      [
+        0.0,
+        2561.3549352257646,
+        1091.7450444764204
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3807250828823917,
+      -0.13101343818781544,
+      0.5321359447548706,
+      -0.13828236107992622
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2023-11-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

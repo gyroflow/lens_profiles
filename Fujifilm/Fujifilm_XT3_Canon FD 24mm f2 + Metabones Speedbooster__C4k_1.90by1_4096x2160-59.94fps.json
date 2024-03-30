@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_XT3_Canon FD 24mm f2 + Metabones Speedbooster__C4k_1.90by1_4096x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Vehera Danylo",
+  "camera_brand": "Fujifilm",
+  "camera_model": "XT3",
+  "lens_model": "Canon FD 24mm f2 + Metabones Speedbooster",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8278844392151888,
+    "camera_matrix": [
+      [
+        3762.4255922630255,
+        0.0,
+        2067.67521445164
+      ],
+      [
+        0.0,
+        3763.484457755814,
+        1071.7188683226395
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1713095589478312,
+      0.34310363872719746,
+      -1.0189458445197357,
+      2.381329234420564
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

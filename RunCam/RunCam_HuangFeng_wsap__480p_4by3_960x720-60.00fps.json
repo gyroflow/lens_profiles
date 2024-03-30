@@ -1,0 +1,69 @@
+{
+  "name": "RunCam_HuangFeng_wsap__480p_4by3_960x720-60.00fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "RunCam",
+  "camera_model": "HuangFeng",
+  "lens_model": "wsap",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 960,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 960,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.23501900006478113,
+    "camera_matrix": [
+      [
+        417.5524570598372,
+        0.0,
+        494.3753577725666
+      ],
+      [
+        0.0,
+        417.9185405051743,
+        354.29700458339914
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.013508819711421628,
+      0.037552983981672575,
+      -0.03635991901234226,
+      0.012021899920469658
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "赵宇宏",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Fujifilm",
+  "camera_model": "xh2s",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.4612428913958602,
+    "camera_matrix": [
+      [
+        2966.3709977403905,
+        0.0,
+        1929.61046109886
+      ],
+      [
+        0.0,
+        2970.433969109644,
+        1109.913607728398
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3144449326167548,
+      0.3137978789836899,
+      -0.6379276109909094,
+      0.9749319183193536
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 59.94006,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "xf18-200 f4 18mm",
+  "name": "Fujifilm_xh2s_xf18-200 f4 18mm__4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "num_images": 11,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

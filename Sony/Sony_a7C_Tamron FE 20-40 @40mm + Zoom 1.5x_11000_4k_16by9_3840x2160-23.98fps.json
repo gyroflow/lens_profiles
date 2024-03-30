@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_Tamron FE 20-40 @40mm + Zoom 1.5x_1/1000_4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Rio SW Yogyakarta",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "Tamron FE 20-40 @40mm + Zoom 1.5x",
+  "camera_setting": "1/1000",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7387561461911238,
+    "camera_matrix": [
+      [
+        6779.781304873747,
+        0.0,
+        1927.2447272624456
+      ],
+      [
+        0.0,
+        6782.558839571392,
+        1069.1553126373626
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3254809907881606,
+      0.7611578594399713,
+      -18.341803527147498,
+      139.70431642006025
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-b08c5ea8-3840x2160@23976",
+  "calibrator_version": "1.5.2",
+  "date": "2023-10-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

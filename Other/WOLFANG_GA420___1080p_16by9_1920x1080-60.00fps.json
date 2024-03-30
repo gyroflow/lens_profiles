@@ -1,0 +1,69 @@
+{
+  "name": "WOLFANG_GA420___1080p_16by9_1920x1080-60.00fps",
+  "note": "",
+  "calibrated_by": "Yasuyuki Matsumoto",
+  "camera_brand": "WOLFANG",
+  "camera_model": "GA420",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.36987191475558107,
+    "camera_matrix": [
+      [
+        1585.1281245195116,
+        0.0,
+        947.355954000043
+      ],
+      [
+        0.0,
+        1598.975067385206,
+        572.43211800537
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.02635363605862987,
+      -0.16304138207382243,
+      0.12094107710755432,
+      0.24372529026662484
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-01-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

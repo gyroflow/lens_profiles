@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 3000,
+    "w": 4000
+  },
+  "calibrated_by": "JMTBike",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO12 Black",
+  "camera_setting": "MaxLensMOD2.0 Wide",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2023-12-23",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.9085532916757768,
+    "camera_matrix": [
+      [
+        1763.4142298458294,
+        0.0,
+        2012.6560640109928
+      ],
+      [
+        0.0,
+        1764.0478941531587,
+        1477.365518238959
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.06206032509814575,
+      0.010172738670413262,
+      -0.017015789589293635,
+      0.00884784096259328
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 29.97003,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-gopro-hero12black-wide-4000x3000@29970-no-eis",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "MaxLensMOD2.0Wide",
+  "name": "GoPro_HERO12 Black_MaxLensMOD2.0Wide_MaxLensMOD2.0 Wide_4k_4by3_4000x3000-29.97fps",
+  "note": "NO-EIS",
+  "num_images": 20,
+  "official": false,
+  "orig_dimension": {
+    "h": 3000,
+    "w": 4000
+  },
+  "output_dimension": {
+    "h": 3000,
+    "w": 4000
+  },
+  "sync_settings": null
+}
