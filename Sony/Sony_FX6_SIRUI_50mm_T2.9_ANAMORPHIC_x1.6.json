@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ILME-FX6V___6k_2.84by1_6144x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Brieuc LE MERCIER",
+  "camera_brand": "Sony",
+  "camera_model": "ILME-FX6V",
+  "lens_model": "SIRUI ANAMORPHIC x1.6 50mm T2.9",
+  "camera_setting": "3840x2160 to 6144x2160",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.6,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 4.835965460980953,
+    "camera_matrix": [
+      [
+        5444.272262436627,
+        0.0,
+        3151.9117291937555
+      ],
+      [
+        0.0,
+        5501.210970195013,
+        1152.9295483881042
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.46638457342519696,
+      -2.6217663808241407,
+      12.183544995547381,
+      -19.77822395368025
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}
