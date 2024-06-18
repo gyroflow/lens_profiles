@@ -1,0 +1,69 @@
+{
+  "name": "Hawkeye_SplitV5_2K7_16_9",
+  "note": "",
+  "calibrated_by": "HAWKEYE",
+  "camera_brand": "",
+  "camera_model": "",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "orig_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "output_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.0,
+  "crop": null,
+  "official": true,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7303279438522927,
+    "camera_matrix": [
+      [
+        1289.5138394285032,
+        0.0,
+        1375.4351934562103
+      ],
+      [
+        0.0,
+        1288.7807906859734,
+        800.2995640144991
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.020308298630629128,
+      0.005017808650267743,
+      -0.008436144119190777,
+      0.00242994272261618
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}
