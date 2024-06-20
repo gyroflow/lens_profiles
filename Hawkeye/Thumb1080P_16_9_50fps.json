@@ -24,7 +24,7 @@
   "input_vertical_stretch": 1.0,
   "num_images": 15,
   "fps": 50.0,
-  "official": false,
+  "official": true,
   "asymmetrical": false,
   "fisheye_params": {
     "RMS_error": 0.7355980119418423,
