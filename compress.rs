@@ -14,6 +14,7 @@ fn main() {
     println!("Current dir: {pwd}");
     let binary_path = format!("{pwd}/profiles.cbor.gz");
     let mut all_profiles = Vec::new();
+    all_profiles.push(("__version".to_owned(), serde_json::Value::Number(env!("GITHUB_RUN_NUMBER").parse::<u64>().unwrap().into())));
     walkdir::WalkDir::new(&pwd).into_iter().for_each(|e| {
         if let Ok(entry) = e {
             let f_name = entry.path().to_string_lossy().replace('\\', "/");
