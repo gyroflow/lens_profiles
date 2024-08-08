@@ -1,0 +1,29 @@
+name: Release
+
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: taiki-e/install-action@v2
+        with:
+          tool: rust-script
+
+      - name: Compress profiles
+        run: chmod +x compress.rs && ./compress.rs
+
+      - name: Save
+        uses: actions/upload-artifact@v3
+        with:
+          name: profiles
+          path: profiles.cbor.gz
+
+      - name: Release
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: profiles.cbor.gz
+          tag: "v${{ github.run_number }}"
