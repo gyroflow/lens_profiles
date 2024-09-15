@@ -58,16 +58,16 @@
   "calibrator_version": "1.5.4",
   "date": "2024-09-15",
   "compatible_settings": [
-     { "identifier": "runcam-thumb2-wide-3840x2160@29970" },
-     { "identifier": "runcam-thumb2-wide-2688x1512@59940" },
-     { "identifier": "runcam-thumb2-normal-1920x1080@119880", "lens_model": "normal" },
-     { "identifier": "runcam-thumb2-normal-1920x1080@59940",  "lens_model": "normal" },
+    { "identifier": "runcam-thumb2-wide-3840x2160@29970", "output_dimension": { "w": 3840, "h": 2160 } },
+    { "identifier": "runcam-thumb2-wide-2688x1512@59940", "output_dimension": { "w": 2688, "h": 1512 } },
+    { "identifier": "runcam-thumb2-normal-1920x1080@119880", "lens_model": "normal", "output_dimension": { "w": 1920, "h": 1080 } },
+    { "identifier": "runcam-thumb2-normal-1920x1080@59940",  "lens_model": "normal", "output_dimension": { "w": 1920, "h": 1080 } },
 
-     { "identifier": "runcam-thumb2-wide_ldc-3840x2160@59940",    "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "wide_ldc" },
-     { "identifier": "runcam-thumb2-wide_ldc-3840x2160@29970",    "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "wide_ldc" },
-     { "identifier": "runcam-thumb2-wide_ldc-2688x1512@59940",    "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "wide_ldc" },
-     { "identifier": "runcam-thumb2-normal_ldc-1920x1080@119880", "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "normal_ldc" },
-     { "identifier": "runcam-thumb2-normal_ldc-1920x1080@59940",  "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "normal_ldc" }
+    { "identifier": "runcam-thumb2-wide_ldc-3840x2160@59940",    "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "wide_ldc",   "output_dimension": { "w": 3840, "h": 2160 } },
+    { "identifier": "runcam-thumb2-wide_ldc-3840x2160@29970",    "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "wide_ldc",   "output_dimension": { "w": 3840, "h": 2160 } },
+    { "identifier": "runcam-thumb2-wide_ldc-2688x1512@59940",    "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "wide_ldc",   "output_dimension": { "w": 2688, "h": 1512 } },
+    { "identifier": "runcam-thumb2-normal_ldc-1920x1080@119880", "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "normal_ldc", "output_dimension": { "w": 1920, "h": 1080 } },
+    { "identifier": "runcam-thumb2-normal_ldc-1920x1080@59940",  "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "normal_ldc", "output_dimension": { "w": 1920, "h": 1080 } }
   ],
   "sync_settings": {
     "initial_offset": 0,

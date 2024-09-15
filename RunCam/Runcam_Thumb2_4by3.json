@@ -57,16 +57,16 @@
   "calibrator_version": "1.5.4",
   "date": "2024-09-15",
   "compatible_settings": [
-     { "identifier": "runcam-thumb2-normal-2720x2040@59940", "crop": 0.68, "lens_model": "normal" },
-     { "identifier": "runcam-thumb2-xv-3840x2160@59940",     "crop": 0.96, "input_vertical_stretch": 1.3333, "lens_model": "xv" },
-     { "identifier": "runcam-thumb2-xv-1920x1080@59940",     "crop": 0.96, "input_vertical_stretch": 1.3333, "lens_model": "xv" },
-     { "identifier": "runcam-thumb2-wide-1920x1440@59940",   "crop": 0.96 },
+    { "identifier": "runcam-thumb2-normal-2720x2040@59940", "crop": 0.68, "lens_model": "normal", "output_dimension": { "w": 2720, "h": 1530 } },
+    { "identifier": "runcam-thumb2-xv-3840x2160@59940",     "crop": 0.96, "input_vertical_stretch": 1.3333, "lens_model": "xv", "output_dimension": { "w": 3840, "h": 2160 } },
+    { "identifier": "runcam-thumb2-xv-1920x1080@59940",     "crop": 0.96, "input_vertical_stretch": 1.3333, "lens_model": "xv", "output_dimension": { "w": 1920, "h": 1080 } },
+    { "identifier": "runcam-thumb2-wide-1920x1440@59940",   "crop": 0.96, "output_dimension": { "w": 1920, "h": 1080 } },
 
-     { "identifier": "runcam-thumb2-wide_ldc-4000x3000@30000",   "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "wide_ldc" },
-     { "identifier": "runcam-thumb2-normal_ldc-2720x2040@59940", "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "normal_ldc", "crop": 0.68 },
-     { "identifier": "runcam-thumb2-xv_ldc-3840x2160@59940",     "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "xv_ldc",     "crop": 0.96, "input_vertical_stretch": 1.3333 },
-     { "identifier": "runcam-thumb2-xv_ldc-1920x1080@59940",     "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "xv_ldc",     "crop": 0.96, "input_vertical_stretch": 1.3333 },
-     { "identifier": "runcam-thumb2-wide_ldc-1920x1440@59940",   "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "wide_ldc",   "crop": 0.96 }
+    { "identifier": "runcam-thumb2-wide_ldc-4000x3000@30000",   "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "wide_ldc", "output_dimension": { "w": 4000, "h": 2250 } },
+    { "identifier": "runcam-thumb2-normal_ldc-2720x2040@59940", "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "normal_ldc", "crop": 0.68, "output_dimension": { "w": 2720, "h": 1530 } },
+    { "identifier": "runcam-thumb2-xv_ldc-3840x2160@59940",     "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "xv_ldc",     "crop": 0.96, "input_vertical_stretch": 1.3333, "output_dimension": { "w": 3840, "h": 2160 } },
+    { "identifier": "runcam-thumb2-xv_ldc-1920x1080@59940",     "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "xv_ldc",     "crop": 0.96, "input_vertical_stretch": 1.3333, "output_dimension": { "w": 1920, "h": 1080 } },
+    { "identifier": "runcam-thumb2-wide_ldc-1920x1440@59940",   "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "wide_ldc",   "crop": 0.96, "output_dimension": { "w": 1920, "h": 1080 } }
   ],
   "sync_settings": {
     "initial_offset": 0,
