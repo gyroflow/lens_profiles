@@ -1,0 +1,88 @@
+{
+  "name": "Runcam_Thumb2_16by9",
+  "note": "",
+  "calibrated_by": "Eddy",
+  "camera_brand": "Runcam",
+  "camera_model": "Thumb2",
+  "lens_model": "wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94,
+  "crop": null,
+  "official": true,
+  "asymmetrical": true,
+  "fisheye_params": {
+    "RMS_error": 0.4868654206646991,
+    "camera_matrix": [
+      [
+        1818.4287331278285,
+        0.0,
+        1919.3924292749462
+      ],
+      [
+        0.0,
+        1818.8000905104725,
+        1144.922449884292
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.13490794111662527,
+      -0.20081142763100182,
+      0.1734474039997024,
+      -0.06331740532773925
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "runcam-thumb2-wide-3840x2160@59940",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-15",
+  "compatible_settings": [
+     { "identifier": "runcam-thumb2-wide-3840x2160@29970" },
+     { "identifier": "runcam-thumb2-wide-2688x1512@59940" },
+     { "identifier": "runcam-thumb2-normal-1920x1080@119880", "lens_model": "normal" },
+     { "identifier": "runcam-thumb2-normal-1920x1080@59940",  "lens_model": "normal" },
+
+     { "identifier": "runcam-thumb2-wide_ldc-3840x2160@59940",    "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "wide_ldc" },
+     { "identifier": "runcam-thumb2-wide_ldc-3840x2160@29970",    "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "wide_ldc" },
+     { "identifier": "runcam-thumb2-wide_ldc-2688x1512@59940",    "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "wide_ldc" },
+     { "identifier": "runcam-thumb2-normal_ldc-1920x1080@119880", "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "normal_ldc" },
+     { "identifier": "runcam-thumb2-normal_ldc-1920x1080@59940",  "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "normal_ldc" }
+  ],
+  "sync_settings": {
+    "initial_offset": 0,
+    "initial_offset_inv": false,
+    "search_size": 0.5,
+    "max_sync_points": 5,
+    "every_nth_frame": 1,
+    "time_per_syncpoint": 0.7,
+    "do_autosync": true
+  },
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

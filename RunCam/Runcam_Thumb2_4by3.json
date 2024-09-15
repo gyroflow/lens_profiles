@@ -1,0 +1,87 @@
+{
+  "name": "Runcam_Thumb2_4by3",
+  "note": "",
+  "calibrated_by": "Eddy",
+  "camera_brand": "Runcam",
+  "camera_model": "Thumb2",
+  "lens_model": "wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "orig_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "output_dimension": {
+    "w": 4000,
+    "h": 2250
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "official": true,
+  "asymmetrical": true,
+  "fisheye_params": {
+    "RMS_error": 0.6776803476149977,
+    "camera_matrix": [
+      [
+        1827.179150079127,
+        0.0,
+        2008.316575110707
+      ],
+      [
+        0.0,
+        1829.5865305741918,
+        1572.7152119921238
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.10564243263308083,
+      -0.11601706731676971,
+      0.06694048025819857,
+      -0.018176254133049217
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "runcam-thumb2-wide-4000x3000@30000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-15",
+  "compatible_settings": [
+     { "identifier": "runcam-thumb2-normal-2720x2040@59940", "crop": 0.68, "lens_model": "normal" },
+     { "identifier": "runcam-thumb2-xv-3840x2160@59940",     "crop": 0.96, "input_vertical_stretch": 1.3333, "lens_model": "xv" },
+     { "identifier": "runcam-thumb2-xv-1920x1080@59940",     "crop": 0.96, "input_vertical_stretch": 1.3333, "lens_model": "xv" },
+     { "identifier": "runcam-thumb2-wide-1920x1440@59940",   "crop": 0.96 },
+
+     { "identifier": "runcam-thumb2-wide_ldc-4000x3000@30000",   "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "wide_ldc" },
+     { "identifier": "runcam-thumb2-normal_ldc-2720x2040@59940", "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "normal_ldc", "crop": 0.68 },
+     { "identifier": "runcam-thumb2-xv_ldc-3840x2160@59940",     "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "xv_ldc",     "crop": 0.96, "input_vertical_stretch": 1.3333 },
+     { "identifier": "runcam-thumb2-xv_ldc-1920x1080@59940",     "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "xv_ldc",     "crop": 0.96, "input_vertical_stretch": 1.3333 },
+     { "identifier": "runcam-thumb2-wide_ldc-1920x1440@59940",   "distortion_coeffs": [0.0, 0.0, 0.0, 0.0], "lens_model": "wide_ldc",   "crop": 0.96 }
+  ],
+  "sync_settings": {
+    "initial_offset": 0,
+    "initial_offset_inv": false,
+    "search_size": 0.5,
+    "max_sync_points": 5,
+    "every_nth_frame": 1,
+    "time_per_syncpoint": 0.7,
+    "do_autosync": true
+  },
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}
