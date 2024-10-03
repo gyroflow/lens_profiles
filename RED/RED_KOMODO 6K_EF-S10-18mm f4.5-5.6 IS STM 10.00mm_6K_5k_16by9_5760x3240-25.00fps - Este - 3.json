@@ -46,7 +46,7 @@
   "focal_length": null,
   "fps": 25.0,
   "frame_readout_time": null,
-  "global_shutter": false,
+  "global_shutter": true,
   "gyro_lpf": null,
   "identifier": "----red-komodo6k-ef-s10-18mmf/4.5-5.6isstm-10.00mm-5760x3240@0",
   "input_horizontal_stretch": 1.0,

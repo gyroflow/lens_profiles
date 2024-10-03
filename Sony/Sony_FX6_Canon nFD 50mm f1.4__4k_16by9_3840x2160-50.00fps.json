@@ -1,44 +1,44 @@
 {
-  "name": "RED_KOMODO 6K_24mm_6K_5k_16by9_5760x3240-24.00fps",
-  "note": "NoFF",
-  "calibrated_by": "Mark Helsel",
-  "camera_brand": "RED",
-  "camera_model": "KOMODO 6K",
-  "lens_model": "24mm",
-  "camera_setting": "6K",
+  "name": "Sony_ILME-FX6V___4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Brieuc LE MERCIER",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "Canon nFD 50mm f1.4",
+  "camera_setting": "",
   "calib_dimension": {
-    "w": 5760,
-    "h": 3240
+    "w": 3840,
+    "h": 2160
   },
   "orig_dimension": {
-    "w": 5760,
-    "h": 3240
+    "w": 3840,
+    "h": 2160
   },
   "output_dimension": {
-    "w": 5760,
-    "h": 3240
+    "w": 3840,
+    "h": 2160
   },
   "frame_readout_time": null,
   "gyro_lpf": null,
   "input_horizontal_stretch": 1.0,
   "input_vertical_stretch": 1.0,
   "num_images": 15,
-  "fps": 24.0,
+  "fps": 50.0,
   "crop": null,
-  "official": false,
+  "official": true,
   "asymmetrical": false,
   "fisheye_params": {
-    "RMS_error": 1.2769666962292137,
+    "RMS_error": 0.6755538607361488,
     "camera_matrix": [
       [
-        5634.904028619655,
+        5812.979813199722,
         0.0,
-        2852.214661447411
+        1894.4206374696048
       ],
       [
         0.0,
-        5634.98449703661,
-        1627.3477345235071
+        5833.790633036612,
+        1059.6142861998549
       ],
       [
         0.0,
@@ -47,10 +47,10 @@
       ]
     ],
     "distortion_coeffs": [
-      0.22754497932283463,
-      0.3156469596051957,
-      -0.4962652339661072,
-      0.96540893383034
+      0.11769390850991134,
+      1.1176719062976002,
+      -13.129907982427449,
+      58.6909568768094
     ],
     "radial_distortion_limit": null
   },
@@ -65,5 +65,5 @@
   "interpolations": null,
   "focal_length": null,
   "crop_factor": null,
-  "global_shutter": true
+  "global_shutter": false
 }

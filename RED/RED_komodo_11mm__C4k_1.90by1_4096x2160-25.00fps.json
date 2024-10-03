@@ -46,7 +46,7 @@
   "focal_length": null,
   "fps": 25.0,
   "frame_readout_time": null,
-  "global_shutter": false,
+  "global_shutter": true,
   "gyro_lpf": null,
   "identifier": "",
   "input_horizontal_stretch": 1.0,

@@ -45,7 +45,7 @@
   },
   "focal_length": 28.0,
   "fps": 25.0,
-  "frame_readout_time": 4.89,
+  "frame_readout_time": null,
   "global_shutter": true,
   "gyro_lpf": null,
   "identifier": "---red-komodo6k-ef40mmf/2.8stm-28.00mm-6144x3240@0",
