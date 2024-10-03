@@ -1,0 +1,69 @@
+{
+  "name": "Skydio_2+_Skydio 2+_Auto_480p_0.46by1_886x1920-59.73fps",
+  "note": "",
+  "calibrated_by": "Skyler Rehl",
+  "camera_brand": "Skydio",
+  "camera_model": "2+",
+  "lens_model": "Skydio 2+",
+  "camera_setting": "Auto",
+  "calib_dimension": {
+    "w": 886,
+    "h": 1920
+  },
+  "orig_dimension": {
+    "w": 886,
+    "h": 1920
+  },
+  "output_dimension": {
+    "w": 886,
+    "h": 1920
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.733448,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4965552884670186,
+    "camera_matrix": [
+      [
+        2055.2882593086792,
+        0.0,
+        451.41148763794627
+      ],
+      [
+        0.0,
+        2025.9910551154776,
+        763.838634706471
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4933752781987854,
+      0.2484682061473429,
+      -3.1633659355274526,
+      8.846411231656537
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

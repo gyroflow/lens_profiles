@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_12 5G__Fílmic Pro_1080p_16by9_1920x1080-24.01fps",
+  "note": "",
+  "calibrated_by": "U0 A307",
+  "camera_brand": "Xiaomi",
+  "camera_model": "12 5G",
+  "lens_model": "",
+  "camera_setting": "Fílmic Pro",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.007139,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2511977627313618,
+    "camera_matrix": [
+      [
+        1407.6150621749389,
+        0.0,
+        984.926287977382
+      ],
+      [
+        0.0,
+        1408.7122106885124,
+        500.62280362015593
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5380970713840911,
+      -0.6298405587546791,
+      -6.307724808242344,
+      31.181979914071263
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

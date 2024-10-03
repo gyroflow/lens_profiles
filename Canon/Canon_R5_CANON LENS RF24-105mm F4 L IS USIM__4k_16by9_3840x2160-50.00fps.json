@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R5_CANON LENS RF24-105mm F4 L IS USIM__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "方方的庆",
+  "camera_brand": "Canon",
+  "camera_model": "R5",
+  "lens_model": "CANON LENS RF24-105mm F4 L IS USIM",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7804121710431717,
+    "camera_matrix": [
+      [
+        3912.148399242966,
+        0.0,
+        1939.3206138354883
+      ],
+      [
+        0.0,
+        3912.071094735492,
+        1031.0327507466925
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3386733870351668,
+      0.1141048491545627,
+      -0.2508891456236456,
+      1.2352014223624357
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

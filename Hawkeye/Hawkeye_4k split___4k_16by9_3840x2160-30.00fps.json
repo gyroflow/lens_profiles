@@ -1,0 +1,69 @@
+{
+  "name": "Hawkeye_4k split___4k_16by9_3840x2160-30.00fps",
+  "note": "",
+  "calibrated_by": "Peter H",
+  "camera_brand": "Hawkeye",
+  "camera_model": "4k split",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5587965495353658,
+    "camera_matrix": [
+      [
+        2166.3996172899992,
+        0.0,
+        1960.721605551406
+      ],
+      [
+        0.0,
+        2159.6926927313457,
+        1082.0828864303355
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.072329981762203,
+      0.00037688205703740826,
+      0.002125164542448156,
+      -0.00005805637768939355
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

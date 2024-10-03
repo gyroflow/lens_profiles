@@ -1,0 +1,69 @@
+{
+  "name": "RunCam_Wasp_org_from DJI Integra gogles_1080p_16by9_1920x1080-50.00fps",
+  "note": "from DJI Integra gogles",
+  "calibrated_by": "Piotr",
+  "camera_brand": "RunCam",
+  "camera_model": "Wasp",
+  "lens_model": "org",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3244947303045726,
+    "camera_matrix": [
+      [
+        627.7529301599152,
+        0.0,
+        971.3749127607052
+      ],
+      [
+        0.0,
+        627.4467851838983,
+        547.6449670524668
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.02217770943185471,
+      0.023786196319872468,
+      -0.020299040052744025,
+      0.005658637560688418
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_Tamron 1728_17mm_4k_16by9_3840x2160-29.97fps",
+  "note": "17mm",
+  "calibrated_by": "王彦",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "Tamron 1728",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5088337462065742,
+    "camera_matrix": [
+      [
+        2139.7052296255397,
+        0.0,
+        1935.426491514303
+      ],
+      [
+        0.0,
+        2137.1381597222935,
+        1070.671556761962
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3140037174955767,
+      0.03973691113699564,
+      0.387753800378439,
+      -0.32427086351405954
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-960d33f3-3840x2160@29970",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

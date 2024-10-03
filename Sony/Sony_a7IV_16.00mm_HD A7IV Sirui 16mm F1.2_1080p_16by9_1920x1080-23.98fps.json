@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_16.00mm_HD A7IV Sirui 16mm F/1.2_1080p_16by9_1920x1080-23.98fps",
+  "note": "Super 35",
+  "calibrated_by": "Javier Pandales",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "16.00mm",
+  "camera_setting": "HD A7IV Sirui 16mm F/1.2",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3752163873045269,
+    "camera_matrix": [
+      [
+        1349.208234586138,
+        0.0,
+        962.1285700458956
+      ],
+      [
+        0.0,
+        1346.7260106554063,
+        537.6624995356264
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3071205418968242,
+      0.06084169899871807,
+      0.4837999124476647,
+      -0.6803963400173835
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7m4-16.00mm-1920x1080@23976",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 16.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

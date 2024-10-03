@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_nisi 50mm T1.9__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "雷石Mac studio display",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "nisi 50mm T1.9",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7177073272625113,
+    "camera_matrix": [
+      [
+        3822.4710612293266,
+        0.0,
+        1902.7533075788656
+      ],
+      [
+        0.0,
+        3819.748577848941,
+        1122.4843332371363
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2831331439791113,
+      -0.12044538162385514,
+      0.9314344817583154,
+      -0.3763202196143832
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

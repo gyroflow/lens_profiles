@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E1_40.00mmVoigtlander1.2__4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Staffan Axelsson",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E1",
+  "lens_model": "40.00mmVoigtlander1.2",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6066796024310072,
+    "camera_matrix": [
+      [
+        4782.4036625758445,
+        0.0,
+        1913.7440783106915
+      ],
+      [
+        0.0,
+        4786.006107474683,
+        1051.0713375374332
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.18757509576182024,
+      1.859063213081369,
+      -12.57395763301462,
+      42.94658908834203
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-e1-40.00mm-3840x2160@59940",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 40.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

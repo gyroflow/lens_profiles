@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7SIII_Sony 24-70 f2.8 G_slog3_1080p_16by9_1920x1080-59.94fps",
+  "note": "zoom 35mm",
+  "calibrated_by": "Hello",
+  "camera_brand": "Sony",
+  "camera_model": "a7SIII",
+  "lens_model": "Sony 24-70 f2.8 G",
+  "camera_setting": "slog3",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4048378443859936,
+    "camera_matrix": [
+      [
+        1968.8083218580243,
+        0.0,
+        975.6987391550756
+      ],
+      [
+        0.0,
+        2100.5744989741584,
+        516.4200917373081
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2861044357577736,
+      1.6836308413204455,
+      -12.273108407587513,
+      29.90687622105369
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7sm3-35.00mm-1920x1080@59940",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

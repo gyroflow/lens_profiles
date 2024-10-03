@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "calibrated_by": "James McDonald",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Caddx",
+  "camera_model": "Avatar HD",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-08-07",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.44021021467354254,
+    "camera_matrix": [
+      [
+        886.7440307346657,
+        0.0,
+        951.699652478198
+      ],
+      [
+        0.0,
+        886.8152422512092,
+        498.1744601181426
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.004419552510957832,
+      0.026346871017395215,
+      -0.021060676513022337,
+      0.006263237046603965
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 60.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Caddx_Avatar HD__WALKSNAIL AVATAR HD_1080p_16by9_1920x1080-60.00fps",
+  "note": "WALKSNAIL AVATAR HD",
+  "num_images": 12,
+  "official": false,
+  "orig_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "output_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "sync_settings": null
+}

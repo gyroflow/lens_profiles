@@ -1,0 +1,69 @@
+{
+  "name": "Google_Pixel 6a_28mm main_MotionCam_4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Антон Порохня",
+  "camera_brand": "Google",
+  "camera_model": "Pixel 6a",
+  "lens_model": "28mm main",
+  "camera_setting": "MotionCam",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 3.409535567685962,
+    "camera_matrix": [
+      [
+        3766.924199503972,
+        0.0,
+        1914.0733695312888
+      ],
+      [
+        0.0,
+        3806.008050946219,
+        985.9110740744752
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3867530543548346,
+      16.655437582312484,
+      -221.3246917274107,
+      907.1287506792072
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

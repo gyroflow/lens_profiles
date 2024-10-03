@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R5C_RF24105F4L@24mm_DCI_C4k_1.90by1_4096x2160-59.94fps",
+  "note": "Fullframe",
+  "calibrated_by": "guns",
+  "camera_brand": "Canon",
+  "camera_model": "R5C",
+  "lens_model": "RF24105F4L@24mm",
+  "camera_setting": "DCI",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 15.5,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5619952465393392,
+    "camera_matrix": [
+      [
+        2901.4181817226545,
+        0.0,
+        2051.799688391009
+      ],
+      [
+        0.0,
+        2907.5417361872073,
+        1092.4697577687136
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20405707170714757,
+      0.29036085772903175,
+      -0.5773381351534916,
+      1.3024425652331717
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

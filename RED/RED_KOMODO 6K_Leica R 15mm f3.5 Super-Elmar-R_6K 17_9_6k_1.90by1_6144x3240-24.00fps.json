@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Leica R 15mm f/3.5 Super-Elmar-R_6K 17:9_6k_1.90by1_6144x3240-24.00fps",
+  "note": "15mm, S35, recorded at 40fps",
+  "calibrated_by": "windcine",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Leica R 15mm f/3.5 Super-Elmar-R",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9300731803775198,
+    "camera_matrix": [
+      [
+        3562.0443990644353,
+        0.0,
+        3088.8608529848775
+      ],
+      [
+        0.0,
+        3561.4132267578766,
+        1608.825580568248
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.24667645347043135,
+      0.18620303255953333,
+      -0.07834057521573182,
+      0.19252939771812724
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-31",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

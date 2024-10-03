@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_SEL35mm__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Areng Arkad",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "SEL35mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5389266402418335,
+    "camera_matrix": [
+      [
+        3311.33327375444,
+        0.0,
+        947.4918296613464
+      ],
+      [
+        0.0,
+        3308.3176025689345,
+        632.4365481442159
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.18787741098620447,
+      7.461289087451278,
+      -111.93525451962876,
+      643.7143123921579
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

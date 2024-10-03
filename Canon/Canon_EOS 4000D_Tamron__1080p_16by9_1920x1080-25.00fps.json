@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS 4000D_Tamron__1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "Atlas",
+  "camera_brand": "Canon",
+  "camera_model": "EOS 4000D",
+  "lens_model": "Tamron",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6402545482492703,
+    "camera_matrix": [
+      [
+        1789.0941914307857,
+        0.0,
+        951.2843931784632
+      ],
+      [
+        0.0,
+        1789.9826935246726,
+        546.4087477219654
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1846270105185553,
+      -0.2234885914324635,
+      1.2405521258221754,
+      -1.241218404588862
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

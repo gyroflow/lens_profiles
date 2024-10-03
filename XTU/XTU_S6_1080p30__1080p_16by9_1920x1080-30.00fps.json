@@ -1,0 +1,69 @@
+{
+  "name": "XTU_S6_1080p30__1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "calibrated_by": "U0 A269",
+  "camera_brand": "XTU",
+  "camera_model": "S6",
+  "lens_model": "1080p30",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2326925767671928,
+    "camera_matrix": [
+      [
+        1336.4857285077917,
+        0.0,
+        935.5787877160044
+      ],
+      [
+        0.0,
+        1337.2925638539775,
+        512.2305178307472
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.07228888392837621,
+      0.17083445609276443,
+      -0.5725099593117903,
+      0.6180835802430714
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

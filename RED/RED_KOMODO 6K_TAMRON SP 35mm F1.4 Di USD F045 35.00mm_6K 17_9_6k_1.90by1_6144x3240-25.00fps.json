@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_TAMRON SP 35mm F/1.4 Di USD F045 35.00mm_6K 17:9_6k_1.90by1_6144x3240-25.00fps",
+  "note": "",
+  "calibrated_by": "陆顾昊",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "TAMRON SP 35mm F/1.4 Di USD F045 35.00mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8511471504675964,
+    "camera_matrix": [
+      [
+        8018.273231724684,
+        0.0,
+        3070.1262470964994
+      ],
+      [
+        0.0,
+        8020.326812785241,
+        1644.5790569131884
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.290602014189858,
+      -0.6326944877098252,
+      10.077392852332824,
+      -42.24995764385285
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-komodo6k-tamronsp35mmf/1.4diusdf045-35.00mm-6144x3240@0",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

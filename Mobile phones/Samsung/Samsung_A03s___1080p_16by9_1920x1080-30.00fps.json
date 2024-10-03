@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_A03s___1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "calibrated_by": "AMPA",
+  "camera_brand": "Samsung",
+  "camera_model": "A03s",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 30.001013,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5966928784990605,
+    "camera_matrix": [
+      [
+        1524.8051113081135,
+        0.0,
+        971.757225192384
+      ],
+      [
+        0.0,
+        1517.9963461387672,
+        563.2553392408602
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5275236545614702,
+      -0.6240218199602422,
+      1.5600819796134673,
+      -1.3475587021523832
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_13ultra_x1__C4k_4by3_4096x3072-30.01fps",
+  "note": "",
+  "calibrated_by": "U0 A454",
+  "camera_brand": "Xiaomi",
+  "camera_model": "13ultra",
+  "lens_model": "x1",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 3072
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 3072
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 3072
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.009865,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.083091571107673,
+    "camera_matrix": [
+      [
+        2738.723301955271,
+        0.0,
+        2076.0839060695776
+      ],
+      [
+        0.0,
+        2739.6491944977192,
+        1498.7152094744552
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4845048655069524,
+      -0.6812422011695232,
+      1.9732185895400645,
+      -1.6568419901740568
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-H2S_DZ35__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "apple",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-H2S",
+  "lens_model": "DZ35",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 7,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2973361420752528,
+    "camera_matrix": [
+      [
+        4242.204026037202,
+        0.0,
+        1952.3756234897448
+      ],
+      [
+        0.0,
+        4247.878429092874,
+        1106.1098554891753
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.16996453553680813,
+      -1.05159281585497,
+      8.842126796877661,
+      -16.764352379139464
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 37.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

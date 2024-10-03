@@ -1,0 +1,69 @@
+{
+  "name": "Z CAM_F6_Biotar 58mm + Aivascope 1.5x (Veritcal)_Open Gate 6K_6k_1by1_6064x6060-24.00fps",
+  "note": "No Crop, 60 degree shutter angle",
+  "calibrated_by": "Adam Agostino",
+  "camera_brand": "Z CAM",
+  "camera_model": "F6",
+  "lens_model": "Biotar 58mm + Aivascope 1.5x (Veritcal)",
+  "camera_setting": "Open Gate 6K",
+  "calib_dimension": {
+    "w": 6064,
+    "h": 6060
+  },
+  "orig_dimension": {
+    "w": 6064,
+    "h": 6060
+  },
+  "output_dimension": {
+    "w": 6064,
+    "h": 6060
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.5,
+  "num_images": 5,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.766475220282133,
+    "camera_matrix": [
+      [
+        11803.500763027385,
+        0.0,
+        3179.5901739748183
+      ],
+      [
+        0.0,
+        11095.68224946394,
+        926.849275128423
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4532650233867443,
+      -1.4069917057007886,
+      6.684431778523366,
+      -16.201615095120747
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 58.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

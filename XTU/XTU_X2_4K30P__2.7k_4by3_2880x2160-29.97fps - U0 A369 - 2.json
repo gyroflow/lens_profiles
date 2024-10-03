@@ -1,0 +1,69 @@
+{
+  "name": "XTU_X2_4K30P__2.7k_4by3_2880x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "U0 A369",
+  "camera_brand": "XTU",
+  "camera_model": "X2",
+  "lens_model": "4K30P",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2880,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 2880,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 2880,
+    "h": 2160
+  },
+  "frame_readout_time": 32.99,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7784550280727459,
+    "camera_matrix": [
+      [
+        1427.7939703362156,
+        0.0,
+        1289.69448643988
+      ],
+      [
+        0.0,
+        1428.525202045755,
+        1083.1697822735312
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.013209215637947806,
+      -0.02451759314099601,
+      0.022270173388880793,
+      -0.008633953023668402
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 4096
+  },
+  "calibrated_by": "Ville Varonen",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Xiaomi",
+  "camera_model": "10T Lite",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-06-22",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.9085445501133916,
+    "camera_matrix": [
+      [
+        3141.4965835968765,
+        0.0,
+        2052.8631627178925
+      ],
+      [
+        0.0,
+        3143.1578377214514,
+        1053.5309350788032
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3351332122355645,
+      0.690695963250115,
+      -2.3603013240276254,
+      2.962430485696049
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 24.0,
+  "frame_readout_time": 0.0,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "26mm",
+  "name": "Xiaomi_10T Lite_26mm__C4k_1.90by1_4096x2160-24.00fps",
+  "note": "",
+  "num_images": 13,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 4096
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 4096
+  },
+  "sync_settings": null
+}

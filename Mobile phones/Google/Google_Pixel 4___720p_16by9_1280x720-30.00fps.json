@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 720,
+    "w": 1280
+  },
+  "calibrated_by": "JY-2",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Google",
+  "camera_model": "Pixel 4",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-05-07",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 1.0505931257729215,
+    "camera_matrix": [
+      [
+        321.3111121647679,
+        0.0,
+        663.8036069007454
+      ],
+      [
+        0.0,
+        322.9215510835257,
+        345.4293406434337
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31353664116850427,
+      0.27569120760893673,
+      -0.1628672717744702,
+      0.14332520659593023
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 30.000683,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Google_Pixel 4___720p_16by9_1280x720-30.00fps",
+  "note": "",
+  "num_images": 10,
+  "official": false,
+  "orig_dimension": {
+    "h": 720,
+    "w": 1280
+  },
+  "output_dimension": {
+    "h": 720,
+    "w": 1280
+  },
+  "sync_settings": null
+}

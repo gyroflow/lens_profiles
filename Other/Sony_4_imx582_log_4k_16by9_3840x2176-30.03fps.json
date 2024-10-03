@@ -1,0 +1,69 @@
+{
+  "name": "Sony_黑鲨4_imx582_log_4k_16by9_3840x2176-30.03fps",
+  "note": "log",
+  "calibrated_by": "U0 A238",
+  "camera_brand": "Sony",
+  "camera_model": "黑鲨4",
+  "lens_model": "imx582",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.029535,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9653325261668472,
+    "camera_matrix": [
+      [
+        2911.280611859505,
+        0.0,
+        1912.2175912210168
+      ],
+      [
+        0.0,
+        2915.199131509498,
+        1110.9284550670318
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6460384471389955,
+      -2.8529452483468103,
+      15.369292562682372,
+      -27.35852593824656
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS R6_24-70mm F 2.8_70mm_1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "viviround",
+  "camera_brand": "Canon",
+  "camera_model": "EOS R6",
+  "lens_model": "24-70mm F 2.8",
+  "camera_setting": "70mm",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.33702220998274146,
+    "camera_matrix": [
+      [
+        3999.669759965485,
+        0.0,
+        964.4899798165538
+      ],
+      [
+        0.0,
+        3992.7731568269833,
+        538.6559120895973
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5935519725073364,
+      1.2192183983757492,
+      -104.29493969272716,
+      1509.1227554236334
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2024-05-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "XTU_X2_2.7K4/3__2.7k_4by3_2704x2028-29.97fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "XTU",
+  "camera_model": "X2",
+  "lens_model": "2.7K4/3",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2704,
+    "h": 2028
+  },
+  "orig_dimension": {
+    "w": 2704,
+    "h": 2028
+  },
+  "output_dimension": {
+    "w": 2704,
+    "h": 2028
+  },
+  "frame_readout_time": 32.99,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.974367,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7225623453688828,
+    "camera_matrix": [
+      [
+        1365.4806962767527,
+        0.0,
+        1201.4235083945996
+      ],
+      [
+        0.0,
+        1367.4493035472376,
+        1014.7476691471506
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.01289228050951585,
+      -0.01675319194605447,
+      0.008628259030830454,
+      -0.002306229599991246
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

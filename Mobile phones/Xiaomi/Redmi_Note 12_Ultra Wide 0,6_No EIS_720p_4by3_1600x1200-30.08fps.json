@@ -1,0 +1,69 @@
+{
+  "name": "Redmi_Note 12_Ultra Wide 0,6_No EIS_720p_4by3_1600x1200-30.08fps",
+  "note": "MC pro 24fps",
+  "calibrated_by": "Mada AS",
+  "camera_brand": "Redmi",
+  "camera_model": "Note 12",
+  "lens_model": "Ultra Wide 0,6",
+  "camera_setting": "No EIS",
+  "calib_dimension": {
+    "w": 1600,
+    "h": 1200
+  },
+  "orig_dimension": {
+    "w": 1600,
+    "h": 1200
+  },
+  "output_dimension": {
+    "w": 1600,
+    "h": 1200
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 44,
+  "fps": 30.078194,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.30389184241329803,
+    "camera_matrix": [
+      [
+        748.3111258192424,
+        0.0,
+        802.8336984758963
+      ],
+      [
+        0.0,
+        748.5945940159227,
+        600.3842429010743
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30575678690339847,
+      -0.149119774817563,
+      0.957583814878408,
+      -0.731494568701323
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

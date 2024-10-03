@@ -1,0 +1,69 @@
+{
+  "name": "SJCAM_C300__2.  Super View_2.5k_4by3_2560x1920-30.00fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "SJCAM",
+  "camera_model": "C300",
+  "lens_model": "",
+  "camera_setting": "2.  Super View",
+  "calib_dimension": {
+    "w": 2560,
+    "h": 1920
+  },
+  "orig_dimension": {
+    "w": 2560,
+    "h": 1920
+  },
+  "output_dimension": {
+    "w": 2560,
+    "h": 1920
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9915183924461052,
+    "camera_matrix": [
+      [
+        1425.9248860185976,
+        0.0,
+        1215.2787157738642
+      ],
+      [
+        0.0,
+        1429.7800351964993,
+        912.5142151085238
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.03397891022221124,
+      -0.025488871140994407,
+      -0.029552368200277148,
+      0.050746608073189335
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

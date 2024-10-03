@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS Rebel T100_EF-S 18-55mm__1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "David Salazar",
+  "camera_brand": "Canon",
+  "camera_model": "EOS Rebel T100",
+  "lens_model": "EF-S 18-55mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3541616549937507,
+    "camera_matrix": [
+      [
+        1613.5353070913834,
+        0.0,
+        947.4987147846284
+      ],
+      [
+        0.0,
+        1613.780952867407,
+        522.5765088620282
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.15050094861950272,
+      0.24130965008930208,
+      -0.22877893535133537,
+      0.6988621478324317
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

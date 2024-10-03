@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Zeiss CP2 35mm_17:9_5k_1.90by1_5120x2700-23.98fps",
+  "note": "",
+  "calibrated_by": "Queen",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Zeiss CP2 35mm",
+  "camera_setting": "17:9",
+  "calib_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "orig_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "output_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0498932965607246,
+    "camera_matrix": [
+      [
+        8263.260107877115,
+        0.0,
+        2537.3243049439197
+      ],
+      [
+        0.0,
+        8264.670623669916,
+        1384.5518462369655
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.21805969182107188,
+      1.3363540365439694,
+      -19.58083921047761,
+      102.33400433180528
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

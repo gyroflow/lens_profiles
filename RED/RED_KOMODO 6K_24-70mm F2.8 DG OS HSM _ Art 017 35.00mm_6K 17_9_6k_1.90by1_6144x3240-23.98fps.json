@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_24-70mm F2.8 DG OS HSM | Art 017 35.00mm_6K 17:9_6k_1.90by1_6144x3240-23.98fps",
+  "note": "",
+  "calibrated_by": "satoh",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "24-70mm F2.8 DG OS HSM | Art 017 35.00mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7095105584597958,
+    "camera_matrix": [
+      [
+        5253.067706177087,
+        0.0,
+        3098.8052485725216
+      ],
+      [
+        0.0,
+        5243.515914223737,
+        1731.6087569643294
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20867621977290696,
+      0.22831624783300017,
+      -0.28777388995998976,
+      1.328069577841036
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-komodo6k-24-70mmf2.8dgoshsm|art017-35.00mm-6144x3240@0",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

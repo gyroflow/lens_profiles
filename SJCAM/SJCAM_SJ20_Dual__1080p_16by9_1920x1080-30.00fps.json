@@ -1,0 +1,69 @@
+{
+  "name": "SJCAM_SJ20_Dual__1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "calibrated_by": "U0 A293",
+  "camera_brand": "SJCAM",
+  "camera_model": "SJ20",
+  "lens_model": "Dual",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9099369785412348,
+    "camera_matrix": [
+      [
+        1607.6852809447648,
+        0.0,
+        998.301525542612
+      ],
+      [
+        0.0,
+        1584.738159549487,
+        362.9526928067925
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4000782174090187,
+      0.9961997341910168,
+      -3.478360205142138,
+      5.857707298943844
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

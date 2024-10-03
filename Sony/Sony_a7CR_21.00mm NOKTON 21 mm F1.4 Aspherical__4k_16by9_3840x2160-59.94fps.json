@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7CR_21.00mm NOKTON 21 mm F1.4 Aspherical__4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "CRyder",
+  "camera_brand": "Sony",
+  "camera_model": "a7CR",
+  "lens_model": "21.00mm NOKTON 21 mm F1.4 Aspherical",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.5424576090050426,
+    "camera_matrix": [
+      [
+        2509.410476169088,
+        0.0,
+        1839.789334743447
+      ],
+      [
+        0.0,
+        2504.933145761268,
+        1081.042203650463
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3098450641942514,
+      -0.0003395511295421369,
+      0.2090855620895977,
+      0.31230878860286454
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7cr-75.00mm-3840x2160@59940",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 75.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

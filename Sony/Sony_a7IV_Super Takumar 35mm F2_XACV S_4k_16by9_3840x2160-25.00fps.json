@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_Super Takumar 35mm F2_XACV S_4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Shrey Gupta",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "Super Takumar 35mm F2",
+  "camera_setting": "XACV S",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1802201639180292,
+    "camera_matrix": [
+      [
+        4029.620215919433,
+        0.0,
+        1862.5356607805743
+      ],
+      [
+        0.0,
+        4020.866553411427,
+        1014.7957026786806
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.07176923166272199,
+      1.9949253944092356,
+      -11.25283742307632,
+      24.72976776807154
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

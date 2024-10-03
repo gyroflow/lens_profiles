@@ -1,0 +1,69 @@
+{
+  "name": "Orion_819L_sony_imx347_2.5k_16by9_2688x1520-30.00fps",
+  "note": "标定",
+  "calibrated_by": "tangxiaofang",
+  "camera_brand": "Orion",
+  "camera_model": "819L",
+  "lens_model": "sony",
+  "camera_setting": "imx347",
+  "calib_dimension": {
+    "w": 2688,
+    "h": 1520
+  },
+  "orig_dimension": {
+    "w": 2688,
+    "h": 1520
+  },
+  "output_dimension": {
+    "w": 2688,
+    "h": 1520
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.000299,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7005991398198487,
+    "camera_matrix": [
+      [
+        2604.0318424431966,
+        0.0,
+        1187.7544978879632
+      ],
+      [
+        0.0,
+        2606.158311561803,
+        881.3967098770157
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3695853209001296,
+      -2.2772687962956915,
+      14.702514777511462,
+      -33.35965798252214
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

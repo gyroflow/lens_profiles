@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS M_Canon EF-M 15-45mm IS STM at 15mm_1x1_2.5k_2.39by1_2520x1054-25.01fps",
+  "note": "v2, the former is incorrect",
+  "calibrated_by": "Extreme Banding",
+  "camera_brand": "Canon",
+  "camera_model": "EOS M",
+  "lens_model": "Canon EF-M 15-45mm IS STM at 15mm",
+  "camera_setting": "1x1",
+  "calib_dimension": {
+    "w": 2520,
+    "h": 1054
+  },
+  "orig_dimension": {
+    "w": 2520,
+    "h": 1054
+  },
+  "output_dimension": {
+    "w": 2520,
+    "h": 1054
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.009001,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9104284255721096,
+    "camera_matrix": [
+      [
+        3576.7401769972334,
+        0.0,
+        1185.847022740904
+      ],
+      [
+        0.0,
+        3592.8774401162864,
+        445.10227923245577
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2797869733950547,
+      -1.380583531579366,
+      19.294616165616116,
+      -96.11433668648829
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

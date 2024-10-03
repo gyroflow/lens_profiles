@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS R6_Laowa 15mm F4 MACRO__4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "jung sungho",
+  "camera_brand": "Canon",
+  "camera_model": "EOS R6",
+  "lens_model": "Laowa 15mm F4 MACRO",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.389797852897653,
+    "camera_matrix": [
+      [
+        1726.6837726666577,
+        0.0,
+        1892.1089305683292
+      ],
+      [
+        0.0,
+        1727.11518614342,
+        1057.152975406995
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2061828065612213,
+      0.1795343938836611,
+      -0.2472716089027626,
+      0.32017317979792553
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Canon_RP_EF50MM F1.2_P50F_1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "XLUO",
+  "camera_brand": "Canon",
+  "camera_model": "RP",
+  "lens_model": "EF50MM F1.2",
+  "camera_setting": "P50F",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2806172076541791,
+    "camera_matrix": [
+      [
+        2777.4371501701303,
+        0.0,
+        974.7059025932376
+      ],
+      [
+        0.0,
+        2773.746585645464,
+        567.2218639354393
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19621570728707943,
+      -4.3237951101433945,
+      78.62887394686278,
+      -413.3412452747826
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

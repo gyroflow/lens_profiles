@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 3072,
+    "w": 4096
+  },
+  "calibrated_by": "Andreas Björklund",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Samsung",
+  "camera_model": "S24 Ultra",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 1.2475229691489411,
+    "camera_matrix": [
+      [
+        2719.812583005316,
+        0.0,
+        2046.720630449907
+      ],
+      [
+        0.0,
+        2722.4936712056883,
+        1517.2870009424955
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5186501444382744,
+      -0.8036110367129582,
+      2.301900544572096,
+      -1.95471731957366
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 30.010565,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "14mm",
+  "name": "Samsung_S24 Ultra_14mm__C4k_4by3_4096x3072-30.01fps",
+  "note": "",
+  "num_images": 14,
+  "official": false,
+  "orig_dimension": {
+    "h": 3072,
+    "w": 4096
+  },
+  "output_dimension": {
+    "h": 3072,
+    "w": 4096
+  },
+  "sync_settings": null
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_唯卓仕 20mm F2.8__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "NINGMEI",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "唯卓仕 20mm F2.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 3.304924287078321,
+    "camera_matrix": [
+      [
+        8366.97074739996,
+        0.0,
+        1112.7065862411257
+      ],
+      [
+        0.0,
+        8559.396034065352,
+        805.2946418660274
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4929493572325096,
+      -6.661387918791353,
+      104.09532538590854,
+      -531.5810426534238
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 20.0,
+  "crop_factor": 1.5,
+  "global_shutter": false
+}

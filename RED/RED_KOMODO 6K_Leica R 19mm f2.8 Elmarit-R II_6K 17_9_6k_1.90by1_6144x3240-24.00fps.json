@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Leica R 19mm f/2.8 Elmarit-R II_6K 17:9_6k_1.90by1_6144x3240-24.00fps",
+  "note": "19mm, S35, recored at 40fps",
+  "calibrated_by": "windcine",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Leica R 19mm f/2.8 Elmarit-R II",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6472179968658727,
+    "camera_matrix": [
+      [
+        4358.459034777096,
+        0.0,
+        3073.649150976736
+      ],
+      [
+        0.0,
+        4358.084348234235,
+        1620.9078228580404
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.23860487243990008,
+      0.16469332480921622,
+      -0.04950932171625475,
+      0.26967745912155555
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-31",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

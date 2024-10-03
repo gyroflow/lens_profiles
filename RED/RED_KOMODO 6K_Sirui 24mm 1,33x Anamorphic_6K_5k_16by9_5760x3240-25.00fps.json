@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Sirui 24mm 1,33x Anamorphic_6K_5k_16by9_5760x3240-25.00fps",
+  "note": "25 fps",
+  "calibrated_by": "GEE",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Sirui 24mm 1,33x Anamorphic",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.0561777907351124,
+    "camera_matrix": [
+      [
+        11406.593592163315,
+        0.0,
+        2581.671047104865
+      ],
+      [
+        0.0,
+        14398.978591165913,
+        1363.2771932682688
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4417055418429489,
+      17.898669099062765,
+      -315.42488809195083,
+      2160.733911059492
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

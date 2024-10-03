@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R7_100-500 RF_Estabilizador on_1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "FERNANDO JACOBS",
+  "camera_brand": "Canon",
+  "camera_model": "R7",
+  "lens_model": "100-500 RF",
+  "camera_setting": "Estabilizador on",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5254003722741158,
+    "camera_matrix": [
+      [
+        11112.693889787384,
+        0.0,
+        822.0035822895791
+      ],
+      [
+        0.0,
+        11149.218761847029,
+        48.152556876982494
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.05343745789042979,
+      26.689770356180205,
+      1262.1072555302378,
+      -106256.51311823296
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

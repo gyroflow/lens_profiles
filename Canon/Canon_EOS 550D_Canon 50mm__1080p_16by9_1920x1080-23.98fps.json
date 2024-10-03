@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS 550D_Canon 50mm__1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Christian Joshua",
+  "camera_brand": "Canon",
+  "camera_model": "EOS 550D",
+  "lens_model": "Canon 50mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4897658415693713,
+    "camera_matrix": [
+      [
+        6358.4235753541,
+        0.0,
+        1268.106859770748
+      ],
+      [
+        0.0,
+        6345.472505957336,
+        1033.040820343172
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.13408741191903162,
+      2.7259898283757957,
+      -14.437309020104305,
+      -158.36293622233774
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

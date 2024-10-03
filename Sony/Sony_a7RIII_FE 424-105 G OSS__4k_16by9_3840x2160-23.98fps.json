@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7RIII_FE 4/24-105 G OSS__4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Rodrigo Villegas",
+  "camera_brand": "Sony",
+  "camera_model": "a7RIII",
+  "lens_model": "FE 4/24-105 G OSS",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0542807618187322,
+    "camera_matrix": [
+      [
+        7142.665238038471,
+        0.0,
+        1851.9215149971992
+      ],
+      [
+        0.0,
+        7132.095607108543,
+        1091.8540496231303
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.36995592246072434,
+      0.23992407262006693,
+      26.452145939655097,
+      -344.3575482542525
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

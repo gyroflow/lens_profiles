@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_GH5_samyang 35mm f1.5_notmal_1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "iaroslav kovachev",
+  "camera_brand": "Panasonic",
+  "camera_model": "GH5",
+  "lens_model": "samyang 35mm f1.5",
+  "camera_setting": "notmal",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4483194372577214,
+    "camera_matrix": [
+      [
+        3149.21662019776,
+        0.0,
+        961.7581438678196
+      ],
+      [
+        0.0,
+        3144.1292314013745,
+        533.7676106936266
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.17434087509061527,
+      -1.7002444250676574,
+      33.74171056404226,
+      -209.25535272045292
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

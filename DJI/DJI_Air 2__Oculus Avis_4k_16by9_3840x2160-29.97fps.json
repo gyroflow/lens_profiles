@@ -1,0 +1,69 @@
+{
+  "name": "DJI_Air 2__Oculus Avis_4k_16by9_3840x2160-29.97fps",
+  "note": "Oculus Avis",
+  "calibrated_by": "dajo vlieger",
+  "camera_brand": "DJI",
+  "camera_model": "Air 2",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.764108715788255,
+    "camera_matrix": [
+      [
+        2551.9075597191045,
+        0.0,
+        2036.5891828873669
+      ],
+      [
+        0.0,
+        2553.67169795328,
+        1066.711719977979
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3204171529029857,
+      0.052119323133209855,
+      0.6380913006303717,
+      -0.6652255020335484
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

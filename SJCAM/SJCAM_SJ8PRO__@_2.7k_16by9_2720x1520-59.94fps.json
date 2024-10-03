@@ -1,0 +1,69 @@
+{
+  "name": "SJCAM_SJ8PRO__@_2.7k_16by9_2720x1520-59.94fps",
+  "note": "",
+  "calibrated_by": "York Tam",
+  "camera_brand": "SJCAM",
+  "camera_model": "SJ8PRO",
+  "lens_model": "",
+  "camera_setting": "@",
+  "calib_dimension": {
+    "w": 2720,
+    "h": 1520
+  },
+  "orig_dimension": {
+    "w": 2720,
+    "h": 1520
+  },
+  "output_dimension": {
+    "w": 2720,
+    "h": 1520
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7473815872527061,
+    "camera_matrix": [
+      [
+        1259.8840221782846,
+        0.0,
+        1333.3880952244756
+      ],
+      [
+        0.0,
+        1252.159674790326,
+        763.9380079735239
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.04140040777295339,
+      0.0284697068782246,
+      -0.024985744089597535,
+      0.009718020988126613
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

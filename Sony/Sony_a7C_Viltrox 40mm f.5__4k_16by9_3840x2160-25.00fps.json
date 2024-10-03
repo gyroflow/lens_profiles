@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_Viltrox 40mm f.5__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Atanas Dragov",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "Viltrox 40mm f.5",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 24.78,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.8712789810202195,
+    "camera_matrix": [
+      [
+        4546.834169364449,
+        0.0,
+        2007.9403840893071
+      ],
+      [
+        0.0,
+        4851.790562690156,
+        1164.9932034864123
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20709721957615512,
+      1.4272653008026226,
+      -10.575071848304786,
+      29.428169561134823
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-76e2939a-3840x2160@25000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

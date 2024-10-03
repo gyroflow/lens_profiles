@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_Tamron 17-70（17）__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "黄泽巍",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "Tamron 17-70（17）",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9361094522985864,
+    "camera_matrix": [
+      [
+        2909.7678638448583,
+        0.0,
+        1956.15181199382
+      ],
+      [
+        0.0,
+        2908.765649155114,
+        1079.111019946922
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1869979790460947,
+      0.251373741320176,
+      -0.06492400430291195,
+      0.009304899664326642
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

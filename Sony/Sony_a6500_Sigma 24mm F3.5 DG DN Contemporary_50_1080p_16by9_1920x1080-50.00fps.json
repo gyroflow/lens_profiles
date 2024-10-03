@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6500_Sigma 24mm F3.5 DG DN Contemporary_50_1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Nickel Zhang",
+  "camera_brand": "Sony",
+  "camera_model": "a6500",
+  "lens_model": "Sigma 24mm F3.5 DG DN Contemporary",
+  "camera_setting": "50",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3466836697069394,
+    "camera_matrix": [
+      [
+        2083.367982246668,
+        0.0,
+        944.8132839665776
+      ],
+      [
+        0.0,
+        2082.963993260246,
+        525.797277939059
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.25548552924193924,
+      1.0209754215771685,
+      -4.5593025242106835,
+      8.701462763181683
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

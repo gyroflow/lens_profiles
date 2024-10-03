@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-T30_27mm__1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "U0 A533",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-T30",
+  "lens_model": "27mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.325744809783303,
+    "camera_matrix": [
+      [
+        2372.375155886197,
+        0.0,
+        950.896353751674
+      ],
+      [
+        0.0,
+        2366.008054569372,
+        570.1330359408098
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.08316022243731692,
+      4.353191721462957,
+      -35.32658963399136,
+      103.68925880400354
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

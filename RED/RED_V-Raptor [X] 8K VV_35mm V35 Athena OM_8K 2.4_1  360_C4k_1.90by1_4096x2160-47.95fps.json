@@ -1,0 +1,69 @@
+{
+  "name": "RED_V-Raptor [X] 8K VV_35mm V35 Athena OM_8K 2.4:1  360°_C4k_1.90by1_4096x2160-47.95fps",
+  "note": "",
+  "calibrated_by": "Alexander Bracken",
+  "camera_brand": "RED",
+  "camera_model": "V-Raptor [X] 8K VV",
+  "lens_model": "35mm V35 Athena OM",
+  "camera_setting": "8K 2.4:1  360°",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 47.952049,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6826110571142925,
+    "camera_matrix": [
+      [
+        3479.231462958968,
+        0.0,
+        2054.036345204269
+      ],
+      [
+        0.0,
+        3480.608125920636,
+        1050.0449949465094
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2513039822055253,
+      0.36668869430103695,
+      -1.0628327636712094,
+      2.025678644884774
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

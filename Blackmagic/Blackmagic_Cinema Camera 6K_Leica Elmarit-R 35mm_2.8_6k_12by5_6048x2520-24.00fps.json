@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Cinema Camera 6K_Leica Elmarit-R 35mm_2.8_6k_12by5_6048x2520-24.00fps",
+  "note": "",
+  "calibrated_by": "Raj",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Cinema Camera 6K",
+  "lens_model": "Leica Elmarit-R 35mm",
+  "camera_setting": "2.8",
+  "calib_dimension": {
+    "w": 6048,
+    "h": 2520
+  },
+  "orig_dimension": {
+    "w": 6048,
+    "h": 2520
+  },
+  "output_dimension": {
+    "w": 6048,
+    "h": 2520
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6077759057082814,
+    "camera_matrix": [
+      [
+        3626.778888446011,
+        0.0,
+        2969.404595381949
+      ],
+      [
+        0.0,
+        3621.898426894122,
+        1281.5630982849248
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1628274758620743,
+      0.32166353866355435,
+      -0.3147916795226234,
+      0.5428290261781272
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Canon_5D Mark 4_ef16-35f2.8III_59.94 ntsc_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "海东青",
+  "camera_brand": "Canon",
+  "camera_model": "5D Mark 4",
+  "lens_model": "ef16-35f2.8III",
+  "camera_setting": "59.94 ntsc",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5188109062866025,
+    "camera_matrix": [
+      [
+        865.38567293906,
+        0.0,
+        964.8247381676111
+      ],
+      [
+        0.0,
+        865.4844532153033,
+        537.5635166979572
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.27494668363865216,
+      0.14693714590585957,
+      -0.0770025539786668,
+      0.1334096466100442
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

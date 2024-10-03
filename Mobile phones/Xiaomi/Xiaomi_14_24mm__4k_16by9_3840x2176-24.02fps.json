@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_14_24mm__4k_16by9_3840x2176-24.02fps",
+  "note": "",
+  "calibrated_by": "Tiherry",
+  "camera_brand": "Xiaomi",
+  "camera_model": "14",
+  "lens_model": "24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 24.016026,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9576433836960938,
+    "camera_matrix": [
+      [
+        2984.6996540775335,
+        0.0,
+        1940.4501654837425
+      ],
+      [
+        0.0,
+        2977.677521218909,
+        1141.6380827002718
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5899474589918837,
+      -1.2521606530776113,
+      3.0219577798524457,
+      -2.6622723591058572
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Digital Bolex_D16_Angénieux 17-68mm 1:2.2 Type 4x17B_2K_2k_16by9_2048x1152-24.00fps",
+  "note": "",
+  "calibrated_by": "Clark Nikolai",
+  "camera_brand": "Digital Bolex",
+  "camera_model": "D16",
+  "lens_model": "Angénieux 17-68mm 1:2.2 Type 4x17B",
+  "camera_setting": "2K",
+  "calib_dimension": {
+    "w": 2048,
+    "h": 1152
+  },
+  "orig_dimension": {
+    "w": 2048,
+    "h": 1152
+  },
+  "output_dimension": {
+    "w": 2048,
+    "h": 1152
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3549252060298277,
+    "camera_matrix": [
+      [
+        3773.502269929003,
+        0.0,
+        1030.0290263611998
+      ],
+      [
+        0.0,
+        3765.2022885914967,
+        579.8858178519595
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1155495360784784,
+      -1.0029269402180387,
+      25.34326379353897,
+      -142.32750939384914
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

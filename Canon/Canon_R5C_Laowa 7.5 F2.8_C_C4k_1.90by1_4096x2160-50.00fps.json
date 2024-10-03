@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R5C_Laowa 7.5 F2.8_C_C4k_1.90by1_4096x2160-50.00fps",
+  "note": "7.5mm",
+  "calibrated_by": "Toanlu fpv",
+  "camera_brand": "Canon",
+  "camera_model": "R5C",
+  "lens_model": "Laowa 7.5 F2.8",
+  "camera_setting": "C",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0041416420377185,
+    "camera_matrix": [
+      [
+        1446.5408887402418,
+        0.0,
+        2076.937382028975
+      ],
+      [
+        0.0,
+        1446.2538084489922,
+        1066.8673436055903
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3039815311113068,
+      0.23397831516082604,
+      -0.11212532394942944,
+      0.10518894919387724
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

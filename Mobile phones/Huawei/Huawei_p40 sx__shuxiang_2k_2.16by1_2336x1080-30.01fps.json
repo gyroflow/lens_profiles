@@ -1,0 +1,69 @@
+{
+  "name": "Huawei_p40 sx__shuxiang_2k_2.16by1_2336x1080-30.01fps",
+  "note": "shuxiang",
+  "calibrated_by": "U0 A224",
+  "camera_brand": "Huawei",
+  "camera_model": "p40 sx",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2336,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 2336,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 2336,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 30.008749,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4917661159453275,
+    "camera_matrix": [
+      [
+        2107.843774748699,
+        0.0,
+        1186.2237271500142
+      ],
+      [
+        0.0,
+        2106.8884057456535,
+        542.1486758377235
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.43904459741187074,
+      -1.9571491934365348,
+      13.827303335120538,
+      -28.146811958666216
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

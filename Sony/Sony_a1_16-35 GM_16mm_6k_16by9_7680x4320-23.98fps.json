@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a1_16-35 GM_16mm_6k_16by9_7680x4320-23.98fps",
+  "note": "16mm",
+  "calibrated_by": "Matt Larson",
+  "camera_brand": "Sony",
+  "camera_model": "a1",
+  "lens_model": "16-35 GM",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1722986874952628,
+    "camera_matrix": [
+      [
+        3591.1693193351,
+        0.0,
+        3834.5575137359856
+      ],
+      [
+        0.0,
+        3591.683643449015,
+        2162.096565627959
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.23435580702547665,
+      0.141566141933251,
+      -0.02561219857200943,
+      0.13186719845742725
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-1-16.00mm-7680x4320@23976",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 16.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

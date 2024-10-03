@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_LAOWA PHOTO 9mmF2.8_6K_5k_16by9_5760x3240-30.00fps",
+  "note": "",
+  "calibrated_by": "Spike Lee",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "LAOWA PHOTO 9mmF2.8",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9358406018258928,
+    "camera_matrix": [
+      [
+        2092.9334079806904,
+        0.0,
+        2893.3812178521644
+      ],
+      [
+        0.0,
+        2093.342906347877,
+        1618.7672901384783
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3438073356224726,
+      0.1077063594556517,
+      0.014792223407382956,
+      0.08073581966356676
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

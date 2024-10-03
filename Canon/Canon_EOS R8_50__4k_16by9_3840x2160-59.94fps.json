@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS R8_50__4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "10616",
+  "camera_brand": "Canon",
+  "camera_model": "EOS R8",
+  "lens_model": "50",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6727997948215939,
+    "camera_matrix": [
+      [
+        9635.226473089586,
+        0.0,
+        1870.1023612735944
+      ],
+      [
+        0.0,
+        9542.662104381852,
+        1005.9799519273278
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3931651751309402,
+      54.17807131625317,
+      -2582.2912730742837,
+      40359.296694434786
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

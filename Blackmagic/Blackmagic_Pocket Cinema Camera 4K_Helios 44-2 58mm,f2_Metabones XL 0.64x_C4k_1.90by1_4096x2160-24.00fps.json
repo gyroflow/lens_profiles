@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 4K_Helios 44-2 58mm,f2_Metabones XL 0.64x_C4k_1.90by1_4096x2160-24.00fps",
+  "note": "Metabones XL 0.64x",
+  "calibrated_by": "Generals at work",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K",
+  "lens_model": "Helios 44-2 58mm,f2",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6232466288518633,
+    "camera_matrix": [
+      [
+        9552.474538018414,
+        0.0,
+        2031.6791493565877
+      ],
+      [
+        0.0,
+        9605.8361001076,
+        1173.8049211947384
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.08735472961992713,
+      5.555455621071784,
+      -136.4234533279539,
+      2470.3716778129874
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera4k-50mm,f1.4-50mm-4096x2160@24000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

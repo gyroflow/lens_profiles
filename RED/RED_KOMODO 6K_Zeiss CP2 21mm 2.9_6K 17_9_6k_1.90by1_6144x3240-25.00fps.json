@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Zeiss CP2 21mm 2.9_6K 17:9_6k_1.90by1_6144x3240-25.00fps",
+  "note": "25fps 180 Shutter",
+  "calibrated_by": "David Schwan",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Zeiss CP2 21mm 2.9",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7390569706765514,
+    "camera_matrix": [
+      [
+        4924.868484514889,
+        0.0,
+        3075.2341291048947
+      ],
+      [
+        0.0,
+        4926.174847316872,
+        1658.976210580188
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20301688113738764,
+      0.40998527264179224,
+      -0.8737851707855142,
+      1.409568595736363
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

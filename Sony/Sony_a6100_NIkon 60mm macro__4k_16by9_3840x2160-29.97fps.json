@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6100_NIkon 60mm macro__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "FENGKAI LIU",
+  "camera_brand": "Sony",
+  "camera_model": "a6100",
+  "lens_model": "NIkon 60mm macro",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9644143650702944,
+    "camera_matrix": [
+      [
+        21869.18125103891,
+        0.0,
+        1488.6284937645937
+      ],
+      [
+        0.0,
+        21671.74813964503,
+        1613.2173315070015
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.745934528391537,
+      54.903178837399885,
+      -8833.733035359961,
+      395984.8568264811
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

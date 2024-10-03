@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7SIII_Nero1.5xKonica57f1.4__5k_8by3_5760x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Zuofu Wang",
+  "camera_brand": "Sony",
+  "camera_model": "a7SIII",
+  "lens_model": "Nero1.5xKonica57f1.4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.5,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.47942140175248,
+    "camera_matrix": [
+      [
+        7359.624933571332,
+        0.0,
+        1090.050227273306
+      ],
+      [
+        0.0,
+        7401.299653114319,
+        860.9783326723947
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3888274697440425,
+      -2.148426124249212,
+      5.285374440438399,
+      -5.661019198505689
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

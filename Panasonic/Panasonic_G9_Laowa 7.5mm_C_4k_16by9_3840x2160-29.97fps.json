@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_G9_Laowa 7.5mm_C_4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Rudi",
+  "camera_brand": "Panasonic",
+  "camera_model": "G9",
+  "lens_model": "Laowa 7.5mm",
+  "camera_setting": "C",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 15.9,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5072047647156921,
+    "camera_matrix": [
+      [
+        1755.1038987656482,
+        0.0,
+        1908.140042494048
+      ],
+      [
+        0.0,
+        1752.380917495497,
+        1095.4157316590658
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.34394167166580514,
+      0.046261809679862625,
+      0.09514549798666126,
+      0.005614545091519253
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

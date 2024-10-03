@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_22081212C__MotionCam_C4k_4by3_4032x3008-30.20fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Xiaomi",
+  "camera_model": "22081212C",
+  "lens_model": "",
+  "camera_setting": "MotionCam",
+  "calib_dimension": {
+    "w": 4032,
+    "h": 3008
+  },
+  "orig_dimension": {
+    "w": 4032,
+    "h": 3008
+  },
+  "output_dimension": {
+    "w": 4032,
+    "h": 3008
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 30.195997,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2410016256901153,
+    "camera_matrix": [
+      [
+        2823.5615265534993,
+        0.0,
+        2029.7506259005877
+      ],
+      [
+        0.0,
+        2828.635820780853,
+        1498.12205033985
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5197849009060165,
+      -0.9627300947546348,
+      2.7687222172790187,
+      -2.3700867308094886
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

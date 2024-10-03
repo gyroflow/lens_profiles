@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_Note 9 1080p_Open Camera__1080p_16by9_1920x1080-30.02fps",
+  "note": "",
+  "calibrated_by": "U0 A1312",
+  "camera_brand": "Samsung",
+  "camera_model": "Note 9 1080p",
+  "lens_model": "Open Camera",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 30.015394,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.29919252040065014,
+    "camera_matrix": [
+      [
+        1506.1575883734763,
+        0.0,
+        974.1175047479225
+      ],
+      [
+        0.0,
+        1509.5983874863869,
+        545.5339764113014
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.9376384752996276,
+      -5.056611849744328,
+      19.53789269284498,
+      -27.001380531715174
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

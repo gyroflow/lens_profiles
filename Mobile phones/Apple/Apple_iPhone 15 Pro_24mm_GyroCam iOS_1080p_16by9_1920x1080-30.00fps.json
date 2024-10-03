@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone 15 Pro_24mm_GyroCam iOS_1080p_16by9_1920x1080-30.00fps",
+  "note": "GyroCam iOS",
+  "calibrated_by": "BM",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 15 Pro",
+  "lens_model": "24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 29.997671,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4345725190995768,
+    "camera_matrix": [
+      [
+        734.7479179391029,
+        0.0,
+        959.9299560230116
+      ],
+      [
+        0.0,
+        734.5000964826091,
+        536.2922864965449
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2754306676493093,
+      0.15443165888177704,
+      0.32550330103781094,
+      -0.2724526812733646
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

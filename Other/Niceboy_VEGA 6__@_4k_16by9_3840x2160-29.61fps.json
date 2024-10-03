@@ -1,0 +1,69 @@
+{
+  "name": "Niceboy_VEGA 6__@_4k_16by9_3840x2160-29.61fps",
+  "note": "",
+  "calibrated_by": "R S",
+  "camera_brand": "Niceboy",
+  "camera_model": "VEGA 6",
+  "lens_model": "",
+  "camera_setting": "@",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 29.613962,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6438423989791293,
+    "camera_matrix": [
+      [
+        2151.460962878283,
+        0.0,
+        2052.914068638683
+      ],
+      [
+        0.0,
+        2150.5256490687675,
+        1097.4500481982154
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.006692569207355673,
+      0.018406638404184,
+      -0.024983748228930045,
+      0.012776876882917036
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

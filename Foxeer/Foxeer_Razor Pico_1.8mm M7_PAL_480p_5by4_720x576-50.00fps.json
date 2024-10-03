@@ -1,0 +1,69 @@
+{
+  "name": "Foxeer_Razor Pico_1.8mm M7_PAL_480p_5by4_720x576-50.00fps",
+  "note": "1200TVL; 4:3 FOV-H:125° FOV-D: 160°",
+  "calibrated_by": "Michael Grippentrog",
+  "camera_brand": "Foxeer",
+  "camera_model": "Razor Pico",
+  "lens_model": "1.8mm M7",
+  "camera_setting": "PAL",
+  "calib_dimension": {
+    "w": 720,
+    "h": 576
+  },
+  "orig_dimension": {
+    "w": 720,
+    "h": 576
+  },
+  "output_dimension": {
+    "w": 720,
+    "h": 576
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.30171072825168344,
+    "camera_matrix": [
+      [
+        282.31468910285986,
+        0.0,
+        342.39092602284586
+      ],
+      [
+        0.0,
+        314.6291641442138,
+        304.85778396742154
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2157488204437445,
+      0.061498055601275144,
+      -0.1644814669486208,
+      0.06797767467920764
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

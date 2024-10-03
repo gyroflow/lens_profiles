@@ -1,0 +1,69 @@
+{
+  "name": "duoke_DK020p_xxx__1080p_16by9_1920x1080-27.28fps",
+  "note": "",
+  "calibrated_by": "张玮",
+  "camera_brand": "duoke",
+  "camera_model": "DK020p",
+  "lens_model": "xxx",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 27.280844,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2631327793908827,
+    "camera_matrix": [
+      [
+        1450.3741269156342,
+        0.0,
+        968.7585787375776
+      ],
+      [
+        0.0,
+        1450.8301918182888,
+        538.1781463654273
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6666923205858198,
+      -2.2796979045225916,
+      8.152124470130893,
+      -10.352123302423632
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7SIII_Leica Summicron-R 90mm f/2 v2__C4k_1.90by1_4096x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "DucDigital & Through The Glass Paris",
+  "camera_brand": "Sony",
+  "camera_model": "a7SIII",
+  "lens_model": "Leica Summicron-R 90mm f/2 v2",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": 0.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6528453990827141,
+    "camera_matrix": [
+      [
+        10933.46882659799,
+        0.0,
+        2148.114033195431
+      ],
+      [
+        0.0,
+        10921.835400037187,
+        1033.6760646166776
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.46907378888912293,
+      -4.360876137454769,
+      42.15355510758624,
+      169.26926256100447
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 90.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

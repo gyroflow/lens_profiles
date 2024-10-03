@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z30_12-28mm @ 12mm__1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "zjy",
+  "camera_brand": "Nikon",
+  "camera_model": "Z30",
+  "lens_model": "12-28mm @ 12mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.32252568083794203,
+    "camera_matrix": [
+      [
+        974.9038045082408,
+        0.0,
+        959.688912514705
+      ],
+      [
+        0.0,
+        974.0034692743292,
+        533.5087895175664
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.34266446687421775,
+      0.06217870630425285,
+      0.16980942050178296,
+      -0.010354029957185163
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

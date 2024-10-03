@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-H2S_V27 1.2_Flog2_4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-H2S",
+  "lens_model": "V27 1.2",
+  "camera_setting": "Flog2",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 6.66,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.49338408951560864,
+    "camera_matrix": [
+      [
+        4645.421864526051,
+        0.0,
+        1921.8219235731017
+      ],
+      [
+        0.0,
+        4657.312658519679,
+        1050.0124255869755
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19872055655447007,
+      0.38716684779152527,
+      1.6226042211719287,
+      -5.255366321748563
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 27.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

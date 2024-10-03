@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-H2S_DZ50mm__4k_16by9_3840x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "apple",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-H2S",
+  "lens_model": "DZ50mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3044993173668306,
+    "camera_matrix": [
+      [
+        6042.632729384111,
+        0.0,
+        1909.1769940840152
+      ],
+      [
+        0.0,
+        6044.6322606101585,
+        1097.414619590699
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.04231474079489507,
+      -0.090515919797632,
+      8.287212664814751,
+      -26.682058834229803
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 53.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

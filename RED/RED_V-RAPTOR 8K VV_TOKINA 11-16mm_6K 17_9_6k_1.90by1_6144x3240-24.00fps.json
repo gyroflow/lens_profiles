@@ -1,0 +1,69 @@
+{
+  "name": "RED_V-RAPTOR 8K VV_TOKINA 11-16mm_6K 17:9_6k_1.90by1_6144x3240-24.00fps",
+  "note": "11MM",
+  "calibrated_by": "Queen",
+  "camera_brand": "RED",
+  "camera_model": "V-RAPTOR 8K VV",
+  "lens_model": "TOKINA 11-16mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.063995018815767,
+    "camera_matrix": [
+      [
+        2252.0222826189624,
+        0.0,
+        3075.8923715192977
+      ],
+      [
+        0.0,
+        2253.0482806010978,
+        1664.3631839305397
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33459594108383817,
+      0.08705596932893298,
+      0.01460379960897584,
+      0.022134954005036248
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

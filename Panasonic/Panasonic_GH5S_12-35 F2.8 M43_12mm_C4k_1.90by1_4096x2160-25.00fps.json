@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_GH5S_12-35 F2.8 M43_12mm焦段_C4k_1.90by1_4096x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Shao Mingxin",
+  "camera_brand": "Panasonic",
+  "camera_model": "GH5S",
+  "lens_model": "12-35 F2.8 M43",
+  "camera_setting": "12mm焦段",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5329006246121618,
+    "camera_matrix": [
+      [
+        2607.7796232744668,
+        0.0,
+        2037.8744461906888
+      ],
+      [
+        0.0,
+        2608.66456847229,
+        1075.9819168638774
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2907376667202337,
+      0.22385051880543577,
+      -0.32831291910217836,
+      0.5003244067302163
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

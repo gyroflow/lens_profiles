@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_GH2_olympus 25 f1.7__1080p_16by9_1920x1080-24.00fps",
+  "note": "",
+  "calibrated_by": "pipop prommj anya",
+  "camera_brand": "Panasonic",
+  "camera_model": "GH2",
+  "lens_model": "olympus 25 f1.7",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6208351995899196,
+    "camera_matrix": [
+      [
+        2778.120209301912,
+        0.0,
+        1032.4674752428652
+      ],
+      [
+        0.0,
+        2786.8993854757027,
+        504.85452558367155
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.18751298012898376,
+      0.2136204290153528,
+      0.19192063312960023,
+      9.807408184603975
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

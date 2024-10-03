@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_13_66mm__720p_4by3_1824x1368-24.00fps",
+  "note": "",
+  "calibrated_by": "黎子健",
+  "camera_brand": "Xiaomi",
+  "camera_model": "13",
+  "lens_model": "66mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1824,
+    "h": 1368
+  },
+  "orig_dimension": {
+    "w": 1824,
+    "h": 1368
+  },
+  "output_dimension": {
+    "w": 1824,
+    "h": 1368
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.39922120254790006,
+    "camera_matrix": [
+      [
+        2868.202982761376,
+        0.0,
+        905.26315785744
+      ],
+      [
+        0.0,
+        2868.9248563289443,
+        690.6704166573952
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.028026387556030305,
+      32.4972825746864,
+      -620.6811094018316,
+      4124.173224002059
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

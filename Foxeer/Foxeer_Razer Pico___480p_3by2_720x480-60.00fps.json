@@ -1,0 +1,69 @@
+{
+  "name": "Foxeer_Razer Pico___480p_3by2_720x480-60.00fps",
+  "note": "",
+  "calibrated_by": "Nick Gauthier",
+  "camera_brand": "Foxeer",
+  "camera_model": "Razer Pico",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 720,
+    "h": 480
+  },
+  "orig_dimension": {
+    "w": 720,
+    "h": 480
+  },
+  "output_dimension": {
+    "w": 720,
+    "h": 480
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.26401362984965526,
+    "camera_matrix": [
+      [
+        277.3800070306575,
+        0.0,
+        350.72025108215644
+      ],
+      [
+        0.0,
+        245.5638293514094,
+        239.73759958034393
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.23331965038451033,
+      -0.0036810875676125377,
+      -0.07344010768978468,
+      0.025989769313143528
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

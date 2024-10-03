@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_H2S_Laowa 10mm_Flog2_4k_16by9_3840x2160-59.94fps",
+  "note": "Flog2",
+  "calibrated_by": "markyang",
+  "camera_brand": "Fujifilm",
+  "camera_model": "H2S",
+  "lens_model": "Laowa 10mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.44494864492235486,
+    "camera_matrix": [
+      [
+        1706.3889038169173,
+        0.0,
+        1919.171723890351
+      ],
+      [
+        0.0,
+        1707.455831639246,
+        1059.2279941543509
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2881515311850471,
+      0.17672703232530446,
+      -0.08546909465923061,
+      0.14275976497583057
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

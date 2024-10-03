@@ -1,0 +1,69 @@
+{
+  "name": "Google_Pixel 7 Pro_25mm_RAW MotionCam_1080p_16by9_1920x1080-30.00fps",
+  "note": "RAW MotionCam",
+  "calibrated_by": "Pablo Cesar Fraga Rodriguez",
+  "camera_brand": "Google",
+  "camera_model": "Pixel 7 Pro",
+  "lens_model": "25mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3209213757764716,
+    "camera_matrix": [
+      [
+        2737.6624089019906,
+        0.0,
+        952.4248392652888
+      ],
+      [
+        0.0,
+        2746.4048160687344,
+        556.3386883779297
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.652716372060782,
+      -4.1742948299704965,
+      43.52969248999589,
+      -207.10997389842265
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

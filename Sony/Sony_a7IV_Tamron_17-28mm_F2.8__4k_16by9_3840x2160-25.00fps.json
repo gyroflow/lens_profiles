@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_Tamron_17-28mm_F2.8__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Andriej Szypiłow",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "Tamron_17-28mm_F2.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6753888795739932,
+    "camera_matrix": [
+      [
+        1838.0149386162984,
+        0.0,
+        1911.4023450942543
+      ],
+      [
+        0.0,
+        1838.202179402092,
+        1083.71729492682
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2955457703378665,
+      0.33260277505487135,
+      -0.6210391282639048,
+      0.8154327472728921
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7m4-17.00mm-3840x2160@25000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 17.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_S24 Plus_24mm__1080p_16by9_1920x1080-24.02fps",
+  "note": "",
+  "calibrated_by": "matt",
+  "camera_brand": "Samsung",
+  "camera_model": "S24 Plus",
+  "lens_model": "24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 24.022749,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.45773193117213096,
+    "camera_matrix": [
+      [
+        1187.214371788345,
+        0.0,
+        949.4171630094868
+      ],
+      [
+        0.0,
+        1188.93129683336,
+        522.6721527265278
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4117731494092659,
+      -0.14240127083355497,
+      0.6185594605964644,
+      -0.48424841905540217
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

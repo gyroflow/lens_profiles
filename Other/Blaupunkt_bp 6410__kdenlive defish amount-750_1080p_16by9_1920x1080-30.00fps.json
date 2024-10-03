@@ -1,0 +1,69 @@
+{
+  "name": "Blaupunkt_bp 6410__kdenlive defish amount-750_1080p_16by9_1920x1080-30.00fps",
+  "note": "kdenlive defish amount-750",
+  "calibrated_by": "Emmanuel Reznik",
+  "camera_brand": "Blaupunkt",
+  "camera_model": "bp 6410",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.4915923864631115,
+    "camera_matrix": [
+      [
+        1352.8938016114307,
+        0.0,
+        971.7152586212728
+      ],
+      [
+        0.0,
+        1343.3963724514,
+        544.5813777439395
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31699852188361854,
+      0.00993812892438566,
+      0.44729455135279667,
+      -0.5509224929683096
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

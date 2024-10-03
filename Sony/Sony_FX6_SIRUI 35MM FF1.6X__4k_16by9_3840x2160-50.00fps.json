@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_SIRUI 35MM FF1.6X__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Duane Grey",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "SIRUI 35MM FF1.6X",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.0743244533521925,
+    "camera_matrix": [
+      [
+        1716.9337740255933,
+        0.0,
+        1773.0623735744764
+      ],
+      [
+        0.0,
+        2736.7380136097977,
+        956.654809357296
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30693693487327434,
+      0.07018070828433139,
+      -0.1088710829502139,
+      0.23507607418267837
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

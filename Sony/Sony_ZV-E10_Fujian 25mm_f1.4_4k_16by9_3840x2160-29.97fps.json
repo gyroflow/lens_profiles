@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_Fujian 25mm_f1.4_4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "John Cousineau",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "Fujian 25mm",
+  "camera_setting": "f1.4",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.2249300909416516,
+    "camera_matrix": [
+      [
+        6383.449109303583,
+        0.0,
+        1849.893487675163
+      ],
+      [
+        0.0,
+        6394.2674776582135,
+        1140.750484752224
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.041872572461538374,
+      3.8039096858242254,
+      -46.64765315565124,
+      233.12041832489663
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

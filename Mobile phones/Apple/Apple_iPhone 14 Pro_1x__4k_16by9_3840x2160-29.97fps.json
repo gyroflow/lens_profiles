@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone 14 Pro_1x__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "lh",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 14 Pro",
+  "lens_model": "1x",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.967127,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6014860232062857,
+    "camera_matrix": [
+      [
+        2994.511965414358,
+        0.0,
+        1924.579051084032
+      ],
+      [
+        0.0,
+        2990.665397313553,
+        1070.7717047584736
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.492547263703249,
+      0.0946922086891229,
+      -2.4452599907274912,
+      5.124411383196966
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

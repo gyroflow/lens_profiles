@@ -1,0 +1,69 @@
+{
+  "name": "RunCam_2___1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "calibrated_by": "C",
+  "camera_brand": "RunCam",
+  "camera_model": "2",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 30,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.512328196848446,
+    "camera_matrix": [
+      [
+        1242.461798554086,
+        0.0,
+        990.6486856389824
+      ],
+      [
+        0.0,
+        1239.9897686134868,
+        467.8185328760044
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.02597585632702739,
+      0.15885026609914854,
+      -0.3631282420008983,
+      0.2938258192160195
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

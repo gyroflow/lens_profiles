@@ -1,0 +1,69 @@
+{
+  "name": "Canon_800D_50mm_f1.8_1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "Nino Sablone",
+  "camera_brand": "Canon",
+  "camera_model": "800D",
+  "lens_model": "50mm",
+  "camera_setting": "f1.8",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8795295866263043,
+    "camera_matrix": [
+      [
+        6786.763211589743,
+        0.0,
+        1005.4861946799434
+      ],
+      [
+        0.0,
+        6763.572793185204,
+        757.4163341863069
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.025072538428990272,
+      22.770646653933714,
+      -852.38767043257,
+      18542.122980340548
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

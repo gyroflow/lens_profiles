@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_GH6_slr8__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "chong do",
+  "camera_brand": "Panasonic",
+  "camera_model": "GH6",
+  "lens_model": "slr8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6552741538063209,
+    "camera_matrix": [
+      [
+        1953.0587423952632,
+        0.0,
+        1947.7230281826332
+      ],
+      [
+        0.0,
+        1954.889264137606,
+        1043.8405619880473
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.28365600617627684,
+      0.07342044794759336,
+      0.1624586165694298,
+      -0.08437298138183061
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 8.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_s5_lumix 50 1.8_4k_C4k_1.90by1_4096x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Simon Chow",
+  "camera_brand": "Panasonic",
+  "camera_model": "s5",
+  "lens_model": "lumix 50 1.8",
+  "camera_setting": "4k",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6474907911685887,
+    "camera_matrix": [
+      [
+        6603.920201725039,
+        0.0,
+        2009.9430166697975
+      ],
+      [
+        0.0,
+        6593.873090641408,
+        1206.112109017901
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.36020405944791045,
+      -1.4767546870229458,
+      36.683047649280226,
+      -232.7000753756214
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

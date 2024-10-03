@@ -1,0 +1,69 @@
+{
+  "name": "Canon_90D_Canon18-135__1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "lenovo",
+  "camera_brand": "Canon",
+  "camera_model": "90D",
+  "lens_model": "Canon18-135",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8486731841357047,
+    "camera_matrix": [
+      [
+        2088.7043910866546,
+        0.0,
+        1030.5276216950815
+      ],
+      [
+        0.0,
+        2089.156132766544,
+        548.8319851089498
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20854061949678657,
+      0.6566590904246405,
+      0.8968389979320861,
+      -12.74587787682897
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

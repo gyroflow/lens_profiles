@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS M_22MM_MAGIC LANTERN_720p_16by9_1736x976-42.00fps",
+  "note": "42 FPS 3X3 CROP",
+  "calibrated_by": "user",
+  "camera_brand": "Canon",
+  "camera_model": "EOS M",
+  "lens_model": "22MM",
+  "camera_setting": "MAGIC LANTERN",
+  "calib_dimension": {
+    "w": 1736,
+    "h": 976
+  },
+  "orig_dimension": {
+    "w": 1736,
+    "h": 976
+  },
+  "output_dimension": {
+    "w": 1736,
+    "h": 976
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 42.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.38570255553626426,
+    "camera_matrix": [
+      [
+        1466.3442984022956,
+        0.0,
+        871.7604636495142
+      ],
+      [
+        0.0,
+        1471.2861573646348,
+        438.6865526926836
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3069506637514195,
+      0.27304471388814333,
+      -0.32790194057106065,
+      1.0629117038863305
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Insta360_X4_X4_8K 30_4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "DAC",
+  "camera_brand": "Insta360",
+  "camera_model": "X4",
+  "lens_model": "X4",
+  "camera_setting": "8K 30",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 309,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6092778587726124,
+    "camera_matrix": [
+      [
+        1223.3194070724403,
+        0.0,
+        1912.0013965263029
+      ],
+      [
+        0.0,
+        1228.3031778668258,
+        1120.6129268216216
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.35094512496147195,
+      0.0966674926168817,
+      0.06560103203079148,
+      0.020494435691107572
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Realme_RMX2151_Sony IMX 682_1/100 f1.8_4k_16by9_3840x2176-15.00fps",
+  "note": "MotionCam Pro RAW",
+  "calibrated_by": "Akshay Nagar",
+  "camera_brand": "Realme",
+  "camera_model": "RMX2151",
+  "lens_model": "Sony IMX 682",
+  "camera_setting": "1/100 f1.8",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "frame_readout_time": 33.33,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 25,
+  "fps": 15.000663,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0389670115813752,
+    "camera_matrix": [
+      [
+        3578.496565146094,
+        0.0,
+        1930.1670822253009
+      ],
+      [
+        0.0,
+        3575.6465775844927,
+        1066.8055132151612
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.39256592814841496,
+      -0.7260431769610425,
+      6.676345469970684,
+      -14.89183734218317
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6700_Sony 50-210.00mm__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Dboy Baker",
+  "camera_brand": "Sony",
+  "camera_model": "a6700",
+  "lens_model": "Sony 50-210.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.461182201770337,
+    "camera_matrix": [
+      [
+        17732.485435334107,
+        0.0,
+        950.0902419914676
+      ],
+      [
+        0.0,
+        17752.95292059688,
+        557.6534447527508
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      3.12869206962121,
+      1725.496595530222,
+      -995526.7205679308,
+      173586049.13622698
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-6700-210.00mm-1920x1080@59940",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 210.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

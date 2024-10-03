@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K_Laowa 9mm f2.8_17:9 5.7k_5k_1.90by1_5744x3024-59.94fps",
+  "note": "",
+  "calibrated_by": "Devon Spittle",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K",
+  "lens_model": "Laowa 9mm f2.8",
+  "camera_setting": "17:9 5.7k",
+  "calib_dimension": {
+    "w": 5744,
+    "h": 3024
+  },
+  "orig_dimension": {
+    "w": 5744,
+    "h": 3024
+  },
+  "output_dimension": {
+    "w": 5744,
+    "h": 3024
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 7,
+  "fps": 59.940063,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.4239195058938665,
+    "camera_matrix": [
+      [
+        2491.6999786786037,
+        0.0,
+        2934.799979458946
+      ],
+      [
+        0.0,
+        2492.5176445821535,
+        1606.3509971395872
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.34135674079285194,
+      0.13418618941386604,
+      -0.03762542047044531,
+      0.11245882689076282
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-31",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

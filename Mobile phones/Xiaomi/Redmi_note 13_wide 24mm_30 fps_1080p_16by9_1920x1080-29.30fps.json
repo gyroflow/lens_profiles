@@ -1,0 +1,69 @@
+{
+  "name": "Redmi_note 13_wide 24mm_30 fps_1080p_16by9_1920x1080-29.30fps",
+  "note": "",
+  "calibrated_by": "Emmanuel",
+  "camera_brand": "Redmi",
+  "camera_model": "note 13",
+  "lens_model": "wide 24mm",
+  "camera_setting": "30 fps",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 29.296471,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9805449607030716,
+    "camera_matrix": [
+      [
+        1319.9164841297063,
+        0.0,
+        960.9192713869718
+      ],
+      [
+        0.0,
+        1322.633548494438,
+        538.300724261573
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6379273056392883,
+      -1.6705850174686665,
+      5.266389593270987,
+      -6.376627671771713
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

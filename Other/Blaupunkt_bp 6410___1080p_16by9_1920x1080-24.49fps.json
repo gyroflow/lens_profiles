@@ -1,0 +1,69 @@
+{
+  "name": "Blaupunkt_bp 6410___1080p_16by9_1920x1080-24.49fps",
+  "note": "",
+  "calibrated_by": "Emmanuel",
+  "camera_brand": "Blaupunkt",
+  "camera_model": "bp 6410",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.487427,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.7945723487893266,
+    "camera_matrix": [
+      [
+        1569.3975899679135,
+        0.0,
+        986.2999096793604
+      ],
+      [
+        0.0,
+        1563.129971492764,
+        540.7686815146025
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.2492979244043276,
+      0.2861698338014163,
+      -0.5244564066044428,
+      0.33307697773571004
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

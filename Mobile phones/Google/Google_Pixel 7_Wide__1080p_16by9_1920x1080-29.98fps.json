@@ -1,0 +1,69 @@
+{
+  "name": "Google_Pixel 7_Wide__1080p_16by9_1920x1080-29.98fps",
+  "note": "",
+  "calibrated_by": "Jacky Tang",
+  "camera_brand": "Google",
+  "camera_model": "Pixel 7",
+  "lens_model": "Wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 29.984461,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4382425184183787,
+    "camera_matrix": [
+      [
+        1654.6638775834438,
+        0.0,
+        957.6672412389198
+      ],
+      [
+        0.0,
+        1652.8999690365802,
+        516.6032803077278
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6084974037773704,
+      -2.4361517725177886,
+      12.153058486116166,
+      -20.766419453519507
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

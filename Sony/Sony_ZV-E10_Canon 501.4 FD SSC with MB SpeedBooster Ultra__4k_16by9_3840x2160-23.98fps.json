@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_Canon 50/1.4 FD SSC with MB SpeedBooster Ultra__4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Gavin Stewart",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "Canon 50/1.4 FD SSC with MB SpeedBooster Ultra",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7751241709184321,
+    "camera_matrix": [
+      [
+        7030.652361348488,
+        0.0,
+        1883.060747260547
+      ],
+      [
+        0.0,
+        7063.8842800809825,
+        1152.793465018617
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.05579284932766406,
+      -2.1338788858054594,
+      46.240908789131694,
+      -237.05871324169817
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

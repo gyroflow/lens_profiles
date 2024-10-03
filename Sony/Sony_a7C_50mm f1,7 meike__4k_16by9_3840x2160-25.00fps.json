@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_50mm f1,7 meike__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "hong djie",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "50mm f1,7 meike",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5868429277010264,
+    "camera_matrix": [
+      [
+        6265.269871429604,
+        0.0,
+        1958.195460687086
+      ],
+      [
+        0.0,
+        6266.242402602864,
+        1125.4382682640833
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.13099717429031832,
+      2.222406776067386,
+      -24.11988872480949,
+      104.2662932809622
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

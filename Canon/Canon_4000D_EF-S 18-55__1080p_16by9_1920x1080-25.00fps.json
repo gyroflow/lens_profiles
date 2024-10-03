@@ -1,0 +1,69 @@
+{
+  "name": "Canon_4000D_EF-S 18-55__1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "Giovanni Raiola",
+  "camera_brand": "Canon",
+  "camera_model": "4000D",
+  "lens_model": "EF-S 18-55",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5296994650301832,
+    "camera_matrix": [
+      [
+        1799.582139141772,
+        0.0,
+        954.0866729063182
+      ],
+      [
+        0.0,
+        1800.2939646460254,
+        578.6364092496074
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1328342854385344,
+      -0.36610035086866016,
+      4.135215947235234,
+      -8.384660695523419
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

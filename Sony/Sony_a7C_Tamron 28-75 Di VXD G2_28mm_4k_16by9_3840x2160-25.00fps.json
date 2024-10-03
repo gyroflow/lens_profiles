@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_Tamron 28-75 Di VXD G2_28mm_4k_16by9_3840x2160-25.00fps",
+  "note": "28mm",
+  "calibrated_by": "Alex",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "Tamron 28-75 Di VXD G2",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5572736876808477,
+    "camera_matrix": [
+      [
+        4707.274239337997,
+        0.0,
+        1955.7467568507743
+      ],
+      [
+        0.0,
+        4701.379751365477,
+        1112.664378302225
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3620177534676547,
+      0.853984158476895,
+      -1.4612361629912591,
+      2.168172658009429
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-bc5c34d0-3840x2160@25000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R6 Mark II_EF 24-105mm F4 105mm__4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Lenovo",
+  "camera_brand": "Canon",
+  "camera_model": "R6 Mark II",
+  "lens_model": "EF 24-105mm F4 105mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5623326729027681,
+    "camera_matrix": [
+      [
+        11489.083033335211,
+        0.0,
+        1916.1366341425953
+      ],
+      [
+        0.0,
+        11523.970151234633,
+        1119.3934005230474
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      1.130991317241384,
+      -6.4284528860614865,
+      535.2872728790682,
+      -7921.054917045988
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

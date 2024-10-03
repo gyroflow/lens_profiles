@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS R8_RF 24-105 F4-7.1 @ 85mm_85mm_1080p_16by9_1920x1080-29.97fps",
+  "note": "85mm",
+  "calibrated_by": "Hongye Deng",
+  "camera_brand": "Canon",
+  "camera_model": "EOS R8",
+  "lens_model": "RF 24-105 F4-7.1 @ 85mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4463394752424814,
+    "camera_matrix": [
+      [
+        5160.65836123397,
+        0.0,
+        1085.3135471183425
+      ],
+      [
+        0.0,
+        5164.673954176321,
+        559.8889952799958
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2565897285623087,
+      10.541405210204267,
+      -366.1104578816554,
+      4176.308836331886
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

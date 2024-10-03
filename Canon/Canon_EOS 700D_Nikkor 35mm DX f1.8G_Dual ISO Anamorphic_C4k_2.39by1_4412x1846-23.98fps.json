@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS 700D_Nikkor 35mm DX f/1.8G_Dual ISO Anamorphic_C4k_2.39by1_4412x1846-23.98fps",
+  "note": "Magic Lantern Crop Mood ASP-C",
+  "calibrated_by": "Folium",
+  "camera_brand": "Canon",
+  "camera_model": "EOS 700D",
+  "lens_model": "Nikkor 35mm DX f/1.8G",
+  "camera_setting": "Dual ISO Anamorphic",
+  "calib_dimension": {
+    "w": 4412,
+    "h": 1846
+  },
+  "orig_dimension": {
+    "w": 4412,
+    "h": 1846
+  },
+  "output_dimension": {
+    "w": 4412,
+    "h": 1846
+  },
+  "frame_readout_time": -26.1,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.982,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.3138692631705962,
+    "camera_matrix": [
+      [
+        8578.743241800665,
+        0.0,
+        1974.2544303169975
+      ],
+      [
+        0.0,
+        8576.14585242171,
+        1045.5776554975148
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.35528535432516906,
+      -10.642098041947468,
+      253.1119280841791,
+      -2223.2448009675295
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": 1.6,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E1_sirui sniper F1.2 APS-C AF 23.00mm_full frame_4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "snotlout",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E1",
+  "lens_model": "sirui sniper F1.2 APS-C AF 23.00mm",
+  "camera_setting": "full frame",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8916724692665752,
+    "camera_matrix": [
+      [
+        2554.1196599256195,
+        0.0,
+        1922.8308433727216
+      ],
+      [
+        0.0,
+        2555.4228996118427,
+        1080.9066983574182
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1715785717472552,
+      0.152524513380297,
+      0.3882186324039373,
+      0.23883561662722397
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-e1-23.00mm-3840x2160@50000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 23.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

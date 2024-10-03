@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_D800_24-120mm f4 @ 120mm__1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "chen",
+  "camera_brand": "Nikon",
+  "camera_model": "D800",
+  "lens_model": "24-120mm f4 @ 120mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4831699861385777,
+    "camera_matrix": [
+      [
+        6007.246881651213,
+        0.0,
+        967.0026449740463
+      ],
+      [
+        0.0,
+        6018.166293338177,
+        549.6267247130269
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      1.4199681388175367,
+      -36.314995836466935,
+      2956.8591989986303,
+      -81053.6303756257
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

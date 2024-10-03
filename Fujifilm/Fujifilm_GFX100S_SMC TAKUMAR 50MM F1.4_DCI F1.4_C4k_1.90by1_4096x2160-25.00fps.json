@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_GFX100S_SMC TAKUMAR 50MM F1.4_DCI F1.4_C4k_1.90by1_4096x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "马天翼",
+  "camera_brand": "Fujifilm",
+  "camera_model": "GFX100S",
+  "lens_model": "SMC TAKUMAR 50MM F1.4",
+  "camera_setting": "DCI F1.4",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 49,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.364090982993382,
+    "camera_matrix": [
+      [
+        4828.252076530811,
+        0.0,
+        2065.7137756061256
+      ],
+      [
+        0.0,
+        4833.558609708018,
+        1010.8758155389474
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1043815292963488,
+      1.2762878201476315,
+      -6.639928141402429,
+      16.019769146423343
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

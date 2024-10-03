@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7RII_岩石星50F2_50M_720p_16by9_1280x720-100.00fps",
+  "note": "",
+  "calibrated_by": "亚里士缺德",
+  "camera_brand": "Sony",
+  "camera_model": "a7RII",
+  "lens_model": "岩石星50F2",
+  "camera_setting": "50M",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 100.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7018146350187484,
+    "camera_matrix": [
+      [
+        2193.8846021939903,
+        0.0,
+        363.280454329917
+      ],
+      [
+        0.0,
+        2212.167015465617,
+        371.1912751453384
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.055023893974344186,
+      2.2344653394137186,
+      -11.715002551140357,
+      20.58124006758813
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6700_e 18-70 f2.6_50fps_1080p_16by9_1920x1080-58.53fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Sony",
+  "camera_model": "a6700",
+  "lens_model": "e 18-70 f2.6",
+  "camera_setting": "50fps",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 4.89,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 58.531681,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8957572354592459,
+    "camera_matrix": [
+      [
+        1853.8516871403476,
+        0.0,
+        945.5510777663778
+      ],
+      [
+        0.0,
+        1850.35687425122,
+        539.340524864765
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.8263504618511288,
+      -2.1615290492063397,
+      8.656250202800718,
+      -13.331669338672285
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.2",
+  "date": "2024-05-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

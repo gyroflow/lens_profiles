@@ -1,0 +1,69 @@
+{
+  "name": "RED_V-RAPTOR 8K VV_RF85mm F1.2 L USM DS 85.00mm_8K 17:9_8k_1.90by1_8192x4320-60.00fps",
+  "note": "",
+  "calibrated_by": "Ya Ge",
+  "camera_brand": "RED",
+  "camera_model": "V-RAPTOR 8K VV",
+  "lens_model": "RF85mm F1.2 L USM DS 85.00mm",
+  "camera_setting": "8K 17:9",
+  "calib_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "frame_readout_time": 6.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.025865482523894,
+    "camera_matrix": [
+      [
+        17794.29826341324,
+        0.0,
+        4226.4294790343965
+      ],
+      [
+        0.0,
+        17809.96399675703,
+        2634.586669032881
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2243464830083728,
+      2.945367371233365,
+      -95.9441637511952,
+      890.9530648787165
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-v-raptor8kvv-rf85mmf1.2lusmds-85.00mm-8192x4320@0",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 85.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

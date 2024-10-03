@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R6 Mark II__24mm_1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "王继鑫",
+  "camera_brand": "Canon",
+  "camera_model": "R6 Mark II",
+  "lens_model": "",
+  "camera_setting": "24mm",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.33617631288915106,
+    "camera_matrix": [
+      [
+        1559.3730762132366,
+        0.0,
+        960.9708839667584
+      ],
+      [
+        0.0,
+        1560.5827301494378,
+        544.072891255034
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.42828783766215905,
+      -0.5815399522228214,
+      3.3698826020833823,
+      -4.514382817995238
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

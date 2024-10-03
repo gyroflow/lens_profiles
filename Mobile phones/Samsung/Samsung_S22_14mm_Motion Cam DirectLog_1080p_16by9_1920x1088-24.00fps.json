@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_S22_14mm_Motion Cam DirectLog_1080p_16by9_1920x1088-24.00fps",
+  "note": "4kbinned1080 24fps",
+  "calibrated_by": "Mark Amadeo",
+  "camera_brand": "Samsung",
+  "camera_model": "S22",
+  "lens_model": "14mm",
+  "camera_setting": "Motion Cam DirectLog",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1088
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1088
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1088
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 23.99786,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.22163716441696485,
+    "camera_matrix": [
+      [
+        798.3804136135917,
+        0.0,
+        969.150805735253
+      ],
+      [
+        0.0,
+        797.8347315522582,
+        545.6168275656034
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3118134493235105,
+      0.28320919819444246,
+      -0.25915693077475943,
+      0.2474870575701441
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

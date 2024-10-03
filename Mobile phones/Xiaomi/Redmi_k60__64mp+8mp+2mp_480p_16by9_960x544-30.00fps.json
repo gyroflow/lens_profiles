@@ -1,0 +1,69 @@
+{
+  "name": "Redmi_k60__64mp+8mp+2mp_480p_16by9_960x544-30.00fps",
+  "note": "",
+  "calibrated_by": "胡锦冬",
+  "camera_brand": "Redmi",
+  "camera_model": "k60",
+  "lens_model": "",
+  "camera_setting": "64mp+8mp+2mp",
+  "calib_dimension": {
+    "w": 960,
+    "h": 544
+  },
+  "orig_dimension": {
+    "w": 960,
+    "h": 544
+  },
+  "output_dimension": {
+    "w": 960,
+    "h": 544
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0012,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.31564754991209026,
+    "camera_matrix": [
+      [
+        734.5053660557294,
+        0.0,
+        480.9137291205593
+      ],
+      [
+        0.0,
+        738.5907707558365,
+        259.20966114473197
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2846664683606278,
+      0.7014445901650574,
+      -2.6726176694919475,
+      4.328799828714512
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

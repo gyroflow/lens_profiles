@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R10_SIRUI24MMT1.2_24MM_4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Chi Cheng Ip",
+  "camera_brand": "Canon",
+  "camera_model": "R10",
+  "lens_model": "SIRUI24MMT1.2",
+  "camera_setting": "24MM",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 33.37,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 20,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6982832933541083,
+    "camera_matrix": [
+      [
+        4623.519485495076,
+        0.0,
+        2227.204877271168
+      ],
+      [
+        0.0,
+        4605.698624369984,
+        1329.9364912750918
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.10586207692681536,
+      1.5959395000533214,
+      -11.95027564982578,
+      29.26333955233356
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6300_Sigma 18-50mm 2.8_18mm_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Marlowe Wilton",
+  "camera_brand": "Sony",
+  "camera_model": "a6300",
+  "lens_model": "Sigma 18-50mm 2.8",
+  "camera_setting": "18mm",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4550180917695194,
+    "camera_matrix": [
+      [
+        1770.6171953709388,
+        0.0,
+        960.2899361161546
+      ],
+      [
+        0.0,
+        1773.2840343548207,
+        541.4970384663422
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1537219404449681,
+      0.4814970564549594,
+      -3.233444033381221,
+      9.668724679936949
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

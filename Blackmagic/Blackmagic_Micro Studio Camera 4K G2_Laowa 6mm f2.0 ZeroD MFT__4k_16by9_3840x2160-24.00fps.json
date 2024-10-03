@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Micro Studio Camera 4K G2_Laowa 6mm f/2.0 ZeroD MFT__4k_16by9_3840x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "Nomad Aerial",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Micro Studio Camera 4K G2",
+  "lens_model": "Laowa 6mm f/2.0 ZeroD MFT",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 16.22,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 23,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7060704736148994,
+    "camera_matrix": [
+      [
+        1361.837408107047,
+        0.0,
+        1917.5374290846064
+      ],
+      [
+        0.0,
+        1361.2168640217592,
+        1098.338411543523
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3385171637590136,
+      0.14427076002381103,
+      0.015441766739440626,
+      0.0480084606084148
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Helios 44 KMZ Silver_6K 2.4:1_6k_2.37by1_6144x2592-23.98fps",
+  "note": "",
+  "calibrated_by": "",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Helios 44 KMZ Silver",
+  "camera_setting": "6K 2.4:1",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.09312945716172,
+    "camera_matrix": [
+      [
+        9600.60742028403,
+        0.0,
+        3088.677948345349
+      ],
+      [
+        0.0,
+        9605.57092079657,
+        1261.615690881577
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3134275848936005,
+      0.15776150333524971,
+      12.927898364834716,
+      -43.73580522994279
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

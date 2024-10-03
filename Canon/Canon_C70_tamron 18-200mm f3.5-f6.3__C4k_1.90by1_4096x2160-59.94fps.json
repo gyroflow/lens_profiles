@@ -1,0 +1,69 @@
+{
+  "name": "Canon_C70_tamron 18-200mm f3.5-f6.3__C4k_1.90by1_4096x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Gaox",
+  "camera_brand": "Canon",
+  "camera_model": "C70",
+  "lens_model": "tamron 18-200mm f3.5-f6.3",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 15.6,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6919151462900518,
+    "camera_matrix": [
+      [
+        2888.171544526117,
+        0.0,
+        1979.4201032246287
+      ],
+      [
+        0.0,
+        2879.88756347561,
+        1102.611982153826
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1558222299086975,
+      0.287739791406317,
+      -0.6362905613102815,
+      1.239871867654036
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

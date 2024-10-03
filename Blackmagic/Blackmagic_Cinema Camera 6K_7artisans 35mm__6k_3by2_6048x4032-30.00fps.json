@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Cinema Camera 6K_7artisans 35mm__6k_3by2_6048x4032-30.00fps",
+  "note": "",
+  "calibrated_by": "Yamil Ray",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Cinema Camera 6K",
+  "lens_model": "7artisans 35mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 6048,
+    "h": 4032
+  },
+  "orig_dimension": {
+    "w": 6048,
+    "h": 4032
+  },
+  "output_dimension": {
+    "w": 6048,
+    "h": 4032
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.553344521908099,
+    "camera_matrix": [
+      [
+        5381.137008994293,
+        0.0,
+        2775.0001250874943
+      ],
+      [
+        0.0,
+        5371.881900378978,
+        1955.4454664454815
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3033543157779268,
+      0.2532772179654837,
+      -0.11426859557669032,
+      0.48381582579854177
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-cinemacamera6k-7artisans-35mm-6048x4032@30000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

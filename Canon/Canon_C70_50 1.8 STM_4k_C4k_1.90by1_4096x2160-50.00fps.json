@@ -1,0 +1,69 @@
+{
+  "name": "Canon_C70_50 1.8 STM_4k_C4k_1.90by1_4096x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "陈江",
+  "camera_brand": "Canon",
+  "camera_model": "C70",
+  "lens_model": "50 1.8 STM",
+  "camera_setting": "4k",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6973367614978067,
+    "camera_matrix": [
+      [
+        10179.407988380985,
+        0.0,
+        2768.9262365966665
+      ],
+      [
+        0.0,
+        10277.978032720344,
+        875.8814743275794
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.36045434006750254,
+      4.424051619438252,
+      -203.8249474341717,
+      2108.7995794046687
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

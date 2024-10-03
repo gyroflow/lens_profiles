@@ -1,0 +1,69 @@
+{
+  "name": "Insta360_Ace Pro_Pov 111_EIS_4k_16by9_3840x2160-29.97fps",
+  "note": "EIS",
+  "calibrated_by": "Eet",
+  "camera_brand": "Insta360",
+  "camera_model": "Ace Pro",
+  "lens_model": "Pov 111",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 6.310531432605414,
+    "camera_matrix": [
+      [
+        1342.286204433392,
+        0.0,
+        1942.316644257012
+      ],
+      [
+        0.0,
+        1195.452363529638,
+        1074.2715652585457
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.03707248958173398,
+      0.034372398085742384,
+      0.23727999570779895,
+      -0.11812715839489672
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "insta360-acepro-pov111-3840x2160@29970-eis",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

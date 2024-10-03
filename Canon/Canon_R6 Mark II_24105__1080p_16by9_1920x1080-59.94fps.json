@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R6 Mark II_24105__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "J T",
+  "camera_brand": "Canon",
+  "camera_model": "R6 Mark II",
+  "lens_model": "24105",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.49982350694216954,
+    "camera_matrix": [
+      [
+        1757.8743529137696,
+        0.0,
+        946.2999634695168
+      ],
+      [
+        0.0,
+        1760.254113618359,
+        533.3219502162447
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3132402370799119,
+      0.08442556835496763,
+      1.0561728053967154,
+      -2.776360924881351
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

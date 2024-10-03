@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7CII_tamron 28-200 @ 69.00mm__4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Jonathan Fröhlich",
+  "camera_brand": "Sony",
+  "camera_model": "a7CII",
+  "lens_model": "tamron 28-200 @ 69.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2576182455864278,
+    "camera_matrix": [
+      [
+        7435.224106740848,
+        0.0,
+        1929.9036396841968
+      ],
+      [
+        0.0,
+        7558.92810890521,
+        912.7409223432876
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.8478934189388788,
+      -2.563649677520607,
+      78.46251839358061,
+      -587.7617947389209
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7cm2-69.00mm-3840x2160@23976",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 69.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

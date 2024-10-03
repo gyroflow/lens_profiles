@@ -1,0 +1,69 @@
+{
+  "name": "drift_ghost xl pro___1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "Peng Ed",
+  "camera_brand": "drift",
+  "camera_model": "ghost xl pro",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.651187074123335,
+    "camera_matrix": [
+      [
+        1223.1147344900082,
+        0.0,
+        960.1807989469228
+      ],
+      [
+        0.0,
+        1221.957113907383,
+        564.3528711960097
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.106309050188471,
+      0.15457318059842193,
+      -0.29705201976302,
+      0.1861613956176044
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

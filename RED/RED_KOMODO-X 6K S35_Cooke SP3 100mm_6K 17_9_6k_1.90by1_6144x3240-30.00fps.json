@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO-X 6K S35_Cooke SP3 100mm_6K 17:9_6k_1.90by1_6144x3240-30.00fps",
+  "note": "",
+  "calibrated_by": "Omar Alfadhil",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "lens_model": "Cooke SP3 100mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9521672013234392,
+    "camera_matrix": [
+      [
+        19437.046116860787,
+        0.0,
+        3053.5525971558286
+      ],
+      [
+        0.0,
+        19462.624391850833,
+        1618.4571309056737
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6081253003033019,
+      1.91919168167392,
+      -220.4913224550472,
+      8170.698512928903
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

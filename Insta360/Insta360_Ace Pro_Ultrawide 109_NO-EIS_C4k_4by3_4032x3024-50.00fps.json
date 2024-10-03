@@ -1,0 +1,69 @@
+{
+  "name": "Insta360_Ace Pro_Ultrawide 109_NO-EIS_C4k_4by3_4032x3024-50.00fps",
+  "note": "NO-EIS",
+  "calibrated_by": "Техническая поддержка",
+  "camera_brand": "Insta360",
+  "camera_model": "Ace Pro",
+  "lens_model": "Ultrawide 109",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4032,
+    "h": 3024
+  },
+  "orig_dimension": {
+    "w": 4032,
+    "h": 3024
+  },
+  "output_dimension": {
+    "w": 4032,
+    "h": 3024
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8445247772711078,
+    "camera_matrix": [
+      [
+        1850.809170231469,
+        0.0,
+        1983.2585086150011
+      ],
+      [
+        0.0,
+        1850.0313213141428,
+        1513.5625552168256
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.06059787820410323,
+      -0.034460252844858506,
+      0.006943892336537653,
+      -0.0043510775114122095
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "insta360-acepro-ultrawide109-4032x3024@50000-no-eis",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

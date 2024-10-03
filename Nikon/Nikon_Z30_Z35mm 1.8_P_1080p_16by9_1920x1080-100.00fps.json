@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z30_Z35mm 1.8_P_1080p_16by9_1920x1080-100.00fps",
+  "note": "",
+  "calibrated_by": "胡晓华",
+  "camera_brand": "Nikon",
+  "camera_model": "Z30",
+  "lens_model": "Z35mm 1.8",
+  "camera_setting": "P",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 9.99,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 100.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4242252556542592,
+    "camera_matrix": [
+      [
+        3009.9396863440943,
+        0.0,
+        915.3469298067204
+      ],
+      [
+        0.0,
+        3008.278498219895,
+        504.2356936504627
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3553629742466606,
+      0.12343711708225004,
+      -8.4730066672067,
+      99.0214016978252
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": 1.5,
+  "global_shutter": false
+}

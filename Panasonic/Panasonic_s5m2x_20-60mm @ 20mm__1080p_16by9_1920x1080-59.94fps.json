@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_s5m2x_20-60mm @ 20mm__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "张崤钰",
+  "camera_brand": "Panasonic",
+  "camera_model": "s5m2x",
+  "lens_model": "20-60mm @ 20mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2231341362157363,
+    "camera_matrix": [
+      [
+        1155.701850393411,
+        0.0,
+        978.731869159965
+      ],
+      [
+        0.0,
+        1154.6584245163515,
+        549.6822578040766
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.287499786076723,
+      0.23136780494371736,
+      -0.36492564140727807,
+      0.6887388017888891
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 20.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

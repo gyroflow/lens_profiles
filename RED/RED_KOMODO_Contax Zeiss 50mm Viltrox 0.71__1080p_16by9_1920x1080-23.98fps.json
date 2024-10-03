@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO_Contax Zeiss 50mm Viltrox 0.71__1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Christopher Neal",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO",
+  "lens_model": "Contax Zeiss 50mm Viltrox 0.71",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2904150664360883,
+    "camera_matrix": [
+      [
+        2898.526145162611,
+        0.0,
+        954.6000800461048
+      ],
+      [
+        0.0,
+        2898.9913281355794,
+        528.5526994535919
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.038817664933381374,
+      0.8480396388694749,
+      -4.967527930162098,
+      37.19543697576715
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

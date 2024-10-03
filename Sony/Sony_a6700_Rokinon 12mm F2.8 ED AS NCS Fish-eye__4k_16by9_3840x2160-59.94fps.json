@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6700_Rokinon 12mm F2.8 ED AS NCS Fish-eye__4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "DodFPV",
+  "camera_brand": "Sony",
+  "camera_model": "a6700",
+  "lens_model": "Rokinon 12mm F2.8 ED AS NCS Fish-eye",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6482689127051278,
+    "camera_matrix": [
+      [
+        2368.28097739807,
+        0.0,
+        1946.2330317526175
+      ],
+      [
+        0.0,
+        2365.595744703955,
+        1074.4024283130536
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.04726794343746306,
+      0.005532097715195955,
+      0.014600777836943949,
+      -0.006219328604871721
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

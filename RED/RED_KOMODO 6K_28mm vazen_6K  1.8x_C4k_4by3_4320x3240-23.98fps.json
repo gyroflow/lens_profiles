@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_28mm vazen_6K  1.8x_C4k_4by3_4320x3240-23.98fps",
+  "note": "",
+  "calibrated_by": "Nathanael Matanick",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "28mm vazen",
+  "camera_setting": "6K  1.8x",
+  "calib_dimension": {
+    "w": 4320,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 4320,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 7776,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.8,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.8148465845070847,
+    "camera_matrix": [
+      [
+        3960.068055091224,
+        0.0,
+        1897.949676891638
+      ],
+      [
+        0.0,
+        7264.2092905872,
+        1442.291401231554
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.028932768382123875,
+      -0.1082809141290366,
+      0.5708373924262609,
+      -1.246858405802289
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

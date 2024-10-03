@@ -1,0 +1,69 @@
+{
+  "name": "Huawei_40p___1080p_16by9_1920x1080-30.16fps",
+  "note": "",
+  "calibrated_by": "zjy",
+  "camera_brand": "Huawei",
+  "camera_model": "40p",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.157721,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.528613168343516,
+    "camera_matrix": [
+      [
+        1248.5848069131991,
+        0.0,
+        958.0123019727044
+      ],
+      [
+        0.0,
+        1246.9363045797022,
+        538.8671757080742
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.48966666410310783,
+      -0.3199581498344979,
+      -0.7730163891363535,
+      2.334565942746732
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

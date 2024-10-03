@@ -1,0 +1,69 @@
+{
+  "name": "XTU_MAX2 CAM_XTU/XTU_MAX2_NO-LDC_6k30_6k_16by9_5376x3024-29.97fps wide__5k_16by9_5376x3024-29.97fps",
+  "note": "",
+  "calibrated_by": "Dario Di Massimo",
+  "camera_brand": "XTU",
+  "camera_model": "MAX2 CAM",
+  "lens_model": "XTU/XTU_MAX2_NO-LDC_6k30_6k_16by9_5376x3024-29.97fps wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 5376,
+    "h": 3024
+  },
+  "orig_dimension": {
+    "w": 5376,
+    "h": 3024
+  },
+  "output_dimension": {
+    "w": 5376,
+    "h": 3024
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0823110501550133,
+    "camera_matrix": [
+      [
+        2473.2306267771487,
+        0.0,
+        2649.4781540478657
+      ],
+      [
+        0.0,
+        2473.7819404369175,
+        1570.28708807417
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.05036875571976585,
+      0.018936642075535772,
+      -0.012115142065782002,
+      0.0024137078210262433
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "xtu-max2cam-xtu/xtu_max2_no-ldc_6k30_6k_16by9_5376x3024-29.97fps-wide-5376x3024@29970",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_mi 11t_none_60fps_1080p_16by9_1920x1080-29.92fps",
+  "note": "",
+  "calibrated_by": "Téano Krywak",
+  "camera_brand": "Xiaomi",
+  "camera_model": "mi 11t",
+  "lens_model": "none",
+  "camera_setting": "60fps",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.924833,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4774765562645742,
+    "camera_matrix": [
+      [
+        1077.5577069313606,
+        0.0,
+        968.1631067645257
+      ],
+      [
+        0.0,
+        1077.8485289317923,
+        542.0694533481554
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.24728288959637065,
+      0.873433944558785,
+      -2.2772102479561576,
+      2.3962766923793275
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

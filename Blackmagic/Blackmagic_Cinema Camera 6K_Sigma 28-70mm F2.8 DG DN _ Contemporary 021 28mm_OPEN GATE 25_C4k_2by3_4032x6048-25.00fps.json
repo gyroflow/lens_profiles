@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Cinema Camera 6K_Sigma 28-70mm F2.8 DG DN | Contemporary 021 28mm_OPEN GATE 25_C4k_2by3_4032x6048-25.00fps",
+  "note": "",
+  "calibrated_by": "Lukas Lempke",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Cinema Camera 6K",
+  "lens_model": "Sigma 28-70mm F2.8 DG DN | Contemporary 021 28mm",
+  "camera_setting": "OPEN GATE 25",
+  "calib_dimension": {
+    "w": 4032,
+    "h": 6048
+  },
+  "orig_dimension": {
+    "w": 4032,
+    "h": 6048
+  },
+  "output_dimension": {
+    "w": 4032,
+    "h": 6048
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0245382649572026,
+    "camera_matrix": [
+      [
+        4728.784010824469,
+        0.0,
+        1960.9336285386908
+      ],
+      [
+        0.0,
+        4724.855222730432,
+        3021.1349876230797
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.11208956408691056,
+      0.2813464410099833,
+      -0.3224481885368982,
+      0.7572251631299758
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-cinemacamera6k-sigma28-70mmf2.8dgdn|contemporary021-28mm-4032x6048@25000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

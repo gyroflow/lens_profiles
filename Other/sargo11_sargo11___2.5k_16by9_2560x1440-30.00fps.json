@@ -1,0 +1,69 @@
+{
+  "name": "sargo11_sargo11___2.5k_16by9_2560x1440-30.00fps",
+  "note": "",
+  "calibrated_by": "袁建设",
+  "camera_brand": "sargo11",
+  "camera_model": "sargo11",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "orig_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "output_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9390857011472132,
+    "camera_matrix": [
+      [
+        1517.1739836188608,
+        0.0,
+        1062.2323466329483
+      ],
+      [
+        0.0,
+        1530.851469786266,
+        791.9437722243118
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.23602286573287437,
+      0.5116373405405845,
+      -0.836574700224367,
+      0.7974012661452181
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

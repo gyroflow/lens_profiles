@@ -1,0 +1,69 @@
+{
+  "name": "Evolio_iSmart 4k__v160805_2.7k_16by9_2704x1524-30.00fps",
+  "note": "v160805",
+  "calibrated_by": "Daniel",
+  "camera_brand": "Evolio",
+  "camera_model": "iSmart 4k",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2704,
+    "h": 1524
+  },
+  "orig_dimension": {
+    "w": 2704,
+    "h": 1524
+  },
+  "output_dimension": {
+    "w": 2704,
+    "h": 1524
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 22,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4757299035791662,
+    "camera_matrix": [
+      [
+        1470.822608424785,
+        0.0,
+        1307.9168129153702
+      ],
+      [
+        0.0,
+        1469.7963156850726,
+        915.83651461541
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.010598759416786363,
+      -0.05018470086274672,
+      0.06091933915046176,
+      -0.03479281895871076
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

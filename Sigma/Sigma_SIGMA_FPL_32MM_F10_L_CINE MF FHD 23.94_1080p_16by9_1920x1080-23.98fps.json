@@ -1,0 +1,69 @@
+{
+  "name": "Sigma_SIGMA_FPL_32MM_F10_L_CINE MF FHD 23.94_1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Travis A.D.",
+  "camera_brand": "Sigma",
+  "camera_model": "SIGMA_FPL",
+  "lens_model": "32MM_F10_L",
+  "camera_setting": "CINE MF FHD 23.94",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 26,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.48300149474532456,
+    "camera_matrix": [
+      [
+        1675.046589398945,
+        0.0,
+        949.924903763834
+      ],
+      [
+        0.0,
+        1675.4029258485716,
+        537.9339601712097
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4887123323322372,
+      0.39536884507116565,
+      -0.5313098205654737,
+      1.3636783582278795
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

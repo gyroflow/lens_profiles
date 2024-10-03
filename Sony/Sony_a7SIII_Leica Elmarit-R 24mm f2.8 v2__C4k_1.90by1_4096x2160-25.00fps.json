@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7SIII_Leica Elmarit-R 24mm f/2.8 v2__C4k_1.90by1_4096x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "DucDigital",
+  "camera_brand": "Sony",
+  "camera_model": "a7SIII",
+  "lens_model": "Leica Elmarit-R 24mm f/2.8 v2",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": -8.92,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4861105779609668,
+    "camera_matrix": [
+      [
+        2779.0395839306348,
+        0.0,
+        2026.4263167404972
+      ],
+      [
+        0.0,
+        2780.069783071204,
+        1072.563633071081
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2261501332607679,
+      0.17519669209389022,
+      0.0798145794356799,
+      0.17070419708995505
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

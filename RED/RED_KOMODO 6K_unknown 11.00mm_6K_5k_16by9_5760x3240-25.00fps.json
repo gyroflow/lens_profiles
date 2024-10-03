@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_unknown 11.00mm_6K_5k_16by9_5760x3240-25.00fps",
+  "note": "",
+  "calibrated_by": "冷占宁",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "unknown 11.00mm",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6412190555141807,
+    "camera_matrix": [
+      [
+        2585.031528540053,
+        0.0,
+        2911.3744873212413
+      ],
+      [
+        0.0,
+        2585.926505450432,
+        1645.4624942492758
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3332954130989105,
+      0.09736258313552848,
+      -0.02382394507450189,
+      0.05564754790462506
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-komodo6k-unknown-11.00mm-5760x3240@0",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 11.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

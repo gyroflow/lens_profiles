@@ -1,0 +1,69 @@
+{
+  "name": "RED_V-RAPTOR 8K VV_DZO Vespid 12mm T2.8_8K 17:9_8k_1.90by1_8192x4320-30.00fps",
+  "note": "",
+  "calibrated_by": "Omar Alfadhil",
+  "camera_brand": "RED",
+  "camera_model": "V-RAPTOR 8K VV",
+  "lens_model": "DZO Vespid 12mm T2.8",
+  "camera_setting": "8K 17:9",
+  "calib_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9823936549674054,
+    "camera_matrix": [
+      [
+        2486.1402997719283,
+        0.0,
+        4083.859587970916
+      ],
+      [
+        0.0,
+        2486.438797966603,
+        2165.513387041862
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3597115188345899,
+      0.18659606050958483,
+      -0.09080098694601305,
+      0.06711741660841535
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

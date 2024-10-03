@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_G85_Lumix 25mm_25mm f2.2_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Logan Nelson",
+  "camera_brand": "Panasonic",
+  "camera_model": "G85",
+  "lens_model": "Lumix 25mm",
+  "camera_setting": "25mm f2.2",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.27760342886751505,
+    "camera_matrix": [
+      [
+        3031.6881587452717,
+        0.0,
+        966.5563581511508
+      ],
+      [
+        0.0,
+        3032.613482077189,
+        594.9222441592136
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4197721594314014,
+      -3.5579359595869193,
+      54.27392899175079,
+      -259.2175694159103
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

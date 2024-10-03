@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7SIII_Sony FE 1.8/20G_slog3_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "Hello",
+  "camera_brand": "Sony",
+  "camera_model": "a7SIII",
+  "lens_model": "Sony FE 1.8/20G",
+  "camera_setting": "slog3",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3716012776762699,
+    "camera_matrix": [
+      [
+        1271.1516561452,
+        0.0,
+        927.7228496754966
+      ],
+      [
+        0.0,
+        1359.5403006369284,
+        535.9689414101283
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20824645180933707,
+      2.5555977484240864,
+      -16.44743846843999,
+      31.19534494359114
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7sm3-20.00mm-1920x1080@59940",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 20.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

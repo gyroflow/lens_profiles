@@ -1,0 +1,69 @@
+{
+  "name": "XTU_MINI1__60帧270度_4k_16by9_3840x2160-60.00fps",
+  "note": "",
+  "calibrated_by": "syon",
+  "camera_brand": "XTU",
+  "camera_model": "MINI1",
+  "lens_model": "",
+  "camera_setting": "60帧270度",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 2160,
+    "h": 3840
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7404509132796603,
+    "camera_matrix": [
+      [
+        1971.4088984978632,
+        0.0,
+        1867.6117156438145
+      ],
+      [
+        0.0,
+        1970.0882747302,
+        1109.6122329941488
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.07212780449574376,
+      -0.002763076304829109,
+      0.0015328598285768778,
+      -0.00017132158889099453
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

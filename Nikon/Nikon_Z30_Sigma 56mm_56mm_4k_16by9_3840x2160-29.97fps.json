@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z30_Sigma 56mm_56mm_4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Nikon",
+  "camera_model": "Z30",
+  "lens_model": "Sigma 56mm",
+  "camera_setting": "56mm",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 20,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5860107308651461,
+    "camera_matrix": [
+      [
+        18527.250524624396,
+        0.0,
+        1715.5721476093508
+      ],
+      [
+        0.0,
+        18288.015050549377,
+        1677.8809017917351
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      1.391279127304933,
+      -91.90657053915028,
+      8431.147021924764,
+      -262653.5484075318
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 56.0,
+  "crop_factor": 1.0,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "AEE_S90R___4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "yuantao xie",
+  "camera_brand": "AEE",
+  "camera_model": "S90R",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8648887885363479,
+    "camera_matrix": [
+      [
+        2192.085536569443,
+        0.0,
+        1945.074403785158
+      ],
+      [
+        0.0,
+        2190.1991671834157,
+        1092.4698768767917
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.04715732350035493,
+      0.051318123446597405,
+      -0.17395474313557402,
+      0.1496284221672122
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

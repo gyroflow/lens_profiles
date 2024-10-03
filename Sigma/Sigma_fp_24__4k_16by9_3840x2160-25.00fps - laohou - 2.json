@@ -1,0 +1,69 @@
+{
+  "name": "Sigma_fp_24__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "laohou",
+  "camera_brand": "Sigma",
+  "camera_model": "fp",
+  "lens_model": "24",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8012759233016539,
+    "camera_matrix": [
+      [
+        2706.131692132481,
+        0.0,
+        1929.974775985065
+      ],
+      [
+        0.0,
+        2705.7819327372704,
+        1006.3641395594054
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1941885899621547,
+      -0.08899541491965568,
+      1.153393755146227,
+      -1.56669847084154
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

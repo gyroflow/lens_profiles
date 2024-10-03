@@ -1,0 +1,69 @@
+{
+  "name": "Google_Pixel 8 Pro_Telephoto (10x)_230mm_4k_4by3_3840x2880-24.01fps",
+  "note": "",
+  "calibrated_by": "Tommy Pham",
+  "camera_brand": "Google",
+  "camera_model": "Pixel 8 Pro",
+  "lens_model": "Telephoto (10x)",
+  "camera_setting": "230mm",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2880
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2880
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2880
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.006733,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.429053435669853,
+    "camera_matrix": [
+      [
+        55729.9241476348,
+        0.0,
+        6152.395150378378
+      ],
+      [
+        0.0,
+        55808.2059987684,
+        -1303.6932368950938
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -1.7561005744371188,
+      -3.134964926628069,
+      6344.866856877424,
+      -211770.0700437863
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-31",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

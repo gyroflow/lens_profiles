@@ -1,0 +1,69 @@
+{
+  "name": "XTU_X3_wide__2.5k_16by9_2688x1512-29.97fps",
+  "note": "",
+  "calibrated_by": "XTU",
+  "camera_brand": "XTU",
+  "camera_model": "X3",
+  "lens_model": "wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2688,
+    "h": 1512
+  },
+  "orig_dimension": {
+    "w": 2688,
+    "h": 1512
+  },
+  "output_dimension": {
+    "w": 2688,
+    "h": 1512
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.45092858215950127,
+    "camera_matrix": [
+      [
+        1289.8083556992867,
+        0.0,
+        1333.5949834851383
+      ],
+      [
+        0.0,
+        1290.7308045979455,
+        764.2588563130425
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.12084825997321696,
+      -0.17018453201552344,
+      0.13147889718932518,
+      -0.04384687945640899
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "xtu-x3cam-xtu/xtu_max3_no-ldc_2.7k30_2.7k_16by9_2720x1530-29.97fps-wide-2688x1512@29970",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

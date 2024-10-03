@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_samyang 24__1080p_16by9_1920x1080-100.00fps",
+  "note": "",
+  "calibrated_by": "王家辉",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "samyang 24",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 100.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3862130276905347,
+    "camera_matrix": [
+      [
+        1331.355474466915,
+        0.0,
+        958.5896165402862
+      ],
+      [
+        0.0,
+        1331.6453801832474,
+        532.4867259122716
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31550189211585933,
+      0.26658223327161246,
+      -0.2987748112463428,
+      0.349074993069985
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Vivo_X100 Pro_104mm_Motioncam_4k_16by9_3840x2176-25.00fps",
+  "note": "",
+  "calibrated_by": "Florian Koch",
+  "camera_brand": "Vivo",
+  "camera_model": "X100 Pro",
+  "lens_model": "104mm",
+  "camera_setting": "Motioncam",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.00069,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7139525350749509,
+    "camera_matrix": [
+      [
+        12049.122810176816,
+        0.0,
+        1999.9600191802692
+      ],
+      [
+        0.0,
+        12051.873136662894,
+        1132.6102508726092
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.957039117793338,
+      -24.06082672019615,
+      1083.523993124974,
+      -22168.64174538685
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

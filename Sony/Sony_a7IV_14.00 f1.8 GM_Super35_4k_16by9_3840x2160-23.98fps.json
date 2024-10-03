@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_14.00 f1.8 GM_Super35_4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "John Hummel JR",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "14.00 f1.8 GM",
+  "camera_setting": "Super35",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": -13.05,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5566434291396082,
+    "camera_matrix": [
+      [
+        2358.2130489148785,
+        0.0,
+        1907.2250367190709
+      ],
+      [
+        0.0,
+        2357.789417356046,
+        1094.1568583209423
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3225349921179531,
+      0.2149244715221088,
+      -0.24903498925782688,
+      0.30095801353646884
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7m4-14.00mm-3840x2160@23976",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 14.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

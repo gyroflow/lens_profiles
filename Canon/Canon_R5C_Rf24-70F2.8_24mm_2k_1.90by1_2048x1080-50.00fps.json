@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R5C_Rf24-70F2.8_24mm_2k_1.90by1_2048x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "姜澍",
+  "camera_brand": "Canon",
+  "camera_model": "R5C",
+  "lens_model": "Rf24-70F2.8",
+  "camera_setting": "24mm",
+  "calib_dimension": {
+    "w": 2048,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 2048,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 2048,
+    "h": 1080
+  },
+  "frame_readout_time": 11.44,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 7,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2986194473094905,
+    "camera_matrix": [
+      [
+        1413.1644451290665,
+        0.0,
+        1021.4310002545
+      ],
+      [
+        0.0,
+        1410.676428787645,
+        556.1961323854096
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19794246990150252,
+      0.14969193184048535,
+      0.041017650370865105,
+      0.4314545950635666
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

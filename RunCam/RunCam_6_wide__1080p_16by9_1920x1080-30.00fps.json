@@ -1,0 +1,69 @@
+{
+  "name": "RunCam_6_wide__1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "calibrated_by": "Acme",
+  "camera_brand": "RunCam",
+  "camera_model": "6",
+  "lens_model": "wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4009598924354712,
+    "camera_matrix": [
+      [
+        961.0222189333087,
+        0.0,
+        948.0857832946205
+      ],
+      [
+        0.0,
+        960.5844714527784,
+        532.7259941549927
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.017644682324443616,
+      0.005230185431790925,
+      -0.001141944208029112,
+      -0.0011274867385188737
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "runcam-6-wide-1920x1080@30000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

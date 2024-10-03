@@ -1,0 +1,69 @@
+{
+  "name": "RED_V-RAPTOR 8K VV_Zeiss CP3_100mm_8K 17:9_8k_1.90by1_8192x4320-24.00fps",
+  "note": "",
+  "calibrated_by": "Alex",
+  "camera_brand": "RED",
+  "camera_model": "V-RAPTOR 8K VV",
+  "lens_model": "Zeiss CP3_100mm",
+  "camera_setting": "8K 17:9",
+  "calib_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.0275888221822225,
+    "camera_matrix": [
+      [
+        17481.664334602072,
+        0.0,
+        3983.683126561531
+      ],
+      [
+        0.0,
+        17449.837463787877,
+        2627.5109192501327
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.23770267970046763,
+      3.9091696970101104,
+      -95.4548066264699,
+      748.8468688048001
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 100.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

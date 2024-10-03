@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone 15 Pro Max_24mm__1080p_16by9_1920x1080-30.01fps",
+  "note": "",
+  "calibrated_by": "TakeOne",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 15 Pro Max",
+  "lens_model": "24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 30.005793,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4088207630645867,
+    "camera_matrix": [
+      [
+        1420.5533126689415,
+        0.0,
+        953.5665707613152
+      ],
+      [
+        0.0,
+        1420.2458206437102,
+        545.5666971799731
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.45159785153556026,
+      1.057014638877329,
+      -7.88133350962304,
+      14.323433292353965
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

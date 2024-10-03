@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_Yi 4k+__wide_1080p_16by9_1920x1080-100.00fps",
+  "note": "action camera",
+  "calibrated_by": "ubuntu",
+  "camera_brand": "Xiaomi",
+  "camera_model": "Yi 4k+",
+  "lens_model": "",
+  "camera_setting": "wide",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 100.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.40188189055741513,
+    "camera_matrix": [
+      [
+        902.269372900348,
+        0.0,
+        944.3807545008402
+      ],
+      [
+        0.0,
+        909.9812314078558,
+        535.3307058013893
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.06464200847655172,
+      0.014210637722970708,
+      -0.01844288248181091,
+      -0.011182407788087543
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

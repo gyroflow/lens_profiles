@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7_VILTROX AF 20MM F2.8 FE__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "王淳鹭",
+  "camera_brand": "Sony",
+  "camera_model": "a7",
+  "lens_model": "VILTROX AF 20MM F2.8 FE",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.940147,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4398317955153321,
+    "camera_matrix": [
+      [
+        1266.2136279560543,
+        0.0,
+        962.4989129122008
+      ],
+      [
+        0.0,
+        1265.1786688321235,
+        529.6020107463909
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2484266386610944,
+      -0.18870844164109937,
+      1.4506750739101626,
+      -1.817525409671079
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-31",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

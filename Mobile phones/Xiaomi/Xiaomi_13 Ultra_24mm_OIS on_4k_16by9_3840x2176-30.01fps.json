@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_13 Ultra_24mm_OIS on_4k_16by9_3840x2176-30.01fps",
+  "note": "",
+  "calibrated_by": "Andy",
+  "camera_brand": "Xiaomi",
+  "camera_model": "13 Ultra",
+  "lens_model": "24mm",
+  "camera_setting": "OIS on",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.009813,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7681872760370714,
+    "camera_matrix": [
+      [
+        2730.391302055345,
+        0.0,
+        1925.9058004522071
+      ],
+      [
+        0.0,
+        2728.7325447201,
+        1046.277347272785
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4895701899176436,
+      -0.8050586931474917,
+      2.470650369362908,
+      -2.194684002741072
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

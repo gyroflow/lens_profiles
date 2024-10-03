@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_S5M2X_28-105_28MM_C4k_1.90by1_4096x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "Fan Yang",
+  "camera_brand": "Panasonic",
+  "camera_model": "S5M2X",
+  "lens_model": "28-105",
+  "camera_setting": "28MM",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": 0.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6713756867997663,
+    "camera_matrix": [
+      [
+        3063.8258557384024,
+        0.0,
+        1989.693186880613
+      ],
+      [
+        0.0,
+        3064.54060838712,
+        1100.3772955195102
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3512920647240925,
+      0.06484770653406155,
+      0.7005733418966313,
+      -1.502704371194326
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 28.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "SJCAM_SJ8 PRO_Without len correction__4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "VictorMPG83",
+  "camera_brand": "SJCAM",
+  "camera_model": "SJ8 PRO",
+  "lens_model": "Without len correction",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8318037496899322,
+    "camera_matrix": [
+      [
+        1763.5182312004215,
+        0.0,
+        1929.755490433012
+      ],
+      [
+        0.0,
+        1761.996802114511,
+        1078.7525839410202
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.044941805449569217,
+      0.041228558310770935,
+      -0.0387085856075206,
+      0.014952844183976258
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

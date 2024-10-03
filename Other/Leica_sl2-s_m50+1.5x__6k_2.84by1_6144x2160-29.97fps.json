@@ -1,0 +1,69 @@
+{
+  "name": "Leica_sl2-s_m50+1.5x__6k_2.84by1_6144x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Beck Tang",
+  "camera_brand": "Leica",
+  "camera_model": "sl2-s",
+  "lens_model": "m50+1.5x",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 2160
+  },
+  "frame_readout_time": 14.7,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.5,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.95188135130087,
+    "camera_matrix": [
+      [
+        6398.2849408371285,
+        0.0,
+        2236.4839494470616
+      ],
+      [
+        0.0,
+        6512.782709548227,
+        1087.5602254055996
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.14546127376866125,
+      -0.7590349163556672,
+      0.07521961934990662,
+      1.4901611309706242
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

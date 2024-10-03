@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_DC-S5M2X_Lumix S 50mm f/1.8_C_C4k_1.90by1_4096x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "noj",
+  "camera_brand": "Panasonic",
+  "camera_model": "DC-S5M2X",
+  "lens_model": "Lumix S 50mm f/1.8",
+  "camera_setting": "C",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6940551745415785,
+    "camera_matrix": [
+      [
+        6035.099856237879,
+        0.0,
+        2064.2605554709135
+      ],
+      [
+        0.0,
+        6104.41698103151,
+        172.13600567041468
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.291179222991075,
+      0.5278007252019711,
+      -2.593299204146153,
+      7.30834740514026
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

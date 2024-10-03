@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R5C_Canon Lens RF16mm F2.8 STM_1/100 F2.8_8k_1.90by1_8192x4320-50.00fps",
+  "note": "",
+  "calibrated_by": "彭宇舟",
+  "camera_brand": "Canon",
+  "camera_model": "R5C",
+  "lens_model": "Canon Lens RF16mm F2.8 STM",
+  "camera_setting": "1/100 F2.8",
+  "calib_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.8043674487234111,
+    "camera_matrix": [
+      [
+        3833.420411689964,
+        0.0,
+        4120.340636105201
+      ],
+      [
+        0.0,
+        3831.7175673893175,
+        2166.486725670666
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1564459452069001,
+      0.07313710668725343,
+      -0.016835103308469466,
+      0.04353660425120304
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

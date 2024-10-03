@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_zeiss Batis 85__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Roy",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "zeiss Batis 85",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3944095247850723,
+    "camera_matrix": [
+      [
+        4788.879052788831,
+        0.0,
+        946.9006844292118
+      ],
+      [
+        0.0,
+        4790.318233971841,
+        528.9694613023314
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      1.0354209181383969,
+      2.646199973731266,
+      11.86870503919192,
+      -2738.1623834754555
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-5611ddf2-1920x1080@50000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

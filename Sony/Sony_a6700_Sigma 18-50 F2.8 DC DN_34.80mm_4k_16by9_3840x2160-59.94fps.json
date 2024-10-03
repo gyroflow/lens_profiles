@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6700_Sigma 18-50 F2.8 DC DN_34.80mm_4k_16by9_3840x2160-59.94fps",
+  "note": "34.80mm",
+  "calibrated_by": "Doğukan Sunar",
+  "camera_brand": "Sony",
+  "camera_model": "a6700",
+  "lens_model": "Sigma 18-50 F2.8 DC DN",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3857346170854598,
+    "camera_matrix": [
+      [
+        6229.039476424364,
+        0.0,
+        1879.28591276547
+      ],
+      [
+        0.0,
+        6150.815012654862,
+        1159.118628088252
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3359638456530133,
+      -0.1100559889367518,
+      7.292748857415429,
+      -40.20203175503897
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-6700-34.80mm-3840x2160@59940",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 34.8,
+  "crop_factor": 1.5,
+  "global_shutter": false
+}

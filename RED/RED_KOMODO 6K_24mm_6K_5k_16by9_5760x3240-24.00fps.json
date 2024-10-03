@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_24mm_6K_5k_16by9_5760x3240-24.00fps",
+  "note": "NoFF",
+  "calibrated_by": "Mark Helsel",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "24mm",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2769666962292137,
+    "camera_matrix": [
+      [
+        5634.904028619655,
+        0.0,
+        2852.214661447411
+      ],
+      [
+        0.0,
+        5634.98449703661,
+        1627.3477345235071
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.22754497932283463,
+      0.3156469596051957,
+      -0.4962652339661072,
+      0.96540893383034
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

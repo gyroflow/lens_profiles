@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7RII_50MMF1.8__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "吴博文",
+  "camera_brand": "Sony",
+  "camera_model": "a7RII",
+  "lens_model": "50MMF1.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1759146031602037,
+    "camera_matrix": [
+      [
+        5810.463372767607,
+        0.0,
+        1887.3369881558513
+      ],
+      [
+        0.0,
+        5799.714143238455,
+        1141.002680071187
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.01167750043518626,
+      4.563910935621754,
+      -41.24743743781199,
+      133.45328922792078
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

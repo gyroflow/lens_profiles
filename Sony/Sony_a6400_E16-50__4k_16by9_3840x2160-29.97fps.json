@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6400_E16-50__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "lenovo",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "E16-50",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 4.85,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.738231600066532,
+    "camera_matrix": [
+      [
+        2218.9313827331825,
+        0.0,
+        1992.251332684761
+      ],
+      [
+        0.0,
+        2217.8701901417835,
+        1019.0142296074054
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3366016036998811,
+      -0.16223046436645228,
+      1.0852956438985486,
+      -1.1394522745163755
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

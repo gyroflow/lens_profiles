@@ -1,0 +1,69 @@
+{
+  "name": "AEE_S50 pro___720p_16by9_1280x720-59.94fps",
+  "note": "",
+  "calibrated_by": "CARDIN Noa",
+  "camera_brand": "AEE",
+  "camera_model": "S50 pro",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.30332303294966073,
+    "camera_matrix": [
+      [
+        724.9895551548674,
+        0.0,
+        658.3694600163923
+      ],
+      [
+        0.0,
+        725.4232644529217,
+        346.94849905486217
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.0713386615456623,
+      -0.03460733784358403,
+      0.04284939632652589,
+      0.002194072499149197
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

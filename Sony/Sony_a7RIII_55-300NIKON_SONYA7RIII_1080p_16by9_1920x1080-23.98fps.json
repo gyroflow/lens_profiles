@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7RIII_55-300NIKON_SONYA7RIII_1080p_16by9_1920x1080-23.98fps",
+  "note": "55mm",
+  "calibrated_by": "Jonathan Espindola",
+  "camera_brand": "Sony",
+  "camera_model": "a7RIII",
+  "lens_model": "55-300NIKON",
+  "camera_setting": "SONYA7RIII",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": -1.1809935705409844,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3550145562685703,
+    "camera_matrix": [
+      [
+        4651.523497579138,
+        0.0,
+        1090.0636523453118
+      ],
+      [
+        0.0,
+        4649.564682769226,
+        486.1574448007027
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3693052359260121,
+      -9.368345531892343,
+      148.78740749337717,
+      -827.4009100861073
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

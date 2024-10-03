@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_a70__full HD_1080p_16by9_1920x1080-29.66fps",
+  "note": "",
+  "calibrated_by": "Anonymous",
+  "camera_brand": "Samsung",
+  "camera_model": "a70",
+  "lens_model": "",
+  "camera_setting": "full HD",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.658346,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2869645004993288,
+    "camera_matrix": [
+      [
+        1475.9958312125705,
+        0.0,
+        960.2069133965296
+      ],
+      [
+        0.0,
+        1474.454901128758,
+        533.6837144097088
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6239053565240403,
+      -1.777311638769318,
+      5.711446964456627,
+      -6.635807780159385
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

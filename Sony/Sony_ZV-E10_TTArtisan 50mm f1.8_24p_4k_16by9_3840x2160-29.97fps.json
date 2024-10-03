@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_TTArtisan 50mm f1.8_24p_4k_16by9_3840x2160-29.97fps",
+  "note": "Horizontal",
+  "calibrated_by": "Anthony Bui",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "TTArtisan 50mm f1.8",
+  "camera_setting": "24p",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8636845546044378,
+    "camera_matrix": [
+      [
+        12355.694854729503,
+        0.0,
+        1696.2846269750244
+      ],
+      [
+        0.0,
+        12446.352153740132,
+        749.175706814574
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.36930722623352025,
+      7.104368873769662,
+      -475.81759520249886,
+      9286.542659338083
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-e10-e3f23f4-3840x2160@29970",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

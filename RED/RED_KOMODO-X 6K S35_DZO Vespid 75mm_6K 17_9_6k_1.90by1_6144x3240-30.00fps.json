@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO-X 6K S35_DZO Vespid 75mm_6K 17:9_6k_1.90by1_6144x3240-30.00fps",
+  "note": "",
+  "calibrated_by": "Omar Alfadhil",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "lens_model": "DZO Vespid 75mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7099592343481169,
+    "camera_matrix": [
+      [
+        15853.621086769172,
+        0.0,
+        3033.1018422001116
+      ],
+      [
+        0.0,
+        15870.436274747388,
+        1624.958947381732
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.058494003430410994,
+      8.334218173601094,
+      -221.5201257878426,
+      2239.9292347396186
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

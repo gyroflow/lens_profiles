@@ -1,0 +1,69 @@
+{
+  "name": "SJCAM_c100+__4k Horizontal_2.7k_4by3_2880x2160-30.00fps",
+  "note": "",
+  "calibrated_by": "Luis Enrique QR",
+  "camera_brand": "SJCAM",
+  "camera_model": "c100+",
+  "lens_model": "",
+  "camera_setting": "4k Horizontal",
+  "calib_dimension": {
+    "w": 2880,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 2880,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 2880,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9636102181593246,
+    "camera_matrix": [
+      [
+        1955.875170204756,
+        0.0,
+        1379.794319707597
+      ],
+      [
+        0.0,
+        2605.219926025822,
+        1117.249466804845
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.015707924110825697,
+      -0.24496717090855016,
+      0.5198255112661495,
+      -0.34575585302995565
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

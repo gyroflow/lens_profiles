@@ -1,0 +1,69 @@
+{
+  "name": "Realme_8pro_Realme8pro_Realme8pro_4k_16by9_4000x2250-30.00fps",
+  "note": "Realme8pro",
+  "calibrated_by": "Dima",
+  "camera_brand": "Realme",
+  "camera_model": "8pro",
+  "lens_model": "Realme8pro",
+  "camera_setting": "Realme8pro",
+  "calib_dimension": {
+    "w": 4000,
+    "h": 2250
+  },
+  "orig_dimension": {
+    "w": 4000,
+    "h": 2250
+  },
+  "output_dimension": {
+    "w": 4000,
+    "h": 2250
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6867911114440992,
+    "camera_matrix": [
+      [
+        2734.927270752084,
+        0.0,
+        2010.9456379960136
+      ],
+      [
+        0.0,
+        2732.0855182000705,
+        1141.4433032132697
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5680567835808465,
+      -1.586397378424752,
+      5.158344240391132,
+      -5.316392347959695
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

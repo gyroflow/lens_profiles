@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Cinema Pocket Camera 6K G2_SIGMA 24mm F1.8 EX DG Macro_4k DCI prores LT_C4k_1.90by1_4096x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "Dario Nuñez",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Cinema Pocket Camera 6K G2",
+  "lens_model": "SIGMA 24mm F1.8 EX DG Macro",
+  "camera_setting": "4k DCI prores LT",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 20.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9589926055450476,
+    "camera_matrix": [
+      [
+        6361.715430737974,
+        0.0,
+        2617.5218780622363
+      ],
+      [
+        0.0,
+        6303.080145624983,
+        674.2490712277414
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1955764777476155,
+      0.24522266019321776,
+      1.3745390808533609,
+      -9.597814172386371
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

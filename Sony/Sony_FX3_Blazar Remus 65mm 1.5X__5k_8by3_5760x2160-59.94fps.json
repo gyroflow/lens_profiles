@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_Blazar Remus 65mm 1.5X__5k_8by3_5760x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Dennis Trushechkin",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "Blazar Remus 65mm 1.5X",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": 0.0,
+  "input_horizontal_stretch": 1.5,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1637218981897908,
+    "camera_matrix": [
+      [
+        8138.998072376239,
+        0.0,
+        2946.5654438187116
+      ],
+      [
+        0.0,
+        8095.640994700644,
+        1056.8721595505356
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.2648011262709951,
+      -1.735478580662242,
+      -11.140097558227067,
+      194.89805814811425
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 65.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

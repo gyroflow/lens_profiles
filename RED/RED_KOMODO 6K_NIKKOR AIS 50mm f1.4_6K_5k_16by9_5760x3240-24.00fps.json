@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_NIKKOR AIS 50mm f/1.4_6K_5k_16by9_5760x3240-24.00fps",
+  "note": "",
+  "calibrated_by": "Jeremy Carroll",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "NIKKOR AIS 50mm f/1.4",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.5107238796729363,
+    "camera_matrix": [
+      [
+        12115.514047206578,
+        0.0,
+        2831.082567754138
+      ],
+      [
+        0.0,
+        12108.833402292892,
+        1537.696719619068
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.0983388926884546,
+      5.939888488671046,
+      -131.63958741662407,
+      1027.8892427910275
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

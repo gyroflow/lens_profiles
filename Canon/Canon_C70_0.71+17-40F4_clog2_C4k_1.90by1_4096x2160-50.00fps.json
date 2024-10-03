@@ -1,0 +1,69 @@
+{
+  "name": "Canon_C70_0.71+17-40F4_clog2_C4k_1.90by1_4096x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "陈江",
+  "camera_brand": "Canon",
+  "camera_model": "C70",
+  "lens_model": "0.71+17-40F4",
+  "camera_setting": "clog2",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7088238294731853,
+    "camera_matrix": [
+      [
+        1604.9234249562846,
+        0.0,
+        2092.5009596619766
+      ],
+      [
+        0.0,
+        1608.8819951386406,
+        1103.163261825686
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3164490627050463,
+      0.05656446711299845,
+      0.005370514087644165,
+      0.09575661721296842
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Honor_X7b Rear Main Camera_24mm f/1.75 ASPH__1080p_16by9_1920x1080-30.26fps",
+  "note": "",
+  "calibrated_by": "Ddddddd Rrrrr",
+  "camera_brand": "Honor",
+  "camera_model": "X7b Rear Main Camera",
+  "lens_model": "24mm f/1.75 ASPH",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 46,
+  "fps": 30.258537,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5383204061189731,
+    "camera_matrix": [
+      [
+        1325.9745502110418,
+        0.0,
+        959.9218134093708
+      ],
+      [
+        0.0,
+        1326.2371790357508,
+        528.0901425748972
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5970085933875716,
+      -1.3123939442751709,
+      3.7222997067864,
+      -3.5654144043430533
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

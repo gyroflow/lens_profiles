@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_DZO Vespid Cyber 21mm__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "John Ingle",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "DZO Vespid Cyber 21mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.67193269665935,
+    "camera_matrix": [
+      [
+        4612.589492675806,
+        0.0,
+        1888.1711096744816
+      ],
+      [
+        0.0,
+        4610.90484780371,
+        1054.461308942768
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.16008377576423496,
+      0.99486449928953,
+      -7.4585632853837724,
+      22.0655166233286
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

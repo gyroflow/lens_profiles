@@ -1,0 +1,69 @@
+{
+  "name": "TomTom_Bandit___1080p_16by9_1920x1080-60.00fps",
+  "note": "",
+  "calibrated_by": "Artem Sanarov",
+  "camera_brand": "TomTom",
+  "camera_model": "Bandit",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 6,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.47736817634748624,
+    "camera_matrix": [
+      [
+        982.0137181531982,
+        0.0,
+        970.1613710883807
+      ],
+      [
+        0.0,
+        989.2887085281216,
+        527.2173686226805
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.01099075475644998,
+      -0.10088272028258856,
+      0.19087710088640772,
+      -0.10243565869572616
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

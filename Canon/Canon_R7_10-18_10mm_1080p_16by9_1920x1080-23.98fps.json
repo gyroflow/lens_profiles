@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R7_10-18_10mm_1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "YIM",
+  "camera_brand": "Canon",
+  "camera_model": "R7",
+  "lens_model": "10-18",
+  "camera_setting": "10mm",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 18.57,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.18889285807344203,
+    "camera_matrix": [
+      [
+        875.8968881219026,
+        0.0,
+        964.6165284438772
+      ],
+      [
+        0.0,
+        880.3100308478795,
+        543.4546772687919
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2972405633228696,
+      0.2577520846671392,
+      -0.17760123863944824,
+      0.1816442223612383
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 10.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

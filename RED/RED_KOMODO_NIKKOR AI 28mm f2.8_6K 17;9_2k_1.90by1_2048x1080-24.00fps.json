@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO_NIKKOR AI 28mm f/2.8_6K 17;9_2k_1.90by1_2048x1080-24.00fps",
+  "note": "",
+  "calibrated_by": "Jeremy Carroll",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO",
+  "lens_model": "NIKKOR AI 28mm f/2.8",
+  "camera_setting": "6K 17;9",
+  "calib_dimension": {
+    "w": 2048,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 2048,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 0,
+    "h": 0
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.440389781646242,
+    "camera_matrix": [
+      [
+        2218.5025632947354,
+        0.0,
+        1028.1285047701078
+      ],
+      [
+        0.0,
+        2217.801936953945,
+        508.399515064349
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.24775955015365275,
+      0.44533955945718734,
+      -2.174187652583193,
+      6.778214353631649
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

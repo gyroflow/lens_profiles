@@ -1,0 +1,69 @@
+{
+  "name": "COTUO_Q6TR___720p_16by9_1280x720-30.00fps",
+  "note": "",
+  "calibrated_by": "黄三",
+  "camera_brand": "COTUO",
+  "camera_model": "Q6TR",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.000507,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4785324780865619,
+    "camera_matrix": [
+      [
+        841.1581282973774,
+        0.0,
+        641.0366511867402
+      ],
+      [
+        0.0,
+        840.8730786557509,
+        373.89851781547753
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.013056173592717891,
+      -0.07714105595177546,
+      0.37320512651125615,
+      -0.3379130406533328
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

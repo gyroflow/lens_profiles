@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_GH5S_老蛙 M43 18mm_320/1快门_C4k_1.90by1_4096x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Shao Mingxin",
+  "camera_brand": "Panasonic",
+  "camera_model": "GH5S",
+  "lens_model": "老蛙 M43 18mm",
+  "camera_setting": "320/1快门",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.559272657068864,
+    "camera_matrix": [
+      [
+        4092.479824340444,
+        0.0,
+        2014.961589007512
+      ],
+      [
+        0.0,
+        4084.60756576843,
+        1085.642287501635
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.16551767067533135,
+      0.2860996150963115,
+      -0.09887761736816504,
+      1.4947171872795282
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 18.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

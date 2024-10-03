@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_S22 Ultra_24mm__4k_16by9_3840x2176-30.00fps",
+  "note": "",
+  "calibrated_by": "WIN2024",
+  "camera_brand": "Samsung",
+  "camera_model": "S22 Ultra",
+  "lens_model": "24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.003622,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7727001905806165,
+    "camera_matrix": [
+      [
+        2563.2469865070107,
+        0.0,
+        1917.6009663008672
+      ],
+      [
+        0.0,
+        2563.040356991908,
+        1093.3570505331395
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6257162479032153,
+      -1.5994915444177746,
+      5.292897624467819,
+      -5.759841263409214
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

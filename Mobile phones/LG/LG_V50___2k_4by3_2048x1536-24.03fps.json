@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1536,
+    "w": 2048
+  },
+  "calibrated_by": "PISI",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "LG",
+  "camera_model": "V50",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-07-07",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 1.0426677034578005,
+    "camera_matrix": [
+      [
+        3006.486139759734,
+        0.0,
+        1032.261780515272
+      ],
+      [
+        0.0,
+        3007.747090410056,
+        790.558334484368
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.16543237356969054,
+      22.29544279930933,
+      -292.0159384402872,
+      1131.486603947393
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 24.027298,
+  "frame_readout_time": 0.0,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "LG_V50___2k_4by3_2048x1536-24.03fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 1536,
+    "w": 2048
+  },
+  "output_dimension": {
+    "h": 1536,
+    "w": 2048
+  },
+  "sync_settings": null
+}

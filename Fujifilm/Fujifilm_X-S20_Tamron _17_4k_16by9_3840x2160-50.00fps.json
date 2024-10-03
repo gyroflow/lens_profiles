@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "7115",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-S20",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-08-26",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.5591311103349713,
+    "camera_matrix": [
+      [
+        3204.5412016054065,
+        0.0,
+        1944.1271773171825
+      ],
+      [
+        0.0,
+        3205.7323400996775,
+        1059.0892235331785
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4226872845373225,
+      -0.7287508145662174,
+      3.0933090427742367,
+      -3.7211819578583496
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 50.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Tamron ",
+  "name": "Fujifilm_X-S20_Tamron _17_4k_16by9_3840x2160-50.00fps",
+  "note": "17",
+  "num_images": 13,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

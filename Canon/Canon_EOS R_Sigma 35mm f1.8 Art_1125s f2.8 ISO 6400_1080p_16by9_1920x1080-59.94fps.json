@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS R_Sigma 35mm f1.8 Art_1/125s f2.8 ISO 6400_1080p_16by9_1920x1080-59.94fps",
+  "note": "59.94p",
+  "calibrated_by": "Edward",
+  "camera_brand": "Canon",
+  "camera_model": "EOS R",
+  "lens_model": "Sigma 35mm f1.8 Art",
+  "camera_setting": "1/125s f2.8 ISO 6400",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 7,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.46082203662072463,
+    "camera_matrix": [
+      [
+        1850.8771617441048,
+        0.0,
+        960.0441782528588
+      ],
+      [
+        0.0,
+        1848.8296299827227,
+        536.9328727435576
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2333459793059702,
+      0.3334659254896903,
+      0.027362963756430304,
+      -0.750427630121299
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

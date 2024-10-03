@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2432,
+    "w": 3264
+  },
+  "calibrated_by": "U0 A501",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "OnePlus",
+  "camera_model": "12r",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.9221969995785098,
+    "camera_matrix": [
+      [
+        1456.7698774381015,
+        0.0,
+        1650.141246972948
+      ],
+      [
+        0.0,
+        1464.8036351973976,
+        1172.815288158536
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33574516243082403,
+      -0.037214798782450355,
+      0.5258392927405231,
+      -0.3112946112691988
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 24.025461,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "17mm",
+  "name": "OnePlus_12r_17mm__2.7k_4by3_3264x2432-24.03fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2432,
+    "w": 3264
+  },
+  "output_dimension": {
+    "h": 2432,
+    "w": 3264
+  },
+  "sync_settings": null
+}

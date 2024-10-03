@@ -1,0 +1,69 @@
+{
+  "name": "Z CAM_E2_16mm f1.4__4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "H·Zip",
+  "camera_brand": "Z CAM",
+  "camera_model": "E2",
+  "lens_model": "16mm f1.4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.050461708801338,
+    "camera_matrix": [
+      [
+        3361.691367548846,
+        0.0,
+        1915.185446966557
+      ],
+      [
+        0.0,
+        3361.7662889678604,
+        1007.9769241900772
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.061299606914467175,
+      -0.17743425532956836,
+      0.13258563705662116,
+      -0.17726332437328893
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

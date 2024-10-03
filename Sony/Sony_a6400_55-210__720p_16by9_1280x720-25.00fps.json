@@ -1,0 +1,66 @@
+{
+  "name": "Sony_a6400_55-210__720p_16by9_1280x720-25.00fps",
+  "note": "",
+  "calibrated_by": "haohan fang",
+  "camera_brand": "Sony",
+  "camera_model": "a6400",
+  "lens_model": "55-210",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "official": false,
+  "use_opencv_fisheye": true,
+  "fisheye_params": {
+    "RMS_error": 0.4539683793648312,
+    "camera_matrix": [
+      [
+        3181.909543585354,
+        0.0,
+        601.923583974228
+      ],
+      [
+        0.0,
+        3175.8833050947846,
+        284.545885420643
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2971636743773947,
+      17.7945726501887,
+      -618.3373843213795,
+      7937.022593358608
+    ],
+    "radial_distortion_limit": null
+  },
+  "use_opencv_standard": false,
+  "calib_params": {
+    "RMS_error": 0.0,
+    "camera_matrix": [],
+    "distortion_coeffs": [],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.0.0-rc4",
+  "date": "2024-08-29",
+  "compatible_settings": []
+}

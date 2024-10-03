@@ -1,0 +1,69 @@
+{
+  "name": "RunCam_Phoenix__Link_480p_16by9_960x544-30.00fps",
+  "note": "Link",
+  "calibrated_by": "Administrator",
+  "camera_brand": "RunCam",
+  "camera_model": "Phoenix",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 960,
+    "h": 544
+  },
+  "orig_dimension": {
+    "w": 960,
+    "h": 544
+  },
+  "output_dimension": {
+    "w": 960,
+    "h": 544
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.000113,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.20798034969061224,
+    "camera_matrix": [
+      [
+        435.143491851879,
+        0.0,
+        483.15657054427345
+      ],
+      [
+        0.0,
+        438.74588840853465,
+        277.076978514247
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.024475945517451123,
+      -0.011129938665954872,
+      0.009877414347033169,
+      -0.006490536596114318
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

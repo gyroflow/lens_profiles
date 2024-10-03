@@ -1,0 +1,69 @@
+{
+  "name": "Sony_PXW-Z280V_5.63mm__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "新闻2部",
+  "camera_brand": "Sony",
+  "camera_model": "PXW-Z280V",
+  "lens_model": "5.63mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4111522549612434,
+    "camera_matrix": [
+      [
+        1671.5050707759865,
+        0.0,
+        964.6802014651668
+      ],
+      [
+        0.0,
+        1676.9670661578489,
+        560.4438102735215
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1071383471149391,
+      0.2726346230520548,
+      -2.388524558460728,
+      11.422083396813523
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-pxw-z280v-5.63mm-1920x1080@50000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 5.63,
+  "crop_factor": null,
+  "global_shutter": false
+}

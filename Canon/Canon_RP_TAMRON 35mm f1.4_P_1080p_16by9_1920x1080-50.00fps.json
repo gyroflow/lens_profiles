@@ -1,0 +1,69 @@
+{
+  "name": "Canon_RP_TAMRON 35mm f1.4_P_1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "XLUO",
+  "camera_brand": "Canon",
+  "camera_model": "RP",
+  "lens_model": "TAMRON 35mm f1.4",
+  "camera_setting": "P",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3137067220283464,
+    "camera_matrix": [
+      [
+        1924.7898466228064,
+        0.0,
+        960.5540799954322
+      ],
+      [
+        0.0,
+        1921.6597198507093,
+        530.9042469335388
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2681643065028593,
+      0.21253650269103935,
+      -0.8746938285388096,
+      1.9196968050875105
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

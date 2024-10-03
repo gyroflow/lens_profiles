@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_D5600_AF-S DX NIKKOR 18-140MM__1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Alex Vicente Lopez",
+  "camera_brand": "Nikon",
+  "camera_model": "D5600",
+  "lens_model": "AF-S DX NIKKOR 18-140MM",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.711589872817779,
+    "camera_matrix": [
+      [
+        1513.7181179498348,
+        0.0,
+        942.3539260358136
+      ],
+      [
+        0.0,
+        1524.2615781112595,
+        562.8628628592435
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.18375831993472816,
+      -0.09312973749772308,
+      1.1216657898374325,
+      -1.6073032226535815
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

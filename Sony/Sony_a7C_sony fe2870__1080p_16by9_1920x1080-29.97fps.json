@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_sony fe2870__1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "陈旷亦",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "sony fe2870",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": -7.11,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4265611749150656,
+    "camera_matrix": [
+      [
+        1568.526192692326,
+        0.0,
+        963.5351403095514
+      ],
+      [
+        0.0,
+        1569.0262206656262,
+        527.6055085974479
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31697884111650676,
+      0.153046563391223,
+      -0.07534070386042181,
+      0.3657701978022543
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-84e0c236-1920x1080@29970",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

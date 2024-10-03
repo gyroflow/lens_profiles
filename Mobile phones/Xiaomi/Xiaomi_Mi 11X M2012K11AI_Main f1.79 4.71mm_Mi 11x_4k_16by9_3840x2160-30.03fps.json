@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_Mi 11X M2012K11AI_Main f/1.79 4.71mm_Mi 11x_4k_16by9_3840x2160-30.03fps",
+  "note": "Mi 11x",
+  "calibrated_by": "Yash Rajvanshi",
+  "camera_brand": "Xiaomi",
+  "camera_model": "Mi 11X M2012K11AI",
+  "lens_model": "Main f/1.79 4.71mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.029524,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9186713133931044,
+    "camera_matrix": [
+      [
+        2924.0011577073637,
+        0.0,
+        1912.5153199808792
+      ],
+      [
+        0.0,
+        2921.498597385482,
+        1078.5665758835694
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3932243446712229,
+      0.261698112944034,
+      -0.19156211558852732,
+      -1.1017163425539869
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

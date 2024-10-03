@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO_ZEISS OTUS 55mm_6K 17:9_6k_1.90by1_6144x3240-25.00fps",
+  "note": "Standard S35 Canon lens adapter",
+  "calibrated_by": "Stewart French",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO",
+  "lens_model": "ZEISS OTUS 55mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9326561641475994,
+    "camera_matrix": [
+      [
+        11827.756591944488,
+        0.0,
+        3044.955107626827
+      ],
+      [
+        0.0,
+        11829.704371582033,
+        1677.6885838490707
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.25020543639149134,
+      1.6225276378499942,
+      -39.60274060396897,
+      293.2586921061797
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

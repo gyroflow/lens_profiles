@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1440,
+    "w": 2560
+  },
+  "calibrated_by": "Administrator",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "SJCAM",
+  "camera_model": "SJ6 Legend",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-05-29",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.7209206768970162,
+    "camera_matrix": [
+      [
+        1892.313036788584,
+        0.0,
+        1277.2382528929202
+      ],
+      [
+        0.0,
+        1897.4573237469197,
+        670.4873611068423
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.07493996311782866,
+      0.2350101911784624,
+      -0.6527521348019736,
+      0.5974488617195822
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 30.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "SJCAM_SJ6 Legend___2.5k_16by9_2560x1440-30.00fps",
+  "note": "",
+  "num_images": 13,
+  "official": false,
+  "orig_dimension": {
+    "h": 1440,
+    "w": 2560
+  },
+  "output_dimension": {
+    "h": 1440,
+    "w": 2560
+  },
+  "sync_settings": null
+}

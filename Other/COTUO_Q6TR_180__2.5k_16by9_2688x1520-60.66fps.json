@@ -1,0 +1,69 @@
+{
+  "name": "COTUO_Q6TR_180度鱼眼_防抖_2.5k_16by9_2688x1520-60.66fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "COTUO",
+  "camera_model": "Q6TR",
+  "lens_model": "180度鱼眼",
+  "camera_setting": "防抖",
+  "calib_dimension": {
+    "w": 2688,
+    "h": 1520
+  },
+  "orig_dimension": {
+    "w": 2688,
+    "h": 1520
+  },
+  "output_dimension": {
+    "w": 2688,
+    "h": 1520
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 60.664261,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 5.179788971465244,
+    "camera_matrix": [
+      [
+        413.04483601301223,
+        0.0,
+        1490.6857678949175
+      ],
+      [
+        0.0,
+        422.075672758937,
+        577.052428651941
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3680292089883266,
+      -0.0964528691761487,
+      0.2039754578783171,
+      -0.0451858563710145
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

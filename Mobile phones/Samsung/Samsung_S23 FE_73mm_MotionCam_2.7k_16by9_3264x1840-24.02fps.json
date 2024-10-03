@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_S23 FE_73mm_MotionCam_2.7k_16by9_3264x1840-24.02fps",
+  "note": "MotionCam",
+  "calibrated_by": "Jonathan",
+  "camera_brand": "Samsung",
+  "camera_model": "S23 FE",
+  "lens_model": "73mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3264,
+    "h": 1840
+  },
+  "orig_dimension": {
+    "w": 3264,
+    "h": 1840
+  },
+  "output_dimension": {
+    "w": 3264,
+    "h": 1840
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 44,
+  "fps": 24.017712,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9540430411999112,
+    "camera_matrix": [
+      [
+        7211.987573637399,
+        0.0,
+        1662.0781126109125
+      ],
+      [
+        0.0,
+        7217.993182198606,
+        1004.289340761703
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.17636589374811257,
+      -9.430718913942265,
+      575.58395549322,
+      -6638.826892488343
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

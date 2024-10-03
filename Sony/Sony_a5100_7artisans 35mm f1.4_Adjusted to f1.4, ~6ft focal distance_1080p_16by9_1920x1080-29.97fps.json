@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a5100_7artisans 35mm f1.4_Adjusted to f1.4, ~6ft focal distance_1080p_16by9_1920x1080-29.97fps",
+  "note": "Adjusted to f1.4, ~6ft focal distance",
+  "calibrated_by": "Matthew Scholefield",
+  "camera_brand": "Sony",
+  "camera_model": "a5100",
+  "lens_model": "7artisans 35mm f1.4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 12.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.35157114294084696,
+    "camera_matrix": [
+      [
+        3068.2973677722343,
+        0.0,
+        934.0719969738292
+      ],
+      [
+        0.0,
+        3065.5115570349685,
+        545.7293762978717
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2907333330069527,
+      -5.476366745991149,
+      114.1491936040189,
+      -835.1670350408172
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

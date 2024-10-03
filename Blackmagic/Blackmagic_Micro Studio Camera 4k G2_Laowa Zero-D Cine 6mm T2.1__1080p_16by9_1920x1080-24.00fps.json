@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Micro Studio Camera 4k G2_Laowa Zero-D Cine 6mm T2.1__1080p_16by9_1920x1080-24.00fps",
+  "note": "",
+  "calibrated_by": "Christopher C. Clark",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Micro Studio Camera 4k G2",
+  "lens_model": "Laowa Zero-D Cine 6mm T2.1",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6149833747567632,
+    "camera_matrix": [
+      [
+        674.2970354521545,
+        0.0,
+        950.2713513835704
+      ],
+      [
+        0.0,
+        674.0496562912857,
+        546.6102231874831
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3239383594411329,
+      0.17263712674307172,
+      -0.04227031065959351,
+      0.06899790119390646
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

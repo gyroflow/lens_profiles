@@ -1,0 +1,69 @@
+{
+  "name": "Canon_200D / SL2_Sigma EX DC 18-50 f2.8_F4.5, 18mm locked_1080p_16by9_1920x1080-23.98fps",
+  "note": "APS-C",
+  "calibrated_by": "Jan Darski",
+  "camera_brand": "Canon",
+  "camera_model": "200D / SL2",
+  "lens_model": "Sigma EX DC 18-50 f2.8",
+  "camera_setting": "F4.5, 18mm locked",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 30,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3316738853366791,
+    "camera_matrix": [
+      [
+        1619.652110205389,
+        0.0,
+        971.619616452854
+      ],
+      [
+        0.0,
+        1618.1975459492908,
+        564.7446701007464
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.17332108188867773,
+      0.8285663017876568,
+      -4.301379254544896,
+      9.187620687705182
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

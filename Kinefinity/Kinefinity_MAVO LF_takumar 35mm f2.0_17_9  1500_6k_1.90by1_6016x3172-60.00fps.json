@@ -1,0 +1,69 @@
+{
+  "name": "Kinefinity_MAVO LF_takumar 35mm f2.0_17:9  1/500_6k_1.90by1_6016x3172-60.00fps",
+  "note": "",
+  "calibrated_by": "马天翼",
+  "camera_brand": "Kinefinity",
+  "camera_model": "MAVO LF",
+  "lens_model": "takumar 35mm f2.0",
+  "camera_setting": "17:9  1/500",
+  "calib_dimension": {
+    "w": 6016,
+    "h": 3172
+  },
+  "orig_dimension": {
+    "w": 6016,
+    "h": 3172
+  },
+  "output_dimension": {
+    "w": 6016,
+    "h": 3172
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 47,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.081355138595623,
+    "camera_matrix": [
+      [
+        6153.927045007601,
+        0.0,
+        3055.203827145799
+      ],
+      [
+        0.0,
+        6158.492960172238,
+        1574.2965519872912
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.17037638445537046,
+      0.5343571881501272,
+      -1.7004805815960773,
+      4.031257686066841
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

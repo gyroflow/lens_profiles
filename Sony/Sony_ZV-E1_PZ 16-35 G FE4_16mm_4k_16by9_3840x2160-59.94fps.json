@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E1_PZ 16-35 G FE4_16mm_4k_16by9_3840x2160-59.94fps",
+  "note": "16mm",
+  "calibrated_by": "MG",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E1",
+  "lens_model": "PZ 16-35 G FE4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5310620539107213,
+    "camera_matrix": [
+      [
+        1782.6738243144312,
+        0.0,
+        1920.7984287457816
+      ],
+      [
+        0.0,
+        1781.519160029687,
+        1084.0971715306712
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.33167372824886293,
+      0.13706655291554148,
+      0.07491911594288768,
+      0.0033818844935649597
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-e1-16.00mm-3840x2160@59940",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 16.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

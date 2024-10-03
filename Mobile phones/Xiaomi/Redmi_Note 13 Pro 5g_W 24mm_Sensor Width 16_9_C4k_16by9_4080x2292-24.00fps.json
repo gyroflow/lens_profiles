@@ -1,0 +1,69 @@
+{
+  "name": "Redmi_Note 13 Pro 5g_W 24mm_Sensor Width 16:9_C4k_16by9_4080x2292-24.00fps",
+  "note": "Sensor Width 16:9",
+  "calibrated_by": "Héctor Maturana",
+  "camera_brand": "Redmi",
+  "camera_model": "Note 13 Pro 5g",
+  "lens_model": "W 24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4080,
+    "h": 2292
+  },
+  "orig_dimension": {
+    "w": 4080,
+    "h": 2292
+  },
+  "output_dimension": {
+    "w": 4080,
+    "h": 2292
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3483486845290938,
+    "camera_matrix": [
+      [
+        2685.044494404921,
+        0.0,
+        2040.7000011851696
+      ],
+      [
+        0.0,
+        2687.499253090017,
+        1121.9077693098372
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4811393854473453,
+      -0.7163400325305611,
+      2.3757918419276063,
+      -2.3481311759576866
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

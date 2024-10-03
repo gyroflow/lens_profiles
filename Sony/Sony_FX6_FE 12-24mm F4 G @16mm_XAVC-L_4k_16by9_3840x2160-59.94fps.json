@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_FE 12-24mm F4 G @16mm_XAVC-L_4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "aeroquads",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "FE 12-24mm F4 G @16mm",
+  "camera_setting": "XAVC-L",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4549844088351694,
+    "camera_matrix": [
+      [
+        1717.4677633547765,
+        0.0,
+        1914.09266666798
+      ],
+      [
+        0.0,
+        1715.758216254321,
+        1059.8895736088982
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3282797206864835,
+      0.1808769913748071,
+      -0.0014378733119132423,
+      0.04036995078233584
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx6v-16.00mm-3840x2160@59940",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 16.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

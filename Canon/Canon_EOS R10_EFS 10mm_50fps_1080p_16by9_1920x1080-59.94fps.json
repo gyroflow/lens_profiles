@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS R10_EFS 10mm_50fps_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "jdalusong",
+  "camera_brand": "Canon",
+  "camera_model": "EOS R10",
+  "lens_model": "EFS 10mm",
+  "camera_setting": "50fps",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4065445334079662,
+    "camera_matrix": [
+      [
+        838.956845507562,
+        0.0,
+        978.7793378344328
+      ],
+      [
+        0.0,
+        840.6091751115033,
+        524.1506412745565
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32985024333601703,
+      0.12017870323595696,
+      -0.00941660584577848,
+      0.032130233351142526
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

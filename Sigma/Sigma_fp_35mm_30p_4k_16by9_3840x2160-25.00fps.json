@@ -1,0 +1,69 @@
+{
+  "name": "Sigma_fp_契卡35mm_30p_4k_16by9_3840x2160-25.00fps",
+  "note": "90",
+  "calibrated_by": "alex",
+  "camera_brand": "Sigma",
+  "camera_model": "fp",
+  "lens_model": "契卡35mm",
+  "camera_setting": "30p",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7668978894470933,
+    "camera_matrix": [
+      [
+        4089.8685875697074,
+        0.0,
+        1989.114739719095
+      ],
+      [
+        0.0,
+        4079.174824643944,
+        1062.733930875418
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.14859274301027953,
+      1.228843972480629,
+      -7.986230631104573,
+      17.501052374279567
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Canon_5D Mark IV_Sigma 50-100mm f1.8_HD_1080p_16by9_1920x1080-59.94fps",
+  "note": "50mm",
+  "calibrated_by": "Motion Unit ltd",
+  "camera_brand": "Canon",
+  "camera_model": "5D Mark IV",
+  "lens_model": "Sigma 50-100mm f1.8",
+  "camera_setting": "HD",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4547852400166603,
+    "camera_matrix": [
+      [
+        3606.102364089072,
+        0.0,
+        955.0749119112296
+      ],
+      [
+        0.0,
+        3607.196344595384,
+        496.42289403258445
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.210710128472818,
+      7.800701524186827,
+      -116.72008331161264,
+      980.2041006217204
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

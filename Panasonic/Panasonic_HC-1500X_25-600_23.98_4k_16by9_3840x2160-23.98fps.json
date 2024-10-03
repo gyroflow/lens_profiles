@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_HC-1500X_25-600_23.98_4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Dai wei Li",
+  "camera_brand": "Panasonic",
+  "camera_model": "HC-1500X",
+  "lens_model": "25-600",
+  "camera_setting": "23.98",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7631965256752901,
+    "camera_matrix": [
+      [
+        2569.716005265377,
+        0.0,
+        1924.8395702680668
+      ],
+      [
+        0.0,
+        2570.431769633547,
+        1086.4961898314368
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3298334206606362,
+      0.10432684992701197,
+      0.12676713742526857,
+      -0.05879959513865467
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

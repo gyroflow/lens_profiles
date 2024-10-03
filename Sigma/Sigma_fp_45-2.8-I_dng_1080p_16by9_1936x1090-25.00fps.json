@@ -1,0 +1,69 @@
+{
+  "name": "Sigma_fp_45-2.8-I_dng_1080p_16by9_1936x1090-25.00fps",
+  "note": "",
+  "calibrated_by": "MOH",
+  "camera_brand": "Sigma",
+  "camera_model": "fp",
+  "lens_model": "45-2.8-I",
+  "camera_setting": "dng",
+  "calib_dimension": {
+    "w": 1936,
+    "h": 1090
+  },
+  "orig_dimension": {
+    "w": 1936,
+    "h": 1090
+  },
+  "output_dimension": {
+    "w": 1936,
+    "h": 1090
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.30483137566099816,
+    "camera_matrix": [
+      [
+        2365.1264994527214,
+        0.0,
+        985.1121308174096
+      ],
+      [
+        0.0,
+        2364.4630900260067,
+        543.0161594404037
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3545629798007576,
+      0.44678179413053287,
+      -0.09637110200349722,
+      5.793281422073827
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-21",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

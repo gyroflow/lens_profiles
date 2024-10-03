@@ -1,0 +1,69 @@
+{
+  "name": "Canon_80D_sigma 30mm f1.4__1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Jacopo Voltolina",
+  "camera_brand": "Canon",
+  "camera_model": "80D",
+  "lens_model": "sigma 30mm f1.4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.364623433575018,
+    "camera_matrix": [
+      [
+        2658.7389865026917,
+        0.0,
+        940.6699451341884
+      ],
+      [
+        0.0,
+        2654.6483702597784,
+        578.297055434881
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.15998510430595686,
+      0.06635987291093322,
+      0.18257485946406296,
+      4.5436822469953935
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

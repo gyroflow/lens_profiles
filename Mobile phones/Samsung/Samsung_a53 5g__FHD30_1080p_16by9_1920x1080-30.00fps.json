@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_a53 5g__FHD30_1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "calibrated_by": "Jakob Freiberg",
+  "camera_brand": "Samsung",
+  "camera_model": "a53 5g",
+  "lens_model": "",
+  "camera_setting": "FHD30",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.004013,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4232392703851745,
+    "camera_matrix": [
+      [
+        1301.2676591304785,
+        0.0,
+        976.18927358628
+      ],
+      [
+        0.0,
+        1299.890509771942,
+        505.48255427814746
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6158842661547808,
+      -1.72154928588504,
+      6.056198441214088,
+      -7.502329360108475
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

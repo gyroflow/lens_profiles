@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K_Sigma 17-70mm f/2.8-4 DC Macro OS HSM @ 34mm__6k_16by9_6144x3456-30.00fps",
+  "note": "",
+  "calibrated_by": "chinam leung",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K",
+  "lens_model": "Sigma 17-70mm f/2.8-4 DC Macro OS HSM @ 34mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.4411521246537269,
+    "camera_matrix": [
+      [
+        8561.627304551863,
+        0.0,
+        3021.169964825141
+      ],
+      [
+        0.0,
+        8571.377609029754,
+        1865.424277935948
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3683569266502476,
+      0.9124301600937258,
+      0.2745794821299126,
+      -2.553563530307703
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-pocketcinemacamera6k-sigma17-70mmf/2.8-4dcmacrooshsm-34mm-6144x3456@30000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 34.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

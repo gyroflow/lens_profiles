@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone 12 Pro Max_0.5x_HD - 30_1080p_16by9_1920x1080-29.99fps",
+  "note": "",
+  "calibrated_by": "Raphael",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 12 Pro Max",
+  "lens_model": "0.5x",
+  "camera_setting": "HD - 30",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 29.988731,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5815796286816709,
+    "camera_matrix": [
+      [
+        891.5520749105713,
+        0.0,
+        952.0419393716514
+      ],
+      [
+        0.0,
+        889.7944298084768,
+        524.7412129389637
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.43179038408322234,
+      -0.33312018399062276,
+      0.8675064057043061,
+      -0.4344070325338683
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

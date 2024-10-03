@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a1_Laowa 14mm f/4 Zero-D__6k_16by9_7680x4320-25.00fps",
+  "note": "",
+  "calibrated_by": "Alexey Vasyunin",
+  "camera_brand": "Sony",
+  "camera_model": "a1",
+  "lens_model": "Laowa 14mm f/4 Zero-D",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "frame_readout_time": 16.51,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 30,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.538775454241514,
+    "camera_matrix": [
+      [
+        3066.7989167110086,
+        0.0,
+        3819.209379273588
+      ],
+      [
+        0.0,
+        3067.362583148016,
+        2184.584574631497
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3265240855802047,
+      0.18697372691647052,
+      -0.1291351234340761,
+      0.1742532203760834
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS 700D_Sigma 18-250 OS HSM_24mm 4.2k_C4k_2.39by1_4416x1846-23.98fps",
+  "note": "Magic Lantern Crop Mood",
+  "calibrated_by": "Folium",
+  "camera_brand": "Canon",
+  "camera_model": "EOS 700D",
+  "lens_model": "Sigma 18-250 OS HSM",
+  "camera_setting": "24mm 4.2k",
+  "calib_dimension": {
+    "w": 4416,
+    "h": 1846
+  },
+  "orig_dimension": {
+    "w": 4416,
+    "h": 1846
+  },
+  "output_dimension": {
+    "w": 4416,
+    "h": 1846
+  },
+  "frame_readout_time": 26.1,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.982,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.939069890347046,
+    "camera_matrix": [
+      [
+        5573.755708442907,
+        0.0,
+        2239.1032009205164
+      ],
+      [
+        0.0,
+        5541.343283249578,
+        1203.2149560745588
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2700303052806926,
+      0.4737691368785899,
+      -2.0230401172911785,
+      10.858611383371324
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": 1.6,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Nisi Athena Prime 14mm_6K_5k_16by9_5760x3240-25.00fps",
+  "note": "PL - 14mm - T11",
+  "calibrated_by": "Luca Weissenbacher",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Nisi Athena Prime 14mm",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9018485227636082,
+    "camera_matrix": [
+      [
+        3228.1748651313565,
+        0.0,
+        2892.824643206241
+      ],
+      [
+        0.0,
+        3228.784611873689,
+        1620.1168596669388
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32511614138670597,
+      0.1419488394383561,
+      -0.05208168547608727,
+      0.07198220252694103
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

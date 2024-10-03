@@ -1,0 +1,69 @@
+{
+  "name": "Leica_sl2-s_dulens 58__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Beck Tang",
+  "camera_brand": "Leica",
+  "camera_model": "sl2-s",
+  "lens_model": "dulens 58",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8612848946129535,
+    "camera_matrix": [
+      [
+        6651.971879712967,
+        0.0,
+        1914.5850929680723
+      ],
+      [
+        0.0,
+        6660.18813173767,
+        1042.680033911143
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3106752772851878,
+      -3.8919835981974606,
+      89.55596936963151,
+      -570.3715795514305
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

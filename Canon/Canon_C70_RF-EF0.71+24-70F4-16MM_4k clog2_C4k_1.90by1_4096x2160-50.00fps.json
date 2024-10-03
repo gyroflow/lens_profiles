@@ -1,0 +1,69 @@
+{
+  "name": "Canon_C70_RF-EF0.71+24-70F4-16MM_4k clog2_C4k_1.90by1_4096x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "陈江",
+  "camera_brand": "Canon",
+  "camera_model": "C70",
+  "lens_model": "RF-EF0.71+24-70F4-16MM",
+  "camera_setting": "4k clog2",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 19.99,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5261146815242211,
+    "camera_matrix": [
+      [
+        1702.399000775236,
+        0.0,
+        2044.680450707374
+      ],
+      [
+        0.0,
+        1706.1369931345498,
+        1096.0077388237846
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3189447212693152,
+      0.0020254361875891615,
+      0.0821049915750878,
+      0.06442948783805869
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 16.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

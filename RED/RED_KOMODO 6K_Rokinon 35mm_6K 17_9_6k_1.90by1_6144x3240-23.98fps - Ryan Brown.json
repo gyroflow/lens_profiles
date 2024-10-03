@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Rokinon 35mm_6K 17:9_6k_1.90by1_6144x3240-23.98fps",
+  "note": "23.98fps",
+  "calibrated_by": "Ryan Brown",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Rokinon 35mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9911777529595588,
+    "camera_matrix": [
+      [
+        6120.645498946084,
+        0.0,
+        3124.9660569906796
+      ],
+      [
+        0.0,
+        6125.805916820138,
+        1618.4457559649131
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1812518046309471,
+      0.08724019304216389,
+      -0.7062575066674873,
+      4.2113199436755115
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

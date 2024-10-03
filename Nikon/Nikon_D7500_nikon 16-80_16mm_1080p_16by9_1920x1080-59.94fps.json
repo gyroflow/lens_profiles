@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_D7500_nikon 16-80_16mm_1080p_16by9_1920x1080-59.94fps",
+  "note": "16mm",
+  "calibrated_by": "Jakub Dobrý",
+  "camera_brand": "Nikon",
+  "camera_model": "D7500",
+  "lens_model": "nikon 16-80",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.44829052013516935,
+    "camera_matrix": [
+      [
+        1270.7344380916802,
+        0.0,
+        993.5377847452162
+      ],
+      [
+        0.0,
+        1269.3409151400188,
+        537.9505050526301
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.21084941307736688,
+      -0.08227112985224372,
+      0.6001794400386757,
+      -0.567276302720493
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

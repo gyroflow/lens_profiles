@@ -1,0 +1,69 @@
+{
+  "name": "Z CAM_S6_Laowa 9mm_c_5k_1.90by1_5120x2700-50.00fps",
+  "note": "50p",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Z CAM",
+  "camera_model": "S6",
+  "lens_model": "Laowa 9mm",
+  "camera_setting": "c",
+  "calib_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "orig_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "output_dimension": {
+    "w": 5120,
+    "h": 2700
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7066532737691059,
+    "camera_matrix": [
+      [
+        2470.3596748193913,
+        0.0,
+        2539.3951045537833
+      ],
+      [
+        0.0,
+        2472.4050332138936,
+        1356.114824520372
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3666644033419482,
+      -0.022248109258263184,
+      0.438813591835759,
+      -0.37127376157318104
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

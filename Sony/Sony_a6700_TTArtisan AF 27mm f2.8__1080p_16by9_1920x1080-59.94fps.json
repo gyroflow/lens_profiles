@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6700_TTArtisan AF 27mm f/2.8__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "刘昊林",
+  "camera_brand": "Sony",
+  "camera_model": "a6700",
+  "lens_model": "TTArtisan AF 27mm f/2.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.29965339392706924,
+    "camera_matrix": [
+      [
+        2434.927245349325,
+        0.0,
+        954.8087298474704
+      ],
+      [
+        0.0,
+        2432.9045701553982,
+        520.3153246913558
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.14506024547435734,
+      0.6700544504495308,
+      -6.940973053940428,
+      24.688891910759352
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-6700-27.00mm-1920x1080@59940",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 27.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

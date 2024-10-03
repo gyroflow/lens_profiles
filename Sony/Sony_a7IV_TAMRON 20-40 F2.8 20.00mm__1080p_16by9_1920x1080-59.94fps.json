@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7IV_TAMRON 20-40 F2.8 20.00mm__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "WS",
+  "camera_brand": "Sony",
+  "camera_model": "a7IV",
+  "lens_model": "TAMRON 20-40 F2.8 20.00mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2879972833977992,
+    "camera_matrix": [
+      [
+        1124.1575764263162,
+        0.0,
+        959.4062830258092
+      ],
+      [
+        0.0,
+        1121.9387327103238,
+        521.7987410521945
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3227725685324418,
+      0.15523304906338573,
+      0.12242929036290964,
+      -0.08345377801797786
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7m4-20.00mm-1920x1080@59940",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 20.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

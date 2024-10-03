@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Cinema Camera 6K_Sigma 28-70mm F2.8 DG DN | Contemporary 021 70mm__6k_3by2_6048x4032-30.00fps",
+  "note": "",
+  "calibrated_by": "Jesse Ercole",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Cinema Camera 6K",
+  "lens_model": "Sigma 28-70mm F2.8 DG DN | Contemporary 021 70mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 6048,
+    "h": 4032
+  },
+  "orig_dimension": {
+    "w": 6048,
+    "h": 4032
+  },
+  "output_dimension": {
+    "w": 6048,
+    "h": 4032
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6242545711179514,
+    "camera_matrix": [
+      [
+        4799.750408116386,
+        0.0,
+        2988.6905211755675
+      ],
+      [
+        0.0,
+        4797.703172884008,
+        1966.6957708594057
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2058025037535925,
+      -0.6028100454596539,
+      3.500758755545118,
+      -4.888171565206782
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-cinemacamera6k-sigma28-70mmf2.8dgdn|contemporary021-70mm-6048x4032@30000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

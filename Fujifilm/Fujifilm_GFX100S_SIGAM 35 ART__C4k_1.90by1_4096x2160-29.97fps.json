@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_GFX100S_SIGAM 35 ART__C4k_1.90by1_4096x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "马天翼",
+  "camera_brand": "Fujifilm",
+  "camera_model": "GFX100S",
+  "lens_model": "SIGAM 35 ART",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 43,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.5821654903814943,
+    "camera_matrix": [
+      [
+        2548.757003033541,
+        0.0,
+        2098.6501084761853
+      ],
+      [
+        0.0,
+        2556.542649116888,
+        1121.9681378675218
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2756617640650966,
+      0.1725057924194834,
+      0.07570839184840866,
+      0.07072969761700934
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

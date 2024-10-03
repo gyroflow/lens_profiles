@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX30_Tokina 11-20mm (viltrox 20mm)__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Иван Maктрахер",
+  "camera_brand": "Sony",
+  "camera_model": "FX30",
+  "lens_model": "Tokina 11-20mm (viltrox 20mm)",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7762071329971449,
+    "camera_matrix": [
+      [
+        2166.2716279202837,
+        0.0,
+        1882.7103810103108
+      ],
+      [
+        0.0,
+        2166.4653520746774,
+        1094.323092076561
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.27343755124320085,
+      0.7342291177225458,
+      -3.303993670125504,
+      5.506992250399859
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx30-11.90mm-3840x2160@50000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 11.9,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_14_Ultrawide 15mm_Full sensor_C4k_4by3_4032x3072-30.03fps",
+  "note": "Motioncam",
+  "calibrated_by": "1",
+  "camera_brand": "Xiaomi",
+  "camera_model": "14",
+  "lens_model": "Ultrawide 15mm",
+  "camera_setting": "Full sensor",
+  "calib_dimension": {
+    "w": 4032,
+    "h": 3072
+  },
+  "orig_dimension": {
+    "w": 4032,
+    "h": 3072
+  },
+  "output_dimension": {
+    "w": 4032,
+    "h": 3072
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 16,
+  "fps": 30.026049,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.8892212798994672,
+    "camera_matrix": [
+      [
+        1687.7054767101397,
+        0.0,
+        2016.0324443864224
+      ],
+      [
+        0.0,
+        1687.7876393914996,
+        1536.061286014181
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2829655737070439,
+      0.24602285861728668,
+      -0.02138326924617079,
+      0.05025119664328394
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 15.0,
+  "crop_factor": 1.0,
+  "global_shutter": false
+}

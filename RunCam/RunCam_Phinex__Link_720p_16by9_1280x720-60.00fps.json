@@ -1,0 +1,69 @@
+{
+  "name": "RunCam_Phinex__Link_720p_16by9_1280x720-60.00fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "RunCam",
+  "camera_model": "Phinex",
+  "lens_model": "",
+  "camera_setting": "Link",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.19766719362892676,
+    "camera_matrix": [
+      [
+        579.9874710674972,
+        0.0,
+        639.7156733197395
+      ],
+      [
+        0.0,
+        580.2139372896858,
+        366.4416765848274
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.029978883378127295,
+      -0.0023626524761271323,
+      -0.002368965205186989,
+      0.002162450152456845
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

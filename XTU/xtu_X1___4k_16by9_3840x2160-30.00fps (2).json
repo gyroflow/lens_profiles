@@ -1,0 +1,69 @@
+{
+  "name": "xtu_X1___4k_16by9_3840x2160-30.00fps",
+  "note": "",
+  "calibrated_by": "红茶mike",
+  "camera_brand": "xtu",
+  "camera_model": "X1",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 24.5,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 19,
+  "fps": 29.998167,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9891298412011432,
+    "camera_matrix": [
+      [
+        2162.554381325754,
+        0.0,
+        2224.8626675213263
+      ],
+      [
+        0.0,
+        2168.1988385545073,
+        1154.6902692770052
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.007430539829798971,
+      -0.03490393493807182,
+      0.024806591252422145,
+      -0.007486309777999041
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-31",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Honor_70 pro_Sony IMX800_1X_2k_16by9_2400x1350-29.92fps",
+  "note": "29.922fps",
+  "calibrated_by": "Jack Liu",
+  "camera_brand": "Honor",
+  "camera_model": "70 pro",
+  "lens_model": "Sony IMX800",
+  "camera_setting": "1X",
+  "calib_dimension": {
+    "w": 2400,
+    "h": 1350
+  },
+  "orig_dimension": {
+    "w": 2400,
+    "h": 1350
+  },
+  "output_dimension": {
+    "w": 2400,
+    "h": 1350
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 29.921885,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7764259393345786,
+    "camera_matrix": [
+      [
+        1609.2524674287556,
+        0.0,
+        1206.1386668199098
+      ],
+      [
+        0.0,
+        1611.903071105418,
+        668.9398461418125
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2905956725056948,
+      -0.04086282162624565,
+      2.364025793218895,
+      -4.085091114716488
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

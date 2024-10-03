@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R50_Ef 24 105__4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "elier jimenez pando",
+  "camera_brand": "Canon",
+  "camera_model": "R50",
+  "lens_model": "Ef 24 105",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8012020738343558,
+    "camera_matrix": [
+      [
+        4208.917783902575,
+        0.0,
+        1976.4512150069304
+      ],
+      [
+        0.0,
+        4204.716837177082,
+        1138.4925732987156
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.14286387536978035,
+      1.1325553346658084,
+      -5.845977348974669,
+      9.385685960112149
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

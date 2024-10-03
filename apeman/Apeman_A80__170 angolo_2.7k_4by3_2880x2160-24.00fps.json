@@ -1,0 +1,69 @@
+{
+  "name": "Apeman_A80__170° angolo_2.7k_4by3_2880x2160-24.00fps",
+  "note": "170° angolo",
+  "calibrated_by": "Quesus",
+  "camera_brand": "Apeman",
+  "camera_model": "A80",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2880,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 2880,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 2880,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.4613082004035864,
+    "camera_matrix": [
+      [
+        1443.9514176299,
+        0.0,
+        1422.6211940986418
+      ],
+      [
+        0.0,
+        1945.8323161418,
+        1095.219513059931
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.014206397918574268,
+      -0.03215403797634047,
+      0.05386263482535702,
+      -0.027360969767242265
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

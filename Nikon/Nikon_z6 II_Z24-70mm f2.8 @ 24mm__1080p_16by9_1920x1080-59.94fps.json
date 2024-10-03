@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_z6 II_Z24-70mm f2.8 @ 24mm__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "JJ Chao",
+  "camera_brand": "Nikon",
+  "camera_model": "z6 II",
+  "lens_model": "Z24-70mm f2.8 @ 24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.24665295868167897,
+    "camera_matrix": [
+      [
+        1280.9000425849397,
+        0.0,
+        966.7512201290256
+      ],
+      [
+        0.0,
+        1284.6858259071944,
+        538.4060248463568
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.27096426811993013,
+      0.3954604590314225,
+      -0.5111166783329221,
+      0.46488677839818543
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

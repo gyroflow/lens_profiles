@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_S24 Ultra_14mm_Full sensor_C4k_4by3_4032x3008-30.00fps",
+  "note": "",
+  "calibrated_by": "Andreas Björklund",
+  "camera_brand": "Samsung",
+  "camera_model": "S24 Ultra",
+  "lens_model": "14mm",
+  "camera_setting": "Full sensor",
+  "calib_dimension": {
+    "w": 4032,
+    "h": 3008
+  },
+  "orig_dimension": {
+    "w": 4032,
+    "h": 3008
+  },
+  "output_dimension": {
+    "w": 4032,
+    "h": 3008
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.996614,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6321338745388261,
+    "camera_matrix": [
+      [
+        1630.2850858483096,
+        0.0,
+        2029.8725866661453
+      ],
+      [
+        0.0,
+        1632.5016803567544,
+        1482.302689913162
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.29283585925182903,
+      0.3632303282656215,
+      -0.49268831038030086,
+      0.4908351652222862
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

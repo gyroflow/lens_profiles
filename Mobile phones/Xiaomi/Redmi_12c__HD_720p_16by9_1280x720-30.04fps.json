@@ -1,0 +1,69 @@
+{
+  "name": "Redmi_12c__HD_720p_16by9_1280x720-30.04fps",
+  "note": "",
+  "calibrated_by": "abdelrahman saafan",
+  "camera_brand": "Redmi",
+  "camera_model": "12c",
+  "lens_model": "",
+  "camera_setting": "HD",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.036076,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.368964450695797,
+    "camera_matrix": [
+      [
+        1083.8783585269164,
+        0.0,
+        641.5499865644002
+      ],
+      [
+        0.0,
+        1084.044363375938,
+        346.63222772003445
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.523661080441787,
+      -1.8258015723967045,
+      10.408801238931632,
+      -18.443731797325377
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-21",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

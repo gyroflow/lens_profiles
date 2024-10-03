@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS 80D_Tamron 18-200__1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "zcf",
+  "camera_brand": "Canon",
+  "camera_model": "EOS 80D",
+  "lens_model": "Tamron 18-200",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5783282912435888,
+    "camera_matrix": [
+      [
+        1348.1220178072774,
+        0.0,
+        902.0238883798188
+      ],
+      [
+        0.0,
+        1349.3090593657794,
+        563.7318320747056
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2158687737549056,
+      -0.00779075180727899,
+      0.31536847537821,
+      -0.13361306682507323
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "honor_ANP-AN00_1__2.5k_7by3_2520x1080-30.02fps",
+  "note": "",
+  "calibrated_by": "c sam",
+  "camera_brand": "honor",
+  "camera_model": "ANP-AN00",
+  "lens_model": "1",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2520,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 2520,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 2520,
+    "h": 1080
+  },
+  "frame_readout_time": 4.89,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.019699,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.33656650317760006,
+    "camera_matrix": [
+      [
+        2341.8723946632936,
+        0.0,
+        1257.0546830170356
+      ],
+      [
+        0.0,
+        2337.652446991617,
+        533.6700847755294
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5681664247026924,
+      -3.0841122515013812,
+      17.430172013923865,
+      -32.05337178208082
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-H2s_唯卓仕75mm f1.2__4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Wenbin",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-H2s",
+  "lens_model": "唯卓仕75mm f1.2",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 9.7,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4346135873370278,
+    "camera_matrix": [
+      [
+        12758.94931092897,
+        0.0,
+        2010.3391290090908
+      ],
+      [
+        0.0,
+        12758.30132451037,
+        1123.6214439181344
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4541309221443031,
+      33.1217584491938,
+      -3053.767860574501,
+      86098.78167498398
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone 13 Pro Max__P 30fps_480p_16by9_960x544-29.00fps",
+  "note": "",
+  "calibrated_by": "张玮",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 13 Pro Max",
+  "lens_model": "",
+  "camera_setting": "P 30fps",
+  "calib_dimension": {
+    "w": 960,
+    "h": 544
+  },
+  "orig_dimension": {
+    "w": 960,
+    "h": 544
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.001049,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.1535721984850129,
+    "camera_matrix": [
+      [
+        823.7516475552505,
+        0.0,
+        483.65817349041
+      ],
+      [
+        0.0,
+        836.2873623083947,
+        271.4030045249291
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6201740530829033,
+      -1.2971567769103003,
+      2.858616272894786,
+      -0.44067495819699
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "RED_V-RAPTOR 8K VV_RF24-105mm F4 L IS USM @ 70.00mm_8K 17:9_8k_1.90by1_8192x4320-25.00fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "RED",
+  "camera_model": "V-RAPTOR 8K VV",
+  "lens_model": "RF24-105mm F4 L IS USM @ 70.00mm",
+  "camera_setting": "8K 17:9",
+  "calib_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.7597165359786358,
+    "camera_matrix": [
+      [
+        14607.92741543124,
+        0.0,
+        4137.610064791338
+      ],
+      [
+        0.0,
+        14274.07949188464,
+        2139.7523015872316
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6178605151568574,
+      0.2230317721598227,
+      15.739614063456976,
+      -120.90809402391262
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "red-v-raptor8kvv-rf24-105mmf4lisusm-70.00mm-8192x4320@0",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 70.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

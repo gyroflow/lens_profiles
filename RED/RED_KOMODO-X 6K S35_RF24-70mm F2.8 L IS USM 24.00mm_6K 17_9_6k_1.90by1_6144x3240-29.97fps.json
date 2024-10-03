@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 3240,
+    "w": 6144
+  },
+  "calibrated_by": "Andy Bonura",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "camera_setting": "6K 17:9",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.795561393664884,
+    "camera_matrix": [
+      [
+        6049.136291805563,
+        0.0,
+        3034.165379505858
+      ],
+      [
+        0.0,
+        6047.776732500085,
+        1523.3128408030252
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1846502176338738,
+      0.21267225497329817,
+      0.1979200296374996,
+      -1.4924415559171198
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 29.97003,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "--red-komodo-x6ks35-rf24-70mmf2.8lisusm-24.00mm-6144x3240@0",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "RF24-70mm F2.8 L IS USM 24.00mm",
+  "name": "RED_KOMODO-X 6K S35_RF24-70mm F2.8 L IS USM 24.00mm_6K 17:9_6k_1.90by1_6144x3240-29.97fps",
+  "note": "",
+  "num_images": 10,
+  "official": false,
+  "orig_dimension": {
+    "h": 3240,
+    "w": 6144
+  },
+  "output_dimension": {
+    "h": 3240,
+    "w": 6144
+  },
+  "sync_settings": null
+}

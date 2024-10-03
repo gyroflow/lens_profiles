@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R5_50__C4k_1.90by1_4096x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "陈世晖",
+  "camera_brand": "Canon",
+  "camera_model": "R5",
+  "lens_model": "50",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.403615567524493,
+    "camera_matrix": [
+      [
+        6133.439200682538,
+        0.0,
+        2180.6052963748557
+      ],
+      [
+        0.0,
+        6146.323860736374,
+        1067.8702434191014
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.17903627842204348,
+      0.6350423304882485,
+      -15.224788427602,
+      138.13628606373015
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

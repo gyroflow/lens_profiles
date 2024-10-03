@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO-X 6K S35_SIRUI Night Walker T1.2_6K_5k_16by9_5760x3240-50.00fps",
+  "note": "",
+  "calibrated_by": "改二",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "lens_model": "SIRUI Night Walker T1.2",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8708421847499216,
+    "camera_matrix": [
+      [
+        5493.057180440344,
+        0.0,
+        2905.2433994631765
+      ],
+      [
+        0.0,
+        5494.892196756509,
+        1630.4773861439546
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.14372809509688345,
+      0.47082555852557734,
+      -1.7369775110949133,
+      4.308841305164025
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": 1.33,
+  "global_shutter": true
+}

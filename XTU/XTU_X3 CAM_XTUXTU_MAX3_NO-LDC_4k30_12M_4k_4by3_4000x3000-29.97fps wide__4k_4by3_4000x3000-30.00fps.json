@@ -1,0 +1,69 @@
+{
+  "name": "XTU_X3 CAM_XTU/XTU_MAX3_NO-LDC_4k30_12M_4k_4by3_4000x3000-29.97fps wide__4k_4by3_4000x3000-30.00fps",
+  "note": "",
+  "calibrated_by": "Rayao",
+  "camera_brand": "XTU",
+  "camera_model": "X3 CAM",
+  "lens_model": "XTU/XTU_MAX3_NO-LDC_4k30_12M_4k_4by3_4000x3000-29.97fps wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "orig_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "output_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9446026323830198,
+    "camera_matrix": [
+      [
+        1846.6627792285449,
+        0.0,
+        2004.658446540817
+      ],
+      [
+        0.0,
+        1844.0247222052728,
+        1503.669704835087
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.09568215751837757,
+      -0.09621039633135976,
+      0.05097213331175551,
+      -0.014601619051011375
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "xtu-x3cam-xtu/xtu_max3_no-ldc_4k30_12m_4k_4by3_4000x3000-29.97fps-wide-4000x3000@30000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

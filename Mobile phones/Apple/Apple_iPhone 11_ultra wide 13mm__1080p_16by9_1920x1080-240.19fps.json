@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone 11_ultra wide 13mm__1080p_16by9_1920x1080-240.19fps",
+  "note": "",
+  "calibrated_by": "Emmanuel Reznik",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 11",
+  "lens_model": "ultra wide 13mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 240.188934,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4256866190581384,
+    "camera_matrix": [
+      [
+        857.6755708911516,
+        0.0,
+        953.8172731178136
+      ],
+      [
+        0.0,
+        858.2784672011062,
+        527.603578178273
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4551215471708595,
+      -0.18494776973674043,
+      0.39006339831515313,
+      -0.09734654285850554
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

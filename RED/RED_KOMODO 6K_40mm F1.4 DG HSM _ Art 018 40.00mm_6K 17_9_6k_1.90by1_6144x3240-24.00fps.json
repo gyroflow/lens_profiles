@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_40mm F1.4 DG HSM | Art 018 40.00mm_6K 17:9_6k_1.90by1_6144x3240-24.00fps",
+  "note": "",
+  "calibrated_by": "satoh",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "40mm F1.4 DG HSM | Art 018 40.00mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1869168859726011,
+    "camera_matrix": [
+      [
+        9365.602054168454,
+        0.0,
+        3077.1162701912094
+      ],
+      [
+        0.0,
+        9342.009965329824,
+        1506.8108735381388
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.23464124523746135,
+      1.209318037962302,
+      -11.545534465527938,
+      41.0381185436678
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "--red-komodo6k-40mmf1.4dghsm|art018-40.00mm-6144x3240@0",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 40.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

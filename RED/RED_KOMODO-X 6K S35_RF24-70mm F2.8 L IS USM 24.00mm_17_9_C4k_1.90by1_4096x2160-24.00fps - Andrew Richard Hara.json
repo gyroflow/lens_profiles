@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO-X 6K S35_RF24-70mm F2.8 L IS USM 24.00mm_17:9_C4k_1.90by1_4096x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "Andrew Richard Hara",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "lens_model": "RF24-70mm F2.8 L IS USM 24.00mm",
+  "camera_setting": "17:9",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6050983568629862,
+    "camera_matrix": [
+      [
+        5658.009769817251,
+        0.0,
+        2033.1284441254616
+      ],
+      [
+        0.0,
+        5667.978105426414,
+        1075.8114722580603
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2031374692909914,
+      0.17947866128156795,
+      -0.21061432260762628,
+      4.020669056374692
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "-red-komodo-x6ks35-rf24-70mmf2.8lisusm-24.00mm-4096x2160@0",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": null,
+  "global_shutter": true
+}

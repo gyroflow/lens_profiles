@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R5C_24-105mm F/4 RF_CLOG3 Super35 at 50mm_C4k_1.90by1_4096x2160-24.00fps",
+  "note": "",
+  "calibrated_by": "Graham Buss",
+  "camera_brand": "Canon",
+  "camera_model": "R5C",
+  "lens_model": "24-105mm F/4 RF",
+  "camera_setting": "CLOG3 Super35 at 50mm",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 11.5,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.849111839750172,
+    "camera_matrix": [
+      [
+        7335.468489709749,
+        0.0,
+        2085.599621066442
+      ],
+      [
+        0.0,
+        7336.67373198948,
+        1061.993792535182
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3674825475620072,
+      3.556953051339454,
+      -53.97438929572159,
+      306.66553105765126
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 50.0,
+  "crop_factor": 1.6,
+  "global_shutter": false
+}

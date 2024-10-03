@@ -1,0 +1,69 @@
+{
+  "name": "Google_Pixel 8_25mm__C4k_4by3_4096x3072-24.00fps",
+  "note": "",
+  "calibrated_by": "Sebastijan",
+  "camera_brand": "Google",
+  "camera_model": "Pixel 8",
+  "lens_model": "25mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 3072
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 3072
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 3072
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.004221,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8762889639672715,
+    "camera_matrix": [
+      [
+        2895.5307758916847,
+        0.0,
+        2037.4314179240175
+      ],
+      [
+        0.0,
+        2894.218566215368,
+        1523.464035794142
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6705286951600561,
+      -2.7173251281740227,
+      10.076249625286488,
+      -12.370330629941297
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z30_18-140mm @ 18mm_18mm_4k_16by9_3840x2160-29.97fps",
+  "note": "18mm",
+  "calibrated_by": "abc",
+  "camera_brand": "Nikon",
+  "camera_model": "Z30",
+  "lens_model": "18-140mm @ 18mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 32.99,
+  "gyro_lpf": 0.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4899297143004536,
+    "camera_matrix": [
+      [
+        2964.447456094655,
+        0.0,
+        1917.2957150532384
+      ],
+      [
+        0.0,
+        2975.851706680471,
+        1063.9639769793723
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.35882483391677444,
+      -0.19549282466827772,
+      2.5391970970744833,
+      -4.909128860458285
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 18.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

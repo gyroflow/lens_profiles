@@ -1,0 +1,69 @@
+{
+  "name": "Canon_C70_EF24-105__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "沈翔",
+  "camera_brand": "Canon",
+  "camera_model": "C70",
+  "lens_model": "EF24-105",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 39.99,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.43381532505035014,
+    "camera_matrix": [
+      [
+        3822.196675097115,
+        0.0,
+        1981.0308639743075
+      ],
+      [
+        0.0,
+        3819.569638413534,
+        1053.0725594910434
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3580167157432361,
+      -0.1689738184466257,
+      4.866112753529131,
+      -13.720126224414102
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

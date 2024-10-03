@@ -1,0 +1,69 @@
+{
+  "name": "Nothing_Phone 1_IMX776_25mm 21:9_2.7k_2.39by1_3440x1440-23.93fps",
+  "note": "MotionCam",
+  "calibrated_by": "Даниил Чугаев",
+  "camera_brand": "Nothing",
+  "camera_model": "Phone 1",
+  "lens_model": "IMX776",
+  "camera_setting": "25mm 21:9",
+  "calib_dimension": {
+    "w": 3440,
+    "h": 1440
+  },
+  "orig_dimension": {
+    "w": 3440,
+    "h": 1440
+  },
+  "output_dimension": {
+    "w": 3440,
+    "h": 1440
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 45,
+  "fps": 23.933332,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.749570409355599,
+    "camera_matrix": [
+      [
+        2863.370225827468,
+        0.0,
+        1719.955371850288
+      ],
+      [
+        0.0,
+        2877.270929570428,
+        689.2023299617847
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5388966323825694,
+      -1.4823016214137856,
+      5.205052495253782,
+      -5.225280959595895
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-21",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

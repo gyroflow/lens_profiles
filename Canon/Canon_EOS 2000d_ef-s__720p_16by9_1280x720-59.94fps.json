@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS 2000d_ef-s__720p_16by9_1280x720-59.94fps",
+  "note": "",
+  "calibrated_by": "Gabriele",
+  "camera_brand": "Canon",
+  "camera_model": "EOS 2000d",
+  "lens_model": "ef-s",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 0,
+    "h": 0
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.41366596864392013,
+    "camera_matrix": [
+      [
+        9694.172517339544,
+        0.0,
+        1631.1049668077435
+      ],
+      [
+        0.0,
+        10058.82328996271,
+        -90.52269008697117
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.935475718898958,
+      -23.550365927900444,
+      40.98925083215152,
+      7395.201675402352
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

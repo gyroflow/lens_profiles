@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Cinema Camera 6K_LUMIX S 18mm f1.8__6k_3by2_6048x4032-25.00fps",
+  "note": "",
+  "calibrated_by": "Shao Mingxin",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Cinema Camera 6K",
+  "lens_model": "LUMIX S 18mm f1.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 6048,
+    "h": 4032
+  },
+  "orig_dimension": {
+    "w": 6048,
+    "h": 4032
+  },
+  "output_dimension": {
+    "w": 6048,
+    "h": 4032
+  },
+  "frame_readout_time": 25.07,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8055419891582323,
+    "camera_matrix": [
+      [
+        3101.476476531603,
+        0.0,
+        2987.8826641627466
+      ],
+      [
+        0.0,
+        3098.5394548806407,
+        1978.768436755378
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1745224478396296,
+      0.13118732983251477,
+      -0.05176675773247258,
+      0.15173827696862469
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-cinemacamera6k-lumixs18/f1.8-18mm-6048x4032@25000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 18.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Decathlon_G-eye-900_Wide_StabilizerOFF_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "leo",
+  "camera_brand": "Decathlon",
+  "camera_model": "G-eye-900",
+  "lens_model": "Wide",
+  "camera_setting": "StabilizerOFF",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5536033802253194,
+    "camera_matrix": [
+      [
+        964.7190158220088,
+        0.0,
+        964.978317808292
+      ],
+      [
+        0.0,
+        963.7645714056116,
+        557.2252044724445
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.21262735018445103,
+      -0.03745451774217097,
+      0.12814574043674867,
+      -0.1292768660400331
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7RIV_Temron 24 2.8 Di III OSD Tamron _16 9_4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "WIN10",
+  "camera_brand": "Sony",
+  "camera_model": "a7RIV",
+  "lens_model": "Temron 24 2.8 Di III OSD Tamron ",
+  "camera_setting": "16 9",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5764581518585429,
+    "camera_matrix": [
+      [
+        2468.486539235386,
+        0.0,
+        1927.4736635889035
+      ],
+      [
+        0.0,
+        2466.2293655084763,
+        1061.9367463827753
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.15901743984184935,
+      0.288813571330951,
+      -0.6485393995032592,
+      0.7129772577103731
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

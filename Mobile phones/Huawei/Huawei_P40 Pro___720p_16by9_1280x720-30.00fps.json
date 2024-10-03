@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 720,
+    "w": 1280
+  },
+  "calibrated_by": "Iris Liu",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Huawei",
+  "camera_model": "P40 Pro",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.4134943520593769,
+    "camera_matrix": [
+      [
+        779.3661891542001,
+        0.0,
+        641.258052365272
+      ],
+      [
+        0.0,
+        786.6306813976277,
+        361.90454481203506
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5082897349830741,
+      -0.8064043714073961,
+      1.0518999098508923,
+      -0.014470913593915564
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 30.000267,
+  "frame_readout_time": 0.0,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Huawei_P40 Pro___720p_16by9_1280x720-30.00fps",
+  "note": "",
+  "num_images": 13,
+  "official": false,
+  "orig_dimension": {
+    "h": 720,
+    "w": 1280
+  },
+  "output_dimension": {
+    "h": 720,
+    "w": 1280
+  },
+  "sync_settings": null
+}

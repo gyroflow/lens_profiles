@@ -1,0 +1,69 @@
+{
+  "name": "Oppo_A16___1080p_16by9_1920x1080-29.61fps",
+  "note": "",
+  "calibrated_by": "U0 A386",
+  "camera_brand": "Oppo",
+  "camera_model": "A16",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.605263,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4442830848683204,
+    "camera_matrix": [
+      [
+        1540.8270995976127,
+        0.0,
+        966.792143314581
+      ],
+      [
+        0.0,
+        1538.7941702929131,
+        551.8914017314759
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5029009881641182,
+      -1.216402118870616,
+      5.19649971205627,
+      -7.126892788344425
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX30_Sirui Nightwalker 24mm__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "rvdris -",
+  "camera_brand": "Sony",
+  "camera_model": "FX30",
+  "lens_model": "Sirui Nightwalker 24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5953534013763236,
+    "camera_matrix": [
+      [
+        4152.803782376582,
+        0.0,
+        1945.723947943676
+      ],
+      [
+        0.0,
+        4149.178090057311,
+        1082.1525704726862
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.09563759601795348,
+      1.6033334089047155,
+      -12.629205191682727,
+      39.147216850782954
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "Florian",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Caddx",
+  "camera_model": "Walnut",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-08-06",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 1.590903948268568,
+    "camera_matrix": [
+      [
+        1722.3998692262182,
+        0.0,
+        1951.122566475716
+      ],
+      [
+        0.0,
+        1718.5649437154802,
+        1149.7274230429634
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.02206795779319088,
+      0.06222418975481501,
+      0.011896879337656213,
+      -0.028858725055693615
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 59.94006,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "--caddx-walnutcam-caddx/caddx_walnut_no-ldc_4k60_4k_16by9_3840x2160-59.94fps-wide-3840x2160@59940",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Caddx/Caddx_Walnut_NO-LDC_4k60_4k_16by9_3840x2160-59.94fps wide",
+  "name": "Caddx_Walnut_Caddx/Caddx_Walnut_NO-LDC_4k60_4k_16by9_3840x2160-59.94fps wide__4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R6 Mark II_2470RF24mm__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "ADMST",
+  "camera_brand": "Canon",
+  "camera_model": "R6 Mark II",
+  "lens_model": "2470RF24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.416417652077948,
+    "camera_matrix": [
+      [
+        2273.6259923953717,
+        0.0,
+        1956.031553517132
+      ],
+      [
+        0.0,
+        2274.0559652150528,
+        982.8819034705566
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3709441580170343,
+      -0.16079208275829207,
+      1.0130285121878937,
+      -0.9999627240992826
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-01",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

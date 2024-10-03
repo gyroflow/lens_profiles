@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7CII_Sigma 24-70 DG DN Art II__4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Artem Bakuta",
+  "camera_brand": "Sony",
+  "camera_model": "a7CII",
+  "lens_model": "Sigma 24-70 DG DN Art II",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 27.4,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8997745060381265,
+    "camera_matrix": [
+      [
+        2544.2442840948675,
+        0.0,
+        1944.9844283298344
+      ],
+      [
+        0.0,
+        2542.9760497937914,
+        1074.614133329802
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2747110227476041,
+      0.3070006377827553,
+      -0.20522480098032916,
+      -0.01896119252503093
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7cm2-24.00mm-3840x2160@23976",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

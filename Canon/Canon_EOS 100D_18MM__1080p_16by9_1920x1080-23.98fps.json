@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS 100D_18MM__1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "user",
+  "camera_brand": "Canon",
+  "camera_model": "EOS 100D",
+  "lens_model": "18MM",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7917528536149817,
+    "camera_matrix": [
+      [
+        2448.6066099832906,
+        0.0,
+        967.586918092312
+      ],
+      [
+        0.0,
+        2446.5266981809223,
+        554.5851387555344
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.28928443377493795,
+      -1.013758821642151,
+      15.966344697274232,
+      -32.09267487949914
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

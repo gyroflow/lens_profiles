@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone SE_se lens__1080p_16by9_1920x1080-59.93fps",
+  "note": "",
+  "calibrated_by": "PRAKUL SAHUKAR",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone SE",
+  "lens_model": "se lens",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.927177,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.49079536329195017,
+    "camera_matrix": [
+      [
+        1952.884504130824,
+        0.0,
+        942.2953864361268
+      ],
+      [
+        0.0,
+        1949.5455154064016,
+        583.6146101740111
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31079708317530946,
+      1.19501207625877,
+      -4.506122408436477,
+      5.275148022237883
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

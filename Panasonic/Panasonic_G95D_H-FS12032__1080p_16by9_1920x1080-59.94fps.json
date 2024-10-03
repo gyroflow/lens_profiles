@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_G95D_H-FS12032__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "qiang su",
+  "camera_brand": "Panasonic",
+  "camera_model": "G95D",
+  "lens_model": "H-FS12032",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.541334759754328,
+    "camera_matrix": [
+      [
+        1574.7922906448118,
+        0.0,
+        969.061314198127
+      ],
+      [
+        0.0,
+        1576.114944380594,
+        522.1631745470028
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2555802799984955,
+      0.22340956570302356,
+      -0.3672090043057322,
+      1.8472862443183136
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

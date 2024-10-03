@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_M2012K11AC__MotionCam_4k_16by9_3840x2176-24.02fps",
+  "note": "",
+  "calibrated_by": "Chukuang",
+  "camera_brand": "Xiaomi",
+  "camera_model": "M2012K11AC",
+  "lens_model": "",
+  "camera_setting": "MotionCam",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 24.019901,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8101515351996047,
+    "camera_matrix": [
+      [
+        2927.8736690927853,
+        0.0,
+        1927.235428885049
+      ],
+      [
+        0.0,
+        2923.5296312549385,
+        1103.4557134908343
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4343400769237001,
+      -0.17921385188098068,
+      2.031526533810592,
+      -5.051775690540841
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

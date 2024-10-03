@@ -1,0 +1,69 @@
+{
+  "name": "Huawei_p40___720p_16by9_1280x720-30.01fps",
+  "note": "",
+  "calibrated_by": "U0 A224",
+  "camera_brand": "Huawei",
+  "camera_model": "p40",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.008738,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.24966538969569313,
+    "camera_matrix": [
+      [
+        1132.4614904751345,
+        0.0,
+        650.084914485533
+      ],
+      [
+        0.0,
+        1135.8219650756057,
+        365.8705821394287
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3747616724511886,
+      -0.5713403327970937,
+      4.072532236255402,
+      -6.789677608578554
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1440,
+    "w": 2560
+  },
+  "calibrated_by": "laiqiuyu2100",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Hawkeye",
+  "camera_model": "2k",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.5278234098424454,
+    "camera_matrix": [
+      [
+        1262.0900293155971,
+        0.0,
+        1289.6735792463433
+      ],
+      [
+        0.0,
+        1258.3601032201882,
+        728.5176790102274
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.04315006853094356,
+      -0.01185935160494527,
+      -0.01784802057035357,
+      0.027142338765078985
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 50.0,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Hawkeye_2k___2.5k_16by9_2560x1440-50.00fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 1440,
+    "w": 2560
+  },
+  "output_dimension": {
+    "h": 1440,
+    "w": 2560
+  },
+  "sync_settings": null
+}

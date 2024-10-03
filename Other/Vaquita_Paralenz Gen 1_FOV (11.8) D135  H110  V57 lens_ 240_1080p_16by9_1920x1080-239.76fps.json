@@ -1,0 +1,69 @@
+{
+  "name": "Vaquita_Paralenz Gen 1_FOV (1/1.8\") D135 / H110 / V57 lens_/ 240_1080p_16by9_1920x1080-239.76fps",
+  "note": "",
+  "calibrated_by": "z3w",
+  "camera_brand": "Vaquita",
+  "camera_model": "Paralenz Gen 1",
+  "lens_model": "FOV (1/1.8\") D135 / H110 / V57 lens",
+  "camera_setting": "/ 240",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 239.760239,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.34062156421378337,
+    "camera_matrix": [
+      [
+        1442.3788091072058,
+        0.0,
+        969.8069119663126
+      ],
+      [
+        0.0,
+        1442.2034201719648,
+        513.7916437747031
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.1251390421599645,
+      0.25663545585971,
+      -1.4788103601204905,
+      2.6746185201924177
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

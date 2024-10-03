@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_Canon FD 50mm f1.4 SSC__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Holgerson",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "Canon FD 50mm f1.4 SSC",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 7,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7034624951347858,
+    "camera_matrix": [
+      [
+        5229.580495036539,
+        0.0,
+        1873.634460496373
+      ],
+      [
+        0.0,
+        5199.802803760994,
+        1165.1092037457263
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.24714606451704657,
+      -3.106375540205197,
+      40.65751523281377,
+      -183.5292476555158
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

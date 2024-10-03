@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX30_DZO Vespid Prime 50mm T2.1__4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Sebastian Garayua",
+  "camera_brand": "Sony",
+  "camera_model": "FX30",
+  "lens_model": "DZO Vespid Prime 50mm T2.1",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.90090170965979,
+    "camera_matrix": [
+      [
+        7590.1820262746205,
+        0.0,
+        1993.5300662514037
+      ],
+      [
+        0.0,
+        7589.176613945369,
+        1050.8329567773635
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.03279844925736504,
+      0.6527224914615013,
+      29.319521867276556,
+      -566.3436217343791
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

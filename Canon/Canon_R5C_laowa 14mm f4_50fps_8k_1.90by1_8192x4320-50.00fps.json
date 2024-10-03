@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R5C_laowa 14mm f4_50fps_8k_1.90by1_8192x4320-50.00fps",
+  "note": "50fps",
+  "calibrated_by": "cc+mark",
+  "camera_brand": "Canon",
+  "camera_model": "R5C",
+  "lens_model": "laowa 14mm f4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 8192,
+    "h": 4320
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0173346050830638,
+    "camera_matrix": [
+      [
+        3344.167221517482,
+        0.0,
+        4117.21458682362
+      ],
+      [
+        0.0,
+        3271.9849898303987,
+        2193.0407642612863
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32746474763188926,
+      0.18600921798310585,
+      -0.13155575383206447,
+      0.17831141664610223
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

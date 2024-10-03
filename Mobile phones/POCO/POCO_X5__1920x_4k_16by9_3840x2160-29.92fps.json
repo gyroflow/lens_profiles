@@ -1,0 +1,69 @@
+{
+  "name": "POCO_X5__1920x_4k_16by9_3840x2160-29.92fps",
+  "note": "",
+  "calibrated_by": "Karel",
+  "camera_brand": "POCO",
+  "camera_model": "X5",
+  "lens_model": "",
+  "camera_setting": "1920x",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.921347,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7863189258217408,
+    "camera_matrix": [
+      [
+        3372.6781041617523,
+        0.0,
+        1892.9300073440677
+      ],
+      [
+        0.0,
+        3373.4243357551395,
+        1092.793044217251
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6024284769572827,
+      -2.560768741367476,
+      12.820004034264445,
+      -21.727298246871648
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

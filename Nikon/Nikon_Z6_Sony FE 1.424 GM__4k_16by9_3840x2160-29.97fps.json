@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z6_Sony FE 1.4/24 GM__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Multitrack01",
+  "camera_brand": "Nikon",
+  "camera_model": "Z6",
+  "lens_model": "Sony FE 1.4/24 GM",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6221202058008857,
+    "camera_matrix": [
+      [
+        2783.3994534398885,
+        0.0,
+        1941.5366270504771
+      ],
+      [
+        0.0,
+        2780.12394463499,
+        1097.5838790374517
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3057776192074891,
+      0.012808250931739328,
+      0.7131544958092868,
+      -0.5292946106382349
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

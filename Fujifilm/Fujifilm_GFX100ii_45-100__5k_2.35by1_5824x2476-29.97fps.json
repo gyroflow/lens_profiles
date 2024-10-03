@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_GFX100ii_45-100__5k_2.35by1_5824x2476-29.97fps",
+  "note": "",
+  "calibrated_by": "chada",
+  "camera_brand": "Fujifilm",
+  "camera_model": "GFX100ii",
+  "lens_model": "45-100",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 5824,
+    "h": 2476
+  },
+  "orig_dimension": {
+    "w": 5824,
+    "h": 2476
+  },
+  "output_dimension": {
+    "w": 5824,
+    "h": 2476
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.7365233928023411,
+    "camera_matrix": [
+      [
+        8264.678511720309,
+        0.0,
+        3066.5808265290025
+      ],
+      [
+        0.0,
+        8215.697221504797,
+        1590.7931889113877
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31497142098462116,
+      -0.0498857244771483,
+      -8.473972487401422,
+      91.1896563378748
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

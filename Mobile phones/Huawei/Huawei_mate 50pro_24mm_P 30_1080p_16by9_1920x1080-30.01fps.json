@@ -1,0 +1,69 @@
+{
+  "name": "Huawei_mate 50pro_24mm_P 30帧_1080p_16by9_1920x1080-30.01fps",
+  "note": "",
+  "calibrated_by": "lei luo",
+  "camera_brand": "Huawei",
+  "camera_model": "mate 50pro",
+  "lens_model": "24mm",
+  "camera_setting": "P 30帧",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.006466,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.45638097929019894,
+    "camera_matrix": [
+      [
+        1748.4704195190711,
+        0.0,
+        978.02292010225
+      ],
+      [
+        0.0,
+        1748.7431581882431,
+        538.7970929020404
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6752563481209999,
+      -3.4591509807287912,
+      17.01914977277073,
+      -28.62398292357279
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

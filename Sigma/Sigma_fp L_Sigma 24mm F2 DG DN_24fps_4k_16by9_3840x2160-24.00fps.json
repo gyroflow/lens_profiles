@@ -1,0 +1,69 @@
+{
+  "name": "Sigma_fp L_Sigma 24mm F2 DG DN_24fps_4k_16by9_3840x2160-24.00fps",
+  "note": "24fps",
+  "calibrated_by": "Ramouuun",
+  "camera_brand": "Sigma",
+  "camera_model": "fp L",
+  "lens_model": "Sigma 24mm F2 DG DN",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.925022305607185,
+    "camera_matrix": [
+      [
+        6563.9772730845525,
+        0.0,
+        1951.59673476491
+      ],
+      [
+        0.0,
+        6584.50580092503,
+        1044.797367516593
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      2.11380538303027,
+      -26.11795923404551,
+      710.1214437383957,
+      -5020.389006551413
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-21",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

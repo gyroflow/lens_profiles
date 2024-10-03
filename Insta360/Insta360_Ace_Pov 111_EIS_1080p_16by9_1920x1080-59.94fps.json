@@ -1,0 +1,69 @@
+{
+  "name": "Insta360_Ace_Pov 111_EIS_1080p_16by9_1920x1080-59.94fps",
+  "note": "EIS",
+  "calibrated_by": "李劲松",
+  "camera_brand": "Insta360",
+  "camera_model": "Ace",
+  "lens_model": "Pov 111",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 3.3829454554554412,
+    "camera_matrix": [
+      [
+        2129.729132562436,
+        0.0,
+        900.1241790684261
+      ],
+      [
+        0.0,
+        1990.7829401576157,
+        1085.8239898724771
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.9918871410021324,
+      -4.68214003831954,
+      4.148480900685455,
+      3.3207052738672984
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "insta360-ace-pov111-1920x1080@59940-eis",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

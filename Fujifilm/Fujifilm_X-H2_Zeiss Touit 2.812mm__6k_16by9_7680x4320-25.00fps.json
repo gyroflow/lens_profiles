@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-H2_Zeiss Touit 2.8/12mm__6k_16by9_7680x4320-25.00fps",
+  "note": "",
+  "calibrated_by": "Alexey Vasyunin",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-H2",
+  "lens_model": "Zeiss Touit 2.8/12mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "frame_readout_time": 17.39,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 22,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.9058134851275472,
+    "camera_matrix": [
+      [
+        4040.414185766312,
+        0.0,
+        3794.345597804913
+      ],
+      [
+        0.0,
+        4034.7833082558186,
+        2159.529678934908
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3513366583795588,
+      -0.005563901709330383,
+      0.34998990633852517,
+      -0.13328777938151723
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

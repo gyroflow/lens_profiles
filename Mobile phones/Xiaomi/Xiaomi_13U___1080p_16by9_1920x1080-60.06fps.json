@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_13U___1080p_16by9_1920x1080-60.06fps",
+  "note": "",
+  "calibrated_by": "o'k",
+  "camera_brand": "Xiaomi",
+  "camera_model": "13U",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.058727,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4585108080656952,
+    "camera_matrix": [
+      [
+        1700.7447731335478,
+        0.0,
+        979.8606501453058
+      ],
+      [
+        0.0,
+        1704.1999005307107,
+        534.1530291306984
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.293140621969218,
+      -0.0564899020338083,
+      1.1157166088032209,
+      -1.4536491517199768
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

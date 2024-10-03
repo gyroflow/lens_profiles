@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_S23+___1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "calibrated_by": "Mann.S",
+  "camera_brand": "Samsung",
+  "camera_model": "S23+",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.001297,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.30664377911615376,
+    "camera_matrix": [
+      [
+        778.5939211064536,
+        0.0,
+        954.1005335885508
+      ],
+      [
+        0.0,
+        777.4207630781724,
+        537.4668194560302
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.34154490210672683,
+      0.0772461380472453,
+      0.21354003760186913,
+      -0.11903879982519082
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

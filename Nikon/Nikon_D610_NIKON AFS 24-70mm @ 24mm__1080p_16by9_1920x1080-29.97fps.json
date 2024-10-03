@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_D610_NIKON AFS 24-70mm @ 24mm__1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "周彦",
+  "camera_brand": "Nikon",
+  "camera_model": "D610",
+  "lens_model": "NIKON AFS 24-70mm @ 24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4078784049444736,
+    "camera_matrix": [
+      [
+        880.2504561621964,
+        0.0,
+        940.1179522056432
+      ],
+      [
+        0.0,
+        880.8017227443507,
+        542.0799144307803
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.284207894661836,
+      0.33283298713491216,
+      -0.6838932614849426,
+      0.7845849952021086
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Redmi_Note 12T___480p_16by9_960x544-30.00fps",
+  "note": "",
+  "calibrated_by": "小布丁",
+  "camera_brand": "Redmi",
+  "camera_model": "Note 12T",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 960,
+    "h": 544
+  },
+  "orig_dimension": {
+    "w": 960,
+    "h": 544
+  },
+  "output_dimension": {
+    "w": 960,
+    "h": 544
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.000618,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.21040369449141264,
+    "camera_matrix": [
+      [
+        517.4475247412058,
+        0.0,
+        499.2587053252233
+      ],
+      [
+        0.0,
+        529.6379363430661,
+        287.93900774322987
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3355918097176716,
+      0.2493898871215866,
+      -0.6170201328802584,
+      0.8992028518725246
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

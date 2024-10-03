@@ -1,0 +1,69 @@
+{
+  "name": "supremo_premere_yudiputa ka__4k_16by9_3840x2160-30.01fps",
+  "note": "",
+  "calibrated_by": "ACER",
+  "camera_brand": "supremo",
+  "camera_model": "premere",
+  "lens_model": "yudiputa ka",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 40,
+  "fps": 30.013777,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.4586341384080184,
+    "camera_matrix": [
+      [
+        2863.357872256235,
+        0.0,
+        2077.0931534690444
+      ],
+      [
+        0.0,
+        2865.4139397618783,
+        974.6584761479676
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.06567048612044282,
+      0.17494183011122655,
+      -0.65348022401916,
+      0.7263155452203248
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

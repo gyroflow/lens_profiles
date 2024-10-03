@@ -1,0 +1,69 @@
+{
+  "name": "LG_V50_27mm__C4k_4by3_4032x3024-24.01fps",
+  "note": "",
+  "calibrated_by": "Nando Y",
+  "camera_brand": "LG",
+  "camera_model": "V50",
+  "lens_model": "27mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4032,
+    "h": 3024
+  },
+  "orig_dimension": {
+    "w": 4032,
+    "h": 3024
+  },
+  "output_dimension": {
+    "w": 4032,
+    "h": 3024
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.007629,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9834072976375614,
+    "camera_matrix": [
+      [
+        3056.9933181845563,
+        0.0,
+        2027.364220390465
+      ],
+      [
+        0.0,
+        3064.6672746792387,
+        1536.4655253624765
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.7063647507665521,
+      -2.08181247377459,
+      1.4192706247454805,
+      11.88002847891088
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

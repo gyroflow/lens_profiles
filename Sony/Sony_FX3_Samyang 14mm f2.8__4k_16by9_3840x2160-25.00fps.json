@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_Samyang 14mm f2.8__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Shrey Gupta",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "Samyang 14mm f2.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.13612894382771,
+    "camera_matrix": [
+      [
+        1506.8738768812202,
+        0.0,
+        1913.4854611262524
+      ],
+      [
+        0.0,
+        1507.2341913282112,
+        1063.058846242677
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.18210492112614832,
+      0.1433228998800345,
+      -0.09830614765610211,
+      0.15012018217486503
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

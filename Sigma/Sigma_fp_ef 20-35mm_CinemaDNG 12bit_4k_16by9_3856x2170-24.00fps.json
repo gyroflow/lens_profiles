@@ -1,0 +1,69 @@
+{
+  "name": "Sigma_fp_ef 20-35mm_CinemaDNG 12bit_4k_16by9_3856x2170-24.00fps",
+  "note": "20mm",
+  "calibrated_by": "koji nakano",
+  "camera_brand": "Sigma",
+  "camera_model": "fp",
+  "lens_model": "ef 20-35mm",
+  "camera_setting": "CinemaDNG 12bit",
+  "calib_dimension": {
+    "w": 3856,
+    "h": 2170
+  },
+  "orig_dimension": {
+    "w": 3856,
+    "h": 2170
+  },
+  "output_dimension": {
+    "w": 3856,
+    "h": 2170
+  },
+  "frame_readout_time": 20.8,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7245954844314824,
+    "camera_matrix": [
+      [
+        2089.1116870066744,
+        0.0,
+        1934.327400322936
+      ],
+      [
+        0.0,
+        2092.7198844578465,
+        1052.218571589511
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20097601260426,
+      0.14724146343520242,
+      -0.06488128566903732,
+      0.20595499901707748
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

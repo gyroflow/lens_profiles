@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R7_EF24f1.4_24mm_1080p_16by9_1920x1080-50.00fps",
+  "note": "EosR0.71x",
+  "calibrated_by": "郭啸宇",
+  "camera_brand": "Canon",
+  "camera_model": "R7",
+  "lens_model": "EF24f1.4",
+  "camera_setting": "24mm",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 20.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2668600424595302,
+    "camera_matrix": [
+      [
+        1539.223024723194,
+        0.0,
+        976.5118604851194
+      ],
+      [
+        0.0,
+        1543.967476685026,
+        515.933251014622
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.27713239370512716,
+      0.06836207510236364,
+      0.4373112224719236,
+      -0.07846972803354973
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

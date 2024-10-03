@@ -1,0 +1,69 @@
+{
+  "name": "Canon_6D Mark II_EF 50mm__1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "Admin",
+  "camera_brand": "Canon",
+  "camera_model": "6D Mark II",
+  "lens_model": "EF 50mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2456128042128162,
+    "camera_matrix": [
+      [
+        2792.125910886033,
+        0.0,
+        975.560839040263
+      ],
+      [
+        0.0,
+        2977.0220928306203,
+        528.8209434433239
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20518292861833667,
+      0.39881272498447734,
+      -5.895661577438751,
+      23.043231850099374
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-31",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Honor_8x Sony_Fix__1080p_16by9_1920x1080-59.67fps",
+  "note": "",
+  "calibrated_by": "U0 A622",
+  "camera_brand": "Honor",
+  "camera_model": "8x Sony",
+  "lens_model": "Fix",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 59.670429,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4694778486412851,
+    "camera_matrix": [
+      [
+        1282.012787005849,
+        0.0,
+        969.2825932748408
+      ],
+      [
+        0.0,
+        1284.8722781563506,
+        506.08191030129734
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5003672028254511,
+      -1.4088262989758302,
+      4.479820278154573,
+      -4.190956144496762
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

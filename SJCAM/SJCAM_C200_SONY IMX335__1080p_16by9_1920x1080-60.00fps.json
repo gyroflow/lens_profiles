@@ -1,0 +1,69 @@
+{
+  "name": "SJCAM_C200_SONY IMX335__1080p_16by9_1920x1080-60.00fps",
+  "note": "",
+  "calibrated_by": "小马",
+  "camera_brand": "SJCAM",
+  "camera_model": "C200",
+  "lens_model": "SONY IMX335",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.652134844383028,
+    "camera_matrix": [
+      [
+        1307.9404547306206,
+        0.0,
+        903.9530805854426
+      ],
+      [
+        0.0,
+        1307.4777472825867,
+        537.9590807950556
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.10926032065803454,
+      0.07192469959922151,
+      -0.08940367315959483,
+      0.058268078916169704
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

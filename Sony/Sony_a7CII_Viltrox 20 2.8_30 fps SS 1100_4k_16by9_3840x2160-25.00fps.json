@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7CII_Viltrox 20 2.8_30 fps SS 1/100_4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "putthigorn prommajaree",
+  "camera_brand": "Sony",
+  "camera_model": "a7CII",
+  "lens_model": "Viltrox 20 2.8",
+  "camera_setting": "30 fps SS 1/100",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8522157244559401,
+    "camera_matrix": [
+      [
+        2263.2435489794825,
+        0.0,
+        1933.480974550024
+      ],
+      [
+        0.0,
+        2263.6613145109586,
+        1074.299626446337
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2354317754584749,
+      0.15803956734723312,
+      -0.06610317712320082,
+      0.26973033337605506
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "--sony-ilce-7cm2-20.00mm-3840x2160@25000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 20.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

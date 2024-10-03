@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_Meike 35MM F1.4__4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Mark Roca",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "Meike 35MM F1.4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 41.71,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 25,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.923725148028998,
+    "camera_matrix": [
+      [
+        6112.790766282362,
+        0.0,
+        1879.9065698627708
+      ],
+      [
+        0.0,
+        6124.755489054455,
+        1097.7670561613402
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3617633191307066,
+      -7.652592205431601,
+      133.33762599798203,
+      -857.232340803184
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

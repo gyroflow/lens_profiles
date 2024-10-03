@@ -1,0 +1,69 @@
+{
+  "name": "OnePlus_11_25mm_full sensor_C4k_4by3_4096x3072-30.01fps",
+  "note": "full sensor",
+  "calibrated_by": "P4tches",
+  "camera_brand": "OnePlus",
+  "camera_model": "11",
+  "lens_model": "25mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 3072
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 3072
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 3072
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.010172,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7637966828937097,
+    "camera_matrix": [
+      [
+        2857.1426586871994,
+        0.0,
+        2056.7914532631517
+      ],
+      [
+        0.0,
+        2852.7275133635458,
+        1531.7358276476723
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.49771224371529543,
+      -0.7389540224558856,
+      0.16486482877724817,
+      3.84548948880808
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

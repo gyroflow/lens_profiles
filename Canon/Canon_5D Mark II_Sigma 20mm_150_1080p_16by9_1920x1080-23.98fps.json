@@ -1,0 +1,69 @@
+{
+  "name": "Canon_5D Mark II_Sigma 20mm_1/50_1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Lauri Similä",
+  "camera_brand": "Canon",
+  "camera_model": "5D Mark II",
+  "lens_model": "Sigma 20mm",
+  "camera_setting": "1/50",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6070592803681322,
+    "camera_matrix": [
+      [
+        1295.2758709079735,
+        0.0,
+        1057.179838256077
+      ],
+      [
+        0.0,
+        1302.800524409466,
+        531.2349774982815
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31201653072711005,
+      0.6212024863722985,
+      -1.9318409455571552,
+      2.247996780865338
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

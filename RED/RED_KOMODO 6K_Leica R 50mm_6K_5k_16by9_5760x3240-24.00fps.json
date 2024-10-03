@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Leica R 50mm_6K_5k_16by9_5760x3240-24.00fps",
+  "note": "No FF",
+  "calibrated_by": "Mark Helsel",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Leica R 50mm",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": 0.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8540749964554653,
+    "camera_matrix": [
+      [
+        12321.098376925453,
+        0.0,
+        2907.7204150250827
+      ],
+      [
+        0.0,
+        12324.503966438517,
+        1674.4742878361592
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2237242749302061,
+      -2.1125496113154068,
+      39.06133532401283,
+      -204.68391012424124
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

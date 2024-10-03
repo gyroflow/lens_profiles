@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_g7_奥林巴斯40-150__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "joshuji",
+  "camera_brand": "Panasonic",
+  "camera_model": "g7",
+  "lens_model": "奥林巴斯40-150",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7504478763192453,
+    "camera_matrix": [
+      [
+        4261.802172984842,
+        0.0,
+        985.4090629592524
+      ],
+      [
+        0.0,
+        4256.623965562984,
+        561.3016889766149
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.16871314072976965,
+      -3.8314112516607377,
+      160.1106699907677,
+      -2185.534889275692
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

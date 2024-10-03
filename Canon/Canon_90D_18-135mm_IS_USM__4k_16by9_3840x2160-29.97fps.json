@@ -1,0 +1,69 @@
+{
+  "name": "Canon_90D_18-135mm_IS_USM__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "Nancy Foo",
+  "camera_brand": "Canon",
+  "camera_model": "90D",
+  "lens_model": "18-135mm_IS_USM",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7883655752268988,
+    "camera_matrix": [
+      [
+        4489.172433911798,
+        0.0,
+        1963.0609768964864
+      ],
+      [
+        0.0,
+        4494.103300863198,
+        1070.9375162839808
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.10425673143370866,
+      1.1367192382881697,
+      -8.76941237423384,
+      27.64659516475132
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

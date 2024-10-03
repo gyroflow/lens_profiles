@@ -1,0 +1,69 @@
+{
+  "name": "Google_Pixel 8 Pro_13mm__1080p_16by9_1920x1088-29.84fps",
+  "note": "",
+  "calibrated_by": "Jared Alasa-as",
+  "camera_brand": "Google",
+  "camera_model": "Pixel 8 Pro",
+  "lens_model": "13mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1088
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1088
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1088
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 29.837097,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4534506183412694,
+    "camera_matrix": [
+      [
+        713.9046906213221,
+        0.0,
+        957.1582478355372
+      ],
+      [
+        0.0,
+        714.0858144716751,
+        535.7504216358557
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2099381423708136,
+      0.875330623691455,
+      -1.4962431121200277,
+      0.9890759780967756
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

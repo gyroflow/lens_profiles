@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_13_15mm__1080p_4by3_1984x1472-30.01fps",
+  "note": "",
+  "calibrated_by": "黎子健",
+  "camera_brand": "Xiaomi",
+  "camera_model": "13",
+  "lens_model": "15mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1984,
+    "h": 1472
+  },
+  "orig_dimension": {
+    "w": 1984,
+    "h": 1472
+  },
+  "output_dimension": {
+    "w": 1984,
+    "h": 1472
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 30.006662,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1558631769199332,
+    "camera_matrix": [
+      [
+        875.073998432299,
+        0.0,
+        996.5394238308086
+      ],
+      [
+        0.0,
+        875.3643426656427,
+        732.8734077972036
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3517211716894741,
+      -0.2988049305115595,
+      1.1566828586506566,
+      -0.8475211940989531
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

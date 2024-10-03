@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_Xcover 5___720p_2.04by1_1472x720-30.03fps",
+  "note": "",
+  "calibrated_by": "U0 A362",
+  "camera_brand": "Samsung",
+  "camera_model": "Xcover 5",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1472,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1472,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1472,
+    "h": 720
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 30.028547,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2981823319421448,
+    "camera_matrix": [
+      [
+        1131.5952475739653,
+        0.0,
+        741.9412193740077
+      ],
+      [
+        0.0,
+        1132.99339951643,
+        359.39473999061863
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.7563330647197021,
+      -2.853069556470386,
+      8.334807975129547,
+      -7.729579960125656
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

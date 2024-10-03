@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7RIII_PLANAR 50MM_SONYA7RIII_1080p_16by9_1920x1080-23.98fps",
+  "note": "50mm",
+  "calibrated_by": "Jonathan Espindola",
+  "camera_brand": "Sony",
+  "camera_model": "a7RIII",
+  "lens_model": "PLANAR 50MM",
+  "camera_setting": "SONYA7RIII",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": -6.717904154988836,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3030498329418511,
+    "camera_matrix": [
+      [
+        4383.749611270142,
+        0.0,
+        922.0635016663708
+      ],
+      [
+        0.0,
+        4383.34866042898,
+        553.4406512498298
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.39079646435059273,
+      -5.286870136772674,
+      199.5772407463948,
+      -2529.1537313437875
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

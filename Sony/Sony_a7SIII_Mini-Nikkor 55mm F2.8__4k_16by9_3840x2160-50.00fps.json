@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7SIII_Mini-Nikkor 55mm F2.8__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Arnold.Huang",
+  "camera_brand": "Sony",
+  "camera_model": "a7SIII",
+  "lens_model": "Mini-Nikkor 55mm F2.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": -8.92,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7329030107143454,
+    "camera_matrix": [
+      [
+        7384.927562911468,
+        0.0,
+        1969.733385937507
+      ],
+      [
+        0.0,
+        7384.836006955036,
+        1159.7875089881609
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2916379025338417,
+      -1.838871578555264,
+      53.10639583776213,
+      -309.14664040962646
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

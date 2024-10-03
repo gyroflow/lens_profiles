@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z9_Z 50mm F1.8_50mm_C4k_16by9_4128x2322-59.94fps",
+  "note": "",
+  "calibrated_by": "Rao",
+  "camera_brand": "Nikon",
+  "camera_model": "Z9",
+  "lens_model": "Z 50mm F1.8",
+  "camera_setting": "50mm",
+  "calib_dimension": {
+    "w": 4128,
+    "h": 2322
+  },
+  "orig_dimension": {
+    "w": 4128,
+    "h": 2322
+  },
+  "output_dimension": {
+    "w": 4128,
+    "h": 2322
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 20,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6991341823304766,
+    "camera_matrix": [
+      [
+        5950.263219387711,
+        0.0,
+        2078.2834941195006
+      ],
+      [
+        0.0,
+        5953.064529376195,
+        1201.1635257551634
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3887988124415629,
+      -0.6298462848392183,
+      4.202230815155007,
+      -6.288110732468987
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 50.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

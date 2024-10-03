@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_S5m2_20-60mm @ 20mm_all-off_5k_3by2_5952x3968-29.97fps",
+  "note": "-",
+  "calibrated_by": "No.19FALCON",
+  "camera_brand": "Panasonic",
+  "camera_model": "S5m2",
+  "lens_model": "20-60mm @ 20mm",
+  "camera_setting": "all-off",
+  "calib_dimension": {
+    "w": 5952,
+    "h": 3968
+  },
+  "orig_dimension": {
+    "w": 5952,
+    "h": 3968
+  },
+  "output_dimension": {
+    "w": 5952,
+    "h": 3968
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": 0.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.8294957412282284,
+    "camera_matrix": [
+      [
+        3396.326786470909,
+        0.0,
+        2972.877783166693
+      ],
+      [
+        0.0,
+        3394.2134405410516,
+        1987.5292386304693
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30295989063721157,
+      0.07477199929105331,
+      0.292537596420289,
+      -0.256711370977952
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

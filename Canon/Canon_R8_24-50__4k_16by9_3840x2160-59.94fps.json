@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R8_24-50__4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Canon",
+  "camera_model": "R8",
+  "lens_model": "24-50",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7684396793368199,
+    "camera_matrix": [
+      [
+        2754.467771334949,
+        0.0,
+        1919.19546778051
+      ],
+      [
+        0.0,
+        2752.995679524776,
+        1048.9429395166285
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4449249524219055,
+      -1.265593535420658,
+      7.266556134929533,
+      -12.090095244109298
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-T3_18-55 Fujinon_18 + OIS On_4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Stefano Marongiu",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-T3",
+  "lens_model": "18-55 Fujinon",
+  "camera_setting": "18 + OIS On",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6477069939922248,
+    "camera_matrix": [
+      [
+        3609.554033631739,
+        0.0,
+        1909.4473617828585
+      ],
+      [
+        0.0,
+        3610.4417592785426,
+        1064.6709952454353
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.0770453424554079,
+      5.330581520820603,
+      -53.352998837838264,
+      193.82843651890127
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

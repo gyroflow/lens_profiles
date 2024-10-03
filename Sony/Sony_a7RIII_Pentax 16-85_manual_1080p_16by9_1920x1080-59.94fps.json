@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7RIII_Pentax 16-85_manual_1080p_16by9_1920x1080-59.94fps",
+  "note": "16mm",
+  "calibrated_by": "Jonathan Espindola",
+  "camera_brand": "Sony",
+  "camera_model": "a7RIII",
+  "lens_model": "Pentax 16-85",
+  "camera_setting": "manual",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": -1.6125303986601192,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 7,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4713404082361184,
+    "camera_matrix": [
+      [
+        1813.704106424432,
+        0.0,
+        916.7379130758128
+      ],
+      [
+        0.0,
+        1812.7176213953064,
+        580.3912411908113
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.22641946675142824,
+      1.1539528120839593,
+      -7.263411329103513,
+      18.48780175150196
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "fujitsu_f52a_27mm_24fps_4k_16by9_3840x2160-24.00fps",
+  "note": "24fps",
+  "calibrated_by": "koji nakano",
+  "camera_brand": "fujitsu",
+  "camera_model": "f52a",
+  "lens_model": "27mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 25.603864734299517,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6143923135784221,
+    "camera_matrix": [
+      [
+        2924.1929464366312,
+        0.0,
+        1924.50161473848
+      ],
+      [
+        0.0,
+        2923.975996842657,
+        1072.5096982421635
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30329211191372674,
+      1.504692071488476,
+      -5.610836847147824,
+      7.007432072788004
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_S9_LUMIX 50mm 1.8_FULL_4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Shihan Zhang",
+  "camera_brand": "Panasonic",
+  "camera_model": "S9",
+  "lens_model": "LUMIX 50mm 1.8",
+  "camera_setting": "FULL",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 37.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 20,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6361100375007706,
+    "camera_matrix": [
+      [
+        5558.598010285044,
+        0.0,
+        1882.8800472465975
+      ],
+      [
+        0.0,
+        5572.9778044513805,
+        1062.1780406380517
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2373566826744889,
+      1.6885804208259168,
+      -3.810170589510751,
+      -17.939761572443906
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

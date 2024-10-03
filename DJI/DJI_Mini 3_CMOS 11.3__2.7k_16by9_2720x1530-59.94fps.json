@@ -1,0 +1,69 @@
+{
+  "name": "DJI_Mini 3_CMOS 1/1.3\"__2.7k_16by9_2720x1530-59.94fps",
+  "note": "",
+  "calibrated_by": "Reyes Guadalupe Puente Balcázar",
+  "camera_brand": "DJI",
+  "camera_model": "Mini 3",
+  "lens_model": "CMOS 1/1.3\"",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2720,
+    "h": 1530
+  },
+  "orig_dimension": {
+    "w": 2720,
+    "h": 1530
+  },
+  "output_dimension": {
+    "w": 2720,
+    "h": 1530
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4046108425737036,
+    "camera_matrix": [
+      [
+        2006.6305110872795,
+        0.0,
+        1365.5274369839149
+      ],
+      [
+        0.0,
+        2005.0178245288416,
+        768.5959084340027
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5986384209614042,
+      -1.4861988431359017,
+      4.611964572885747,
+      -4.14355978869583
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

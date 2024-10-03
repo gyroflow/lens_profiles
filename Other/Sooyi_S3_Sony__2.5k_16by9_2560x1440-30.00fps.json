@@ -1,0 +1,69 @@
+{
+  "name": "Sooyi_S3_Sony__2.5k_16by9_2560x1440-30.00fps",
+  "note": "",
+  "calibrated_by": "John",
+  "camera_brand": "Sooyi",
+  "camera_model": "S3",
+  "lens_model": "Sony",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "orig_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "output_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5470424650714614,
+    "camera_matrix": [
+      [
+        1651.6947779674513,
+        0.0,
+        1295.947195715063
+      ],
+      [
+        0.0,
+        1652.42346123502,
+        662.2561869716836
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.1041991369446425,
+      -0.017592939792042024,
+      0.005456646077479626,
+      0.0008397839402361269
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

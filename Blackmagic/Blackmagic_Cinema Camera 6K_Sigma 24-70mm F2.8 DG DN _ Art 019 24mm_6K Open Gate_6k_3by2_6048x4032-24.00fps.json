@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Cinema Camera 6K_Sigma 24-70mm F2.8 DG DN | Art 019 24mm_6K Open Gate_6k_3by2_6048x4032-24.00fps",
+  "note": "24mm",
+  "calibrated_by": "Storytime Films",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Cinema Camera 6K",
+  "lens_model": "Sigma 24-70mm F2.8 DG DN | Art 019 24mm",
+  "camera_setting": "6K Open Gate",
+  "calib_dimension": {
+    "w": 6048,
+    "h": 4032
+  },
+  "orig_dimension": {
+    "w": 6048,
+    "h": 4032
+  },
+  "output_dimension": {
+    "w": 6048,
+    "h": 4032
+  },
+  "frame_readout_time": 25.07,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.13636077525212,
+    "camera_matrix": [
+      [
+        4123.921407927034,
+        0.0,
+        3083.4227530707744
+      ],
+      [
+        0.0,
+        4122.729776020287,
+        1996.425406513159
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.13432518728976325,
+      0.23274393028409215,
+      -0.2738122827233415,
+      0.6492022188016696
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-cinemacamera6k-sigma24-70mmf2.8dgdn|art019-24mm-6048x4032@24000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

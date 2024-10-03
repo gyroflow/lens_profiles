@@ -1,0 +1,69 @@
+{
+  "name": "XTU_Mini1__30HDR_4k_16by9_3840x2160-30.00fps",
+  "note": "",
+  "calibrated_by": "syon",
+  "camera_brand": "XTU",
+  "camera_model": "Mini1",
+  "lens_model": "",
+  "camera_setting": "30HDR",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "official": false,
+  "use_opencv_fisheye": true,
+  "fisheye_params": {
+    "RMS_error": 0.5411760598281294,
+    "camera_matrix": [
+      [
+        1971.6383345052168,
+        0.0,
+        1878.670286654583
+      ],
+      [
+        0.0,
+        1970.8859618078372,
+        1078.5653310875136
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.07269583784058874,
+      -0.0017344851502479224,
+      0.0006303649508354936,
+      -0.0002481299158819819
+    ],
+    "radial_distortion_limit": null
+  },
+  "use_opencv_standard": false,
+  "calib_params": {
+    "RMS_error": 0.0,
+    "camera_matrix": [],
+    "distortion_coeffs": [],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.1.0",
+  "date": "2024-06-19",
+  "compatible_settings": [],
+  "is_superview": false,
+  "distortion_model_id": 0
+}

@@ -1,0 +1,69 @@
+{
+  "name": "visi_orion_819L_sony_imx347_2.5k_16by9_2688x1520-30.00fps",
+  "note": "30fps",
+  "calibrated_by": "tangxiaofang",
+  "camera_brand": "visi",
+  "camera_model": "orion_819L",
+  "lens_model": "sony",
+  "camera_setting": "imx347",
+  "calib_dimension": {
+    "w": 2688,
+    "h": 1520
+  },
+  "orig_dimension": {
+    "w": 2688,
+    "h": 1520
+  },
+  "output_dimension": {
+    "w": 2688,
+    "h": 1520
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.000299,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8485816091384918,
+    "camera_matrix": [
+      [
+        3025.8077442893905,
+        0.0,
+        1433.7779146512926
+      ],
+      [
+        0.0,
+        3077.6797293039895,
+        1214.69451192796
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2115695227067508,
+      0.23163178385008648,
+      4.747078926270278,
+      -23.88672362798134
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

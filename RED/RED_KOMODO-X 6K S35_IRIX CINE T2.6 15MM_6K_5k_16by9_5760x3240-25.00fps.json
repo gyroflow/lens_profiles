@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO-X 6K S35_IRIX CINE T2.6 15MM_6K_5k_16by9_5760x3240-25.00fps",
+  "note": "",
+  "calibrated_by": "Chris Beard",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "lens_model": "IRIX CINE T2.6 15MM",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0596149599931963,
+    "camera_matrix": [
+      [
+        3528.702932218904,
+        0.0,
+        2858.8351794353107
+      ],
+      [
+        0.0,
+        3527.8192984770044,
+        1613.1431647247653
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2761500103683842,
+      0.3322506342371714,
+      -0.4453189393910348,
+      0.3991257757691858
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

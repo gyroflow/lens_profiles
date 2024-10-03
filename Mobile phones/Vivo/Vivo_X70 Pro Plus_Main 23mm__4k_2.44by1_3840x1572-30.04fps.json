@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1572,
+    "w": 3840
+  },
+  "calibrated_by": "Mateusz Polechonski",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Vivo",
+  "camera_model": "X70 Pro Plus",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-09-17",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.7111609399777198,
+    "camera_matrix": [
+      [
+        2643.2102082189035,
+        0.0,
+        1925.9197827104229
+      ],
+      [
+        0.0,
+        2636.202760018552,
+        755.9033336177231
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5452300481790889,
+      -1.5667200896805906,
+      6.180631258920926,
+      -7.460449394317528
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 30.042404,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Main 23mm",
+  "name": "Vivo_X70 Pro Plus_Main 23mm__4k_2.44by1_3840x1572-30.04fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 1572,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 1572,
+    "w": 3840
+  },
+  "sync_settings": null
+}

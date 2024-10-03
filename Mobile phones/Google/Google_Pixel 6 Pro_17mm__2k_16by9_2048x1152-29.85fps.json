@@ -1,0 +1,69 @@
+{
+  "name": "Google_Pixel 6 Pro_17mm__2k_16by9_2048x1152-29.85fps",
+  "note": "",
+  "calibrated_by": "U0 A314",
+  "camera_brand": "Google",
+  "camera_model": "Pixel 6 Pro",
+  "lens_model": "17mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2048,
+    "h": 1152
+  },
+  "orig_dimension": {
+    "w": 2048,
+    "h": 1152
+  },
+  "output_dimension": {
+    "w": 2048,
+    "h": 1152
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 29.852684,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.3684653657656602,
+    "camera_matrix": [
+      [
+        1906.377927133213,
+        0.0,
+        997.8976473257984
+      ],
+      [
+        0.0,
+        1847.4912488657287,
+        189.36836672052485
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.7167844698683872,
+      -3.2867142713335284,
+      15.705627529349323,
+      -24.532837513821384
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

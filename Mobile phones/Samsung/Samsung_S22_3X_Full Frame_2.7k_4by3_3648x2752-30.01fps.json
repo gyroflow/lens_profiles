@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_S22_3X_Full Frame_2.7k_4by3_3648x2752-30.01fps",
+  "note": "30FPS",
+  "calibrated_by": "Vr. Aman Kumar",
+  "camera_brand": "Samsung",
+  "camera_model": "S22",
+  "lens_model": "3X",
+  "camera_setting": "Full Frame",
+  "calib_dimension": {
+    "w": 3648,
+    "h": 2752
+  },
+  "orig_dimension": {
+    "w": 3648,
+    "h": 2752
+  },
+  "output_dimension": {
+    "w": 3648,
+    "h": 2752
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 30.010485,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0887019724469296,
+    "camera_matrix": [
+      [
+        7050.39629695439,
+        0.0,
+        1853.1185857705252
+      ],
+      [
+        0.0,
+        7068.407976667538,
+        1392.8185493320432
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -1.4994572420232952,
+      70.0585393722114,
+      -1061.364895726827,
+      5556.227208590824
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

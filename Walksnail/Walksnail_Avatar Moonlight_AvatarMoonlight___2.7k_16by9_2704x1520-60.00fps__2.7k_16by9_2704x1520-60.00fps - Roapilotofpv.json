@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1520,
+    "w": 2704
+  },
+  "calibrated_by": "Roapilotofpv",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Walksnail",
+  "camera_model": "Avatar Moonlight",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-07-25",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.6203381984371673,
+    "camera_matrix": [
+      [
+        1227.9427530280782,
+        0.0,
+        1391.4130959821653
+      ],
+      [
+        0.0,
+        1228.8518731611714,
+        748.8699166059175
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.0383346676497565,
+      0.019346043020491463,
+      -0.02113880490129785,
+      0.005891514977121383
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 60.000008,
+  "frame_readout_time": -2.749719416386083,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "AvatarMoonlight___2.7k_16by9_2704x1520-60.00fps",
+  "name": "Walksnail_Avatar Moonlight_AvatarMoonlight___2.7k_16by9_2704x1520-60.00fps__2.7k_16by9_2704x1520-60.00fps",
+  "note": "",
+  "num_images": 8,
+  "official": false,
+  "orig_dimension": {
+    "h": 1520,
+    "w": 2704
+  },
+  "output_dimension": {
+    "h": 1520,
+    "w": 2704
+  },
+  "sync_settings": null
+}

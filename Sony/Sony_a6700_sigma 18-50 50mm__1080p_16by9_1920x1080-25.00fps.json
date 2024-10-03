@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6700_sigma 18-50 50mm__1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "葛大爷",
+  "camera_brand": "Sony",
+  "camera_model": "a6700",
+  "lens_model": "sigma 18-50 50mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 6.82,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3348444315826383,
+    "camera_matrix": [
+      [
+        4365.4602636061545,
+        0.0,
+        935.2351344876124
+      ],
+      [
+        0.0,
+        4363.032231955303,
+        491.4072930041235
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.0517578640050559,
+      26.7226712612938,
+      -946.1696755718128,
+      13083.12602335563
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-6700-50.00mm-1920x1080@25000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 50.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

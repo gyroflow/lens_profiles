@@ -1,0 +1,69 @@
+{
+  "name": "Hawkeye_SplitV5___2.7k_4by3_2880x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "VICTOR",
+  "camera_brand": "Hawkeye",
+  "camera_model": "SplitV5",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2880,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 2880,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 2880,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.096312119641149,
+    "camera_matrix": [
+      [
+        1386.4156425997412,
+        0.0,
+        1437.896666535558
+      ],
+      [
+        0.0,
+        1849.404191432285,
+        1044.5512505709512
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.028664758266952015,
+      0.04905619418362491,
+      -0.09100639445153358,
+      0.04894471184364856
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-09",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

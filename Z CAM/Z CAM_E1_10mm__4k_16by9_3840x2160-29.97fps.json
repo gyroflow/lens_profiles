@@ -1,0 +1,69 @@
+{
+  "name": "Z CAM_E1_10mm__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "ERMA",
+  "camera_brand": "Z CAM",
+  "camera_model": "E1",
+  "lens_model": "10mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 4.89,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7214044667609274,
+    "camera_matrix": [
+      [
+        3165.002128024835,
+        0.0,
+        1918.7905691492429
+      ],
+      [
+        0.0,
+        3164.595777357893,
+        1066.8303075855706
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.05164225961273345,
+      0.22865412973712865,
+      -0.7513010961264506,
+      0.6655517989031539
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

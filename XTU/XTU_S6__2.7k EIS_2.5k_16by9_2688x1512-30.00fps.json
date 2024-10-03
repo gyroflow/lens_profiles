@@ -1,0 +1,69 @@
+{
+  "name": "XTU_S6__2.7k EIS_2.5k_16by9_2688x1512-30.00fps",
+  "note": "",
+  "calibrated_by": "Sindri",
+  "camera_brand": "XTU",
+  "camera_model": "S6",
+  "lens_model": "",
+  "camera_setting": "2.7k EIS",
+  "calib_dimension": {
+    "w": 2688,
+    "h": 1512
+  },
+  "orig_dimension": {
+    "w": 2688,
+    "h": 1512
+  },
+  "output_dimension": {
+    "w": 2688,
+    "h": 1512
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8002596288770035,
+    "camera_matrix": [
+      [
+        1762.5846658316098,
+        0.0,
+        1372.8587730478991
+      ],
+      [
+        0.0,
+        1764.8721195886494,
+        737.8803287650227
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3676989899375927,
+      -0.05418261079849546,
+      0.4845035614816609,
+      -0.26581364770000165
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

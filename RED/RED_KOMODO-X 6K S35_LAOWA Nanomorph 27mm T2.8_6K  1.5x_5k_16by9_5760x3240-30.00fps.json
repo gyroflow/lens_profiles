@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO-X 6K S35_LAOWA Nanomorph 27mm T2.8_6K  1.5x_5k_16by9_5760x3240-30.00fps",
+  "note": "60FPS",
+  "calibrated_by": "Kiwi Tom",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "lens_model": "LAOWA Nanomorph 27mm T2.8",
+  "camera_setting": "6K  1.5x",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 3.2979314187479836,
+    "camera_matrix": [
+      [
+        4007.4537109020753,
+        0.0,
+        2868.0061464173477
+      ],
+      [
+        0.0,
+        6036.085894049322,
+        1739.3103922711264
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3628805807615331,
+      -1.0556793171424117,
+      3.466036741979162,
+      -3.2039997788221237
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

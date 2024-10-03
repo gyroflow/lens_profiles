@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS 250D_la mini_video manual_720p_16by9_1280x720-50.00fps",
+  "note": "",
+  "calibrated_by": "Carlos Delgado",
+  "camera_brand": "Canon",
+  "camera_model": "EOS 250D",
+  "lens_model": "la mini",
+  "camera_setting": "video manual",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.20848941032604187,
+    "camera_matrix": [
+      [
+        1121.2826181049795,
+        0.0,
+        637.0390735069246
+      ],
+      [
+        0.0,
+        1121.5062512087852,
+        365.5095835342621
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1317141222818069,
+      0.4052436677628844,
+      -0.9448755819575976,
+      1.8983156553278664
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

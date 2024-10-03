@@ -1,0 +1,69 @@
+{
+  "name": "Sony_Xperia IV_16mm__1080p_16by9_1920x1080-24.97fps",
+  "note": "",
+  "calibrated_by": "数字媒体课程专用",
+  "camera_brand": "Sony",
+  "camera_model": "Xperia IV",
+  "lens_model": "16mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 24.974958,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9818041723653992,
+    "camera_matrix": [
+      [
+        722.1920155567593,
+        0.0,
+        966.2003039003588
+      ],
+      [
+        0.0,
+        975.4599264680106,
+        529.9927130633624
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.24016432338176932,
+      0.3790687571531371,
+      -0.37953019685698913,
+      0.31057277901481173
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

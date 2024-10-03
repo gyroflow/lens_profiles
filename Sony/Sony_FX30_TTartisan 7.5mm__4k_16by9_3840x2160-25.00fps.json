@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX30_TTartisan 7.5mm__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "ono",
+  "camera_brand": "Sony",
+  "camera_model": "FX30",
+  "lens_model": "TTartisan 7.5mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6012461239861999,
+    "camera_matrix": [
+      [
+        1669.0896870255042,
+        0.0,
+        1876.634612978405
+      ],
+      [
+        0.0,
+        1668.9582074754555,
+        1079.5650865091566
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.007009175959518399,
+      -0.006994728057938332,
+      -0.02071879885751167,
+      0.01881003266791363
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

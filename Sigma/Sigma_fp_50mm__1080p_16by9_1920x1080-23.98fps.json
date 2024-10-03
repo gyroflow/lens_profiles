@@ -1,0 +1,69 @@
+{
+  "name": "Sigma_fp_50mm__1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "颗列姆",
+  "camera_brand": "Sigma",
+  "camera_model": "fp",
+  "lens_model": "50mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": -27.435327363488287,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7276269915645704,
+    "camera_matrix": [
+      [
+        2843.9912514759303,
+        0.0,
+        961.7647036781386
+      ],
+      [
+        0.0,
+        2843.789803027896,
+        558.0535806277575
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.10841389982863704,
+      1.2112934190306135,
+      -10.475465056915615,
+      39.66647017169272
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

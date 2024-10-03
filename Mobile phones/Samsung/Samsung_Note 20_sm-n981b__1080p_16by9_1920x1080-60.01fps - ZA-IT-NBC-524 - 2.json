@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_Note 20_sm-n981b__1080p_16by9_1920x1080-60.01fps",
+  "note": "",
+  "calibrated_by": "ZA-IT-NBC-524",
+  "camera_brand": "Samsung",
+  "camera_model": "Note 20",
+  "lens_model": "sm-n981b",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.009655,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.32356003170070985,
+    "camera_matrix": [
+      [
+        1368.068078693169,
+        0.0,
+        970.0162987914744
+      ],
+      [
+        0.0,
+        1367.8981265358466,
+        543.9573516659595
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3414930016800854,
+      0.21851798849830711,
+      -0.05890766288819721,
+      -0.08756432120033784
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

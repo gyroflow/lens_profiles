@@ -1,0 +1,69 @@
+{
+  "name": "Fairphone_5_13mm__4k_16by9_3840x2160-30.00fps",
+  "note": "",
+  "calibrated_by": "ib",
+  "camera_brand": "Fairphone",
+  "camera_model": "5",
+  "lens_model": "13mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1506551529551197,
+    "camera_matrix": [
+      [
+        1461.3347047706543,
+        0.0,
+        1911.4397939815085
+      ],
+      [
+        0.0,
+        1465.0211264561185,
+        1066.867981774616
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2984088633112577,
+      0.24841800952671625,
+      -0.10295386419464304,
+      0.08039190870151912
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

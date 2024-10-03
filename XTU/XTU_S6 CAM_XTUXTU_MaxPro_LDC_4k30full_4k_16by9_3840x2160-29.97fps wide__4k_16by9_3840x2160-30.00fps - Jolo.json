@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "Jolo",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "XTU",
+  "camera_model": "S6 CAM",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-09-26",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 3.1953917102587215,
+    "camera_matrix": [
+      [
+        3244.0772308940186,
+        0.0,
+        2004.8297779500251
+      ],
+      [
+        0.0,
+        2391.6726077824255,
+        1143.6534062231178
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.6671997137547268,
+      -0.3008400838403555,
+      4.183246145777645,
+      -6.072466296881194
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 30.0,
+  "frame_readout_time": 9.98389694041868,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "--xtu-s6cam-xtu/xtu_maxpro_ldc_4k30full_4k_16by9_3840x2160-29.97fps-wide-3840x2160@30000",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "XTU/XTU_MaxPro_LDC_4k30full_4k_16by9_3840x2160-29.97fps wide",
+  "name": "XTU_S6 CAM_XTU/XTU_MaxPro_LDC_4k30full_4k_16by9_3840x2160-29.97fps wide__4k_16by9_3840x2160-30.00fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

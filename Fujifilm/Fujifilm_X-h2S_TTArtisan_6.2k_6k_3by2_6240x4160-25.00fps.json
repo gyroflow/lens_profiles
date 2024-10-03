@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-h2S_TTArtisan_6.2k_6k_3by2_6240x4160-25.00fps",
+  "note": "",
+  "calibrated_by": "baxi",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-h2S",
+  "lens_model": "TTArtisan",
+  "camera_setting": "6.2k",
+  "calib_dimension": {
+    "w": 6240,
+    "h": 4160
+  },
+  "orig_dimension": {
+    "w": 6240,
+    "h": 4160
+  },
+  "output_dimension": {
+    "w": 6240,
+    "h": 4160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.632554985257445,
+    "camera_matrix": [
+      [
+        7096.822107160224,
+        0.0,
+        3198.8357568031065
+      ],
+      [
+        0.0,
+        7095.524512694736,
+        2045.4713969364043
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.005612813314305618,
+      4.844257761263725,
+      -56.3781982757948,
+      225.92527386883373
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

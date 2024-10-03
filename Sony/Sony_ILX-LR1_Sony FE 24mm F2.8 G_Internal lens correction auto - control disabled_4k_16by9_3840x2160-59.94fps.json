@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ILX-LR1_Sony FE 24mm F2.8 G_Internal lens correction auto - control disabled_4k_16by9_3840x2160-59.94fps",
+  "note": "Internal lens correction auto - control disabled",
+  "calibrated_by": "Joost Tromp",
+  "camera_brand": "Sony",
+  "camera_model": "ILX-LR1",
+  "lens_model": "Sony FE 24mm F2.8 G",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 14.75,
+  "gyro_lpf": 50.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 30,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4938144804128524,
+    "camera_matrix": [
+      [
+        3202.5049460764544,
+        0.0,
+        1918.0267229157175
+      ],
+      [
+        0.0,
+        3203.3578528378252,
+        1070.3745897445865
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32988902270184367,
+      0.1615945901302091,
+      -0.1723450081295868,
+      0.4830594146095282
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilx-lr1-24.00mm-3840x2160@59940",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 24.0,
+  "crop_factor": 1.24,
+  "global_shutter": false
+}

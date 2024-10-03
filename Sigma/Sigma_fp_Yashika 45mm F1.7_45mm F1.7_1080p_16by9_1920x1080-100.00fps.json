@@ -1,0 +1,69 @@
+{
+  "name": "Sigma_fp_Yashika 45mm F1.7_45mm F1.7_1080p_16by9_1920x1080-100.00fps",
+  "note": "",
+  "calibrated_by": "Ryan Zhu",
+  "camera_brand": "Sigma",
+  "camera_model": "fp",
+  "lens_model": "Yashika 45mm F1.7",
+  "camera_setting": "45mm F1.7",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 19,
+  "fps": 100.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4717819350014637,
+    "camera_matrix": [
+      [
+        2438.6801794478056,
+        0.0,
+        1012.4253744921116
+      ],
+      [
+        0.0,
+        2437.981396215483,
+        550.9299954550669
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.23099906524846475,
+      -0.27644863341645337,
+      2.0442994627609625,
+      -0.6955331428270992
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 45.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

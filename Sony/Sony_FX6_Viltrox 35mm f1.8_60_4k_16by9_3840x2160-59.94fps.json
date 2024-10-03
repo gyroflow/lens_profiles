@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_Viltrox 35mm f1.8_60_4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Kyle M Fields",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "Viltrox 35mm f1.8",
+  "camera_setting": "60",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4904539668447052,
+    "camera_matrix": [
+      [
+        3790.594539628127,
+        0.0,
+        1913.495089816836
+      ],
+      [
+        0.0,
+        3789.8932041145663,
+        1074.9956137951865
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.25513611853198886,
+      0.30982608481954493,
+      0.4296678638837069,
+      0.7413762553303423
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx6v-35.00mm-3840x2160@59940",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

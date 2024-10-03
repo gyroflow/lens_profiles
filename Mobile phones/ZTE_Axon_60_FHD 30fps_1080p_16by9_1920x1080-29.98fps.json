@@ -1,0 +1,69 @@
+{
+  "name": "ZTE_Axon_60_FHD 30fps_1080p_16by9_1920x1080-29.98fps",
+  "note": "FHD 30fps",
+  "calibrated_by": "devsaco",
+  "camera_brand": "ZTE",
+  "camera_model": "Axon",
+  "lens_model": "60",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": -5.0,
+  "gyro_lpf": 60.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 59,
+  "fps": 29.978514,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.35366103505691976,
+    "camera_matrix": [
+      [
+        1460.381840186499,
+        0.0,
+        956.3499218295982
+      ],
+      [
+        0.0,
+        1460.3311276207485,
+        522.3891815335376
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4160120222608437,
+      0.15790381948085655,
+      -1.426563580266478,
+      2.266353997452338
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-27",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": 1.0,
+  "global_shutter": true
+}

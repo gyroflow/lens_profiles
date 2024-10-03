@@ -1,0 +1,69 @@
+{
+  "name": "Sigma_fp_28 70_70_1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "TAO XIONG",
+  "camera_brand": "Sigma",
+  "camera_model": "fp",
+  "lens_model": "28 70",
+  "camera_setting": "70",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 10.04,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 20,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3218925568640787,
+    "camera_matrix": [
+      [
+        5279.572912076014,
+        0.0,
+        963.6519239115188
+      ],
+      [
+        0.0,
+        5241.9226996676,
+        253.75790132423285
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5427116771023752,
+      -7.23702888082738,
+      177.77952136923108,
+      -1085.4460919634655
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-29",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 70.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

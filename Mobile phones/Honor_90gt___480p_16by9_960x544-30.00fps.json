@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 544,
+    "w": 960
+  },
+  "calibrated_by": "yihang shang",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Honor",
+  "camera_model": "荣耀90gt",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-08-11",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.2859470118391641,
+    "camera_matrix": [
+      [
+        871.6515913155002,
+        0.0,
+        480.4975256751169
+      ],
+      [
+        0.0,
+        879.2556454172665,
+        271.3403588901854
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.45927749259045,
+      -2.00177178331167,
+      10.289949230498245,
+      -16.492646232800727
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 30.000673,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Honor_荣耀90gt___480p_16by9_960x544-30.00fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 544,
+    "w": 960
+  },
+  "output_dimension": {
+    "h": 544,
+    "w": 960
+  },
+  "sync_settings": null
+}

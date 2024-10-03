@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R5C_ef501.2__C4k_1.90by1_4096x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "石成鹏",
+  "camera_brand": "Canon",
+  "camera_model": "R5C",
+  "lens_model": "ef501.2",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 7,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9261122190712322,
+    "camera_matrix": [
+      [
+        7869.120916246059,
+        0.0,
+        1902.9678602938789
+      ],
+      [
+        0.0,
+        7888.48414267259,
+        718.7691562741194
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.15621301094110956,
+      19.97989722301625,
+      -446.8041881627009,
+      3316.9302212870875
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_Z Flip 4_1.76″ sensor_1440x1440_720p_1by1_1440x1440-30.01fps",
+  "note": "1440x1440",
+  "calibrated_by": "nickos mavronas",
+  "camera_brand": "Samsung",
+  "camera_model": "Z Flip 4",
+  "lens_model": "1.76″ sensor",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1440,
+    "h": 1440
+  },
+  "orig_dimension": {
+    "w": 1440,
+    "h": 1440
+  },
+  "output_dimension": {
+    "w": 1440,
+    "h": 1440
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 30.005182,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4382164530875042,
+    "camera_matrix": [
+      [
+        1654.4723778440884,
+        0.0,
+        731.3655719682978
+      ],
+      [
+        0.0,
+        1656.5217996652036,
+        716.3824652147624
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3681499097275751,
+      -0.651853928183775,
+      4.820133478130737,
+      -8.473722002479558
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

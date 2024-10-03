@@ -1,0 +1,69 @@
+{
+  "name": "Motorola_Moto G200_lente principal_motioncam pro_4k_16by9_3840x2176-24.04fps",
+  "note": "motioncam pro",
+  "calibrated_by": "Jorge Huaman",
+  "camera_brand": "Motorola",
+  "camera_model": "Moto G200",
+  "lens_model": "lente principal",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.035616,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0499264948395717,
+    "camera_matrix": [
+      [
+        2646.688070237264,
+        0.0,
+        1910.0476705762492
+      ],
+      [
+        0.0,
+        2648.6599165618904,
+        1053.5177072906563
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.49184630181739913,
+      -1.0099957198208098,
+      2.936814081944905,
+      -2.6339029113442236
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-30",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

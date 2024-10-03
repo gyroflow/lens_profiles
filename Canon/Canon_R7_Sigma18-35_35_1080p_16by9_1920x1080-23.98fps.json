@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R7_Sigma18-35_35_1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "YIM",
+  "camera_brand": "Canon",
+  "camera_model": "R7",
+  "lens_model": "Sigma18-35",
+  "camera_setting": "35",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 28.65,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.20660691821803132,
+    "camera_matrix": [
+      [
+        3047.882429083719,
+        0.0,
+        975.9938442467496
+      ],
+      [
+        0.0,
+        3055.017079295222,
+        511.3781357046642
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3614089988182804,
+      0.9052664166814204,
+      0.6949800080639472,
+      -24.163640284250636
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

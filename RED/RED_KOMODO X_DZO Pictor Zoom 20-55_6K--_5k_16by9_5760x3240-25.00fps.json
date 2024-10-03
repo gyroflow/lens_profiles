@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO X_DZO Pictor Zoom 20-55_6K--_5k_16by9_5760x3240-25.00fps",
+  "note": "",
+  "calibrated_by": "Fredrik Ulen",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO X",
+  "lens_model": "DZO Pictor Zoom 20-55",
+  "camera_setting": "6K--",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9138092296784396,
+    "camera_matrix": [
+      [
+        4622.275360590354,
+        0.0,
+        2871.1250711606767
+      ],
+      [
+        0.0,
+        4623.1588818502105,
+        1629.0073988445054
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.15180857944468332,
+      0.1583848300788307,
+      -0.1399079199532584,
+      0.4892250479169463
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

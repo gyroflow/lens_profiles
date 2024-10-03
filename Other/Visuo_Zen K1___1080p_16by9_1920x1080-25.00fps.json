@@ -1,0 +1,69 @@
+{
+  "name": "Visuo_Zen K1___1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "rutger van zanten",
+  "camera_brand": "Visuo",
+  "camera_model": "Zen K1",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4981342118984591,
+    "camera_matrix": [
+      [
+        1498.3218775654975,
+        0.0,
+        930.7368562804264
+      ],
+      [
+        0.0,
+        1507.3194520760844,
+        602.511310243159
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.14772546725581318,
+      0.38535982156706344,
+      -1.821045036252371,
+      2.9945973247679993
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

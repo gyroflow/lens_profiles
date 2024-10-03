@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Leica R 60mm f/2.8 Macro-Elmarit-R_6K 17:9_6k_1.90by1_6144x3240-24.00fps",
+  "note": "60mm, S35, recorded at 40fps",
+  "calibrated_by": "windcine",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Leica R 60mm f/2.8 Macro-Elmarit-R",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8098321904756205,
+    "camera_matrix": [
+      [
+        14762.54768912505,
+        0.0,
+        3040.903594805173
+      ],
+      [
+        0.0,
+        14752.949387621627,
+        1662.855118604262
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3112824633115537,
+      2.813610277706683,
+      -102.23847262089112,
+      1065.7444826247045
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-03-31",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

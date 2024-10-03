@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_zeiss Batis 40__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Roy",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "zeiss Batis 40",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.283218750536976,
+    "camera_matrix": [
+      [
+        2266.1429989042936,
+        0.0,
+        966.2038125001064
+      ],
+      [
+        0.0,
+        2263.512525200145,
+        527.4080129475534
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.30592992499647476,
+      0.3399142327958659,
+      -1.0583746160920031,
+      5.284555287889341
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-d9c7aa64-1920x1080@50000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

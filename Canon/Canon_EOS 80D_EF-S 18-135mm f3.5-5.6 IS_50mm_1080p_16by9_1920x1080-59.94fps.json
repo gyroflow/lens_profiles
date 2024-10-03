@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS 80D_EF-S 18-135mm f/3.5-5.6 IS_50mm_1080p_16by9_1920x1080-59.94fps",
+  "note": "50mm",
+  "calibrated_by": "asus",
+  "camera_brand": "Canon",
+  "camera_model": "EOS 80D",
+  "lens_model": "EF-S 18-135mm f/3.5-5.6 IS",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2536116013602811,
+    "camera_matrix": [
+      [
+        1531.3331090772183,
+        0.0,
+        959.9158445595112
+      ],
+      [
+        0.0,
+        1534.754215536579,
+        545.576528873855
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.15327125510782452,
+      -0.09127074996554696,
+      1.5834004476073018,
+      -3.4987425769990845
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

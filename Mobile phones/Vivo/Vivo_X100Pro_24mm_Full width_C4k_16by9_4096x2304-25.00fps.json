@@ -1,0 +1,69 @@
+{
+  "name": "Vivo_X100Pro_24mm_Full width_C4k_16by9_4096x2304-25.00fps",
+  "note": "",
+  "calibrated_by": "Florian Koch",
+  "camera_brand": "Vivo",
+  "camera_model": "X100Pro",
+  "lens_model": "24mm",
+  "camera_setting": "Full width",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2304
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2304
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2304
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7585484677282831,
+    "camera_matrix": [
+      [
+        2734.0280104361473,
+        0.0,
+        2070.0833791092123
+      ],
+      [
+        0.0,
+        2731.6654306734217,
+        1121.6799330938595
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.633385010819789,
+      -2.293023752983277,
+      7.366722502352185,
+      -7.636124184161637
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Techno spark_Spark___1080p_16by9_1920x1080-27.12fps",
+  "note": "",
+  "calibrated_by": "U0 A369 y",
+  "camera_brand": "Techno spark",
+  "camera_model": "Spark",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 27.120197,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.41152558129841665,
+    "camera_matrix": [
+      [
+        1771.4273986706232,
+        0.0,
+        988.7422554493604
+      ],
+      [
+        0.0,
+        1767.3654002297724,
+        524.0065715940265
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2587022963798878,
+      0.3528141621582357,
+      2.4863425573047624,
+      -15.094409921814314
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

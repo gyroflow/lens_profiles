@@ -1,0 +1,69 @@
+{
+  "name": "Redmi_K70_25mm__2k_4by3_2048x1536-30.00fps",
+  "note": "",
+  "calibrated_by": "Admin",
+  "camera_brand": "Redmi",
+  "camera_model": "K70",
+  "lens_model": "25mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2048,
+    "h": 1536
+  },
+  "orig_dimension": {
+    "w": 2048,
+    "h": 1536
+  },
+  "output_dimension": {
+    "w": 2048,
+    "h": 1536
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": 0.0,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5331744034155188,
+    "camera_matrix": [
+      [
+        1487.1761734316692,
+        0.0,
+        1035.6339537747313
+      ],
+      [
+        0.0,
+        1487.5344384506398,
+        749.5312517249106
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4848531854347179,
+      -0.5112421609926403,
+      1.1823671417293569,
+      -0.9735724580124756
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

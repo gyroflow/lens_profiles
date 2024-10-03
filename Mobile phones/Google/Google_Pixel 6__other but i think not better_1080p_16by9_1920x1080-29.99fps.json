@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "calibrated_by": "Иван Гребенюк",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Google",
+  "camera_model": "Pixel 6",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-04-26",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.369319367826654,
+    "camera_matrix": [
+      [
+        1287.8079602751757,
+        0.0,
+        958.358667046679
+      ],
+      [
+        0.0,
+        1286.4360348067676,
+        521.0169691790358
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5136954466068008,
+      -1.2969846580816105,
+      5.230209376510414,
+      -6.613115799394523
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 29.987776,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Google_Pixel 6__other but i think not better_1080p_16by9_1920x1080-29.99fps",
+  "note": "other but i think not better",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "output_dimension": {
+    "h": 1080,
+    "w": 1920
+  },
+  "sync_settings": null
+}

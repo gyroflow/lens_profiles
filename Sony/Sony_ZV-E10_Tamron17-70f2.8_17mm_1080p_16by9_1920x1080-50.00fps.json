@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_Tamron17-70/f2.8_17mm_1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "ted",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "Tamron17-70/f2.8",
+  "camera_setting": "17mm",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4052966397318643,
+    "camera_matrix": [
+      [
+        1169.9491898797603,
+        0.0,
+        956.411454541043
+      ],
+      [
+        0.0,
+        1171.7280592695072,
+        500.2545472079034
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.16634401482365366,
+      0.7167158929181129,
+      -2.644777474918428,
+      3.871003387199543
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-zv-e10-24980b90-1920x1080@50000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

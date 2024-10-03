@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS R5_Sigma135_60 DCI_C4k_1.90by1_4096x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "natsuki",
+  "camera_brand": "Canon",
+  "camera_model": "EOS R5",
+  "lens_model": "Sigma135",
+  "camera_setting": "60 DCI",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": -4.89,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.473660208923556,
+    "camera_matrix": [
+      [
+        59618.05068305167,
+        0.0,
+        3185.480983977175
+      ],
+      [
+        0.0,
+        59585.09538070367,
+        1793.1715119091098
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      2.673810265914397,
+      -770.1638428680698,
+      497235.5529420565,
+      -86642458.21690927
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

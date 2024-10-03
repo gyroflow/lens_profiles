@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_Sirui Venus 35mm 1.66x anamorphic__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Luis Reidl",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "Sirui Venus 35mm 1.66x anamorphic",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.6038122023027652,
+    "camera_matrix": [
+      [
+        2412.4337095153255,
+        0.0,
+        1819.4069938738028
+      ],
+      [
+        0.0,
+        3790.752559176188,
+        1025.0949236021029
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3589797842880479,
+      -1.1092196444645182,
+      3.725772384622005,
+      -0.6243442861080171
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

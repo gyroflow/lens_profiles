@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Micro Studio Camera 4K G2_TTArtisan 10mm f/2_f/8_4k_16by9_3840x2160-25.00fps",
+  "note": "f/8",
+  "calibrated_by": "Bence Póczak",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Micro Studio Camera 4K G2",
+  "lens_model": "TTArtisan 10mm f/2",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 24,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6978190840795202,
+    "camera_matrix": [
+      [
+        2310.9532334522255,
+        0.0,
+        1901.8283708166737
+      ],
+      [
+        0.0,
+        2316.515092834039,
+        1038.462452131279
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32103699463347407,
+      0.2807387328350642,
+      -0.4718141824925109,
+      0.5398180836922728
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

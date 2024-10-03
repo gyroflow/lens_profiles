@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Canon FD 50 1,4_6K_5k_16by9_5760x3240-25.00fps",
+  "note": "",
+  "calibrated_by": "Илья Смирнов",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Canon FD 50 1,4",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 5760,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7393600196242649,
+    "camera_matrix": [
+      [
+        12797.881998966026,
+        0.0,
+        2902.5227915999526
+      ],
+      [
+        0.0,
+        12802.549858341074,
+        1664.013360979754
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.09217978065149372,
+      -6.899847624010252,
+      423.44558859199094,
+      -6179.241451669529
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

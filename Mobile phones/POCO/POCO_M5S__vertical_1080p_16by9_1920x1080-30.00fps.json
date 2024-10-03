@@ -1,0 +1,69 @@
+{
+  "name": "POCO_M5S__vertical_1080p_16by9_1920x1080-30.00fps",
+  "note": "vertical",
+  "calibrated_by": "Csongor",
+  "camera_brand": "POCO",
+  "camera_model": "M5S",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 6,
+  "fps": 30.004589,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4752081913758128,
+    "camera_matrix": [
+      [
+        1569.900335513889,
+        0.0,
+        1017.7362804886834
+      ],
+      [
+        0.0,
+        1579.5643449755569,
+        515.0054657997381
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.48968191012410567,
+      -1.0193774337086812,
+      3.672921745253645,
+      -3.9460292085451223
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

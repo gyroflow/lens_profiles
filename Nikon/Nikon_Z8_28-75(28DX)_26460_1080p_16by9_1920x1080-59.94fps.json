@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z8_28-75(28DX)_26460运动关电子_1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "XUANYU",
+  "camera_brand": "Nikon",
+  "camera_model": "Z8",
+  "lens_model": "28-75(28DX)",
+  "camera_setting": "26460运动关电子",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.493459800103044,
+    "camera_matrix": [
+      [
+        1639.301812855874,
+        0.0,
+        965.7981740100996
+      ],
+      [
+        0.0,
+        1710.431015337623,
+        8.453153393993107
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3095869331084985,
+      0.10759667526321633,
+      0.118495157156574,
+      -0.024943930689142784
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

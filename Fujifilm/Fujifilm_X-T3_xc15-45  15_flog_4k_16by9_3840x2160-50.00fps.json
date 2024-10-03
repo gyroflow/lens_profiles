@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-T3_xc15-45  15_flog_4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "倪定朔",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-T3",
+  "lens_model": "xc15-45  15",
+  "camera_setting": "flog",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0729149904874682,
+    "camera_matrix": [
+      [
+        2717.521258897426,
+        0.0,
+        1936.923257013832
+      ],
+      [
+        0.0,
+        2732.181464955409,
+        1135.726820963439
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2880542398962143,
+      0.49012938732148303,
+      -1.6724699185567755,
+      2.83925828687384
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

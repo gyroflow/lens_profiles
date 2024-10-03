@@ -1,0 +1,69 @@
+{
+  "name": "Sigma_fp_14mm Laowa f4 Zero D_, 90degree, 800 iso_4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Luka Denic",
+  "camera_brand": "Sigma",
+  "camera_model": "fp",
+  "lens_model": "14mm Laowa f4 Zero D",
+  "camera_setting": ", 90degree, 800 iso",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": -20.8,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.15084169478066004,
+    "camera_matrix": [
+      [
+        2729.6971211466084,
+        0.0,
+        2004.0430016951004
+      ],
+      [
+        0.0,
+        2732.7740184800714,
+        1093.2698015820174
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.34978367163109747,
+      0.10096000086713967,
+      -0.1348386954235489,
+      0.45905856011615104
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

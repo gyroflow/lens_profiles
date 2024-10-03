@@ -1,0 +1,69 @@
+{
+  "name": "GoPro_HERO 4 Session__Auto_1440p_4by3_1920x1440-29.97fps",
+  "note": "",
+  "calibrated_by": "Crackhead",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO 4 Session",
+  "lens_model": "",
+  "camera_setting": "Auto",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9186399865852952,
+    "camera_matrix": [
+      [
+        794.8422163005308,
+        0.0,
+        970.6393854124814
+      ],
+      [
+        0.0,
+        794.2105636044905,
+        722.2040630893546
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.11426231961696412,
+      0.04933814061225021,
+      -0.12371638801319494,
+      0.06276697907805999
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

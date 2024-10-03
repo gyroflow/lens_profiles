@@ -1,0 +1,69 @@
+{
+  "name": "XTU_S6 CAM_XTU/XTU_MaxPro_LDC_720P30_720p_16by9_1280x720-29.97fps wide__720p_16by9_1280x720-30.00fps",
+  "note": "",
+  "calibrated_by": "赛博丁真",
+  "camera_brand": "XTU",
+  "camera_model": "S6 CAM",
+  "lens_model": "XTU/XTU_MaxPro_LDC_720P30_720p_16by9_1280x720-29.97fps wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "orig_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "output_dimension": {
+    "w": 1280,
+    "h": 720
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6423006166130485,
+    "camera_matrix": [
+      [
+        1507.291784776519,
+        0.0,
+        668.7499103424188
+      ],
+      [
+        0.0,
+        1500.77629255159,
+        432.9727955421371
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.35488764490687996,
+      1.4362699312819374,
+      -20.64223431028203,
+      85.04315460208095
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "xtu-s6cam-xtu/xtu_maxpro_ldc_720p30_720p_16by9_1280x720-29.97fps-wide-1280x720@30000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-24",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

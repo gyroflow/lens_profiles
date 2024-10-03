@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_Canon FD 35mm f2.0 SSC__4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Holgerson",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "Canon FD 35mm f2.0 SSC",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7372777246499084,
+    "camera_matrix": [
+      [
+        3806.6850415589593,
+        0.0,
+        1927.852687188686
+      ],
+      [
+        0.0,
+        3804.146680384825,
+        1113.0433723658098
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.23274002000855729,
+      0.10196854352204948,
+      0.6297295731262457,
+      -1.5229617385258205
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

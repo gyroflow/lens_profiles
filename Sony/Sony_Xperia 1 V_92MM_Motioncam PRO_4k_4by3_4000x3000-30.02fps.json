@@ -1,0 +1,69 @@
+{
+  "name": "Sony_Xperia 1 V_92MM_Motioncam PRO_4k_4by3_4000x3000-30.02fps",
+  "note": "V3.0.45-pro",
+  "calibrated_by": "WayLAN_Media",
+  "camera_brand": "Sony",
+  "camera_model": "Xperia 1 V",
+  "lens_model": "92MM",
+  "camera_setting": "Motioncam PRO",
+  "calib_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "orig_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "output_dimension": {
+    "w": 4000,
+    "h": 3000
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.024464,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6521012842300379,
+    "camera_matrix": [
+      [
+        9662.876904955849,
+        0.0,
+        1969.909391573612
+      ],
+      [
+        0.0,
+        9665.346973916035,
+        1528.604206166805
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5721802047317393,
+      -14.423767175831394,
+      500.8249672212618,
+      -5819.361414891793
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_FZ2500_36_等效_4k_16by9_3840x2160-25.00fps",
+  "note": "等效",
+  "calibrated_by": "数字媒体课程专用",
+  "camera_brand": "Panasonic",
+  "camera_model": "FZ2500",
+  "lens_model": "36",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.3864734299516908,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8395004626130509,
+    "camera_matrix": [
+      [
+        3065.5663760535303,
+        0.0,
+        1965.2162843146943
+      ],
+      [
+        0.0,
+        3078.222858420061,
+        1298.4661800327333
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32098012999443426,
+      0.2047884662093701,
+      -0.4366568716155818,
+      1.142081513572219
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-05-11",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

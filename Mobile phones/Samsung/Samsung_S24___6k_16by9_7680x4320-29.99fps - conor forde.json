@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_S24___6k_16by9_7680x4320-29.99fps",
+  "note": "",
+  "calibrated_by": "conor forde",
+  "camera_brand": "Samsung",
+  "camera_model": "S24",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "orig_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "output_dimension": {
+    "w": 7680,
+    "h": 4320
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 29.989504,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.70009789324668,
+    "camera_matrix": [
+      [
+        6426.405566079182,
+        0.0,
+        3802.421049632176
+      ],
+      [
+        0.0,
+        6463.598817922636,
+        2230.390528008905
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.20505238243091112,
+      2.655264307143299,
+      -19.329605844555797,
+      43.12176709564228
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

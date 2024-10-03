@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7CII_Sony FE 55 f1.8_SS 1/100_4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "putthigorn prommajaree",
+  "camera_brand": "Sony",
+  "camera_model": "a7CII",
+  "lens_model": "Sony FE 55 f1.8",
+  "camera_setting": "SS 1/100",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9530308520890062,
+    "camera_matrix": [
+      [
+        6426.796800146095,
+        0.0,
+        1896.0043411685192
+      ],
+      [
+        0.0,
+        6440.293286051448,
+        1008.1298632777429
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.313326848672431,
+      2.3227692749330084,
+      -35.110905176565105,
+      216.2321968360233
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7cm2-55.00mm-3840x2160@25000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 55.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

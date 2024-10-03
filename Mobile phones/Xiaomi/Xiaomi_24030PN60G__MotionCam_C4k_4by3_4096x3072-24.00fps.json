@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_24030PN60G__MotionCam_C4k_4by3_4096x3072-24.00fps",
+  "note": "",
+  "calibrated_by": "Admin",
+  "camera_brand": "Xiaomi",
+  "camera_model": "24030PN60G",
+  "lens_model": "",
+  "camera_setting": "MotionCam",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 3072
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 3072
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 3072
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 24.001425,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1548351551639022,
+    "camera_matrix": [
+      [
+        1460.6149808615935,
+        0.0,
+        2043.4156012583248
+      ],
+      [
+        0.0,
+        1461.375581420763,
+        1532.104857644007
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2082555041332038,
+      0.6153156128385745,
+      -0.7150026928084153,
+      0.4420587493243868
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_Z30_75mm__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Du Wei",
+  "camera_brand": "Nikon",
+  "camera_model": "Z30",
+  "lens_model": "75mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4198465015052543,
+    "camera_matrix": [
+      [
+        34217.647793507786,
+        0.0,
+        2316.536983409037
+      ],
+      [
+        0.0,
+        34218.08071352612,
+        1455.2079236384036
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      2.6479024503541844,
+      -247.91921794324577,
+      42063.72788991372,
+      -2485021.8820737507
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 75.0,
+  "crop_factor": 1.5,
+  "global_shutter": false
+}

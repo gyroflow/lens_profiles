@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_S5_Sigma 16-28mm_16mm_4k_16by9_3840x2160-25.00fps",
+  "note": "16mm",
+  "calibrated_by": "A. Wesome",
+  "camera_brand": "Panasonic",
+  "camera_model": "S5",
+  "lens_model": "Sigma 16-28mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 8,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8019047090893846,
+    "camera_matrix": [
+      [
+        1874.5354841102708,
+        0.0,
+        1905.0412859792489
+      ],
+      [
+        0.0,
+        1834.5056935166804,
+        1092.9856575601095
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2705548945244155,
+      0.4384343855085995,
+      -0.43313913371366,
+      0.3065838651807375
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX30_EF 24-70mm f/2.8 GM II @50mm__4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Lucas Casas",
+  "camera_brand": "Sony",
+  "camera_model": "FX30",
+  "lens_model": "EF 24-70mm f/2.8 GM II @50mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.7148399272752699,
+    "camera_matrix": [
+      [
+        11022.099995196964,
+        0.0,
+        1719.1087502109906
+      ],
+      [
+        0.0,
+        11026.90455437314,
+        946.5657422538897
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.14028625997048186,
+      22.57724590480914,
+      -827.4571683520853,
+      10496.175612244786
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx30-49.00mm-3840x2160@23976",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 49.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

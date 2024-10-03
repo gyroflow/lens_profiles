@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E1_50mm_tessar50mm2.8_4k_16by9_3840x2160-59.94fps",
+  "note": "tessar50mm2.8",
+  "calibrated_by": "Staffan Axelsson",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E1",
+  "lens_model": "50mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6502487789008766,
+    "camera_matrix": [
+      [
+        5889.149811921838,
+        0.0,
+        1862.5163444610937
+      ],
+      [
+        0.0,
+        5879.950540851494,
+        1068.2179611307026
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2830922184711656,
+      0.32432335894851394,
+      -7.3397418131930365,
+      49.76982370301123
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

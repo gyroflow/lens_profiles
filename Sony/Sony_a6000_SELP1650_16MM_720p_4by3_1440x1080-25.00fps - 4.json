@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6000_SELP1650_16MM_720p_4by3_1440x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "李致",
+  "camera_brand": "Sony",
+  "camera_model": "a6000",
+  "lens_model": "SELP1650",
+  "camera_setting": "16MM",
+  "calib_dimension": {
+    "w": 1440,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1440,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1440,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2834263735530667,
+    "camera_matrix": [
+      [
+        1010.5824061241068,
+        0.0,
+        731.2707373433293
+      ],
+      [
+        0.0,
+        1346.3195179911777,
+        515.4104490331162
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3758096177425844,
+      -0.3822066871250654,
+      2.0635790160438763,
+      -2.03205434826361
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-08-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 16.0,
+  "crop_factor": 1.0,
+  "global_shutter": false
+}

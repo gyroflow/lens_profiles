@@ -1,0 +1,69 @@
+{
+  "name": "SJCAM_C_300R__2.5k_16by9_2560x1440-60.00fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "SJCAM",
+  "camera_model": "C",
+  "lens_model": "300R",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "orig_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "output_dimension": {
+    "w": 2560,
+    "h": 1440
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5083627998526938,
+    "camera_matrix": [
+      [
+        1733.850096083088,
+        0.0,
+        1253.7510334250392
+      ],
+      [
+        0.0,
+        1733.8411094415962,
+        674.0432496642618
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.05678149761413033,
+      -0.08884263948693849,
+      0.20376754201650987,
+      -0.1683632323156498
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

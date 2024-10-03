@@ -1,0 +1,69 @@
+{
+  "name": "Sony_ZV-E10_7Artisans 55m/1.4_55mm_4k_16by9_3840x2160-23.98fps",
+  "note": "55mm",
+  "calibrated_by": "Oscar Astorga",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10",
+  "lens_model": "7Artisans 55m/1.4",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8364219534680202,
+    "camera_matrix": [
+      [
+        9980.310895652196,
+        0.0,
+        1824.1833033133184
+      ],
+      [
+        0.0,
+        10031.701193071178,
+        942.0673182604426
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.9069029138315832,
+      -21.58107373720923,
+      619.0934417516737,
+      -6668.959913884687
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

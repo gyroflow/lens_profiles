@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_Sony 24-105 G f4 at 70mm_60_4k_16by9_3840x2160-59.94fps",
+  "note": "No OIS",
+  "calibrated_by": "Kyle M Fields",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "Sony 24-105 G f4 at 70mm",
+  "camera_setting": "60",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.47861365845227066,
+    "camera_matrix": [
+      [
+        7699.093010872177,
+        0.0,
+        1896.4066439832925
+      ],
+      [
+        0.0,
+        7698.514972995404,
+        1115.1851714405136
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.26256116089973885,
+      2.768980376112724,
+      -53.19518097439732,
+      440.97043461685416
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx6v-68.00mm-3840x2160@59940",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 68.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

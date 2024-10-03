@@ -1,0 +1,69 @@
+{
+  "name": "Canon_700D / T5I_50mm 1.8_23,98 fps_1080p_16by9_1920x1080-23.98fps",
+  "note": "",
+  "calibrated_by": "Xunas",
+  "camera_brand": "Canon",
+  "camera_model": "700D / T5I",
+  "lens_model": "50mm 1.8",
+  "camera_setting": "23,98 fps",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.35990508001545785,
+    "camera_matrix": [
+      [
+        5346.908993447529,
+        0.0,
+        979.305193517611
+      ],
+      [
+        0.0,
+        5348.911829932064,
+        434.0399325079828
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.01145909148293393,
+      9.57003803710657,
+      -328.7188353497925,
+      4356.376032750436
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-09-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

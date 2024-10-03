@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7C_sigma 24-70 24mm__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "林中小虎",
+  "camera_brand": "Sony",
+  "camera_model": "a7C",
+  "lens_model": "sigma 24-70 24mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.24388521912661573,
+    "camera_matrix": [
+      [
+        1342.6420234607535,
+        0.0,
+        962.3337915037256
+      ],
+      [
+        0.0,
+        1343.271492638939,
+        529.2389395470827
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.16283683623833056,
+      0.1860953469368949,
+      -0.2999868866559288,
+      0.8752751608306738
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7c-4804d05c-1920x1080@59940",
+  "calibrator_version": "1.5.4",
+  "date": "2024-07-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

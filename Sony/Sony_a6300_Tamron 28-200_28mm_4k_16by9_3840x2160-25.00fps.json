@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a6300_Tamron 28-200_28mm_4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "tczrn",
+  "camera_brand": "Sony",
+  "camera_model": "a6300",
+  "lens_model": "Tamron 28-200",
+  "camera_setting": "28mm",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 5.08,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.49143756741433264,
+    "camera_matrix": [
+      [
+        4450.345288492479,
+        0.0,
+        2035.1883313564108
+      ],
+      [
+        0.0,
+        4477.860333379273,
+        947.5592212789612
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2693433467865384,
+      1.1281615549696362,
+      -7.17268783805425,
+      15.990693090073218
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 28.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

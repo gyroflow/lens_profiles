@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7RV_Tamron 20-40mm F2.8 @ 20mm_XAVC HS , , 4:2:2, 200Mbit_4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Dion Michael Chan",
+  "camera_brand": "Sony",
+  "camera_model": "a7RV",
+  "lens_model": "Tamron 20-40mm F2.8 @ 20mm",
+  "camera_setting": "XAVC HS , , 4:2:2, 200Mbit",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 14.79,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5361780577147177,
+    "camera_matrix": [
+      [
+        2723.347362863408,
+        0.0,
+        1929.423536860712
+      ],
+      [
+        0.0,
+        2722.2154027839574,
+        1092.2130022514636
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3265846717144315,
+      -0.05313101436897257,
+      1.2139287860293837,
+      -1.985766439989876
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7rm5-20.00mm-3840x2160@50000",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 20.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

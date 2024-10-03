@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX3_SEL1018_10mm_4k_16by9_3840x2160-59.94fps",
+  "note": "10mm",
+  "calibrated_by": "王彦",
+  "camera_brand": "Sony",
+  "camera_model": "FX3",
+  "lens_model": "SEL1018",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.71125072099979,
+    "camera_matrix": [
+      [
+        1104.2701204611922,
+        0.0,
+        1894.860662232749
+      ],
+      [
+        0.0,
+        1103.1789235511694,
+        1066.617908051096
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.25276104593038395,
+      0.43123649155013893,
+      -0.5154576877391646,
+      0.3907081509954587
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilme-fx3-10.00mm-3840x2160@59940",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 10.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

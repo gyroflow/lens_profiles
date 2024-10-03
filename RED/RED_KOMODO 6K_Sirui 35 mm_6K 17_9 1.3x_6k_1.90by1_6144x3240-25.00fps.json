@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Sirui 35 mm_6K 17:9 1.3x_6k_1.90by1_6144x3240-25.00fps",
+  "note": "Anamorphic",
+  "calibrated_by": "Rikardo Iljaz",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Sirui 35 mm",
+  "camera_setting": "6K 17:9 1.3x",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.3966610870529026,
+    "camera_matrix": [
+      [
+        6465.239271756225,
+        0.0,
+        3161.5355183062943
+      ],
+      [
+        0.0,
+        8265.112707652162,
+        1684.3211230615725
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.04517893098936037,
+      1.3022223607566914,
+      -7.882252369428358,
+      15.505732957297685
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

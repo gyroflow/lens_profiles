@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO-X 6K S35_RF24mm F1.8 MACRO IS STM 24.00mm_6K 17:9_6k_1.90by1_6144x3240-24.00fps",
+  "note": "",
+  "calibrated_by": "Tim Bisso",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "lens_model": "RF24mm F1.8 MACRO IS STM 24.00mm",
+  "camera_setting": "6K 17:9",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3240
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6907169332775811,
+    "camera_matrix": [
+      [
+        5536.357798385508,
+        0.0,
+        3043.9639591030686
+      ],
+      [
+        0.0,
+        5536.183901958648,
+        1591.4918123095
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.14802847104723274,
+      0.22036089361102257,
+      -1.0834636508776267,
+      2.729641991459838
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "--red-komodo-x6ks35-rf24mmf1.8macroisstm-24.00mm-6144x3240@0",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Cinema Camera 6K_IRIX 30T__6k_3by2_6048x4032-30.00fps",
+  "note": "",
+  "calibrated_by": "NAIF ALJOHANI",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Cinema Camera 6K",
+  "lens_model": "IRIX 30T",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 6048,
+    "h": 4032
+  },
+  "orig_dimension": {
+    "w": 6048,
+    "h": 4032
+  },
+  "output_dimension": {
+    "w": 6048,
+    "h": 4032
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.927000127536156,
+    "camera_matrix": [
+      [
+        4757.783996383305,
+        0.0,
+        3113.2136584802483
+      ],
+      [
+        0.0,
+        4746.415795190319,
+        2037.7199864635772
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.25471563044355044,
+      0.3154529796942522,
+      -0.6214720964098457,
+      1.2190654554669775
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-cinemacamera6k-irix-30t-6048x4032@30000",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

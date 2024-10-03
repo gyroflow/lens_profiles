@@ -1,0 +1,69 @@
+{
+  "name": "Panasonic_S1_Nikon Serie E 28mm__5k_16by9_5888x3312-25.00fps",
+  "note": "",
+  "calibrated_by": "",
+  "camera_brand": "Panasonic",
+  "camera_model": "S1",
+  "lens_model": "Nikon Serie E 28mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 5888,
+    "h": 3312
+  },
+  "orig_dimension": {
+    "w": 5888,
+    "h": 3312
+  },
+  "output_dimension": {
+    "w": 5888,
+    "h": 3312
+  },
+  "frame_readout_time": 40.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.004992863220209,
+    "camera_matrix": [
+      [
+        4598.95763727969,
+        0.0,
+        3001.312672022955
+      ],
+      [
+        0.0,
+        4601.622960455017,
+        1768.214136614409
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.18554521870453,
+      0.5771410388406523,
+      -2.3204842586297403,
+      4.205247502944525
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 1280,
+    "w": 720
+  },
+  "calibrated_by": "U0 A59",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Oppo",
+  "camera_model": "K9X",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.31807915783226665,
+    "camera_matrix": [
+      [
+        1077.6907149972574,
+        0.0,
+        365.39035094984257
+      ],
+      [
+        0.0,
+        1076.7935892073706,
+        645.267342995576
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3549033524351242,
+      -0.3301807928900015,
+      5.7413994140972235,
+      -13.165957990017755
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 29.000221,
+  "frame_readout_time": 9.15,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "",
+  "name": "Oppo_K9X___480p_9by16_720x1280-29.00fps",
+  "note": "",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 1280,
+    "w": 720
+  },
+  "output_dimension": {
+    "h": 1280,
+    "w": 720
+  },
+  "sync_settings": null
+}

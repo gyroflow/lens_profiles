@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 4K_Panasonic 12-35 II_4k 50 帧_C4k_1.90by1_4096x2160-50.00fps",
+  "note": "12mm 焦段",
+  "calibrated_by": "徐玮",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 4K",
+  "lens_model": "Panasonic 12-35 II",
+  "camera_setting": "4k 50 帧",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6527371175755733,
+    "camera_matrix": [
+      [
+        2602.840635648853,
+        0.0,
+        2017.1120451509453
+      ],
+      [
+        0.0,
+        2602.605971881551,
+        1110.339186422412
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.10642636578484696,
+      0.15280754936830215,
+      -0.1596580215877034,
+      0.3023664169239434
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 12.0,
+  "crop_factor": 2.0,
+  "global_shutter": false
+}

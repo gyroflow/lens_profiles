@@ -1,0 +1,69 @@
+{
+  "name": "Canon_M200_Viltrox 23mm 1.4_59fps_1080p_16by9_1920x1080-59.94fps",
+  "note": "auto focus",
+  "calibrated_by": "vanessa capuyon",
+  "camera_brand": "Canon",
+  "camera_model": "M200",
+  "lens_model": "Viltrox 23mm 1.4",
+  "camera_setting": "59fps",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3651688895006172,
+    "camera_matrix": [
+      [
+        2091.7836472184417,
+        0.0,
+        979.753983789166
+      ],
+      [
+        0.0,
+        2095.266492563364,
+        537.892052117999
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2594793506610311,
+      -0.7080910830499315,
+      9.523095886283445,
+      -29.25554035976273
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-06-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

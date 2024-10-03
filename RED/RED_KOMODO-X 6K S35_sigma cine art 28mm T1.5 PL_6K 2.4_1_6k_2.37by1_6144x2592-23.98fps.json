@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO-X 6K S35_sigma cine art 28mm T1.5 PL_6K 2.4:1_6k_2.37by1_6144x2592-23.98fps",
+  "note": "Metabones cine PL to RF adapter",
+  "calibrated_by": "Габиден Сагымбаев",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO-X 6K S35",
+  "lens_model": "sigma cine art 28mm T1.5 PL",
+  "camera_setting": "6K 2.4:1",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 2592
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0849070205989195,
+    "camera_matrix": [
+      [
+        6749.079313451855,
+        0.0,
+        3089.6681489242533
+      ],
+      [
+        0.0,
+        6743.1579936292255,
+        1335.0342094333466
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3290770064932515,
+      0.1642285710512907,
+      0.33434313332169396,
+      -2.1317524416885596
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": true
+}

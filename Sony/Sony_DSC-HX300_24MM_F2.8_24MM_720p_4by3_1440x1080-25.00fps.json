@@ -1,0 +1,69 @@
+{
+  "name": "Sony_DSC-HX300_24MM_F2.8_24MM_720p_4by3_1440x1080-25.00fps",
+  "note": "Acer_use",
+  "calibrated_by": "Acer",
+  "camera_brand": "Sony",
+  "camera_model": "DSC-HX300",
+  "lens_model": "24MM_F2.8",
+  "camera_setting": "24MM",
+  "calib_dimension": {
+    "w": 1440,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1440,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1440,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 11,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6484049824125244,
+    "camera_matrix": [
+      [
+        1068.784527072111,
+        0.0,
+        721.7985281930627
+      ],
+      [
+        0.0,
+        1425.3061439025869,
+        505.4492858609506
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3835954601819824,
+      -0.2159171060449944,
+      1.3310057292723392,
+      -1.391299714517567
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Google_Pixel 6__without stab, 30fprs_1080p_16by9_1920x1080-29.99fps",
+  "note": "without stab, 30fprs",
+  "calibrated_by": "Иван Гребенюк",
+  "camera_brand": "Google",
+  "camera_model": "Pixel 6",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.989717,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4468559744395178,
+    "camera_matrix": [
+      [
+        1270.321173126741,
+        0.0,
+        947.1358391775896
+      ],
+      [
+        0.0,
+        1268.559825298997,
+        526.7959058070143
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5364005743552605,
+      -1.388678040948902,
+      5.0151669206069895,
+      -5.638482521861057
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-04-26",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

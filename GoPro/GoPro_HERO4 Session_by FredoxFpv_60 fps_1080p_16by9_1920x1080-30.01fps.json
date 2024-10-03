@@ -1,0 +1,69 @@
+{
+  "name": "GoPro_HERO4 Session_by FredoxFpv_60 fps_1080p_16by9_1920x1080-30.01fps",
+  "note": "wide",
+  "calibrated_by": "VALENZUELA CRISTIAN",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO4 Session",
+  "lens_model": "by FredoxFpv",
+  "camera_setting": "60 fps",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 7,
+  "fps": 30.011671,
+  "official": false,
+  "use_opencv_fisheye": true,
+  "fisheye_params": {
+    "RMS_error": 0.3418360772344584,
+    "camera_matrix": [
+      [
+        1186.3494357542254,
+        0.0,
+        984.7031220052596
+      ],
+      [
+        0.0,
+        1184.6740111349825,
+        538.3409071611571
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2213756008343051,
+      0.27587089956873134,
+      0.07030997951675484,
+      -0.09911214668835362
+    ],
+    "radial_distortion_limit": null
+  },
+  "use_opencv_standard": false,
+  "calib_params": {
+    "RMS_error": 0.0,
+    "camera_matrix": [],
+    "distortion_coeffs": [],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.1.0",
+  "date": "2024-04-29",
+  "compatible_settings": [],
+  "is_superview": false,
+  "distortion_model_id": 0
+}
