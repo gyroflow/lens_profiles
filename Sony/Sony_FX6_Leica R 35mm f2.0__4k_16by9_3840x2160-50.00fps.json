@@ -25,7 +25,7 @@
   "num_images": 12,
   "fps": 50.0,
   "crop": null,
-  "official": false,
+  "official": true,
   "asymmetrical": false,
   "fisheye_params": {
     "RMS_error": 0.727060143186604,
