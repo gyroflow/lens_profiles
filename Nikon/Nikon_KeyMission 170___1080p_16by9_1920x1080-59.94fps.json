@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_KeyMission 170__尼康_1080p_16by9_1920x1080-59.94fps",
+  "note": "尼康",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Nikon",
+  "camera_model": "KeyMission 170",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.32405564571197965,
+    "camera_matrix": [
+      [
+        1032.9995297053567,
+        0.0,
+        949.5782987575018
+      ],
+      [
+        0.0,
+        1032.562429103043,
+        522.5371629859193
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.010412769053886438,
+      0.05941442113268575,
+      -0.18319391195596268,
+      0.16873490567246371
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-20",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

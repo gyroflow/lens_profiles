@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-H2s_Contax Zeiss 50mm/f1.4 via Metabones Speedbooster__4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Eduard Germis",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-H2s",
+  "lens_model": "Contax Zeiss 50mm/f1.4 via Metabones Speedbooster",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 5.6,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4577806827898966,
+    "camera_matrix": [
+      [
+        6046.6904523882995,
+        0.0,
+        2004.767313519969
+      ],
+      [
+        0.0,
+        6042.03956301448,
+        1077.7081485413744
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.0004975830361620442,
+      2.5374321102126314,
+      -33.80065334307139,
+      171.40455314858423
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

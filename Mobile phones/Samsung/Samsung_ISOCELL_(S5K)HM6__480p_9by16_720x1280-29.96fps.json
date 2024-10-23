@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_ISOCELL_(S5K)HM6__480p_9by16_720x1280-29.96fps",
+  "note": "",
+  "calibrated_by": "LCX24",
+  "camera_brand": "Samsung",
+  "camera_model": "ISOCELL",
+  "lens_model": "(S5K)HM6",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 720,
+    "h": 1280
+  },
+  "orig_dimension": {
+    "w": 720,
+    "h": 1280
+  },
+  "output_dimension": {
+    "w": 720,
+    "h": 1280
+  },
+  "frame_readout_time": -2.579748615428764,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.962149,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3588080194492295,
+    "camera_matrix": [
+      [
+        917.7603922788892,
+        0.0,
+        361.3545577335576
+      ],
+      [
+        0.0,
+        916.6292549204404,
+        638.22154822592
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5469755448575361,
+      -1.029174933338476,
+      -4.835451202862562,
+      31.895136823403675
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

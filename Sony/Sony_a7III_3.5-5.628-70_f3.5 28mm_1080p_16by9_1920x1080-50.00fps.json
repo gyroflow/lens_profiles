@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7III_3.5-5.6/28-70_f3.5 28mm_1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Jenny",
+  "camera_brand": "Sony",
+  "camera_model": "a7III",
+  "lens_model": "3.5-5.6/28-70",
+  "camera_setting": "f3.5 28mm",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3385658421553793,
+    "camera_matrix": [
+      [
+        1540.223913560182,
+        0.0,
+        954.7337557403798
+      ],
+      [
+        0.0,
+        1539.7697823901617,
+        518.8328710343308
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31477695499642055,
+      0.05823217683045366,
+      0.5154912142383543,
+      -0.7458897407822076
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

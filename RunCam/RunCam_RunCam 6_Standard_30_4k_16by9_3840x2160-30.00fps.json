@@ -1,0 +1,69 @@
+{
+  "name": "RunCam_RunCam 6_Standard_30_4k_16by9_3840x2160-30.00fps",
+  "note": "",
+  "calibrated_by": "Jason V",
+  "camera_brand": "RunCam",
+  "camera_model": "RunCam 6",
+  "lens_model": "Standard",
+  "camera_setting": "30",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.771608013011118,
+    "camera_matrix": [
+      [
+        1912.799393318811,
+        0.0,
+        1958.305753172308
+      ],
+      [
+        0.0,
+        1911.805596495558,
+        1134.375804605367
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.009726996865412105,
+      0.01016321749192602,
+      -0.02669520316144308,
+      0.021304715432612156
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-06",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

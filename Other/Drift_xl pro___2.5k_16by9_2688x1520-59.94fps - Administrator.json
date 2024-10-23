@@ -1,0 +1,69 @@
+{
+  "name": "Drift_xl pro___2.5k_16by9_2688x1520-59.94fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Drift",
+  "camera_model": "xl pro",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2688,
+    "h": 1520
+  },
+  "orig_dimension": {
+    "w": 2688,
+    "h": 1520
+  },
+  "output_dimension": {
+    "w": 2688,
+    "h": 1520
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5029312026948543,
+    "camera_matrix": [
+      [
+        1574.4193964123865,
+        0.0,
+        1363.1154222457924
+      ],
+      [
+        0.0,
+        1583.2182270772655,
+        744.0692706710252
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.017902042264713702,
+      -0.04050353249185097,
+      0.09274956762125076,
+      -0.10180813391515474
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Nikon_D3100__18mm_1080p_16by9_1920x1080-23.98fps",
+  "note": "18mm",
+  "calibrated_by": "U0 A338",
+  "camera_brand": "Nikon",
+  "camera_model": "D3100",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.594272536460095,
+    "camera_matrix": [
+      [
+        1470.9537742663383,
+        0.0,
+        1004.2435371551582
+      ],
+      [
+        0.0,
+        1501.8115267743672,
+        348.6525224092321
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1660557843527564,
+      1.27317529365912,
+      -4.773419450414715,
+      7.540843603233637
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

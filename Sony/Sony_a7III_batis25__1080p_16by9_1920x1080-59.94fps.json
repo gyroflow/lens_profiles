@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7III_batis25__1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "admin",
+  "camera_brand": "Sony",
+  "camera_model": "a7III",
+  "lens_model": "batis25",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 6,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2509894401892208,
+    "camera_matrix": [
+      [
+        4439.718469243285,
+        0.0,
+        884.5025618751852
+      ],
+      [
+        0.0,
+        4309.99462789901,
+        -460.47961021397737
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.44032804041573137,
+      -3.4887632791267396,
+      44.62231119978799,
+      -178.17791830738918
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "OmniVision_ov16a1q_i_aac_ov16a1q_i_aac__480p_9by16_720x1280-29.92fps",
+  "note": "",
+  "calibrated_by": "LCX24",
+  "camera_brand": "OmniVision",
+  "camera_model": "ov16a1q_i_aac",
+  "lens_model": "ov16a1q_i_aac",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 720,
+    "h": 1280
+  },
+  "orig_dimension": {
+    "w": 720,
+    "h": 1280
+  },
+  "output_dimension": {
+    "w": 720,
+    "h": 1280
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.923256,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3804582904054952,
+    "camera_matrix": [
+      [
+        601.9302397984854,
+        0.0,
+        365.4952668668933
+      ],
+      [
+        0.0,
+        601.0142215521307,
+        642.155853996457
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2277873176876737,
+      0.4602384174228156,
+      -1.1630591450846612,
+      2.009236937112459
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

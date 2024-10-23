@@ -1,0 +1,69 @@
+{
+  "name": "Z CAM_E2 M4_Laowa 7.5mm__1080p_16by9_1920x1080-29.97fps",
+  "note": "",
+  "calibrated_by": "PS",
+  "camera_brand": "Z CAM",
+  "camera_model": "E2 M4",
+  "lens_model": "Laowa 7.5mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2866541268732026,
+    "camera_matrix": [
+      [
+        848.7619919833651,
+        0.0,
+        938.4241865605012
+      ],
+      [
+        0.0,
+        849.0218930619994,
+        539.2353058190848
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3300028504250611,
+      0.1079956916785888,
+      0.001172563761091882,
+      0.06562428858049871
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 7.5,
+  "crop_factor": null,
+  "global_shutter": false
+}

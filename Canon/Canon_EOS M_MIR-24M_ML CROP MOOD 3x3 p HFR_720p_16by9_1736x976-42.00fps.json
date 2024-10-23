@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS M_MIR-24M_ML CROP MOOD 3x3 p HFR_720p_16by9_1736x976-42.00fps",
+  "note": "Danne Build",
+  "calibrated_by": "NoMad Filmmaker",
+  "camera_brand": "Canon",
+  "camera_model": "EOS M",
+  "lens_model": "MIR-24M",
+  "camera_setting": "ML CROP MOOD 3x3 p HFR",
+  "calib_dimension": {
+    "w": 1736,
+    "h": 976
+  },
+  "orig_dimension": {
+    "w": 1736,
+    "h": 976
+  },
+  "output_dimension": {
+    "w": 1736,
+    "h": 976
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 42.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.38396134252703207,
+    "camera_matrix": [
+      [
+        2044.5975459283277,
+        0.0,
+        836.5512260318708
+      ],
+      [
+        0.0,
+        2038.8582443056205,
+        499.1523322247086
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1091927273567317,
+      -1.0344999361660243,
+      10.670060492293072,
+      -26.10889820611894
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

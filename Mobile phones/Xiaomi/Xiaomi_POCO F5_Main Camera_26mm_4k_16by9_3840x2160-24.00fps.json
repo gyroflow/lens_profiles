@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_POCO F5_Main Camera_26mm_4k_16by9_3840x2160-24.00fps",
+  "note": "64MP",
+  "calibrated_by": "Evxnn",
+  "camera_brand": "Xiaomi",
+  "camera_model": "POCO F5",
+  "lens_model": "Main Camera",
+  "camera_setting": "26mm",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8418377541628771,
+    "camera_matrix": [
+      [
+        3468.2379213164595,
+        0.0,
+        1861.5600721461633
+      ],
+      [
+        0.0,
+        3475.4744911096946,
+        1128.1360971535214
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5763736212706867,
+      -1.7687675839052548,
+      9.28475255180508,
+      -17.330756527416096
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

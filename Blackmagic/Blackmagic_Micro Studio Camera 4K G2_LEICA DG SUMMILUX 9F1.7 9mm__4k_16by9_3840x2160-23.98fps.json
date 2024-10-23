@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "Shun Ueno",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Micro Studio Camera 4K G2",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-10-14",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.499832811668693,
+    "camera_matrix": [
+      [
+        2044.891165363784,
+        0.0,
+        1917.729094977084
+      ],
+      [
+        0.0,
+        2045.3921165759784,
+        1064.6484811441812
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2302915140867929,
+      0.052684938204146395,
+      0.016722841693544627,
+      0.06935041340902695
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 9.0,
+  "fps": 23.976028,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-blackmagic-microstudiocamera4kg2-leicadgsummilux9/f1.7-9mm-3840x2160@23976",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "LEICA DG SUMMILUX 9/F1.7 9mm",
+  "name": "Blackmagic_Micro Studio Camera 4K G2_LEICA DG SUMMILUX 9/F1.7 9mm__4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "num_images": 5,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

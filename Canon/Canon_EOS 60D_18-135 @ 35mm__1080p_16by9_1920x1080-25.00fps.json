@@ -1,0 +1,69 @@
+{
+  "name": "Canon_EOS 60D_18-135 @ 35mm__1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "jql",
+  "camera_brand": "Canon",
+  "camera_model": "EOS 60D",
+  "lens_model": "18-135 @ 35mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 7,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4174336904831845,
+    "camera_matrix": [
+      [
+        1654.815587155534,
+        0.0,
+        928.554836443608
+      ],
+      [
+        0.0,
+        1655.923800947336,
+        478.8985073495851
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.10617940226608172,
+      0.6116839155930168,
+      -4.500199099051756,
+      13.859898613430754
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 35.0,
+  "crop_factor": 1.0,
+  "global_shutter": false
+}

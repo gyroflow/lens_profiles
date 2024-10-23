@@ -1,0 +1,70 @@
+{
+  "name": "Canon_C80_Nisi Athena 18mm PL__C4k_1.90by1_4096x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "钟煜嵩",
+  "camera_brand": "Canon",
+  "camera_model": "C80",
+  "lens_model": "Nisi Athena 18mm PL",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4096,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "frame_readout_direction": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.23498384063679623,
+    "camera_matrix": [
+      [
+        2113.6430508199683,
+        0.0,
+        2058.2200264995276
+      ],
+      [
+        0.0,
+        2114.377782854595,
+        1068.108480404359
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3355459896579953,
+      0.16991606243743224,
+      -0.17741412904524134,
+      0.195995895228495
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 18.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

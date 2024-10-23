@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 3024,
+    "w": 5376
+  },
+  "calibrated_by": "廖焌翔",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "XTU",
+  "camera_model": "MAX3 CAM",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-10-13",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.8957223682059035,
+    "camera_matrix": [
+      [
+        2564.900717853725,
+        0.0,
+        2694.985292989379
+      ],
+      [
+        0.0,
+        2564.1110238542587,
+        1497.5549228110722
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.13118759986260392,
+      -0.2039096575593652,
+      0.1831035831865836,
+      -0.07013002714179739
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 29.97003,
+  "frame_readout_time": 7.629744613104785,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-xtu-max3cam-xtu/xtu_max3_no-ldc_6k30_6k_16by9_5376x3024-29.97fps-wide-5376x3024@29970",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "XTU/XTU_MAX3_NO-LDC_6k30_6k_16by9_5376x3024-29.97fps wide",
+  "name": "XTU_MAX3 CAM_XTU/XTU_MAX3_NO-LDC_6k30_6k_16by9_5376x3024-29.97fps wide__5k_16by9_5376x3024-29.97fps",
+  "note": "",
+  "num_images": 20,
+  "official": false,
+  "orig_dimension": {
+    "h": 3024,
+    "w": 5376
+  },
+  "output_dimension": {
+    "h": 3024,
+    "w": 5376
+  },
+  "sync_settings": null
+}

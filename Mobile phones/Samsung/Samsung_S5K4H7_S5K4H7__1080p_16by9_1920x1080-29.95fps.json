@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_S5K4H7_S5K4H7__1080p_16by9_1920x1080-29.95fps",
+  "note": "",
+  "calibrated_by": "LCX24",
+  "camera_brand": "Samsung",
+  "camera_model": "S5K4H7",
+  "lens_model": "S5K4H7",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": -1.451922701377686,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.945299,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5086722180159494,
+    "camera_matrix": [
+      [
+        880.501625051359,
+        0.0,
+        961.2413643094064
+      ],
+      [
+        0.0,
+        880.3187984996399,
+        530.4694786640484
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2494453804139249,
+      0.2539405740765574,
+      -0.24793693495742747,
+      0.45726354162126653
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-19",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

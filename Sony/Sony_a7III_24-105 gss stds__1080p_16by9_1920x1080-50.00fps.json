@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7III_24-105 gss stds__1080p_16by9_1920x1080-50.00fps",
+  "note": "",
+  "calibrated_by": "Jenny",
+  "camera_brand": "Sony",
+  "camera_model": "a7III",
+  "lens_model": "24-105 gss stds",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9334889260995424,
+    "camera_matrix": [
+      [
+        1354.8368822535683,
+        0.0,
+        965.2716132896174
+      ],
+      [
+        0.0,
+        1354.7738657646282,
+        541.1118745117247
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.290137097103092,
+      0.49142690540697714,
+      -1.4071013397355916,
+      1.8863528268390823
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

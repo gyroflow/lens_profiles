@@ -1,0 +1,69 @@
+{
+  "name": "Xiaomi_11 Lite 5G NE_Back 1.0 focal__480p_9by16_720x1278-30.01fps",
+  "note": "",
+  "calibrated_by": "User",
+  "camera_brand": "Xiaomi",
+  "camera_model": "11 Lite 5G NE",
+  "lens_model": "Back 1.0 focal",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 720,
+    "h": 1278
+  },
+  "orig_dimension": {
+    "w": 720,
+    "h": 1278
+  },
+  "output_dimension": {
+    "w": 720,
+    "h": 1278
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 30.010265,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3853072713289649,
+    "camera_matrix": [
+      [
+        954.20806656305,
+        0.0,
+        359.56537350123705
+      ],
+      [
+        0.0,
+        953.5391501395852,
+        634.779089571508
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4454215715115375,
+      -1.0971086478362546,
+      4.366561933515922,
+      -5.113102120294349
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-16",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

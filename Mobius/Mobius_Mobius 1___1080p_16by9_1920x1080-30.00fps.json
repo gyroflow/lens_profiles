@@ -1,0 +1,69 @@
+{
+  "name": "Mobius_Mobius 1___1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "calibrated_by": "JLT",
+  "camera_brand": "Mobius",
+  "camera_model": "Mobius 1",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.446069979639141,
+    "camera_matrix": [
+      [
+        1065.8960640854264,
+        0.0,
+        986.5737609871755
+      ],
+      [
+        0.0,
+        1063.7209572033823,
+        553.6802948799516
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.08402224613866825,
+      0.15845905609346528,
+      -0.30638130513085243,
+      0.21152728569467233
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

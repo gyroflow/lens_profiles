@@ -1,0 +1,69 @@
+{
+  "name": "GoPro_HERO13 Black_Superview_HS AutoBoost_5k_16by9_5312x2988-29.97fps",
+  "note": "HS AutoBoost",
+  "calibrated_by": "Daniel Weinstein",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO13 Black",
+  "lens_model": "Superview",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 5312,
+    "h": 2988
+  },
+  "orig_dimension": {
+    "w": 5312,
+    "h": 2988
+  },
+  "output_dimension": {
+    "w": 5312,
+    "h": 2988
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.2109146878135952,
+    "camera_matrix": [
+      [
+        1931.7163441408684,
+        0.0,
+        2662.380376929634
+      ],
+      [
+        0.0,
+        1934.7179447000997,
+        1483.39890627914
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.006452622485742652,
+      0.22103445644825737,
+      -0.1373192620805086,
+      0.01521940418983752
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "gopro-hero13black-super-5312x2988@29970-hsautoboost",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": "gopro_superview",
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

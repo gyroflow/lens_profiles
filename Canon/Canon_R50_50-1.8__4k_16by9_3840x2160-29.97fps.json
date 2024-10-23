@@ -1,0 +1,69 @@
+{
+  "name": "Canon_R50_50-1.8__4k_16by9_3840x2160-29.97fps",
+  "note": "",
+  "calibrated_by": "冉淦",
+  "camera_brand": "Canon",
+  "camera_model": "R50",
+  "lens_model": "50-1.8",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 2160,
+    "h": 3840
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5299871692777713,
+    "camera_matrix": [
+      [
+        117586.30684360156,
+        0.0,
+        2001.9425948819548
+      ],
+      [
+        0.0,
+        119764.84232880046,
+        1171.9125868482547
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      56.891680170285014,
+      -157221.23308717433,
+      433866641.83247066,
+      -399538248241.1734
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-17",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "calibrated_by": "Coby Mehler",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Sony",
+  "camera_model": "a7SIII",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-10-22",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.8310211392326785,
+    "camera_matrix": [
+      [
+        2599.4269310362024,
+        0.0,
+        1924.2302341309971
+      ],
+      [
+        0.0,
+        2597.1410049520023,
+        1079.1902836581512
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2799876090500829,
+      0.4013636453056145,
+      -0.7873092315603807,
+      0.9352903342660956
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": 24.0,
+  "fps": 59.94006,
+  "frame_readout_time": 0.0,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "-sony-ilce-7sm3-24.00mm-3840x2160@59940",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "Sony Vario-Tessar T FE 24-70mm f4 ZA OSS @ 24.00mm",
+  "name": "Sony_a7SIII_Sony Vario-Tessar T FE 24-70mm f4 ZA OSS @ 24.00mm_Sony Vario-Tessar T FE 24-70mm f/4 ZA OSS Lens_4k_16by9_3840x2160-59.94fps",
+  "note": "Sony Vario-Tessar T FE 24-70mm f/4 ZA OSS Lens",
+  "num_images": 15,
+  "official": false,
+  "orig_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "output_dimension": {
+    "h": 2160,
+    "w": 3840
+  },
+  "sync_settings": null
+}

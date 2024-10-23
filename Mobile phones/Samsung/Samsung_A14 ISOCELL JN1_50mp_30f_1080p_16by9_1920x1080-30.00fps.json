@@ -1,0 +1,69 @@
+{
+  "name": "Samsung_A14 ISOCELL JN1_50mp_/30f_1080p_16by9_1920x1080-30.00fps",
+  "note": "Samsung  A14",
+  "calibrated_by": "asvik br",
+  "camera_brand": "Samsung",
+  "camera_model": "A14 ISOCELL JN1",
+  "lens_model": "50mp",
+  "camera_setting": "/30f",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.000919,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.35235352540424736,
+    "camera_matrix": [
+      [
+        1560.206346192311,
+        0.0,
+        972.5347231559188
+      ],
+      [
+        0.0,
+        1560.7730537065324,
+        528.4383563802676
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.4604717557314985,
+      -0.22957323398943497,
+      3.1390209349371423,
+      -9.464984246735382
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Google_Pixel 4 XL_MotionCam__2k_16by9_2016x1136-24.98fps",
+  "note": "",
+  "calibrated_by": "Юрий Перцюх",
+  "camera_brand": "Google",
+  "camera_model": "Pixel 4 XL",
+  "lens_model": "MotionCam",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2016,
+    "h": 1136
+  },
+  "orig_dimension": {
+    "w": 2016,
+    "h": 1136
+  },
+  "output_dimension": {
+    "w": 2016,
+    "h": 1136
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 24.979044,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6882091706767648,
+    "camera_matrix": [
+      [
+        1449.80400793151,
+        0.0,
+        978.6979357218844
+      ],
+      [
+        0.0,
+        1448.9645207036965,
+        560.0488326080601
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5343669673944405,
+      -1.0653146459482477,
+      3.3371115283430206,
+      -3.374838393691019
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

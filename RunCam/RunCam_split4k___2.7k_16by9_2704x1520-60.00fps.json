@@ -1,0 +1,69 @@
+{
+  "name": "RunCam_split4k___2.7k_16by9_2704x1520-60.00fps",
+  "note": "",
+  "calibrated_by": "moi",
+  "camera_brand": "RunCam",
+  "camera_model": "split4k",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "orig_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "output_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.5835895884375053,
+    "camera_matrix": [
+      [
+        981.374538629465,
+        0.0,
+        1410.9395005223791
+      ],
+      [
+        0.0,
+        897.5910201571713,
+        707.3022951233052
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.14376764345526263,
+      -0.26553491266375945,
+      0.4925136154248848,
+      -0.18413454733343415
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

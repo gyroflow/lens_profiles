@@ -1,0 +1,69 @@
+{
+  "name": "Redmi_K60___1080p_16by9_1920x1080-30.00fps",
+  "note": "",
+  "calibrated_by": "U0 A394",
+  "camera_brand": "Redmi",
+  "camera_model": "K60",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 7,
+  "fps": 29.995161,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.30796321092761103,
+    "camera_matrix": [
+      [
+        1464.5968281478422,
+        0.0,
+        947.91235490517
+      ],
+      [
+        0.0,
+        1464.327815425859,
+        525.8573260998106
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.27427487762118224,
+      0.8168179182555588,
+      -1.0807096365929685,
+      -0.07878738901849697
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

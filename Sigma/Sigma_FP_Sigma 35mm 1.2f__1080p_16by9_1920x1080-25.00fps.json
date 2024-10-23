@@ -1,0 +1,69 @@
+{
+  "name": "Sigma_FP_Sigma 35mm 1.2f__1080p_16by9_1920x1080-25.00fps",
+  "note": "",
+  "calibrated_by": "Luka Denic",
+  "camera_brand": "Sigma",
+  "camera_model": "FP",
+  "lens_model": "Sigma 35mm 1.2f",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 5,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2076461882119287,
+    "camera_matrix": [
+      [
+        1543.0759214436246,
+        0.0,
+        970.945386723296
+      ],
+      [
+        0.0,
+        1541.224049954346,
+        524.2311328014744
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.31666675308312087,
+      0.35232636031482095,
+      -0.637519777851361,
+      0.6887601289539372
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

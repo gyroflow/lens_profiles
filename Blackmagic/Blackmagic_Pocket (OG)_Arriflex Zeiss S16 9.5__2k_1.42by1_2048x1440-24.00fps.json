@@ -1,0 +1,69 @@
+{
+  "name": "Blackmagic_Pocket (OG)_Arriflex Zeiss S16 9.5__2k_1.42by1_2048x1440-24.00fps",
+  "note": "",
+  "calibrated_by": "SALOME",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket (OG)",
+  "lens_model": "Arriflex Zeiss S16 9.5",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2048,
+    "h": 1440
+  },
+  "orig_dimension": {
+    "w": 2048,
+    "h": 1440
+  },
+  "output_dimension": {
+    "w": 2048,
+    "h": 1440
+  },
+  "frame_readout_time": -16.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.47666820796425424,
+    "camera_matrix": [
+      [
+        1645.4252116064729,
+        0.0,
+        1028.9219931221016
+      ],
+      [
+        0.0,
+        1643.1409699746885,
+        701.5869702549171
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.14634087679505742,
+      0.2898256090849745,
+      0.020843760699587943,
+      0.30841536550046666
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

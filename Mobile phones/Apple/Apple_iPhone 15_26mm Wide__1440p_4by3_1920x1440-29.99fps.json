@@ -1,0 +1,69 @@
+{
+  "name": "Apple_iPhone 15_26mm Wide__1440p_4by3_1920x1440-29.99fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 15",
+  "lens_model": "26mm Wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1440
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 29.994934,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 2.1883766987161137,
+    "camera_matrix": [
+      [
+        701.0767171808229,
+        0.0,
+        976.822097232883
+      ],
+      [
+        0.0,
+        699.765927414623,
+        679.1338695632998
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.07594725610513232,
+      0.009600046006524796,
+      -0.07681377949678471,
+      0.04142157793331216
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-12",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

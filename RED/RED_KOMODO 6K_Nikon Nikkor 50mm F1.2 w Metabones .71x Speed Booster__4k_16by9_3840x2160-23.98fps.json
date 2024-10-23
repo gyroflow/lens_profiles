@@ -1,0 +1,69 @@
+{
+  "name": "RED_KOMODO 6K_Nikon Nikkor 50mm F/1.2 w/ Metabones .71x Speed Booster__4k_16by9_3840x2160-23.98fps",
+  "note": "",
+  "calibrated_by": "Ryan Ivy",
+  "camera_brand": "RED",
+  "camera_model": "KOMODO 6K",
+  "lens_model": "Nikon Nikkor 50mm F/1.2 w/ Metabones .71x Speed Booster",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 23.976025,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.1082452133890357,
+    "camera_matrix": [
+      [
+        8665.781046863352,
+        0.0,
+        1921.201546246431
+      ],
+      [
+        0.0,
+        8668.55601424299,
+        1106.5829307232473
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.27014135850383264,
+      32.79341047656022,
+      -1799.515131094182,
+      34875.52502401633
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

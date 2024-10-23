@@ -1,0 +1,69 @@
+{
+  "name": "Sony_FX6_Leica Elmarit R 28mm_Open Gate Prores RAW_C4k_1.88by1_4128x2192-25.00fps",
+  "note": "",
+  "calibrated_by": "Alban Cousinié",
+  "camera_brand": "Sony",
+  "camera_model": "FX6",
+  "lens_model": "Leica Elmarit R 28mm",
+  "camera_setting": "Open Gate Prores RAW",
+  "calib_dimension": {
+    "w": 4128,
+    "h": 2192
+  },
+  "orig_dimension": {
+    "w": 4128,
+    "h": 2192
+  },
+  "output_dimension": {
+    "w": 4128,
+    "h": 2192
+  },
+  "frame_readout_time": 8.7,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.585753791808668,
+    "camera_matrix": [
+      [
+        3337.006230717981,
+        0.0,
+        2071.7771018696226
+      ],
+      [
+        0.0,
+        3338.7824166916503,
+        1079.8204533708915
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.26357298902976056,
+      -0.05542728711686211,
+      0.6916479067392197,
+      -0.22055115081548105
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-15",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

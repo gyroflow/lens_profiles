@@ -1,0 +1,69 @@
+{
+  "name": "JJRC X5_2K Epik___2k_16by9_2048x1152-20.00fps",
+  "note": "",
+  "calibrated_by": "mccarty",
+  "camera_brand": "JJRC X5",
+  "camera_model": "2K Epik",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2048,
+    "h": 1152
+  },
+  "orig_dimension": {
+    "w": 2048,
+    "h": 1152
+  },
+  "output_dimension": {
+    "w": 2048,
+    "h": 1152
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 20.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.557010778193707,
+    "camera_matrix": [
+      [
+        1233.0171794779667,
+        0.0,
+        1020.6487990830864
+      ],
+      [
+        0.0,
+        1233.6261426739482,
+        576.5932252494639
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.07870977039992233,
+      -0.03200019026743938,
+      -0.017116900583888414,
+      0.035396612958038344
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-08",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

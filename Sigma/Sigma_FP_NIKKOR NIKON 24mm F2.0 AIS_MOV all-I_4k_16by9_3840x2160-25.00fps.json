@@ -1,0 +1,69 @@
+{
+  "name": "Sigma_FP_NIKKOR NIKON 24mm F2.0 AIS_MOV all-I_4k_16by9_3840x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Yoav_D",
+  "camera_brand": "Sigma",
+  "camera_model": "FP",
+  "lens_model": "NIKKOR NIKON 24mm F2.0 AIS",
+  "camera_setting": "MOV all-I",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 20.86514778325123,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5997604072293824,
+    "camera_matrix": [
+      [
+        2650.271104776413,
+        0.0,
+        1933.649485143446
+      ],
+      [
+        0.0,
+        2649.367089550285,
+        1060.7980101729472
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.22060321806809863,
+      0.1545415024332502,
+      -0.12869430305221963,
+      0.5817122212604655
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

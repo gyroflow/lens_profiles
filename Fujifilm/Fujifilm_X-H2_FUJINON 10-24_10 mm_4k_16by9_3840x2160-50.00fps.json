@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-H2_FUJINON 10-24_10 mm_4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Ali Kaan KAYA",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-H2",
+  "lens_model": "FUJINON 10-24",
+  "camera_setting": "10 mm",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.9513236580458554,
+    "camera_matrix": [
+      [
+        1968.5332326716905,
+        0.0,
+        1925.045013935507
+      ],
+      [
+        0.0,
+        1967.2114567317587,
+        1063.0247074658455
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.27361781161275583,
+      0.6114005738979779,
+      -1.3206809105338333,
+      1.2984072376901956
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

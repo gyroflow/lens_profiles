@@ -1,0 +1,69 @@
+{
+  "name": "DJI_Pocket 2_Freewell Anamorphic_25 FRS_C4k_2.04by1_4416x2160-25.00fps",
+  "note": "",
+  "calibrated_by": "Антон Чепель",
+  "camera_brand": "DJI",
+  "camera_model": "Pocket 2",
+  "lens_model": "Freewell Anamorphic",
+  "camera_setting": "25 FRS",
+  "calib_dimension": {
+    "w": 4416,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 4416,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 4416,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": 0.0,
+  "input_horizontal_stretch": 1.15,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.7318933839885615,
+    "camera_matrix": [
+      [
+        2615.835654169931,
+        0.0,
+        2177.3001428116067
+      ],
+      [
+        0.0,
+        2470.7742896283116,
+        1094.1626591592835
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5361051238201785,
+      -1.520193313651598,
+      2.4738839959774306,
+      -1.2944988277306448
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

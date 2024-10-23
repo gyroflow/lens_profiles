@@ -1,0 +1,69 @@
+{
+  "name": "SJCAM_M20__HD No Correction_1080p_16by9_1920x1080-60.00fps",
+  "note": "",
+  "calibrated_by": "OOg Images",
+  "camera_brand": "SJCAM",
+  "camera_model": "M20",
+  "lens_model": "",
+  "camera_setting": "HD No Correction",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 60.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6519694340813833,
+    "camera_matrix": [
+      [
+        1223.5128726780083,
+        0.0,
+        941.4548448087784
+      ],
+      [
+        0.0,
+        1233.200946573797,
+        555.1639575666211
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.0001530829607086134,
+      -0.11870667625738744,
+      0.03265256920606762,
+      0.25064802183754714
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

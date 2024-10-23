@@ -1,0 +1,70 @@
+{
+  "name": "Blackmagic_Pocket Cinema Camera 6K_Laowa 7.5mm F/2.9 CINE_6K_6k_16by9_6144x3456-50.00fps",
+  "note": "",
+  "calibrated_by": "Josselin Cornil",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Pocket Cinema Camera 6K",
+  "lens_model": "Laowa 7.5mm F/2.9 CINE",
+  "camera_setting": "6K",
+  "calib_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "orig_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "output_dimension": {
+    "w": 6144,
+    "h": 3456
+  },
+  "frame_readout_time": null,
+  "frame_readout_direction": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 20,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.3810146949245892,
+    "camera_matrix": [
+      [
+        2050.283340349539,
+        0.0,
+        3102.610842452607
+      ],
+      [
+        0.0,
+        2051.5675336695804,
+        1746.3205407806508
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.32907660999921495,
+      0.1558864986952169,
+      -0.005839319608406862,
+      0.05866208285764941
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

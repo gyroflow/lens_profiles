@@ -1,0 +1,69 @@
+{
+  "name": "Sony_a7SII_ROKINON 14MM 2.8_IBIS_1080p_16by9_1920x1080-59.94fps",
+  "note": "FULL FRAME",
+  "calibrated_by": "casey fera",
+  "camera_brand": "Sony",
+  "camera_model": "a7SII",
+  "lens_model": "ROKINON 14MM 2.8",
+  "camera_setting": "IBIS",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4820677312184528,
+    "camera_matrix": [
+      [
+        781.5210332612992,
+        0.0,
+        945.4006780092606
+      ],
+      [
+        0.0,
+        781.556488344658,
+        542.9320886560653
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2361388802177214,
+      0.3955441231320312,
+      -0.46733117607192054,
+      0.29833995971634714
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-10",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

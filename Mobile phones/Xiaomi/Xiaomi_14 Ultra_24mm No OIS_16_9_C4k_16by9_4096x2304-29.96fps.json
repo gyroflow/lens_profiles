@@ -1,0 +1,69 @@
+{
+  "asymmetrical": false,
+  "calib_dimension": {
+    "h": 2304,
+    "w": 4096
+  },
+  "calibrated_by": "monbauza",
+  "calibrator_version": "1.5.4",
+  "camera_brand": "Xiaomi",
+  "camera_model": "14 Ultra",
+  "camera_setting": "",
+  "compatible_settings": [],
+  "crop": null,
+  "crop_factor": null,
+  "date": "2024-10-21",
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "distortion_model": null,
+  "fisheye_params": {
+    "RMS_error": 0.7112521984034421,
+    "camera_matrix": [
+      [
+        2762.975460550375,
+        0.0,
+        2037.2771285730732
+      ],
+      [
+        0.0,
+        2762.696999718512,
+        1128.48497884449
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5375048364860447,
+      -1.5619635579190292,
+      5.681978658680103,
+      -6.368115090448431
+    ],
+    "radial_distortion_limit": null
+  },
+  "focal_length": null,
+  "fps": 29.95697,
+  "frame_readout_time": null,
+  "global_shutter": false,
+  "gyro_lpf": null,
+  "identifier": "",
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "interpolations": null,
+  "lens_model": "24mm No OIS",
+  "name": "Xiaomi_14 Ultra_24mm No OIS_16:9_C4k_16by9_4096x2304-29.96fps",
+  "note": "16:9",
+  "num_images": 13,
+  "official": false,
+  "orig_dimension": {
+    "h": 2304,
+    "w": 4096
+  },
+  "output_dimension": {
+    "h": 2304,
+    "w": 4096
+  },
+  "sync_settings": null
+}

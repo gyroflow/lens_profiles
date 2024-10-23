@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-H2_FUJINON 18-120_18 mm_4k_16by9_3840x2160-50.00fps",
+  "note": "",
+  "calibrated_by": "Ali Kaan KAYA",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-H2",
+  "lens_model": "FUJINON 18-120",
+  "camera_setting": "18 mm",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 50.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0320169308389602,
+    "camera_matrix": [
+      [
+        3762.77664322861,
+        0.0,
+        1935.1741777911864
+      ],
+      [
+        0.0,
+        3759.652592214609,
+        1064.8287167580247
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2694692996869697,
+      1.3741144335986195,
+      -7.624654523886091,
+      16.713605965275548
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-04",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

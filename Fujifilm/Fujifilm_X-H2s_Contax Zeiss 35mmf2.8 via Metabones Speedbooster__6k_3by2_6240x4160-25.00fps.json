@@ -1,0 +1,69 @@
+{
+  "name": "Fujifilm_X-H2s_Contax Zeiss 35mm/f2.8 via Metabones Speedbooster__6k_3by2_6240x4160-25.00fps",
+  "note": "",
+  "calibrated_by": "Eduard Germis",
+  "camera_brand": "Fujifilm",
+  "camera_model": "X-H2s",
+  "lens_model": "Contax Zeiss 35mm/f2.8 via Metabones Speedbooster",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 6240,
+    "h": 4160
+  },
+  "orig_dimension": {
+    "w": 6240,
+    "h": 4160
+  },
+  "output_dimension": {
+    "w": 6240,
+    "h": 4160
+  },
+  "frame_readout_time": 5.6,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 25.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6911476187298611,
+    "camera_matrix": [
+      [
+        6835.836288710568,
+        0.0,
+        3193.694177662925
+      ],
+      [
+        0.0,
+        6832.47203363894,
+        2077.414093775966
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1900119048901777,
+      0.050270524209189656,
+      0.9813613787957484,
+      -0.9289628125759524
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-13",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Caddx_Orca__no eis_4k_16by9_3840x2160-29.97fps",
+  "note": "i like shuter speed of 240",
+  "calibrated_by": "grognatou bouffeur",
+  "camera_brand": "Caddx",
+  "camera_model": "Orca",
+  "lens_model": "",
+  "camera_setting": "no eis",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 0.0,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 30,
+  "fps": 29.974821,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.3563303150763486,
+    "camera_matrix": [
+      [
+        1917.7389867882648,
+        0.0,
+        1950.007138896682
+      ],
+      [
+        0.0,
+        1916.984551655737,
+        1052.473782418707
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.03772676866786927,
+      -0.004594329876447335,
+      -0.0007458823803473293,
+      0.0007557359741713226
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.5.4",
+  "date": "2024-10-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}
