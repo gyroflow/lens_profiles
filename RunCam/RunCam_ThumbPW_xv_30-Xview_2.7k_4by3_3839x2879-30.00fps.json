@@ -1,5 +1,5 @@
 {
-  "name": "RunCam_ThumbPW_xv_30-Xview_2.7k_4by3_3839x2879-30.00fps",
+  "name": "RunCam_ThumbPW_xv_30-Xview_4by3_3840x2880-30.00fps",
   "note": "1.333 V in Corret",
   "calibrated_by": "Ruirpm",
   "camera_brand": "RunCam",
@@ -11,8 +11,8 @@
     "h": 2879
   },
   "orig_dimension": {
-    "w": 3839,
-    "h": 2879
+    "w": 3840,
+    "h": 2880
   },
   "output_dimension": {
     "w": 3840,
