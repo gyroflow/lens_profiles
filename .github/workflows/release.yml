@@ -17,7 +17,7 @@ jobs:
         run: chmod +x compress.rs && ./compress.rs
 
       - name: Save
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: profiles
           path: profiles.cbor.gz
