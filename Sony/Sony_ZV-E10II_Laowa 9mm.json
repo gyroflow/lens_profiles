@@ -1,0 +1,70 @@
+{
+  "name": "Sony_ZV-E10M2_Laowa 9mm 2.8_59.94FPS_4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "David Gu",
+  "camera_brand": "Sony",
+  "camera_model": "ZV-E10M2",
+  "lens_model": "Laowa 9mm 2.8",
+  "camera_setting": "59.94FPS",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "frame_readout_direction": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6664958573667518,
+    "camera_matrix": [
+      [
+        1682.112274239045,
+        0.0,
+        1901.7593674515508
+      ],
+      [
+        0.0,
+        1683.096381028016,
+        1070.8686246289105
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.35395307691008016,
+      0.1061531735363551,
+      -0.02570299095763031,
+      0.13819625706365643
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.6.2",
+  "date": "2025-08-25",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}
