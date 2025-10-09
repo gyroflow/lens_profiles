@@ -4,8 +4,8 @@
   "calibrated_by": "Ruirpm",
   "camera_brand": "RunCam",
   "camera_model": "ThumbPW",
-  "lens_model": "xv",
-  "camera_setting": "30-Xview",
+  "lens_model": "wide xv",
+  "camera_setting": "4k30-Xview",
   "calib_dimension": {
     "w": 3839,
     "h": 2879
