@@ -1,6 +1,6 @@
 {
-  "name": "DJI_O4_Air_Flywoo155_wide_4k_16by9_3840x2160-59.94fps",
-  "note": "For recordings from O4 Air Unit (Lite) with Flywoo 155 FOV lens adapter, when its set to WIDE",
+  "name": "DJI_O4_Air_Flywoo155_normal_4k_16by9_3840x2160-59.94fps",
+  "note": "For recordings from O4 Air Unit (Lite) with Flywoo 155 FOV lens adapter, when its set to NORMAL",
   "calibrated_by": "Andrew C",
   "camera_brand": "DJI",
   "camera_model": "O4",
@@ -23,23 +23,23 @@
   "gyro_lpf": null,
   "input_horizontal_stretch": 1.0,
   "input_vertical_stretch": 1.0,
-  "num_images": 29,
+  "num_images": 24,
   "fps": 59.94006,
   "crop": null,
   "official": false,
   "asymmetrical": false,
   "fisheye_params": {
-    "RMS_error": 2.846139001715992,
+    "RMS_error": 2.8645174405126816,
     "camera_matrix": [
       [
-        1600.170086171912,
+        2385.2743233084047,
         0.0,
-        1975.7631086984434
+        2070.936840538942
       ],
       [
         0.0,
-        1605.3309875018936,
-        1137.4487377699184
+        2391.6374710883497,
+        1219.7559252515061
       ],
       [
         0.0,
@@ -48,10 +48,10 @@
       ]
     ],
     "distortion_coeffs": [
-      0.42973494355962705,
-      -0.39821771646108833,
-      -0.028942216148094044,
-      0.10284901823836051
+      0.08358336219586872,
+      0.21086266753533844,
+      -0.4504762410065265,
+      0.24372170549237882
     ],
     "radial_distortion_limit": null
   },
