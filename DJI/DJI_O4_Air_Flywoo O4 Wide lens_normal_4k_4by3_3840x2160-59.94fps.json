@@ -1,0 +1,70 @@
+{
+  "name": "DJI_O4___4k_4by3_3840x2880-59.94fps",
+  "note": "",
+  "calibrated_by": "FLYWOOFPV",
+  "camera_brand": "DJI",
+  "camera_model": "O4 Wide",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2880
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2880
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 15.64,
+  "frame_readout_direction": "TopToBottom",
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5100203525921944,
+    "camera_matrix": [
+      [
+        1763.798973535237,
+        0.0,
+        1928.6817332607752
+      ],
+      [
+        0.0,
+        1752.9088916016797,
+        1443.6336279828236
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1508993385675535,
+      -0.08352881991599648,
+      -0.07373766090728773,
+      0.056488937418392726
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.6.3",
+  "date": "2025-11-02",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}
