@@ -59,6 +59,7 @@
   "date": "2024-09-15",
   "compatible_settings": [
     { "identifier": "runcam-thumb2-wide-3840x2160@29970", "output_dimension": { "w": 3840, "h": 2160 } },
+    { "identifier": "runcam-thumb2-wide-3840x2160@50000", "output_dimension": { "w": 3840, "h": 2160 } },
     { "identifier": "runcam-thumb2-wide-2688x1512@59940", "output_dimension": { "w": 2688, "h": 1512 } },
     { "identifier": "runcam-thumb2-normal-1920x1080@119880", "lens_model": "normal", "output_dimension": { "w": 1920, "h": 1080 } },
     { "identifier": "runcam-thumb2-normal-1920x1080@59940",  "lens_model": "normal", "output_dimension": { "w": 1920, "h": 1080 } },
