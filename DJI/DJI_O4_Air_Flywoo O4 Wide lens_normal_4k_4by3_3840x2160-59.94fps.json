@@ -1,9 +1,9 @@
 {
-  "name": "DJI_O4___4k_4by3_3840x2880-59.94fps",
+  "name": "DJI_O4_Air_Flywoo_O4_Wide_lens_normal_4k_4by3_3840x2880-59.94fps",
   "note": "",
-  "calibrated_by": "FLYWOOFPV",
+  "calibrated_by": "FLYWOO",
   "camera_brand": "DJI",
-  "camera_model": "O4 Wide",
+  "camera_model": "O4",
   "lens_model": "",
   "camera_setting": "",
   "calib_dimension": {
@@ -16,7 +16,7 @@
   },
   "output_dimension": {
     "w": 3840,
-    "h": 2160
+    "h": 2880
   },
   "frame_readout_time": 15.64,
   "frame_readout_direction": "TopToBottom",
