@@ -3,9 +3,9 @@
   "note": "",
   "calibrated_by": "FLYWOO",
   "camera_brand": "DJI",
-  "camera_model": "O4",
-  "lens_model": "",
-  "camera_setting": "",
+  "camera_model": "O4 Lite",
+  "lens_model": "Flywoo O4 Wide lens",
+  "camera_setting": "normal",
   "calib_dimension": {
     "w": 3840,
     "h": 2160
