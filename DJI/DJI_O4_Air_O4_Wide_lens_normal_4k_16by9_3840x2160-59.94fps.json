@@ -1,0 +1,70 @@
+{
+  "name": "DJI_O4 Lite_O4 Wide lens_normal_4k_16by9_3840x2160-59.94fps",
+  "note": "",
+  "calibrated_by": "Other",
+  "camera_brand": "DJI",
+  "camera_model": "O4 Lite",
+  "lens_model": "148° Custom Wide Angle Lens",
+  "camera_setting": "normal",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "frame_readout_direction": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.6295531143453573,
+    "camera_matrix": [
+      [
+        1771.316933835465,
+        0.0,
+        1925.3518845506735
+      ],
+      [
+        0.0,
+        1758.96383452484,
+        1095.4206985133849
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.12870475990992126,
+      0.015395044940806563,
+      -0.16113344747008772,
+      0.09118483863114766
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.6.3",
+  "date": "2025-11-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}
