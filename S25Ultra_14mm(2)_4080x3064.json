@@ -1,0 +1,70 @@
+{
+  "name": "____C4k_4by3_4080x3064-60.03fps",
+  "note": "",
+  "calibrated_by": "Arnaud",
+  "camera_brand": "",
+  "camera_model": "",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4080,
+    "h": 3064
+  },
+  "orig_dimension": {
+    "w": 4080,
+    "h": 3064
+  },
+  "output_dimension": {
+    "w": 4080,
+    "h": 3064
+  },
+  "frame_readout_time": null,
+  "frame_readout_direction": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 60.025822,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.22583218286764004,
+    "camera_matrix": [
+      [
+        1616.874796464193,
+        0.0,
+        2026.6653345951986
+      ],
+      [
+        0.0,
+        1617.5630612036016,
+        1515.5196547824241
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.382189007327854,
+      -0.051026420115580146,
+      0.4452310033028404,
+      -0.24984521519491207
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.6.3",
+  "date": "2025-12-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}
