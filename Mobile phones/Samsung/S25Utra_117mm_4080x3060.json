@@ -1,0 +1,70 @@
+{
+  "name": "____C4k_4by3_4080x3060-30.01fps",
+  "note": "",
+  "calibrated_by": "Arnaud Fonteix",
+  "camera_brand": "",
+  "camera_model": "",
+  "lens_model": "117mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 4080,
+    "h": 3060
+  },
+  "orig_dimension": {
+    "w": 4080,
+    "h": 3060
+  },
+  "output_dimension": {
+    "w": 4080,
+    "h": 3060
+  },
+  "frame_readout_time": 14.5,
+  "frame_readout_direction": "TopToBottom",
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 13,
+  "fps": 30.007212,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5067924085599633,
+    "camera_matrix": [
+      [
+        13400.289508987504,
+        0.0,
+        2028.1415244432928
+      ],
+      [
+        0.0,
+        13406.710364210796,
+        1664.5018020017444
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5483213128629152,
+      16.68276660624998,
+      -1093.4460240827732,
+      21981.52267062779
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.6.3",
+  "date": "2025-12-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}
