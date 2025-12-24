@@ -1,0 +1,70 @@
+{
+  "name": "Samsung_S25 Ultra_23mm_3840x2160_4k_16by9_3840x2176-50.01fps",
+  "note": "Erreur de reprojection: 0,36546 Netteté moyenne de la mire: 3,18 px",
+  "calibrated_by": "Arnaud Fonteix",
+  "camera_brand": "Samsung",
+  "camera_model": "S25 Ultra",
+  "lens_model": "23mm",
+  "camera_setting": "3840x2160",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "frame_readout_time": 14.5,
+  "frame_readout_direction": "TopToBottom",
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 10,
+  "fps": 50.014763,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.3654585699736859,
+    "camera_matrix": [
+      [
+        2673.7565971668323,
+        0.0,
+        1906.6368326432125
+      ],
+      [
+        0.0,
+        2675.6311307430137,
+        1102.185094479155
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5780805129112,
+      -1.190587397275088,
+      3.867219655632807,
+      -4.052892675140983
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.6.3",
+  "date": "2025-12-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}

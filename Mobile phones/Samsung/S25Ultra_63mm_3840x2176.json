@@ -1,0 +1,70 @@
+{
+  "name": "___Projection: 0,56298 Netteté: 2,15 px_4k_16by9_3840x2176-49.95fps",
+  "note": "Projection: 0,56298 Netteté: 2,15 px",
+  "calibrated_by": "Arnaud Fonteix",
+  "camera_brand": "",
+  "camera_model": "",
+  "lens_model": "63mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2176
+  },
+  "frame_readout_time": null,
+  "frame_readout_direction": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 9,
+  "fps": 49.951225,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.5629813763525868,
+    "camera_matrix": [
+      [
+        7166.357010033115,
+        0.0,
+        1918.137949680772
+      ],
+      [
+        0.0,
+        7158.428980005267,
+        1045.4947329859003
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -1.2981470571073814,
+      56.746734886754695,
+      -804.4369188728273,
+      4022.2933364412233
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.6.3",
+  "date": "2025-12-22",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}
