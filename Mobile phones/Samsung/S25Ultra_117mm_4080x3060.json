@@ -1,45 +1,45 @@
 {
-  "name": "___3840x2160_4k_16by9_3840x2160-50.00fps",
-  "note": "Reprojection: 0,38990 Netteté: 4,58",
+  "name": "____C4k_4by3_4080x3060-30.01fps",
+  "note": "",
   "calibrated_by": "Arnaud Fonteix",
-  "camera_brand": "",
-  "camera_model": "",
+  "camera_brand": "Samsung",
+  "camera_model": "S25 Ultra",
   "lens_model": "117mm",
-  "camera_setting": "3840x2160",
+  "camera_setting": "",
   "calib_dimension": {
-    "w": 3840,
-    "h": 2160
+    "w": 4080,
+    "h": 3060
   },
   "orig_dimension": {
-    "w": 3840,
-    "h": 2160
+    "w": 4080,
+    "h": 3060
   },
   "output_dimension": {
-    "w": 3840,
-    "h": 2160
+    "w": 4080,
+    "h": 3060
   },
   "frame_readout_time": 14.5,
   "frame_readout_direction": "TopToBottom",
   "gyro_lpf": null,
   "input_horizontal_stretch": 1.0,
   "input_vertical_stretch": 1.0,
-  "num_images": 10,
-  "fps": 49.999573,
+  "num_images": 13,
+  "fps": 30.007212,
   "crop": null,
   "official": false,
   "asymmetrical": false,
   "fisheye_params": {
-    "RMS_error": 0.3899003362726301,
+    "RMS_error": 0.5067924085599633,
     "camera_matrix": [
       [
-        13517.064019514992,
+        13400.289508987504,
         0.0,
-        1859.8096611643168
+        2028.1415244432928
       ],
       [
         0.0,
-        13510.79117794373,
-        1232.751652992415
+        13406.710364210796,
+        1664.5018020017444
       ],
       [
         0.0,
@@ -48,16 +48,16 @@
       ]
     ],
     "distortion_coeffs": [
-      0.6722404641748385,
-      -0.6679762159206488,
-      -26.353993874180514,
-      -548.8750717735691
+      0.5483213128629152,
+      16.68276660624998,
+      -1093.4460240827732,
+      21981.52267062779
     ],
     "radial_distortion_limit": null
   },
   "identifier": "",
   "calibrator_version": "1.6.3",
-  "date": "2025-12-22",
+  "date": "2025-12-18",
   "compatible_settings": [],
   "sync_settings": null,
   "distortion_model": null,
