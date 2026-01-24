@@ -1,0 +1,70 @@
+{
+  "name": "Blackmagic_Cinema Camera 6K_Sigma 28-45mm F1.8 DG DN | Art 024 28mm__6k_3by2_6048x4032-30.00fps",
+  "note": "",
+  "calibrated_by": "witkowski",
+  "camera_brand": "Blackmagic",
+  "camera_model": "Cinema Camera 6K",
+  "lens_model": "Sigma 28-45mm F1.8 DG DN | Art 024 28mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 6048,
+    "h": 4032
+  },
+  "orig_dimension": {
+    "w": 6048,
+    "h": 4032
+  },
+  "output_dimension": {
+    "w": 6048,
+    "h": 4032
+  },
+  "frame_readout_time": null,
+  "frame_readout_direction": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.8225808948535336,
+    "camera_matrix": [
+      [
+        4792.363624930294,
+        0.0,
+        3006.7035961213014
+      ],
+      [
+        0.0,
+        4790.430222934194,
+        2057.7757286480155
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.2545639282807973,
+      0.14697979609608625,
+      -0.250422444190112,
+      0.7116506720410579
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "blackmagic-cinemacamera6k-sigma28-45mmf1.8dgdn|art024-28mm-6048x4032@30000",
+  "calibrator_version": "1.6.3",
+  "date": "2026-01-07",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}
