@@ -14,16 +14,21 @@ jobs:
           tool: rust-script
 
       - name: Compress profiles
-        run: chmod +x compress.rs && ./compress.rs
+        run: |
+          chmod +x compress.rs build_camera_database.py
+          ./compress.rs
+          ./build_camera_database.py
 
       - name: Save
         uses: actions/upload-artifact@v4
         with:
           name: profiles
-          path: profiles.cbor.gz
+          path: |
+            profiles.cbor.gz
+            camera_database.json
 
       - name: Release
         uses: ncipollo/release-action@v1
         with:
-          artifacts: profiles.cbor.gz
+          artifacts: profiles.cbor.gz,camera_database.json
           tag: "v${{ github.run_number }}"
