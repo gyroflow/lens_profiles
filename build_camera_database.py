@@ -155,6 +155,19 @@ def extra_camera_aliases(brand, model):
     return aliases
 
 
+def legacy_brand_aliases(brand, model):
+    aliases = {
+        ("Feiyu Tech", "Pocket3"): ["Feiyu-Tech"],
+        ("Fujifilm", "XT200"): ["Fufifilm"],
+        ("IQOO", "26MM"): ["IQOO 9"],
+        ("LG", "V40"): ["LGE"],
+        ("Wolfang", "GA420"): ["WOLFGANG"],
+        ("Xiaomi", "12SU"): ["Mi"],
+        ("Xiaomi", "K30PRO1X"): ["MI"],
+    }
+    return aliases.get((brand, model), [])
+
+
 def merge_values(target, values):
     existing = {key(x) for x in target}
     for value in values:
@@ -193,6 +206,7 @@ def merge_camera(cameras, camera):
     })
     if key(existing["model"]) != key(camera["model"]):
         merge_values(existing["aliases"], [camera["model"]])
+    merge_values(existing["brand_aliases"], legacy_brand_aliases(existing["brand"], existing["model"]))
     merge_values(existing["brand_aliases"], camera.get("brand_aliases", []))
     merge_values(existing["aliases"], camera.get("aliases", []))
     merge_values(existing["mounts"], camera.get("mounts", []))
