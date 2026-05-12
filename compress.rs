@@ -18,7 +18,7 @@ fn main() {
     walkdir::WalkDir::new(&pwd).into_iter().for_each(|e| {
         if let Ok(entry) = e {
             let f_name = entry.path().to_string_lossy().replace('\\', "/");
-            if f_name.ends_with(".json") || f_name.ends_with(".gyroflow") {
+            if (f_name.ends_with(".json") || f_name.ends_with(".gyroflow")) && !f_name.ends_with("canonical_lenses.json") {
                 if let Ok(data) = std::fs::read_to_string(&f_name) {
                     let parsed = serde_json::from_str::<serde_json::Value>(&data).unwrap();
                     let pos = f_name.find(&pwd).unwrap();
