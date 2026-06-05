@@ -1,0 +1,70 @@
+{
+  "name": "Apple_iPhone17Pro_RAW Cam_Wide_16x9",
+  "note": "Works on both full and half res in RAW Cam and Log Cam.",
+  "calibrated_by": "Sebastijan",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 17 Pro",
+  "lens_model": "Wide",
+  "camera_setting": "16:9",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 3.513104,
+  "frame_readout_direction": "TopToBottom",
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 12,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.0899331438071302,
+    "camera_matrix": [
+      [
+        2839.428365229387,
+        0.0,
+        1928.718428471011
+      ],
+      [
+        0.0,
+        2836.3829803609897,
+        1105.4221686891226
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.42588818422692004,
+      1.474749112500738,
+      -10.405757284774793,
+      18.48572403080782
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.6.3",
+  "date": "2026-06-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}
