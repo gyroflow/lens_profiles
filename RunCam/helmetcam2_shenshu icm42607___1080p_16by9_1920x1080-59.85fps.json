@@ -1,0 +1,70 @@
+{
+  "name": "helmetcam2_shenshu icm42607___1080p_16by9_1920x1080-59.85fps",
+  "note": "",
+  "calibrated_by": "Administrator",
+  "camera_brand": "helmetcam2",
+  "camera_model": "shenshu icm42607",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "frame_readout_direction": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.852779,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.31121784541605246,
+    "camera_matrix": [
+      [
+        884.0616073505892,
+        0.0,
+        963.8092780568178
+      ],
+      [
+        0.0,
+        883.9292704572855,
+        555.4541666057614
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.033331637666213006,
+      -0.02776884711957624,
+      -0.015885778625332945,
+      0.008574967753121974
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.6.3",
+  "date": "2026-06-23",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}
