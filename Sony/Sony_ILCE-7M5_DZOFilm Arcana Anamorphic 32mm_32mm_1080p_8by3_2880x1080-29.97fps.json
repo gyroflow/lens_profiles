@@ -1,0 +1,70 @@
+{
+  "name": "Sony ILCE-7M5 | DZOFilm Arcana 32mm T2.1 Anamorphic | 32mm,1080p,29.97fps",
+  "note": "Works with any resolution and framerate given no crop",
+  "calibrated_by": "Máté Forgács",
+  "camera_brand": "Sony",
+  "camera_model": "ILCE-7M5",
+  "lens_model": "DZOFilm Arcana Anamorphic 32mm",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2880,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 2880,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 1440
+  },
+  "frame_readout_time": null,
+  "frame_readout_direction": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.5,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 1.2497741524973458,
+    "camera_matrix": [
+      [
+        1772.9785940083168,
+        0.0,
+        1434.163927593702
+      ],
+      [
+        0.0,
+        1768.4285956642066,
+        537.0452741109539
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      -0.035644332176973735,
+      0.1003030731754943,
+      -0.20308100896670012,
+      0.13430919918646686
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7m5-dzofilmarcanaanamorphic32mm-32.00mm-2880x1080@29970",
+  "calibrator_version": "1.6.3",
+  "date": "2026-06-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 32.0,
+  "crop_factor": null,
+  "global_shutter": false
+}

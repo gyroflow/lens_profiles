@@ -1,0 +1,70 @@
+{
+  "name": "Sony ILCE-7M5 | Viltrox 16mm F1.8 FE | 16mm,1080p,29.97fps",
+  "note": "Works with any resolution and framerate given no crop",
+  "calibrated_by": "Máté Forgács",
+  "camera_brand": "Sony",
+  "camera_model": "ILCE-7M5",
+  "lens_model": "Viltrox 16mm F1.8 FE",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "frame_readout_direction": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.1924452187481699,
+    "camera_matrix": [
+      [
+        883.3333511265473,
+        0.0,
+        963.9379884726093
+      ],
+      [
+        0.0,
+        883.311228216995,
+        533.6317272743278
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3559643647235299,
+      0.07075204096810175,
+      0.08473053023897206,
+      0.00674965904509858
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7m5-viltrox16mmf1.8fe-16.00mm-1920x1080@29970",
+  "calibrator_version": "1.6.3",
+  "date": "2026-06-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 16.0,
+  "crop_factor": null,
+  "global_shutter": false
+}
