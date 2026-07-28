@@ -1,0 +1,70 @@
+{
+  "name": "Apple_iPhone12_RAW Cam_UltraWide_16x9",
+  "note": "Works on both full and half res in RAW Cam and Log Cam.",
+  "calibrated_by": "Sebastijan",
+  "camera_brand": "Apple",
+  "camera_model": "iPhone 12",
+  "lens_model": "Ultra Wide",
+  "camera_setting": "16:9",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 15.7,
+  "frame_readout_direction": "TopToBottom",
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 6,
+  "fps": 24.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.2113121097109413,
+    "camera_matrix": [
+      [
+        816.3986838185905,
+        0.0,
+        954.00962346415
+      ],
+      [
+        0.0,
+        807.1544891144971,
+        572.6121567515329
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.5626566258167011,
+      -0.8024681978540943,
+      6.104535872876585,
+      -18.326472752062276
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.6.3",
+  "date": "2026-02-18",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}
