@@ -1,0 +1,70 @@
+{
+  "name": "Sony ILCE-7M5 | Sigma 28-105mm F2.8 DG DN Art | 28mm,1080p,29.97fps",
+  "note": "Works with any resolution and framerate given no crop",
+  "calibrated_by": "Máté Forgács",
+  "camera_brand": "Sony",
+  "camera_model": "ILCE-7M5",
+  "lens_model": "Sigma 28-105mm F2.8 DG DN Art",
+  "camera_setting": "28mm",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": null,
+  "frame_readout_direction": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 29.97003,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.1711972011149403,
+    "camera_matrix": [
+      [
+        1501.4555847990516,
+        0.0,
+        964.3292901821169
+      ],
+      [
+        0.0,
+        1500.9095298428747,
+        538.5593203161369
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.1167514596580497,
+      0.2768480437872083,
+      -0.7166909352468006,
+      1.43703635060362
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "sony-ilce-7m5-sigma28-105mmf2.8dgdnart-28.00mm-1920x1080@29970",
+  "calibrator_version": "1.6.3",
+  "date": "2026-06-28",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": 28.0,
+  "crop_factor": null,
+  "global_shutter": false
+}
