@@ -1,0 +1,70 @@
+{
+  "name": "XIAOMI (POCO) X3 GT X3 GT Ultra Wide (0.6x) 1080p 16by9 1920x1080 30.00fps",
+  "note": "1080@30fps Pro Mode",
+  "calibrated_by": "Jerson Carin",
+  "camera_brand": "XIAOMI (POCO)",
+  "camera_model": "X3 GT",
+  "lens_model": "X3 GT",
+  "camera_setting": "ULTRA WIDE (0.6x)",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "frame_readout_direction": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.003876,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.4649233651545031,
+    "camera_matrix": [
+      [
+        921.7355703463029,
+        0.0,
+        956.2481482949798
+      ],
+      [
+        0.0,
+        921.9577502373264,
+        524.806226189592
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.267598144659241,
+      0.29738948276420474,
+      -0.020058774659103742,
+      -0.02163809402971957
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.6.3",
+  "date": "2026-05-14",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}
