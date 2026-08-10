@@ -1,0 +1,3 @@
+[submodule "lensfun"]
+	path = lensfun
+	url = https://github.com/lensfun/lensfun
