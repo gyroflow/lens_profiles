@@ -8,6 +8,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          submodules: true
+      - name: Build camera catalogue
+        run: |
+          python3 -m unittest discover -s tools -p 'test_*.py'
+          python3 tools/generate_camera_database.py
       - uses: dtolnay/rust-toolchain@stable
       - uses: taiki-e/install-action@v2
         with:

@@ -15,10 +15,15 @@ fn main() {
     let binary_path = format!("{pwd}/profiles.cbor.gz");
     let mut all_profiles = Vec::new();
     all_profiles.push(("__version".to_owned(), serde_json::Value::Number(env!("GITHUB_RUN_NUMBER").parse::<u64>().unwrap().into())));
-    walkdir::WalkDir::new(&pwd).into_iter().for_each(|e| {
+    let catalogue: serde_json::Value = serde_json::from_slice(&std::fs::read("camera_database.json").expect("Generate the camera catalogue first")).unwrap();
+    all_profiles.push(("__camera_database".to_owned(), catalogue));
+    walkdir::WalkDir::new(&pwd).sort_by_file_name().into_iter()
+        .filter_entry(|e| e.depth() == 0 || !e.file_type().is_dir() ||
+            (!e.file_name().to_string_lossy().starts_with('.') && !["lensfun", "tools", "tests"].contains(&e.file_name().to_string_lossy().as_ref())))
+        .for_each(|e| {
         if let Ok(entry) = e {
             let f_name = entry.path().to_string_lossy().replace('\\', "/");
-            if f_name.ends_with(".json") || f_name.ends_with(".gyroflow") {
+            if entry.file_name() != "camera_database.json" && (f_name.ends_with(".json") || f_name.ends_with(".gyroflow")) {
                 if let Ok(data) = std::fs::read_to_string(&f_name) {
                     let parsed = serde_json::from_str::<serde_json::Value>(&data).unwrap();
                     let pos = f_name.find(&pwd).unwrap();
