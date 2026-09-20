@@ -16,6 +16,24 @@ jobs:
       - name: Compress profiles
         run: chmod +x compress.rs && ./compress.rs
 
+      - name: Camera database
+        shell: bash
+        run: |
+          git clone --depth 1 https://github.com/gyroflow/gyroflow /tmp/gyroflow
+          git clone --depth 1 https://github.com/lensfun/lensfun /tmp/lensfun
+          GEN=/tmp/gyroflow/_scripts/generate_camera_database.py
+          # Regenerate when the generator is on gyroflow master; otherwise ship
+          # the committed copy so the release artifact always exists.
+          if [ -f "$GEN" ]; then
+            python3 "$GEN" --lens-profiles "$GITHUB_WORKSPACE" \
+              --lensfun /tmp/lensfun/data/db --output camera_database.json
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add camera_database.json
+            git diff --cached --quiet || git commit -m "Update camera database"
+            git push || true
+          fi
+
       - name: Save
         uses: actions/upload-artifact@v4
         with:
@@ -25,5 +43,5 @@ jobs:
       - name: Release
         uses: ncipollo/release-action@v1
         with:
-          artifacts: profiles.cbor.gz
+          artifacts: profiles.cbor.gz,camera_database.json
           tag: "v${{ github.run_number }}"
