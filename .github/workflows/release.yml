@@ -2,6 +2,10 @@ name: Release
 
 on:
   push:
+  pull_request:
+
+permissions:
+  contents: read
 
 jobs:
   build:
@@ -13,17 +17,53 @@ jobs:
         with:
           tool: rust-script
 
+      - name: Test camera database generator
+        run: python3 -m unittest test_camera_database.py scripts/test_normalize_profile_metadata.py
+
+      - name: Check historical profile names against the catalog
+        run: python3 scripts/normalize_profile_metadata.py --check --report "$RUNNER_TEMP/profile-identity-review.json"
+
+      - name: Save unresolved profile identities for review
+        if: github.event_name == 'pull_request' && !cancelled()
+        uses: actions/upload-artifact@v4
+        with:
+          name: profile-identity-review
+          path: ${{ runner.temp }}/profile-identity-review.json
+          if-no-files-found: ignore
+
+      - name: Verify checked-in camera database
+        run: |
+          python3 build_camera_database.py --output "$RUNNER_TEMP/camera_database.json"
+          cmp camera_database.json "$RUNNER_TEMP/camera_database.json"
+
+      - name: Check which files are included in the profile bundle
+        run: rust-script --test compress.rs
+
       - name: Compress profiles
-        run: chmod +x compress.rs && ./compress.rs
+        run: rust-script compress.rs
 
       - name: Save
         uses: actions/upload-artifact@v4
         with:
           name: profiles
-          path: profiles.cbor.gz
+          path: |
+            profiles.cbor.gz
+            camera_database.json
+            DATA-SOURCES.md
+            LENSFUN-DATABASE-LICENSE.txt
 
-      - name: Release
-        uses: ncipollo/release-action@v1
+  release:
+    if: github.event_name == 'push' && github.ref_name == github.event.repository.default_branch
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
         with:
-          artifacts: profiles.cbor.gz
+          name: profiles
+      - uses: ncipollo/release-action@v1
+        with:
+          artifacts: profiles.cbor.gz,camera_database.json,DATA-SOURCES.md,LENSFUN-DATABASE-LICENSE.txt
           tag: "v${{ github.run_number }}"
+          commit: ${{ github.sha }}

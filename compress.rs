@@ -9,31 +9,46 @@
 //! serde_json = "1.0"
 //! ```
 
-fn main() {
-    let pwd = std::env::current_dir().unwrap().to_string_lossy().to_string().replace('\\', "/");
-    println!("Current dir: {pwd}");
-    let binary_path = format!("{pwd}/profiles.cbor.gz");
-    let mut all_profiles = Vec::new();
-    all_profiles.push(("__version".to_owned(), serde_json::Value::Number(env!("GITHUB_RUN_NUMBER").parse::<u64>().unwrap().into())));
-    walkdir::WalkDir::new(&pwd).into_iter().for_each(|e| {
-        if let Ok(entry) = e {
-            let f_name = entry.path().to_string_lossy().replace('\\', "/");
-            if f_name.ends_with(".json") || f_name.ends_with(".gyroflow") {
-                if let Ok(data) = std::fs::read_to_string(&f_name) {
-                    let parsed = serde_json::from_str::<serde_json::Value>(&data).unwrap();
-                    let pos = f_name.find(&pwd).unwrap();
-                    println!("Adding: {}", &f_name[pos + pwd.len() + 1..]);
-                    all_profiles.push((f_name[pos + pwd.len() + 1..].to_owned(), parsed));
-                }
-            }
-        }
-    });
-    if !all_profiles.is_empty() {
-        use std::io::Write;
-        let mut file = std::fs::File::create(&binary_path).unwrap();
-        let mut data = Vec::<u8>::new();
-        ciborium::into_writer(&all_profiles, &mut data).unwrap();
-        let mut e = flate2::write::GzEncoder::new(&mut file, flate2::Compression::best());
-        e.write_all(&data).unwrap();
+fn should_pack_profile(path: &std::path::Path) -> bool {
+    path != std::path::Path::new("camera_database.json") &&
+        !path.starts_with("catalog") &&
+        matches!(path.extension().and_then(|ext| ext.to_str()), Some("json" | "gyroflow"))
+}
+
+fn main() -> Result<(), Box<dyn std::error::Error>> {
+    use std::io::Write;
+
+    let version: u32 = std::env::var("GITHUB_RUN_NUMBER")?.parse()?;
+    let mut profiles = vec![("__version".to_owned(), serde_json::json!(version))];
+    for entry in walkdir::WalkDir::new(".").sort_by_file_name() {
+        let entry = entry?;
+        if !entry.file_type().is_file() { continue; }
+        let path = entry.path().strip_prefix(".")?;
+        if !should_pack_profile(path) { continue; }
+        let profile = serde_json::from_slice(&std::fs::read(path)?)
+            .map_err(|error| format!("{}: {error}", path.display()))?;
+        profiles.push((path.to_string_lossy().replace('\\', "/"), profile));
+    }
+    if profiles.len() == 1 { return Err("No profiles found".into()); }
+    let file = std::fs::File::create("profiles.cbor.gz")?;
+    let mut gzip = flate2::write::GzEncoder::new(std::io::BufWriter::new(file), flate2::Compression::best());
+    ciborium::into_writer(&profiles, &mut gzip)?;
+    gzip.finish()?.flush()?;
+    println!("Packed {} profiles for v{version}", profiles.len() - 1);
+    Ok(())
+}
+
+#[cfg(test)]
+mod tests {
+    use super::should_pack_profile;
+    use std::path::Path;
+
+    #[test]
+    fn excludes_catalog_registry_and_generated_camera_database() {
+        assert!(!should_pack_profile(Path::new("catalog/curated_identities.json")));
+        assert!(!should_pack_profile(Path::new("camera_database.json")));
+        assert!(should_pack_profile(Path::new("Sony/profile.json")));
+        assert!(should_pack_profile(Path::new("Sony/profile.gyroflow")));
+        assert!(!should_pack_profile(Path::new("Sony/notes.md")));
     }
 }

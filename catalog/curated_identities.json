@@ -1,0 +1,1430 @@
+{
+  "version": 1,
+  "cameras": [
+    {
+      "brand": "GoPro",
+      "model": "HERO3",
+      "aliases": [],
+      "source_url": "https://community.gopro.com/s/article/how-to-identify-your-gopro-camera?language=en_US",
+      "fixed_lens": true
+    },
+    {
+      "brand": "GoPro",
+      "model": "HERO3 Black",
+      "aliases": [],
+      "source_url": "https://community.gopro.com/s/article/how-to-identify-your-gopro-camera?language=en_US",
+      "fixed_lens": true
+    },
+    {
+      "brand": "GoPro",
+      "model": "HERO3 Silver",
+      "aliases": [],
+      "source_url": "https://community.gopro.com/s/article/how-to-identify-your-gopro-camera?language=en_US",
+      "fixed_lens": true
+    },
+    {
+      "brand": "GoPro",
+      "model": "HERO3+ Silver",
+      "aliases": [],
+      "source_url": "https://community.gopro.com/s/article/how-to-identify-your-gopro-camera?language=en_US",
+      "fixed_lens": true
+    },
+    {
+      "brand": "GoPro",
+      "model": "HERO4",
+      "aliases": [],
+      "source_url": "https://community.gopro.com/s/article/how-to-identify-your-gopro-camera?language=en_US",
+      "fixed_lens": true
+    },
+    {
+      "brand": "GoPro",
+      "model": "HERO4 Black",
+      "aliases": [],
+      "source_url": "https://community.gopro.com/s/article/how-to-identify-your-gopro-camera?language=en_US",
+      "fixed_lens": true
+    },
+    {
+      "brand": "GoPro",
+      "model": "HERO4 Silver",
+      "aliases": [],
+      "source_url": "https://community.gopro.com/s/article/how-to-identify-your-gopro-camera?language=en_US",
+      "fixed_lens": true
+    },
+    {
+      "brand": "GoPro",
+      "model": "HERO4 Session",
+      "aliases": [],
+      "source_url": "https://community.gopro.com/s/article/how-to-identify-your-gopro-camera?language=en_US",
+      "fixed_lens": true
+    },
+    {
+      "brand": "GoPro",
+      "model": "HERO5 Black",
+      "aliases": [],
+      "source_url": "https://community.gopro.com/s/article/how-to-identify-your-gopro-camera?language=en_US",
+      "fixed_lens": true
+    },
+    {
+      "brand": "GoPro",
+      "model": "HERO5 Session",
+      "aliases": [],
+      "source_url": "https://community.gopro.com/s/article/how-to-identify-your-gopro-camera?language=en_US",
+      "fixed_lens": true
+    },
+    {
+      "brand": "GoPro",
+      "model": "HERO6 Black",
+      "aliases": [],
+      "source_url": "https://community.gopro.com/s/article/how-to-identify-your-gopro-camera?language=en_US",
+      "fixed_lens": true
+    },
+    {
+      "brand": "GoPro",
+      "model": "HERO7 Black",
+      "aliases": [],
+      "source_url": "https://community.gopro.com/s/article/how-to-identify-your-gopro-camera?language=en_US",
+      "fixed_lens": true
+    },
+    {
+      "brand": "GoPro",
+      "model": "HERO7 Silver",
+      "aliases": [],
+      "source_url": "https://community.gopro.com/s/article/how-to-identify-your-gopro-camera?language=en_US",
+      "fixed_lens": true
+    },
+    {
+      "brand": "GoPro",
+      "model": "HERO7 White",
+      "aliases": [],
+      "source_url": "https://community.gopro.com/s/article/how-to-identify-your-gopro-camera?language=en_US",
+      "fixed_lens": true
+    },
+    {
+      "brand": "GoPro",
+      "model": "HERO8 Black",
+      "aliases": [],
+      "source_url": "https://community.gopro.com/s/article/how-to-identify-your-gopro-camera?language=en_US",
+      "fixed_lens": true
+    },
+    {
+      "brand": "GoPro",
+      "model": "HERO9 Black",
+      "aliases": [],
+      "source_url": "https://gopro.com/content/dam/help/hero9-black/mounts-and-accessories/MaxLensMod_UserGuide_REVA.pdf",
+      "fixed_lens": false
+    },
+    {
+      "brand": "GoPro",
+      "model": "HERO10 Black",
+      "aliases": [],
+      "source_url": "https://gopro.com/en/us/shop/mounts-accessories/max-lens-mod/ADWAL-001.html",
+      "fixed_lens": false
+    },
+    {
+      "brand": "GoPro",
+      "model": "HERO11 Black",
+      "aliases": [],
+      "source_url": "https://gopro.com/en/us/shop/mounts-accessories/max-lens-mod/ADWAL-001.html",
+      "fixed_lens": false
+    },
+    {
+      "brand": "GoPro",
+      "model": "HERO11 Black Mini",
+      "aliases": [],
+      "source_url": "https://gopro.com/en/us/shop/mounts-accessories/max-lens-mod/ADWAL-001.html",
+      "fixed_lens": false
+    },
+    {
+      "brand": "GoPro",
+      "model": "HERO12 Black",
+      "aliases": [],
+      "source_url": "https://gopro.com/en/us/shop/mounts-accessories/max-lens-mod/ADWAL-001.html",
+      "fixed_lens": false
+    },
+    {
+      "brand": "GoPro",
+      "model": "HERO13 Black",
+      "aliases": [],
+      "source_url": "https://gopro.com/en/us/shop/mounts-accessories/hb-series-lens-collection/AKTLM-001.html",
+      "fixed_lens": false
+    },
+    {
+      "brand": "GoPro",
+      "model": "MAX",
+      "aliases": [],
+      "source_url": "https://community.gopro.com/s/article/how-to-identify-your-gopro-camera?language=en_US",
+      "fixed_lens": true
+    },
+    {
+      "brand": "DJI",
+      "model": "Osmo Action",
+      "aliases": [
+        "Action",
+        "Action 1",
+        "Osmo Action 1"
+      ],
+      "source_url": "https://www.dji.com/downloads/products/osmo-action",
+      "fixed_lens": true
+    },
+    {
+      "brand": "DJI",
+      "model": "Osmo Action 3",
+      "aliases": [
+        "Action 3"
+      ],
+      "source_url": "https://www.dji.com/downloads/products/osmo-action-3",
+      "fixed_lens": true
+    },
+    {
+      "brand": "DJI",
+      "model": "Osmo Action 4",
+      "aliases": [
+        "Action 4"
+      ],
+      "source_url": "https://www.dji.com/downloads/products/osmo-action-4",
+      "fixed_lens": true
+    },
+    {
+      "brand": "DJI",
+      "model": "Osmo Pocket",
+      "aliases": [
+        "Osmo Pocket 1"
+      ],
+      "source_url": "https://www.dji.com/downloads/products/osmo-pocket",
+      "fixed_lens": true
+    },
+    {
+      "brand": "DJI",
+      "model": "Osmo Pocket 2",
+      "aliases": [
+        "Pocket 2"
+      ],
+      "source_url": "https://www.dji.com/downloads/products/osmo-pocket-2",
+      "fixed_lens": true
+    },
+    {
+      "brand": "DJI",
+      "model": "Osmo Pocket 3",
+      "aliases": [
+        "OsmoPocket3"
+      ],
+      "source_url": "https://www.dji.com/downloads/products/osmo-pocket-3",
+      "fixed_lens": true
+    },
+    {
+      "brand": "DJI",
+      "model": "Air 2S",
+      "aliases": [
+        "Air2S",
+        "AIR2s"
+      ],
+      "source_url": "https://www.dji.com/downloads/products/air-2s",
+      "fixed_lens": true
+    },
+    {
+      "brand": "DJI",
+      "model": "Mini 2",
+      "aliases": [
+        "MINI2"
+      ],
+      "source_url": "https://www.dji.com/downloads/products/mini-2",
+      "fixed_lens": true
+    },
+    {
+      "brand": "DJI",
+      "model": "Mini 3 Pro",
+      "aliases": [
+        "Mini Pro 3"
+      ],
+      "source_url": "https://www.dji.com/downloads/products/mini-3-pro",
+      "fixed_lens": true
+    },
+    {
+      "brand": "DJI",
+      "model": "Mavic 2 Pro",
+      "aliases": [
+        "mavic 2pro"
+      ],
+      "source_url": "https://www.dji.com/downloads/products/mavic-2",
+      "fixed_lens": true
+    },
+    {
+      "brand": "DJI",
+      "model": "DJI FPV",
+      "aliases": [
+        "FPV",
+        "DJI FPV Drone"
+      ],
+      "source_url": "https://www.dji.com/downloads/products/dji-fpv",
+      "fixed_lens": true
+    },
+    {
+      "brand": "Insta360",
+      "model": "Ace",
+      "aliases": [],
+      "source_url": "https://www.insta360.com/product/compare",
+      "fixed_lens": true
+    },
+    {
+      "brand": "Insta360",
+      "model": "Ace Pro",
+      "aliases": [],
+      "source_url": "https://www.insta360.com/product/compare",
+      "fixed_lens": true
+    },
+    {
+      "brand": "Insta360",
+      "model": "GO 2",
+      "aliases": [],
+      "source_url": "https://www.insta360.com/product/compare",
+      "fixed_lens": true
+    },
+    {
+      "brand": "Insta360",
+      "model": "GO 3S",
+      "aliases": [],
+      "source_url": "https://www.insta360.com/product/compare",
+      "fixed_lens": true
+    },
+    {
+      "brand": "Insta360",
+      "model": "ONE R",
+      "aliases": [
+        "OneR"
+      ],
+      "source_url": "https://www.insta360.com/product/compare",
+      "fixed_lens": false
+    },
+    {
+      "brand": "Insta360",
+      "model": "ONE RS",
+      "aliases": [
+        "OneRS"
+      ],
+      "source_url": "https://www.insta360.com/product/compare",
+      "fixed_lens": false
+    },
+    {
+      "brand": "Insta360",
+      "model": "ONE X2",
+      "aliases": [],
+      "source_url": "https://www.insta360.com/product/compare",
+      "fixed_lens": true
+    },
+    {
+      "brand": "Insta360",
+      "model": "X4",
+      "aliases": [],
+      "source_url": "https://www.insta360.com/product/compare",
+      "fixed_lens": true
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 11",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-us/108044"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 11 Pro",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-us/108044"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 11 Pro Max",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-us/108044"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 12",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-us/108044"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 12 mini",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-us/108044"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 12 Pro",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-us/108044"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 12 Pro Max",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-us/108044"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 13",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-us/108044"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 13 mini",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-us/108044"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 13 Pro",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-us/108044"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 13 Pro Max",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-us/108044"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 14",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-us/108044"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 14 Pro",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-us/108044"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 14 Pro Max",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-us/108044"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 15",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-us/108044"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 15 Pro",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-us/108044"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 15 Pro Max",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-us/108044"
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 4",
+      "aliases": [],
+      "source_url": "https://support.google.com/pixelphone/answer/16043605?hl=en"
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 4 XL",
+      "aliases": [
+        "Pixel 4XL"
+      ],
+      "source_url": "https://support.google.com/pixelphone/answer/16043605?hl=en"
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 4a",
+      "aliases": [],
+      "source_url": "https://support.google.com/pixelphone/answer/16043605?hl=en"
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 4a 5G",
+      "aliases": [],
+      "source_url": "https://support.google.com/pixelphone/answer/16043605?hl=en"
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 5",
+      "aliases": [],
+      "source_url": "https://support.google.com/pixelphone/answer/16043605?hl=en"
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 6",
+      "aliases": [],
+      "source_url": "https://support.google.com/pixelphone/answer/16043605?hl=en"
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 6 Pro",
+      "aliases": [],
+      "source_url": "https://support.google.com/pixelphone/answer/16043605?hl=en"
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 6a",
+      "aliases": [],
+      "source_url": "https://support.google.com/pixelphone/answer/16043605?hl=en"
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 7",
+      "aliases": [],
+      "source_url": "https://support.google.com/pixelphone/answer/16043605?hl=en"
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 7 Pro",
+      "aliases": [],
+      "source_url": "https://support.google.com/pixelphone/answer/16043605?hl=en"
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 7a",
+      "aliases": [],
+      "source_url": "https://support.google.com/pixelphone/answer/16043605?hl=en"
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 8",
+      "aliases": [],
+      "source_url": "https://support.google.com/pixelphone/answer/16043605?hl=en"
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 8 Pro",
+      "aliases": [],
+      "source_url": "https://support.google.com/pixelphone/answer/16043605?hl=en"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S20",
+      "aliases": [
+        "S20"
+      ],
+      "source_url": "https://image-us.samsung.com/SamsungUS/samsungbusiness/pdfs/datasheet/HHP-UNLOCKED-S20SERIESDSHT-FEB20T-2-26-20.pdf"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S20 FE",
+      "aliases": [
+        "S20FE",
+        "S20 FE"
+      ],
+      "source_url": "https://news.samsung.com/global/unveiling-samsung-galaxy-s20-fe-fan-favorite-features-at-an-accessible-price-point"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S21",
+      "aliases": [
+        "S21"
+      ],
+      "source_url": "https://image-us.samsung.com/SamsungUS/samsungbusiness/resources/galaxy-s21-5g-series/Galaxy_S21_Series_Brochure_Generic.pdf"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S21 Ultra",
+      "aliases": [
+        "S21 Ultra"
+      ],
+      "source_url": "https://image-us.samsung.com/SamsungUS/samsungbusiness/resources/galaxy-s21-5g-series/Galaxy_S21_Series_Brochure_Generic.pdf"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S22",
+      "aliases": [
+        "S22"
+      ],
+      "source_url": "https://news.samsung.com/global/new-samsung-galaxy-s22-and-s22-plus-deliver-revolutionary-camera-experiences-day-and-night"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S22 Ultra",
+      "aliases": [
+        "S22 Ultra",
+        "S22u"
+      ],
+      "source_url": "https://news.samsung.com/global/samsung-galaxy-s22-ultra-offers-the-ultimate-and-most-premium-s-series-experience-yet"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S23",
+      "aliases": [
+        "S23"
+      ],
+      "source_url": "https://news.samsung.com/global/galaxy-s23-series"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S23 Ultra",
+      "aliases": [
+        "S23 Ultra",
+        "S23U",
+        "S23ultra"
+      ],
+      "source_url": "https://news.samsung.com/global/galaxy-s23-series"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S24",
+      "aliases": [
+        "S24"
+      ],
+      "source_url": "https://www.samsung.com/uk/support/mobile-devices/comparison-between-the-galaxy-s24-and-s23-series/"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S24 Ultra",
+      "aliases": [
+        "S24 Ultra",
+        "S24_Ultra"
+      ],
+      "source_url": "https://www.samsung.com/uk/support/mobile-devices/comparison-between-the-galaxy-s24-and-s23-series/"
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "11 Ultra",
+      "aliases": [
+        "MI 11 Ultra"
+      ],
+      "source_url": "https://www.mi.com/in/mi-11-ultra/specs/"
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "12S Ultra",
+      "aliases": [
+        "12s ultra"
+      ],
+      "source_url": "https://www.mi.com/global/product/xiaomi-12s-ultra/"
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "13 Ultra",
+      "aliases": [
+        "13ultra",
+        "13u"
+      ],
+      "source_url": "https://www.mi.com/global/product/xiaomi-13-ultra/specs/"
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "14 Ultra",
+      "aliases": [
+        "14ultra",
+        "14u"
+      ],
+      "source_url": "https://www.mi.com/global/product/xiaomi-14-ultra/specs/"
+    },
+    {
+      "brand": "Blackmagic",
+      "model": "Pocket Cinema Camera 4K",
+      "aliases": [
+        "Pocket Cinema Camera C4K"
+      ],
+      "source_url": "https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/techspecs",
+      "mounts": [
+        "Micro 4/3 System"
+      ],
+      "compatible_mounts": [],
+      "sensor_size": "Micro Four Thirds",
+      "crop_factor": 2.018
+    },
+    {
+      "brand": "Blackmagic",
+      "model": "Pocket Cinema Camera 6K",
+      "aliases": [],
+      "source_url": "https://documents.blackmagicdesign.com/UserManuals/BlackmagicPocketCinemaCamera6KManual.pdf"
+    },
+    {
+      "brand": "Blackmagic",
+      "model": "Pocket Cinema Camera 6K Pro",
+      "aliases": [],
+      "source_url": "https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/techspecs",
+      "mounts": [
+        "Canon EF"
+      ],
+      "compatible_mounts": [],
+      "sensor_size": "Super 35",
+      "crop_factor": 1.633
+    },
+    {
+      "brand": "Blackmagic",
+      "model": "Pocket Cinema Camera 6K G2",
+      "aliases": [],
+      "source_url": "https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/techspecs",
+      "mounts": [
+        "Canon EF"
+      ],
+      "compatible_mounts": [],
+      "sensor_size": "Super 35",
+      "crop_factor": 1.633
+    },
+    {
+      "brand": "Blackmagic",
+      "model": "Cinema Camera 6K",
+      "aliases": [],
+      "source_url": "https://www.blackmagicdesign.com/products/blackmagiccinemacamera/techspecs"
+    },
+    {
+      "brand": "Blackmagic",
+      "model": "URSA Mini Pro 12K",
+      "aliases": [],
+      "source_url": "https://www.blackmagicdesign.com/products/blackmagicursaminipro/techspecs"
+    },
+    {
+      "brand": "RED",
+      "model": "KOMODO 6K",
+      "aliases": [
+        "KOMODO"
+      ],
+      "mounts": [
+        "Canon RF"
+      ],
+      "compatible_mounts": [],
+      "sensor_size": "Super 35",
+      "crop_factor": 1.416,
+      "source_url": "https://docs.red.com/955-0190_v1.5/955-0196_V1.5%20Rev-A_RED_PS_KOMODO_Operation_Guide/Content/A_TechSpecs/Specs_KOMODO_6K.htm"
+    },
+    {
+      "brand": "Sony",
+      "model": "FX6",
+      "aliases": [
+        "ILME-FX6",
+        "ILME-FX6V",
+        "FX6V"
+      ],
+      "mounts": [
+        "Sony E"
+      ],
+      "compatible_mounts": [],
+      "sensor_size": "Full frame",
+      "source_url": "https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6"
+    },
+    {
+      "brand": "Honor",
+      "model": "80",
+      "aliases": [],
+      "source_url": "https://www.honor.com/cn/phones/honor-80/"
+    },
+    {
+      "brand": "Infinix",
+      "model": "HOT 30",
+      "aliases": [],
+      "source_url": "https://id.infinixmobility.com/specs/hot-30?cId=24&cName=Latest+Product"
+    },
+    {
+      "brand": "Huawei",
+      "model": "Mate 40 Pro",
+      "aliases": [],
+      "source_url": "https://consumer.huawei.com/en/support/phones/mate40-pro/"
+    },
+    {
+      "brand": "Huawei",
+      "model": "nova 7",
+      "aliases": [],
+      "source_url": "https://consumer.huawei.com/cn/support/phones/nova7-5g/"
+    },
+    {
+      "brand": "IQOO",
+      "model": "Z3",
+      "aliases": [],
+      "source_url": "https://www.vivo.com.cn/vivo/param/iqooz3"
+    },
+    {
+      "brand": "LG",
+      "model": "V30",
+      "aliases": [],
+      "source_url": "https://www.lg.com/us/v30-phones/view-all"
+    },
+    {
+      "brand": "Walksnail",
+      "model": "Avatar V2 camera",
+      "aliases": [],
+      "source_url": "https://www.caddxfpv.com/products/walksnail-avatar-camera-v2"
+    },
+    {
+      "brand": "Walksnail",
+      "model": "Avatar HD Pro camera",
+      "aliases": [],
+      "source_url": "https://www.caddxfpv.com/products/walksnail-avatar-hd-pro-camera"
+    },
+    {
+      "brand": "Z CAM",
+      "model": "E2",
+      "aliases": [],
+      "mounts": [
+        "Micro 4/3 System"
+      ],
+      "sensor_size": "Micro Four Thirds",
+      "crop_factor": 1.88,
+      "source_url": "https://www.z-cam.com/products/professional-cameras/e2/"
+    },
+    {
+      "brand": "Z CAM",
+      "model": "E2-M4",
+      "aliases": [],
+      "mounts": [
+        "Micro 4/3 System"
+      ],
+      "sensor_size": "Micro Four Thirds",
+      "crop_factor": 1.88,
+      "source_url": "https://www.z-cam.com/products/professional-cameras/e2-m4/"
+    },
+    {
+      "brand": "RED",
+      "model": "V-RAPTOR 8K VV",
+      "aliases": [],
+      "mounts": [
+        "Canon RF"
+      ],
+      "sensor_size": "Full frame",
+      "crop_factor": 0.934,
+      "source_url": "https://docs.red.com/955-0199/955-0199_V1.3_Rev-A_RED_PS_V-RAPTOR_8K_VV_Operation_Guide/Content/C_TechSpecs/Specs_V-RAPTOR.htm"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 17 Pro",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-us/125090"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 7 Plus",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-gb/111953"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone XR",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-us/111868"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone XS Max",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-us/111880"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 6s",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-us/111952"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 8",
+      "aliases": [],
+      "source_url": "https://support.apple.com/en-us/111976"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S25 Ultra",
+      "aliases": [
+        "S25 Ultra"
+      ],
+      "source_url": "https://images.samsung.com/is/content/samsung/assets/us/business/mobile/phones/galaxy-s25/02052025/S25_Series_B2B_Spec_Sheet_HRc.pdf"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S23+",
+      "aliases": [
+        "S23+"
+      ],
+      "source_url": "https://image-us.samsung.com/SamsungUS/samsungbusiness/pdf/spec-sheets/s23-plus/att/hhp-s23plus-spec-att.pdf"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A73 5G",
+      "aliases": [
+        "A73"
+      ],
+      "source_url": "https://www.samsung.com/ph/smartphones/galaxy-a/galaxy-a73-5g-awesomewhite-128gb-sm-a736bzwgphl/"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A52 5G",
+      "aliases": [
+        "A52 5G"
+      ],
+      "source_url": "https://image-us.samsung.com/SamsungUS/samsungbusiness/pdfs/datasheet/Galaxy_A52_5G_Series_Datasheet_US_Cellular.pdf"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S9+",
+      "aliases": [
+        "S9+"
+      ],
+      "source_url": "https://news.samsung.com/global/built-for-the-way-we-communicate-today-samsung-galaxy-s9-and-s9-plus"
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "13",
+      "aliases": [],
+      "source_url": "https://www.mi.com/global/product/xiaomi-13/specs/"
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "14",
+      "aliases": [],
+      "source_url": "https://www.mi.com/global/product/xiaomi-14/specs/"
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 10",
+      "aliases": [],
+      "source_url": "https://www.mi.com/de/mi-10/specs/"
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "12 Pro",
+      "aliases": [],
+      "source_url": "https://www.mi.com/global/product/xiaomi-12-pro/specs/"
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "12X",
+      "aliases": [],
+      "source_url": "https://www.mi.com/global/product/xiaomi-12x/specs/"
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 9",
+      "aliases": [],
+      "source_url": "https://www.mi.com/global/support/faq/details/KA-07253/"
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 10T",
+      "aliases": [],
+      "source_url": "https://www.mi.com/in/mi-10t/specs"
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 13 Pro 5G",
+      "aliases": [],
+      "source_url": "https://www.mi.com/global/product/redmi-note-13-pro-5g/specs/"
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 8 Pro",
+      "aliases": [],
+      "source_url": "https://www.mi.com/in/redmi-note-8-pro/specs"
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi 9",
+      "aliases": [],
+      "source_url": "https://www.mi.com/in/redmi-9/specs/"
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 7",
+      "aliases": [],
+      "source_url": "https://www.mi.com/uk/redmi-note-7/specs/"
+    },
+    {
+      "brand": "OnePlus",
+      "model": "9 Pro",
+      "aliases": [],
+      "source_url": "https://www.oneplus.com/ie/support/spec"
+    },
+    {
+      "brand": "OnePlus",
+      "model": "8 Pro",
+      "aliases": [],
+      "source_url": "https://www.oneplus.com/ie/support/spec"
+    },
+    {
+      "brand": "OnePlus",
+      "model": "8T",
+      "aliases": [],
+      "source_url": "https://www.oneplus.com/ie/support/spec"
+    },
+    {
+      "brand": "Motorola",
+      "model": "Edge 40 Pro",
+      "aliases": [],
+      "source_url": "https://en-emea.support.motorola.com/app/answers/detail/a_id/175747/~/motorola-edge-40-pro---technischen-daten"
+    },
+    {
+      "brand": "Huawei",
+      "model": "Mate X2",
+      "aliases": [
+        "MateX2"
+      ],
+      "source_url": "https://consumer.huawei.com/cn/support/content/zh-cn16001309/"
+    },
+    {
+      "brand": "Huawei",
+      "model": "P40 Pro",
+      "aliases": [],
+      "source_url": "https://consumer.huawei.com/ke/phones/p40-pro/specs/"
+    },
+    {
+      "brand": "Huawei",
+      "model": "P50 Pro",
+      "aliases": [
+        "P50PRO"
+      ],
+      "source_url": "https://consumer.huawei.com/latin/phones/p50-pro/specs/"
+    },
+    {
+      "brand": "RunCam",
+      "model": "Thumb Pro",
+      "aliases": [
+        "ThumbPro"
+      ],
+      "source_url": "https://www.runcam.com/download/actioncameras"
+    },
+    {
+      "brand": "RunCam",
+      "model": "Thumb Pro-W",
+      "aliases": [
+        "Thumb Pro W",
+        "ThumbProW"
+      ],
+      "source_url": "https://www.runcam.com/download/actioncameras"
+    },
+    {
+      "brand": "RunCam",
+      "model": "5 Orange",
+      "aliases": [],
+      "source_url": "https://www.runcam.com/download/actioncameras"
+    },
+    {
+      "brand": "RunCam",
+      "model": "2 4K Edition",
+      "aliases": [
+        "2 4K"
+      ],
+      "source_url": "https://www.runcam.com/download/actioncameras"
+    },
+    {
+      "brand": "RunCam",
+      "model": "6",
+      "aliases": [],
+      "source_url": "https://www.runcam.com/download/actioncameras"
+    },
+    {
+      "brand": "RunCam",
+      "model": "5",
+      "aliases": [],
+      "source_url": "https://www.runcam.com/download/actioncameras"
+    },
+    {
+      "brand": "RunCam",
+      "model": "2",
+      "aliases": [],
+      "source_url": "https://www.runcam.com/download/actioncameras"
+    },
+    {
+      "brand": "RunCam",
+      "model": "Thumb 2",
+      "aliases": [],
+      "source_url": "https://www.runcam.com/download/actioncameras"
+    },
+    {
+      "brand": "RunCam",
+      "model": "Thumb",
+      "aliases": [],
+      "source_url": "https://www.runcam.com/download/actioncameras"
+    },
+    {
+      "brand": "Caddx",
+      "model": "Walnut",
+      "aliases": [
+        "Walnut cam"
+      ],
+      "source_url": "https://www.caddxfpv.com/blogs/news/how-to-buy-caddxfpv-products"
+    },
+    {
+      "brand": "Caddx",
+      "model": "ORCA",
+      "aliases": [],
+      "source_url": "https://wiki.caddxfpv.com/en/Download/APP"
+    },
+    {
+      "brand": "Hawkeye",
+      "model": "Firefly X Lite",
+      "aliases": [],
+      "source_url": "https://fireflycameras.com/pages/firmwares"
+    },
+    {
+      "brand": "Hawkeye",
+      "model": "Firefly X Lite II",
+      "aliases": [
+        "FireflyXLite II"
+      ],
+      "source_url": "https://fireflycameras.com/pages/firmwares"
+    },
+    {
+      "brand": "Hawkeye",
+      "model": "Firefly 8SE",
+      "aliases": [],
+      "source_url": "https://fireflycameras.com/pages/firmwares"
+    },
+    {
+      "brand": "Hawkeye",
+      "model": "Firefly Q6",
+      "aliases": [],
+      "source_url": "https://fireflycameras.com/pages/firmwares"
+    },
+    {
+      "brand": "Walksnail",
+      "model": "Moonlight Camera",
+      "aliases": [
+        "AvatarMoonlight"
+      ],
+      "source_url": "https://www.caddxfpv.com/products/walksnail-moonlight-camera-with-rec-board"
+    },
+    {
+      "brand": "XTU",
+      "model": "Max3",
+      "aliases": [
+        "MAX3 CAM"
+      ],
+      "source_url": "https://xtucamera.com/cn/c/jingdian.html"
+    },
+    {
+      "brand": "XTU",
+      "model": "S6",
+      "aliases": [],
+      "source_url": "https://xtucam.com/pages/review-video"
+    },
+    {
+      "brand": "RED",
+      "model": "KOMODO-X",
+      "aliases": [
+        "KOMODO-X 6K S35"
+      ],
+      "source_url": "https://docs.red.com/955-0219/955-0219_V2.0%20Rev-A%20RED%20PS%2C%20KOMODO-X%20Operation%20Guide/Content/1_Intro/Intro.htm",
+      "fixed_lens": false
+    },
+    {
+      "brand": "Blackmagic",
+      "model": "Micro Studio Camera 4K G2",
+      "aliases": [],
+      "source_url": "https://www.blackmagicdesign.com/products/blackmagicmicrostudiocamera/techspecs/W-CST-14",
+      "mounts": [
+        "Micro 4/3 System"
+      ],
+      "sensor_size": "Micro Four Thirds"
+    },
+    {
+      "brand": "Panasonic",
+      "model": "DC-BGH1",
+      "aliases": [
+        "BGH1"
+      ],
+      "source_url": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-bgh1/",
+      "mounts": [
+        "Micro 4/3 System"
+      ],
+      "sensor_size": "Micro Four Thirds"
+    },
+    {
+      "brand": "Canon",
+      "model": "EOS C70",
+      "aliases": [
+        "C70"
+      ],
+      "source_url": "https://www.usa.canon.com/shop/p/eos-c70",
+      "mounts": [
+        "Canon RF"
+      ]
+    },
+    {
+      "brand": "RED",
+      "model": "Raven",
+      "aliases": [],
+      "source_url": "https://docs.red.com/955-0127/RED_RAVEN_Operation_Guide_v7_1.pdf"
+    },
+    {
+      "brand": "Z CAM",
+      "model": "E2-F6",
+      "aliases": [],
+      "source_url": "https://www.z-cam.com/support/about/"
+    },
+    {
+      "brand": "Z CAM",
+      "model": "E2-S6",
+      "aliases": [],
+      "source_url": "https://www.z-cam.com/support/about/"
+    }
+  ],
+  "lenses": [
+    {
+      "brand": "GoPro",
+      "model": "Max Lens Mod 2.0",
+      "aliases": [
+        "MaxLensMod2.0"
+      ],
+      "source_url": "https://gopro.com/en/us/shop/mounts-accessories/max-lens-mod-2/ADWAL-002.html"
+    },
+    {
+      "brand": "Sigma",
+      "model": "Sigma 18-50mm F2.8 DC DN | Contemporary 021",
+      "aliases": [
+        "Sigma 18-50mm F2.8 DC DN",
+        "Sigma 18-50mm F2.8 DC DN Contemporary"
+      ],
+      "mounts": [
+        "Sony E",
+        "Leica L",
+        "Fujifilm X",
+        "Canon RF"
+      ],
+      "source_url": "https://www.sigma-global.com/en/lenses/c021_18_50_28/"
+    },
+    {
+      "brand": "Sigma",
+      "model": "Sigma 18-35mm f/1.8 DC HSM [A]",
+      "aliases": [
+        "Sigma 18-35mm f/1.8 DC HSM Art",
+        "Sigma 18-35mm f/1.8 DC HSM"
+      ],
+      "mounts": [
+        "Canon EF",
+        "Sigma SA",
+        "Nikon F AF",
+        "Sony Alpha",
+        "Pentax KAF2"
+      ],
+      "source_url": "https://www.sigma-global.com/en/lenses/a013_18_35_18/"
+    }
+  ],
+  "profile_camera_aliases": [
+    {
+      "raw_brand": "Honor 80",
+      "raw_model": "Honor 80",
+      "target_brand": "Honor",
+      "target_model": "80",
+      "source_profile_refs": [
+        "Mobile phones/Honor 80_Honor 80__1080 30P_1080p_16by9_1920x1080-29.90fps.json"
+      ],
+      "source_url": "https://www.honor.com/cn/phones/honor-80/"
+    },
+    {
+      "raw_brand": "infinix hot 30",
+      "raw_model": "infinix hot 30",
+      "target_brand": "Infinix",
+      "target_model": "HOT 30",
+      "source_profile_refs": [
+        "Other/infinix hot 30_infinix hot 30___1080p_16by9_1920x1080-29.61fps.json"
+      ],
+      "source_url": "https://id.infinixmobility.com/specs/hot-30?cId=24&cName=Latest+Product"
+    },
+    {
+      "raw_brand": "mate40pro",
+      "raw_model": "mate40",
+      "target_brand": "Huawei",
+      "target_model": "Mate 40 Pro",
+      "source_profile_refs": [
+        "Other/mate40pro_mate40_1X__4k_16by9_3840x2160-59.97fps.json"
+      ],
+      "source_url": "https://consumer.huawei.com/en/support/phones/mate40-pro/"
+    },
+    {
+      "raw_brand": "Nova7",
+      "raw_model": "Nova7",
+      "target_brand": "Huawei",
+      "target_model": "nova 7",
+      "source_profile_refs": [
+        "Other/Nova7_Nova7___1080p_16by9_1920x1080-29.08fps.json",
+        "Other/Nova7_Nova7___1080p_16by9_1920x1080-29.08fps.json - Administrator - 2.json"
+      ],
+      "source_url": "https://consumer.huawei.com/cn/support/phones/nova7-5g/"
+    },
+    {
+      "raw_brand": "Iqoo Z3",
+      "raw_model": "Samsung ISOCELL GW3 sensor",
+      "target_brand": "IQOO",
+      "target_model": "Z3",
+      "source_profile_refs": [
+        "Other/Iqoo Z3_Samsung ISOCELL GW3 sensor_26mm_4x3_C4k_4by3_4608x3456-24.00fps.json"
+      ],
+      "source_url": "https://www.vivo.com.cn/vivo/param/iqooz3"
+    },
+    {
+      "raw_brand": "LG V30",
+      "raw_model": "Motion cam",
+      "target_brand": "LG",
+      "target_model": "V30",
+      "source_profile_refs": [
+        "Mobile phones/LG/LG V30_Motion cam_Ultra Wide__2k_4by3_2016x1504-24.00fps.json"
+      ],
+      "source_url": "https://www.lg.com/us/v30-phones/view-all"
+    },
+    {
+      "raw_brand": "Walksnail Avatar V2",
+      "raw_model": "FPVcam V2",
+      "target_brand": "Walksnail",
+      "target_model": "Avatar V2 camera",
+      "source_profile_refs": [
+        "Walksnail/Walksnail_fpv cam_Walksnail_Avatar_V2_Camera_1080p_4by3_60fps wide_1080_60_4by_3_720p_4by3_1440x1080-60.02fps.json",
+        "Walksnail/Walksnail_fpv cam_Walksnail_Avatar_V2_Camera_1080p_16by9_60fps wide_1080p60_1080p_16by9_1920x1080-60.02fps.json"
+      ],
+      "source_url": "https://www.caddxfpv.com/products/walksnail-avatar-camera-v2"
+    },
+    {
+      "raw_brand": "Walksnail Avatar V2 Pro",
+      "raw_model": "fpv cam",
+      "target_brand": "Walksnail",
+      "target_model": "Avatar HD Pro camera",
+      "source_profile_refs": [
+        "Walksnail/Walksnail_Avatar_Pro_Camera_1080p_16by9_60fps wide_1080p60_1080p_16by9_1920x1080-60.02fps.json"
+      ],
+      "source_url": "https://www.caddxfpv.com/products/walksnail-avatar-hd-pro-camera"
+    },
+    {
+      "raw_brand": "Z CAM",
+      "raw_model": "E2M4",
+      "target_brand": "Z CAM",
+      "target_model": "E2-M4",
+      "source_profile_refs": [
+        "Z CAM/Z CAM_E2M4_35mmT1.2__1080p_16by9_1920x1080-50.00fps.json",
+        "Z CAM/Z CAM_E2M4_LAOWA 17MM F1.8_C_C4k_1.90by1_4096x2160-29.97fps.json",
+        "Z CAM/Z CAM_E2M4_LOAWA 10mm_C_C4k_1.90by1_4096x2160-29.97fps.json"
+      ],
+      "source_url": "https://www.z-cam.com/products/professional-cameras/e2-m4/"
+    },
+    {
+      "raw_brand": "Z CAM",
+      "raw_model": "E2 M4",
+      "target_brand": "Z CAM",
+      "target_model": "E2-M4",
+      "source_profile_refs": [
+        "Z CAM/Z CAM_E2 M4_DZOFILM 20-70__4k_16by9_3840x2160-29.97fps.json",
+        "Z CAM/Z CAM_E2 M4_Laowa 7.5mm _120 fps_4k_16by9_3840x2160-59.94fps.json",
+        "Z CAM/Z CAM_E2 M4_Laowa 7.5mm__1080p_16by9_1920x1080-29.97fps.json"
+      ],
+      "source_url": "https://www.z-cam.com/products/professional-cameras/e2-m4/"
+    },
+    {
+      "raw_brand": "Z CAM",
+      "raw_model": "E2 - M4",
+      "target_brand": "Z CAM",
+      "target_model": "E2-M4",
+      "source_profile_refs": [
+        "Z CAM/Z CAM_E2 - M4_Olympus 17mm f1.8__4k_16by9_3840x2160-25.00fps.json"
+      ],
+      "source_url": "https://www.z-cam.com/products/professional-cameras/e2-m4/"
+    },
+    {
+      "raw_brand": "Canon",
+      "raw_model": "R5",
+      "target_brand": "Canon",
+      "target_model": "EOS R5",
+      "source_profile_refs": [
+        "Canon/Canon_R5_10mm__C4k_1.90by1_4096x2160-25.00fps.json",
+        "Canon/Canon_R5_16 mm Rf f2.8_17_9_C4k_1.90by1_4096x2160-50.00fps.json",
+        "Canon/Canon_R5_16-35L F4 IS_60_4k_16by9_3840x2160-59.94fps.json"
+      ],
+      "source_url": "https://www.usa.canon.com/shop/p/eos-r5?iframe=yes"
+    },
+    {
+      "raw_brand": "Canon",
+      "raw_model": "R5C",
+      "target_brand": "Canon",
+      "target_model": "EOS R5 C",
+      "source_profile_refs": [
+        "Canon/Canon_R5C_24-105mm F4 RF_CLOG3 Super35 at 50mm_C4k_1.90by1_4096x2160-24.00fps.json",
+        "Canon/Canon_R5C_24_105_F4_L@50mm_DCI   Full frame_C4k_1.90by1_4096x2160-59.94fps.json",
+        "Canon/Canon_R5C_Canon 16-35mm F4 IS_8K RAW ST 29.97 FF_8k_1.90by1_8190x4320-29.97fps.json"
+      ],
+      "source_url": "https://www.usa.canon.com/shop/p/eos-r5-c-body"
+    },
+    {
+      "raw_brand": "Canon",
+      "raw_model": "R5 C",
+      "target_brand": "Canon",
+      "target_model": "EOS R5 C",
+      "source_profile_refs": [
+        "Canon/Canon_R5 C_Meyer-Optik Gorlitz Biotar 58mm f1.5__C4k_1.90by1_4096x2160-29.97fps.json"
+      ],
+      "source_url": "https://www.usa.canon.com/shop/p/eos-r5-c-body"
+    },
+    {
+      "raw_brand": "Fufifilm",
+      "raw_model": "XT200",
+      "target_brand": "Fujifilm",
+      "target_model": "X-T200",
+      "source_profile_refs": [
+        "Fujifilm/Fufifilm_XT200_KIT 15-45__1080p_16by9_1920x1080-25.00fps.json"
+      ],
+      "source_url": "https://www.fujifilm-x.com/global/products/cameras/x-t200/"
+    },
+    {
+      "raw_brand": "XTU",
+      "raw_model": "S6 CAM",
+      "target_brand": "XTU",
+      "target_model": "S6",
+      "source_profile_refs": [
+        "XTU/XTU_S6 CAM_XTU S6 1080P30 SuperView 1920x1080-30.00fps Wide_30s_1080p_16by9_1920x1080-30.00fps.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_LDC_1440P30_1440p_4by3_1920x1440-29.97fps wide__1440p_4by3_1920x1440-30.00fps.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_LDC_1440P60_1440p_4by3_1920x1440-59.94fps wide__1440p_4by3_1920x1440-60.00fps.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_LDC_4k30_4k_16by9_3840x2160-29.97fps wide__4k_16by9_3840x2160-30.00fps (2).json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_LDC_4k30_4k_16by9_3840x2160-29.97fps wide__4k_16by9_3840x2160-30.00fps.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_LDC_4k30full_4k_16by9_3840x2160-29.97fps wide__4k_16by9_3840x2160-30.00fps (2).json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_LDC_4k30full_4k_16by9_3840x2160-29.97fps wide__4k_16by9_3840x2160-30.00fps (3).json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_LDC_4k30full_4k_16by9_3840x2160-29.97fps wide__4k_16by9_3840x2160-30.00fps - Jolo.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_LDC_4k30full_4k_16by9_3840x2160-29.97fps wide__4k_16by9_3840x2160-30.00fps - ljj - 2.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_LDC_4k30full_4k_16by9_3840x2160-29.97fps wide__4k_16by9_3840x2160-30.00fps.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_LDC_720P30_720p_16by9_1280x720-29.97fps wide__720p_16by9_1280x720-30.00fps.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_1080P30_1080p_16by9_1920x1080-29.97fps wide__1080p_16by9_1920x1080-30.00fps (2).json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_1080P30_1080p_16by9_1920x1080-29.97fps wide__1080p_16by9_1920x1080-30.00fps - guang - 2.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_1080P30_1080p_16by9_1920x1080-29.97fps wide__1080p_16by9_1920x1080-30.00fps.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_1080P60_1080p_16by9_1920x1080-59.94fps wide_Lens Distortion Correction OFF_1080p_16by9_1920x1080-60.00fps.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_1080P60_1080p_16by9_1920x1080-59.94fps wide__1080p_16by9_1920x1080-60.00fps.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_1080P60full_1080p_16by9_1920x1080-59.94fps wide__1080p_16by9_1920x1080-60.00fps - Administrator.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_1080P60full_1080p_16by9_1920x1080-59.94fps wide__1080p_16by9_1920x1080-60.00fps.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_1440P30_1440p_4by3_1920x1440-29.97fps wide__1440p_4by3_1920x1440-29.97fps - 3.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_1440P30_1440p_4by3_1920x1440-29.97fps wide__1440p_4by3_1920x1440-29.97fps.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_1440P30_1440p_4by3_1920x1440-29.97fps wide__1440p_4by3_1920x1440-30.00fps.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_1440P60_1440p_4by3_1920x1440-59.94fps wide__1440p_4by3_1920x1440-60.00fps (2).json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_1440P60_1440p_4by3_1920x1440-59.94fps wide__1440p_4by3_1920x1440-60.00fps - Jacob Dawson.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_1440P60_1440p_4by3_1920x1440-59.94fps wide__1440p_4by3_1920x1440-60.00fps - Xiaochen Wu - 2.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_1440P60_1440p_4by3_1920x1440-59.94fps wide__1440p_4by3_1920x1440-60.00fps.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_2.7k30_2.5k_16by9_2688x1512-30.00fps.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_2.7k30_2.7k_16by9_2720x1530-29.97fps wide__2.5k_16by9_2688x1512-30.00fps.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_4k30_4k_16by9_3840x2160-29.97fps wide_Standard_4k_16by9_3840x2160-30.00fps.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_4k30_4k_16by9_3840x2160-29.97fps wide__4k_16by9_3840x2160-30.00fps.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_4k30full_4k_16by9_3840x2160-29.97fps wide_Super View_4k_16by9_3840x2160-30.00fps.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_4k30full_4k_16by9_3840x2160-29.97fps wide__4k_16by9_3840x2160-29.97fps.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_4k30full_4k_16by9_3840x2160-29.97fps wide__4k_16by9_3840x2160-30.00fps (2).json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_4k30full_4k_16by9_3840x2160-29.97fps wide__4k_16by9_3840x2160-30.00fps (3).json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_4k30full_4k_16by9_3840x2160-29.97fps wide__4k_16by9_3840x2160-30.00fps - Serendipity.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_4k30full_4k_16by9_3840x2160-29.97fps wide__4k_16by9_3840x2160-30.00fps - xianxiao lin.json",
+        "XTU/XTU_S6 CAM_XTUXTU_MaxPro_NO-LDC_4k30full_4k_16by9_3840x2160-29.97fps wide__4k_16by9_3840x2160-30.00fps.json"
+      ],
+      "source_url": "https://xtucamera.com/cn/c/jingdian.html"
+    },
+    {
+      "raw_brand": "Canon",
+      "raw_model": "5D Mark IV",
+      "target_brand": "Canon",
+      "target_model": "EOS 5D Mark IV",
+      "source_profile_refs": [
+        "Canon/Canon_5D Mark IV_11-24__1080p_16by9_1920x1080-50.00fps.json",
+        "Canon/Canon_5D Mark IV_24-105 f4_lens @ 35mm_480p_9by16_1080x1920-23.98fps.json",
+        "Canon/Canon_5D Mark IV_24-105_100fps_720p_16by9_1280x720-25.00fps.json",
+        "Canon/Canon_5D Mark IV_24-105__1080p_16by9_1920x1080-50.00fps.json",
+        "Canon/Canon_5D Mark IV_CANON EF 50 MM 1.4__1080p_16by9_1920x1080-50.00fps.json",
+        "Canon/Canon_5D Mark IV_CANON EF 50MM 1.4__1080p_16by9_1920x1080-50.00fps.json",
+        "Canon/Canon_5D Mark IV_Canon 24-105mm f4_lens @ 35mm_1080p_16by9_1920x1080-59.94fps.json",
+        "Canon/Canon_5D Mark IV_EF24-70 f2.8_24 50_1080p_16by9_1920x1080-50.00fps.json",
+        "Canon/Canon_5D Mark IV_EF24-70f2.8 II__C4k_1.90by1_4096x2160-24.00fps.json",
+        "Canon/Canon_5D Mark IV_Sigma 50-100mm f1.8_HD_1080p_16by9_1920x1080-59.94fps - Motion Unit ltd.json",
+        "Canon/Canon_5D Mark IV_Sigma 50-100mm f1.8_HD_1080p_16by9_1920x1080-59.94fps.json",
+        "Canon/Canon_5D Mark IV_ef 24-70 f4.0__1080p_16by9_1920x1080-50.00fps.json",
+        "Canon/Canon_5D mark IV_EF 50mm 1.8 STM_50, 1.8, 23.9, FHD_1080p_16by9_1920x1080-23.98fps.json"
+      ],
+      "source_url": "https://www.canon-europe.com/cameras/eos-5d-mark-iv/specifications/"
+    }
+  ]
+}
