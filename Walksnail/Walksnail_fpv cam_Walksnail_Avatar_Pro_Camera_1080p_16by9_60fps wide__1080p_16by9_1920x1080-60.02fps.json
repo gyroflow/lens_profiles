@@ -2,8 +2,8 @@
   "name": "Walksnail_fpv cam_Walksnail_Avatar_Pro_Camera_1080p_16by9_60fps wide__1080p_16by9_1920x1080-60.02fps",
   "note": "Set IMU orientation: yXZ",
   "calibrated_by": "nicecrash_23",
-  "camera_brand": "Walksnail Avatar V2 Pro",
-  "camera_model": "fpv cam",
+  "camera_brand": "Walksnail",
+  "camera_model": "Avatar HD Pro camera",
   "lens_model": "Walksnail_Avatar_Pro_Camera_1080p_16by9_60fps wide",
   "camera_setting": "1080p60",
   "calib_dimension": {

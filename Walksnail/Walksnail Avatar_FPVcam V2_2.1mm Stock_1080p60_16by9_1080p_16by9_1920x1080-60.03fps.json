@@ -2,8 +2,8 @@
   "name": "Walksnail Avatar_FPVcam V2_2.1mm Stock_1080p60_16by9_1080p_16by9_1920x1080-60.03fps",
   "note": "Set IMU orientation: YxZ",
   "calibrated_by": "nicecrash_23",
-  "camera_brand": "Walksnail Avatar V2",
-  "camera_model": "FPVcam V2",
+  "camera_brand": "Walksnail",
+  "camera_model": "Avatar V2 camera",
   "lens_model": "Walksnail_Avatar_V2_Camera_1080p_16by9_60fps wide",
   "camera_setting": "1080p60_16by9",
   "calib_dimension": {
