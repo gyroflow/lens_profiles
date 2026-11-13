@@ -1,0 +1,68 @@
+{
+  "name": "GoPro_HERO3 White___1080p_16by9_1920x1080-29.97fps - estimated from footage",
+  "note": "Estimated from ordinary footage, not from a calibration chart: bundle adjustment of point tracks with a rolling-shutter model (2 clips), then checked against 259 more clips of this mode (165 within tolerance) and by eye on 3 stabilized clips. Lens in air. The file does not record the FOV mode. Rolling-shutter readout time estimated the same way.",
+  "calibrated_by": "Anton Belkin",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO3 White",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": 33.3,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 0,
+  "fps": 29.97,
+  "official": false,
+  "use_opencv_fisheye": true,
+  "fisheye_params": {
+    "RMS_error": 0.0,
+    "camera_matrix": [
+      [
+        1229.5415138784817,
+        0.0,
+        1035.8412156893285
+      ],
+      [
+        0.0,
+        1242.6306941361074,
+        522.8666400973245
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.010795234784352122,
+      -0.026579513951879692,
+      0.09046022480828536,
+      -0.08151222748038371
+    ],
+    "radial_distortion_limit": null
+  },
+  "use_opencv_standard": false,
+  "calib_params": {
+    "RMS_error": 0.0,
+    "camera_matrix": [],
+    "distortion_coeffs": [],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "",
+  "date": "2026-11-13",
+  "compatible_settings": [],
+  "frame_readout_direction": "TopToBottom"
+}

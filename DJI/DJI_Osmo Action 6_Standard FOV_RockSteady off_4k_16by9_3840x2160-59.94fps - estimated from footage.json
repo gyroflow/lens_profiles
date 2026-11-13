@@ -1,0 +1,68 @@
+{
+  "name": "DJI_Osmo Action 6_Standard FOV_RockSteady off_4k_16by9_3840x2160-59.94fps - estimated from footage",
+  "note": "Estimated from ordinary footage, not from a calibration chart: bundle adjustment of point tracks with a rolling-shutter model (2 clips), then checked against 14 more clips of this mode (7 within tolerance) and by eye on 3 stabilized clips. Lens in air. Estimated from underwater clips (flat port) with refraction 1.33 in the model. Rolling-shutter readout time estimated the same way.",
+  "calibrated_by": "Anton Belkin",
+  "camera_brand": "DJI",
+  "camera_model": "Osmo Action 6",
+  "lens_model": "Standard FOV",
+  "camera_setting": "RockSteady off",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 8.9,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 0,
+  "fps": 59.94,
+  "official": false,
+  "use_opencv_fisheye": true,
+  "fisheye_params": {
+    "RMS_error": 0.0,
+    "camera_matrix": [
+      [
+        1537.6586332917682,
+        0.0,
+        1913.209198966319
+      ],
+      [
+        0.0,
+        1537.2286147825375,
+        1080.5110070849275
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.3105492108314812,
+      0.3136465012199634,
+      -0.23831686160600604,
+      0.23706133561782544
+    ],
+    "radial_distortion_limit": null
+  },
+  "use_opencv_standard": false,
+  "calib_params": {
+    "RMS_error": 0.0,
+    "camera_matrix": [],
+    "distortion_coeffs": [],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "",
+  "date": "2026-11-13",
+  "compatible_settings": [],
+  "frame_readout_direction": "TopToBottom"
+}
