@@ -1,0 +1,67 @@
+{
+  "name": "GoPro_HERO7 Black_Wide_HS EIS_2.7k_16by9_2704x1520-59.94fps - estimated from footage",
+  "note": "Estimated from ordinary footage, not from a calibration chart: bundle adjustment of point tracks with a rolling-shutter model (5 clips), then checked against 7 more clips of this mode (5 within tolerance) and by eye on 3 stabilized clips. Lens in air. In-camera stabilization was on: no readout time (the camera has taken the rolling shutter out).",
+  "calibrated_by": "Anton Belkin",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO7 Black",
+  "lens_model": "Wide",
+  "camera_setting": "HS EIS",
+  "calib_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "orig_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "output_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "frame_readout_time": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 0,
+  "fps": 59.94,
+  "official": false,
+  "use_opencv_fisheye": true,
+  "fisheye_params": {
+    "RMS_error": 0.0,
+    "camera_matrix": [
+      [
+        1376.9077137551426,
+        0.0,
+        1358.5248020335432
+      ],
+      [
+        0.0,
+        1387.502296246139,
+        769.1288678960082
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.03553642670262884,
+      0.05300853912868739,
+      -0.047875786834188375,
+      0.015229397058168975
+    ],
+    "radial_distortion_limit": null
+  },
+  "use_opencv_standard": false,
+  "calib_params": {
+    "RMS_error": 0.0,
+    "camera_matrix": [],
+    "distortion_coeffs": [],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "",
+  "date": "2026-11-13",
+  "compatible_settings": []
+}

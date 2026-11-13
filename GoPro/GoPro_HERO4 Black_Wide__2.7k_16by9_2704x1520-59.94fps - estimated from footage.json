@@ -1,0 +1,68 @@
+{
+  "name": "GoPro_HERO4 Black_Wide__2.7k_16by9_2704x1520-59.94fps - estimated from footage",
+  "note": "Estimated from ordinary footage, not from a calibration chart: bundle adjustment of point tracks with a rolling-shutter model (3 clips), then checked against 72 more clips of this mode (46 within tolerance) and by eye on 3 stabilized clips. Lens in air. Rolling-shutter readout time estimated the same way.",
+  "calibrated_by": "Anton Belkin",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO4 Black",
+  "lens_model": "Wide",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "orig_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "output_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "frame_readout_time": 16.9,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 0,
+  "fps": 59.94,
+  "official": false,
+  "use_opencv_fisheye": true,
+  "fisheye_params": {
+    "RMS_error": 0.0,
+    "camera_matrix": [
+      [
+        1248.7426265752647,
+        0.0,
+        1329.2587441262206
+      ],
+      [
+        0.0,
+        1249.9799047266126,
+        772.7389653021492
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.0507958764656039,
+      0.0077741478005301096,
+      0.005027772413276338,
+      -0.004508767360711312
+    ],
+    "radial_distortion_limit": null
+  },
+  "use_opencv_standard": false,
+  "calib_params": {
+    "RMS_error": 0.0,
+    "camera_matrix": [],
+    "distortion_coeffs": [],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "",
+  "date": "2026-11-13",
+  "compatible_settings": [],
+  "frame_readout_direction": "TopToBottom"
+}

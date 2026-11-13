@@ -1,0 +1,68 @@
+{
+  "name": "GoPro_HERO4 Black_Medium__2.7k_16by9_2704x1520-59.94fps - estimated from footage",
+  "note": "Estimated from ordinary footage, not from a calibration chart: bundle adjustment of point tracks with a rolling-shutter model (3 clips), then checked against 27 more clips of this mode (10 within tolerance) and by eye on 3 stabilized clips. Lens in air. Medium FOV at 2.7K is a 1:1 sensor crop. Rolling-shutter readout time estimated the same way.",
+  "calibrated_by": "Anton Belkin",
+  "camera_brand": "GoPro",
+  "camera_model": "HERO4 Black",
+  "lens_model": "Medium",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "orig_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "output_dimension": {
+    "w": 2704,
+    "h": 1520
+  },
+  "frame_readout_time": 11.7,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 0,
+  "fps": 59.94,
+  "official": false,
+  "use_opencv_fisheye": true,
+  "fisheye_params": {
+    "RMS_error": 0.0,
+    "camera_matrix": [
+      [
+        1763.4484909213422,
+        0.0,
+        1320.2012197942959
+      ],
+      [
+        0.0,
+        1780.7564426600122,
+        793.7401523472296
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.03688089609300349,
+      0.0855818445970767,
+      -0.14228242771072547,
+      0.08753282568248422
+    ],
+    "radial_distortion_limit": null
+  },
+  "use_opencv_standard": false,
+  "calib_params": {
+    "RMS_error": 0.0,
+    "camera_matrix": [],
+    "distortion_coeffs": [],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "",
+  "date": "2026-11-13",
+  "compatible_settings": [],
+  "frame_readout_direction": "TopToBottom"
+}
